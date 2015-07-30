@@ -30,8 +30,8 @@
 </head>
 
 <body>
-    <!--
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -40,30 +40,31 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Project name</a>
+                <a class="navbar-brand" href="#">Cochise Linux</a>
             </div>
-            <div id="navbar" class="collapse navbar-collapse">
+            <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Home</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li><a href="#calendar">Calendar</a></li>
                 </ul>
             </div>
-            <!--/.nav-collapse --
+            <!--/.nav-collapse -->
         </div>
     </nav>
--->
-    <div class="container body-pad-top center">
 
-        <div class="jumbotron">
-            <h1> Welcome to CLUG</h1>
-            <p class="lead">A place for Cochise County Arizona Linux Users</p>
-        </div>
+    <img src="img/clug_banner_1-compressor.jpg" class="img-responsive" alt="Responsive image">
+
+    <div class="container center">
+        <h1 id="about"> Welcome to CLUG</h1>
+        <p class="lead">A place for Cochise County Arizona Linux Users</p>
+
         <h2>We dont have much yet</h2>
         <p>But we do have a Chat Room! You can jump right in and chat below.</p>
         <p>Or you can use your IRC client and join us on the FreeNode Network at #Cochiselinux.</p>
-
-        <div id="scrollback-container"></div>
+        <iframe id="contact" class="chat-container" src="http://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
+        <!--<div id="scrollback-container"></div>-->
         <p>More To Come!</p>
     </div>
     <!-- /.container -->
@@ -76,7 +77,7 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
-
+    <!--
     <script>
         window.scrollback = {
             "room": "cochiselinuxusersgroup",
@@ -89,8 +90,8 @@
             e.src = (location.protocol === "https:" ? "https:" : "http:") + "//scrollback.io/client.min.js";
             d.getElementsByTagName(s)[0].parentNode.appendChild(e);
         }(document, "script"));
-
     </script>
+-->
 
 </body>
 
