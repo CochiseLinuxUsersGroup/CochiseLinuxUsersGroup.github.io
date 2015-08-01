@@ -65,16 +65,6 @@
         <p>Or you can use your IRC client and join us on the FreeNode Network at #Cochiselinux.</p>
         <iframe id="contact" class="chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
         <!--<div id="scrollback-container"></div>-->
-        <h2>Mailing List Info</h2>
-        <p>MajB now has admin on the old 'Cochiselinux.org' mailing list.
-        <br>To stay up to date with the revival of Cochise Linux User Group you can
-        <br>subscribe to the mailing list. (Information Below)</p>
-        <p>You can subscribe to the mailing list by:
-        <br>1. Sending email to <b>cochiselinux-request@freelists.org</b>
-        <br>2. Put <b>'subscribe'</b> in the Subject field.
-        <i>You will receive an email to confirm your subscription</i>
-        <br>3. Reply to that email leaving the message body intact.
-        <i>You will then be subcribed to the mailing list.</i></p>
         <p>More To Come!</p>
     </div>
     <!-- /.container -->
