@@ -7,10 +7,34 @@
   |   --| . |  _|   | |_ -| -_|  |  |__| |   | | |_'_|
   |_____|___|___|_|_|_|___|___|  |_____|_|_|_|___|_,_|
 
-  Version A place for Cochise County Arizona Linux Users
+        A place for Cochise County Arizona Linux Users
   
                          Jake <hippyjake@gmail.com>
-  
+                         Paul <paulbsocal@gmail.com>
+                         Rex <majb@azloco.com>
+                /||\
+                ||||
+                ||||
+                |||| /|\
+           /|\  |||| |||
+           |||  |||| |||
+           |||  |||| |||
+           |||  |||| d||
+           |||  |||||||/
+           ||b._||||~~'
+           \||||||||
+            `~~~||||
+                ||||
+                ||||
+~~~~~~~~~~~~~~~~||||~~~~~~~~~~~~~~
+  \/..__..--  . |||| \/  .  ..
+\/         \/ \/    \/
+        .  \/              \/    .
+. \/             .   \/     .
+   __...--..__..__       .     \/
+\/  .   .    \/     \/    __..--..
+unknown
+
 -->
 
 <head>
@@ -41,8 +65,8 @@
     <![endif]-->
 </head>
 
-<body>
-
+<body data-spy="scroll" data-target="#navbar-example">
+<!--
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -54,18 +78,18 @@
                 </button>
                 <a class="navbar-brand">Cochise Linux</a>
             </div>
-            <div id="navbar" class="navbar-collapse collapse">
+            <div id="navbar-example" class="navbar-collapse collapse" role="tablist">
                 <ul class="nav navbar-nav">
                     <li><a href="#">Top</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <!--<li><a href="#calendar">Calendar</a></li>-->
+                    <!--<li><a href="#calendar">Calendar</a></li>--
                 </ul>
             </div>
-            <!--/.nav-collapse -->
+            <!--/.nav-collapse --
         </div>
     </nav>
-
+-->
     <img src="img/clug_banner_1-compressor.jpg" class="img-responsive" alt="CLUG Banner">
 
     <div class="container center">
@@ -76,7 +100,7 @@
         <p>But we do have a Chat Room! You can jump right in and chat below.</p>
         <p>Or you can use your IRC client and join us on the FreeNode Network at #Cochiselinux.</p>
         <iframe class="well chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
-        <!--<div id="scrollback-container"></div>-->
+        <!--<div class="well chat-container"></div>-->
         <!-- /.container -->
     </div>
     <div id="contact" class="container">
@@ -131,7 +155,27 @@
         }(document, "script"));
     </script>
 -->
+    <script>
 
+        $body.scrollspy({
+            target: '#navbar-example',
+            offset: 400px
+        });
+
+        /* smooth scrolling sections */
+        $('ul#navbar-example > li > a[href*=#]:not([href=#])').click(function () {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top - 60
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    </script>
 </body>
 
 </html>
