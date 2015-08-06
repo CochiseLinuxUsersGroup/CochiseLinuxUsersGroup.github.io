@@ -63,7 +63,7 @@ unknown
 </head>
 
 <body data-spy="scroll" data-target="#navbar-example">
-<!--
+    <!--
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -91,16 +91,27 @@ unknown
 
     <div class="container center">
         <h1 id="about"> Welcome to CLUG</h1>
-        <p class="lead">A place for Cochise County Arizona Linux Users</p>
-
-        <h2>We dont have much yet</h2>
-        <p>But we do have a Chat Room! You can jump right in and chat below.</p>
-        <p>Or you can use your IRC client and join us on the FreeNode Network at #Cochiselinux.</p>
-        <iframe class="well chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
-        <!--<div class="well chat-container"></div>-->
-        <!-- /.container -->
+        <p class="lead">We are a volunteer non-profit organization of Linux users from Cochise County, Arizona. Our goals are to provide a platform for Linux users to talk with other Linux users about their problems and questions, to attend presentations from other members as well as outside vendors about Free and Open Source Software, and to have a place where they can increase their education to enable them to obtain a better job or increase the efficiency of their own organization.</p>
     </div>
+
     <div id="contact" class="container">
+        <hr>
+        <!--<h2>join us on the FreeNode Network at #Cochiselinux.</h2>
+        <!--<iframe class="well chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
+        <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
+        <div class="row">
+            <div class="col-md-8">
+                <h3>Join us on the FreeNode Network at #Cochiselinux</h3>
+                <iframe class="well chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
+                <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
+            </div>
+            <div class="col-md-4">
+                <h3>Events</h3>
+                <iframe class="well chat-container" src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fp9et4ecr2c131rth7ftvfua1g%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FPhoenix" scrolling="no"></iframe>
+                <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
+            </div>
+        </div>
+
         <div class="panel panel-info">
             <div class="panel-heading">
                 <h5>Mailing List Info</h5></div>
@@ -123,12 +134,13 @@ unknown
                 </div>
             </div>
         </div>
-        <!-- /.container -->
+        <!-- /.panel -->
     </div>
+
     <footer class="footer">
-      <div class="container">
-        <p class="text-muted">CLUG+Members&#8211;2015</p>
-      </div>
+        <div class="container">
+            <p class="text-muted">CLUG&#8211;Members&#8211;2015</p>
+        </div>
     </footer>
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -153,14 +165,13 @@ unknown
     </script>
 -->
     <script>
-
         $body.scrollspy({
             target: '#navbar-example',
-            offset: 400px
+            offset: 400 px
         });
 
         /* smooth scrolling sections */
-        $('ul#navbar-example > li > a[href*=#]:not([href=#])').click(function () {
+        $('ul#navbar-example > li > a[href*=#]:not([href=#])').click(function() {
             if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
                 var target = $(this.hash);
                 target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
@@ -172,6 +183,7 @@ unknown
                 }
             }
         });
+
     </script>
 </body>
 
