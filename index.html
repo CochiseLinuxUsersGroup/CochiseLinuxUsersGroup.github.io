@@ -50,7 +50,7 @@ unknown
 
     <!-- Custom styles for this template -->
     <link href="css/main.min.css" rel="stylesheet">
-
+    <link href="css/scrolling-nav.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <!--<script src="../../assets/js/ie-emulation-modes-warning.js"></script>-->
@@ -62,61 +62,61 @@ unknown
     <![endif]-->
 </head>
 
-<body data-spy="scroll" data-target="#navbar-example">
-    <!--
-    <nav class="navbar navbar-default navbar-fixed-top">
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand">Cochise Linux</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Cochise Linux</a>
             </div>
-            <div id="navbar-example" class="navbar-collapse collapse" role="tablist">
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Top</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <!--<li><a href="#calendar">Calendar</a></li>--
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a class="page-scroll" href="#page-top"></a>
+                    </li>
+                    <li><a class="page-scroll" href="#contact">Mailing List</a></li>
+                    <li><a href="project.html">Projects</a></li>
+                    <li><a href="chat.html">Chat</a></li>
                 </ul>
             </div>
-            <!--/.nav-collapse --
+            <!-- /.navbar-collapse -->
         </div>
+        <!-- /.container -->
     </nav>
--->
+
     <img src="img/clug_banner_1-compressor.jpg" class="img-responsive" alt="CLUG Banner">
 
-    <div class="container center">
-        <h1 id="about"> Welcome to CLUG</h1>
+    <div id="about" class="container section center">
+        <h1> Welcome to CLUG</h1>
         <p class="lead">We are a volunteer non-profit organization of Linux users from Cochise County, Arizona. Our goals are to provide a platform for Linux users to talk with other Linux users about their problems and questions, to attend presentations from other members as well as outside vendors about Free and Open Source Software, and to have a place where they can increase their education to enable them to obtain a better job or increase the efficiency of their own organization.</p>
     </div>
 
-    <div id="contact" class="container">
+    <div class="container">
         <hr>
-        <div class="well">
-            <p> <a href="project.html">Check Out Our Projects Page</a> </p>
-        </div>
-        <!--<h2>join us on the FreeNode Network at #Cochiselinux.</h2>
-        <!--<iframe class="well chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
-        <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
+
         <div class="row">
-            <div class="col-md-9">
-                <h3>Join us on the FreeNode Network at #Cochiselinux</h3>
-                <iframe class="well chat-container" src="https://webchat.freenode.net?randomnick=1&channels=%23Cochiselinux&prompt=1"></iframe>
-                <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
-            </div>
             <div class="col-md-3">
                 <h3>Events</h3>
                 <iframe class="chat-container" src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fp9et4ecr2c131rth7ftvfua1g%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
                 <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
             </div>
+            <div class="col-md-9">
+                <h3>Location Of Next Event</h3>
+                <iframe class="well chat-container" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.4248048377344!2d-110.24546149999999!3d31.567396700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d728d0cde01bb5%3A0xd42f3129cd410c49!2sUniversity+of+Arizona+South!5e0!3m2!1sen!2sus!4v1438974873034" style="border:0" allowfullscreen></iframe>
+                <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
+            </div>
         </div>
-        <h3>Location Of Next Event</h3>
-        <iframe class="well chat-container" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.4248048377344!2d-110.24546149999999!3d31.567396700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d728d0cde01bb5%3A0xd42f3129cd410c49!2sUniversity+of+Arizona+South!5e0!3m2!1sen!2sus!4v1438974873034" style="border:0" allowfullscreen></iframe>
-        <div class="panel panel-default">
+        <div id="contact" class="panel panel-default">
             <div class="panel-heading">
                 <h5>Mailing List Info</h5></div>
             <div class="panel-body">
@@ -151,31 +151,9 @@ unknown
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
-    <!--
-    <script>
-        $body.scrollspy({
-            target: '#navbar-example',
-            offset: 400 px
-        });
+    <script src="js/scrolling-nav.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
 
-        /* smooth scrolling sections */
-        $('ul#navbar-example > li > a[href*=#]:not([href=#])').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html,body').animate({
-                        scrollTop: target.offset().top - 60
-                    }, 1000);
-                    return false;
-                }
-            }
-        });
-
-    </script>
--->
 </body>
 
 </html>

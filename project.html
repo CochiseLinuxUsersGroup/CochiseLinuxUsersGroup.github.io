@@ -50,7 +50,7 @@ unknown
 
     <!-- Custom styles for this template -->
     <link href="css/main.min.css" rel="stylesheet">
-
+    <link href="css/scrolling-nav.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <!--<script src="../../assets/js/ie-emulation-modes-warning.js"></script>-->
@@ -62,31 +62,37 @@ unknown
     <![endif]-->
 </head>
 
-<body data-spy="scroll" data-target="#navbar-example">
-    <!--
-    <nav class="navbar navbar-default navbar-fixed-top">
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand">Cochise Linux</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Cochise Linux</a>
             </div>
-            <div id="navbar-example" class="navbar-collapse collapse" role="tablist">
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Top</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <!--<li><a href="#calendar">Calendar</a></li>--
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a class="page-scroll" href="#page-top"></a>
+                    </li>
+                    <li><a class="page-scroll" href="#contact">Mailing List</a></li>
+                    <li><a href="project.html">Projects</a></li>
+                    <li><a href="chat.html">Chat</a></li>
                 </ul>
             </div>
-            <!--/.nav-collapse --
+            <!-- /.navbar-collapse -->
         </div>
+        <!-- /.container -->
     </nav>
--->
     <img src="img/clug_banner_1-compressor.jpg" class="img-responsive" alt="CLUG Banner">
 
     <div class="container center">
@@ -94,7 +100,7 @@ unknown
         <p class="lead">This is a community project page. Share, Learn, Contribute!</p>
     </div>
 
-    <div id="ircbot" class="container">
+    <div class="container">
         <hr>
         <div class="row">
             <div class="col-md-9">
@@ -125,6 +131,29 @@ unknown
                 <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
             </div>
         </div>
+        <div id="contact" class="panel panel-default">
+            <div class="panel-heading">
+                <h5>Mailing List Info</h5></div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="lead">Stay up to date with the revival of Cochise Linux User Group.
+                            <br>MajB now has admin on the old 'Cochiselinux.org' mailing list.
+                            <mark>Subscribe to get the latest news.</mark>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="lead">You can subscribe to the mailing list by:</p>
+                        <ol>
+                            <li>Sending email to <a href="mailto:cochiselinux-request@freelists.org?subject=subscribe">cochiselinux-request@freelists.org</a><b></b></li>
+                            <li>Put <b>'subscribe'</b> in the Subject field. <i>You will receive an email to confirm your subscription</i></li>
+                            <li>Reply to that email leaving the message body intact. <i>You will then be subscribed to the mailing list.</i></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.panel -->
     </div>
     <footer class="footer">
         <div class="container">
@@ -136,31 +165,9 @@ unknown
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
-    <!--
-    <script>
-        $body.scrollspy({
-            target: '#navbar-example',
-            offset: 400 px
-        });
+    <script src="js/scrolling-nav.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
 
-        /* smooth scrolling sections */
-        $('ul#navbar-example > li > a[href*=#]:not([href=#])').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html,body').animate({
-                        scrollTop: target.offset().top - 60
-                    }, 1000);
-                    return false;
-                }
-            }
-        });
-
-    </script>
--->
 </body>
 
 </html>
