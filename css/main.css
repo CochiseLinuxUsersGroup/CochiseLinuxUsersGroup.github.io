@@ -50,7 +50,7 @@ h6,
     margin: 20px 0;
 }
 .navbar {
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, .5);
     border: transparent;
 }
 .navbar-default .navbar-brand,
@@ -58,8 +58,12 @@ h6,
     color: #fff;
 }
 .navbar-default .navbar-toggle {
-    border-color: rgba(0,0,0,.3);
+    border-color: rgba(0, 0, 0, .3);
 }
 .navbar-collapse {
     border-color: #282828;
+}
+.no-banner-section {
+    margin-top: 10vh;
+    margin-bottom: 5vh;
 }
