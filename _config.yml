@@ -1,0 +1,28 @@
+# Site settings
+title: CochiseLinux
+email: https://cochiselinuxusersgroup.github.io/
+description: > # this means to ignore newlines until "baseurl:"
+  We are a volunteer non-profit organization of Linux users from Cochise County,
+  Arizona. Our goals are to provide a platform for Linux users to talk with other
+  Linux users about their problems and questions, to attend presentations from
+  other members as well as outside vendors about Free and Open Source Software,
+  and to have a place where they can increase their education to enable them to
+  obtain a better job or increase the efficiency of their own organization.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cochiselinuxusersgroup.github.io" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /blog/:title/
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+  - vendor
