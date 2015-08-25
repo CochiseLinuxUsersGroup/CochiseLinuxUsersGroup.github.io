@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no-banner
 title: Projects
 permalink: /projects/
 ---
