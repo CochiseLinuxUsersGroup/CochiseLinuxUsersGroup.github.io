@@ -1,19 +1,25 @@
 ---
-layout: default
-image: /img/clug_banner_1-compressor.jpg
+layout: page
+post-image: /img/clug_banner_1-compressor.jpg
 ---
-<img src="{{ " img/clug_banner_1-compressor.jpg " | prepend: site.baseurl }}" class="img-responsive" alt="CLUG Banner">
-<div class="home container">
-    <div id="about" class="section center jumbotron">
-        <h1> Welcome to CLUG</h1>
-        <p class="lead">We are a volunteer non-profit organization of Linux users from Cochise County, Arizona. Our goals are to provide a platform for Linux users to talk with other Linux users about their problems and questions, to attend presentations from other members as well as outside vendors about Free and Open Source Software, and to have a place where they can increase their education to enable them to obtain a better job or increase the efficiency of their own organization.</p>
-    </div>
-    <h2 class="page-heading">News</h2>
-    <div class="post-list">
-        {% for post in site.posts %}
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h3> {{ post.excerpt }}
-        <hr/> {% endfor %}
-    </div>
-    <p class="rss-subscribe">Subscribe to our news <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
+<div id="about" class="section center jumbotron">
+    <h1> Welcome to CLUG</h1>
+    <p class="lead">{{ site.description }}</p>
+</div>
 
+<div class="row">
+    <div class="col-md-9">
+        <h2 class="page-heading">News</h2>
+        <div class="post-list">
+            {% for post in site.posts %}
+            <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h3> {{ post.excerpt }}
+            <hr/> {% endfor %}
+        </div>
+        <p class="rss-subscribe">Subscribe to our news <a href="{{ /feed.xml | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
+    <div class="col-md-3">
+        <h3>Events</h3>
+        <iframe class="chat-container" src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fp9et4ecr2c131rth7ftvfua1g%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <!--<div class="well chat-container"><p>Place Holder box for iframes</p></div>-->
+    </div>
 </div>
