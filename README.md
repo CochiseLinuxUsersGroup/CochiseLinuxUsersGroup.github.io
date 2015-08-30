@@ -82,7 +82,7 @@ and
 
 [bundler]: http://bundler.io/
 
-[inotify]: https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers "Increasing-the-amount-of-inotify-watchers"
+[inotify]: https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers
 
 [Markdown-gh]: https://guides.github.com/features/mastering-markdown/
 
