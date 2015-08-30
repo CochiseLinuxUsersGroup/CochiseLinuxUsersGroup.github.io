@@ -13,4 +13,3 @@ A plan was formed and set in to motion. And the first CLUG Meeting was held. But
 - - -
 
 Join our Mailing List, come chat in IRC and Have FUN!
-

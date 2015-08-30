@@ -7,3 +7,6 @@ categories: Test
 ---
 So I can test the post thing
 
+{% include events.html %}
+
+Its easy to include parts from the _includes DIR
