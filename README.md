@@ -78,12 +78,12 @@ and
 
 ***
 
-[jekyll]: http://jekyllrb.com "jekyll"
+[jekyll]: http://jekyllrb.com
 
-[bundler]: http://bundler.io/ "bundler"
+[bundler]: http://bundler.io/
 
 [inotify]: https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers "Increasing-the-amount-of-inotify-watchers"
 
-[Markdown-gh]: https://guides.github.com/features/mastering-markdown/ "github"
+[Markdown-gh]: https://guides.github.com/features/mastering-markdown/
 
-[Markdown]: http://daringfireball.net/projects/markdown "Markdown"
+[Markdown]: http://daringfireball.net/projects/markdown
