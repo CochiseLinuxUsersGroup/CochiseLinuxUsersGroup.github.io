@@ -62,7 +62,7 @@ git checkout jekyll
 After That we can run the helper scripts (No Root Needed!) thanks to @paulbe!
 
 ```bash
-./build #will do all of the ditry work of installing and serving the site
+./install #will do all of the ditry work of installing and serving the site
 ```
 ```bash
 ./clug #will aid you in creating new Pages and Posts
