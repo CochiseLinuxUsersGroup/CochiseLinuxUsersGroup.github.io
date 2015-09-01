@@ -13,5 +13,5 @@ post-image: /img/clug_banner_1-compressor.jpg
     <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h3> {{ post.excerpt }}
     <hr/> {% endfor %}
 </div>
-<p class="rss-subscribe">Subscribe to our news <a href="{{ /feed.xml | prepend: site.baseurl }}">via RSS</a></p>
+<p class="rss-subscribe">Subscribe to our news <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
     {% include events.html %}

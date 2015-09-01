@@ -16,6 +16,7 @@ url: "https://cochiselinuxusersgroup.github.io" # the base hostname & protocol f
 markdown: kramdown
 highlighter: pygments
 permalink: /blog/:title/
+timezone: America/Phoenix
 
 exclude:
   - CNAME
@@ -26,3 +27,5 @@ exclude:
   - .sass-cache
   - Gemfile.lock
   - vendor
+  - clug.py
+  - install.sh

@@ -3,7 +3,7 @@
 > Site for the new Cochise Linux Users Group
 
 
-```html
+```
    _____         _   _            __    _ 
   |     |___ ___| |_|_|___ ___   |  |  |_|___ _ _ _ _ 
   |   --| . |  _|   | |_ -| -_|  |  |__| |   | | |_'_|
@@ -38,8 +38,6 @@ unknown
 Read this if you want to make a page/post, fix/break something. If it works local it should work on GH Pages
 ## Installation
 
-Installing Jekyll is easy and straight-forward, but there are a few requirements you’ll need to make sure your system has before you start.
-
 ### Requirements
 * Git
 * Ruby (including development headers) Will be in your distribution Repo.
@@ -51,6 +49,8 @@ After ruby is installed, you will need to install Bundler(See below). From [bund
 
 >Bundler is an exit from dependency hell, and ensures that the gems you need are present in development, staging, and production. Starting work on a project is as simple as bundle install.
 
+------------------------------------------------
+
 ## Run the Site Localy
 
 Run one line at a time
@@ -58,11 +58,17 @@ Run one line at a time
 git clone https://github.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io.git
 cd CochiseLinuxUsersGroup.github.io
 git checkout jekyll
-export PATH=~/.gem/ruby/2.2.0/bin:$PATH
-gem install bundler
-bundle install --path vendor/bundle
-bundle exec jekyll serve
 ```
+After That we can run the helper scripts (No Root Needed!) thanks to @paulbe!
+
+```bash
+./build #will do all of the ditry work of installing and serving the site
+```
+```bash
+./clug #will aid you in creating new Pages and Posts
+```
+
+# Help
 
 check https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers if you get an error.
 You will now have a local installation of Jekyll and jekyll will be serving the site on your computer.
