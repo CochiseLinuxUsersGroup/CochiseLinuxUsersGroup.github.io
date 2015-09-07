@@ -17,6 +17,7 @@ markdown: kramdown
 highlighter: pygments
 permalink: /blog/:title/
 timezone: America/Phoenix
+paginate: 2
 
 exclude:
   - CNAME

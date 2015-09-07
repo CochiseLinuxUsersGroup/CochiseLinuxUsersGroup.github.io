@@ -29,7 +29,9 @@ else
 	bundle install --path vendor/bundle
 	echo "${green}Statring Jekyll${reset}"
 fi
+echo "${green}Opening Browser Tab...${reset}"
 xdg-open http://0.0.0.0:4000 &
-echo "${red}You Will Need To Refresh Your Browser After The Server Starts${reset}"
+echo "${yellow}You Will Need To Refresh Your Browser After The Server Starts${reset}"
 bundle exec jekyll serve
-
+echo "Bye!"
+exit

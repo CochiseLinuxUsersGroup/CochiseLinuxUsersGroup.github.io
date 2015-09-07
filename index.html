@@ -9,9 +9,26 @@ post-image: /img/clug_banner_1-compressor.jpg
 
 <h2 class="page-heading">News</h2>
 <div class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h3> {{ post.excerpt }}
     <hr/> {% endfor %}
 </div>
 <p class="rss-subscribe">Subscribe to our news <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-    {% include events.html %}
+
+<!-- Pagination links -->
+<nav>
+  <ul class="pager">
+    <li>  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">New</a>
+  {% else %}
+    <span class="previous">New</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Previous</a>
+  {% else %}
+    <span class="next ">Previous</span>
+  {% endif %}</li>
+  </ul>
+</nav>
+{% include events.html %}
