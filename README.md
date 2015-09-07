@@ -3,7 +3,7 @@
 > Site for the new Cochise Linux Users Group
 
 
-```
+```html
    _____         _   _            __    _ 
   |     |___ ___| |_|_|___ ___   |  |  |_|___ _ _ _ _ 
   |   --| . |  _|   | |_ -| -_|  |  |__| |   | | |_'_|
@@ -62,7 +62,7 @@ git checkout jekyll
 After That we can run the helper scripts (No Root Needed!) thanks to @paulbe!
 
 ```bash
-./install #will do all of the ditry work of installing and serving the site
+./install.sh #will do all of the ditry work of installing and serving the site
 ```
 ```bash
 ./clug #will aid you in creating new Pages and Posts
