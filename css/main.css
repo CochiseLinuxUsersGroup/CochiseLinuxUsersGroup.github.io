@@ -69,3 +69,11 @@ h6 {
 .post-banner-section {
 background: #151515
 }
+
+.padding-bottom {
+    margin-bottom: 20px;
+}
+@media (max-width: 767px)
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #FFF;
+}

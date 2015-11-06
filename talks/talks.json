@@ -4,8 +4,7 @@
 		"type": "easy",
 		"name": "Desktop apps",
 		"url": "http://github.com/",
-		"date": "2015-11-06",
-		"country": "in",
+		"date": "2015-12-06",
 		"city": "Sierra Vista, Arizona"
 	}, {
 		"title": "The Missing Slice",
@@ -384,5 +383,19 @@
 		"city": "Microsoft Innovation Center, Athens, Greece",
 		"slides": "http://www.slideshare.net/LeaVerou/colors-in-css3",
 		"comment": "The slides from my presentation were featured in SlideShare and many other websites"
+	}, {
+		"name": "Face",
+		"title": "Why so ugly?",
+		"date": "2015-09-11",
+		"url": "",
+		"country": "us",
+		"city": "Sierra Vista, AZ"
+	}, {
+		"name": "Cats",
+		"title": "Do they Like Boots",
+		"date": "2016-12-09",
+		"url": "",
+		"country": "us",
+		"city": "Sierra Vista, AZ"
 	}
 ]

@@ -120,6 +120,6 @@ if choice in {'6', 'Run Test Environment'}:
 	os.system("bash install.sh")
 
 if choice in {'7', 'Update Test Environment'}:
-	os.system("bundle update")
+	os.system("export PATH=~/.gem/ruby/*/bin:$PATH && bundle update")
 
 

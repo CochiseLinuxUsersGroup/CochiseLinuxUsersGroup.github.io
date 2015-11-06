@@ -15,9 +15,12 @@ url: "https://cochiselinuxusersgroup.github.io" # the base hostname & protocol f
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: /blog/:title/
+permalink: /Blog/:title/
 timezone: America/Phoenix
-paginate: 2
+paginate: 5
+
+gems:
+  - jekyll-feed
 
 exclude:
   - CNAME
@@ -30,3 +33,4 @@ exclude:
   - vendor
   - clug.py
   - install.sh
+  - test.py

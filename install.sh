@@ -7,8 +7,13 @@ green=`tput setaf 2`
 yellow=`tput setaf 3`
 reset=`tput sgr0`
 
+echo "${green} _____ __    _____ _____"
+echo "|     |  |  |  |  |   __|"
+echo "|   --|  |__|  |  |  |  |"
+echo "|_____|_____|_____|_____|${reset}"
+
 echo "${yellow}Exporting path${reset}"
-export PATH=~/.gem/ruby/2.2.0/bin:$PATH
+export PATH=~/.gem/ruby/*/bin:$PATH
 
 echo "${yellow}Checking Dependencies${reset}"
 if [ -f ~/.gem/ruby/2.2.0/bin/bundler ]
@@ -22,16 +27,20 @@ fi
 echo "${yellow}Checking Dependencies${reset}"
 if [ -d vendor ]
 then
-	echo "${green}Found vendor folder
-Statring Jekyll${reset}"
+	echo "${green}Found vendor folder${reset}"
 else
 	echo "${red}Installing Dependencies${reset}"
-	bundle install --path vendor/bundle
-	echo "${green}Statring Jekyll${reset}"
+	bundle install --path vendor
 fi
+
 echo "${green}Opening Browser Tab...${reset}"
+
 xdg-open http://0.0.0.0:4000 &
+
 echo "${yellow}You Will Need To Refresh Your Browser After The Server Starts${reset}"
+echo "${green}Statring Jekyll${reset}"
+notify-send "Starting Server"
 bundle exec jekyll serve
+
 echo "Bye!"
 exit
