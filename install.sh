@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 
 #colors
@@ -16,12 +16,12 @@ echo "${yellow}Exporting path${reset}"
 export PATH=~/.gem/ruby/*/bin:$PATH
 
 echo "${yellow}Checking Dependencies${reset}"
-if [ -f ~/.gem/ruby/2.2.0/bin/bundler ]
+if [ -f ~/.gem/ruby/*/bin/bundler ]
 then
 	echo "${green}Found Bundler${reset}"
 else
 	echo "${red}Installing Bundler${reset}"
-	gem install bundler
+	gem install bundler --user-install
 fi
 
 echo "${yellow}Checking Dependencies${reset}"
