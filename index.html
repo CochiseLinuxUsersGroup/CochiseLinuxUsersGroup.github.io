@@ -1,35 +1,176 @@
 ---
-layout: page
-post-image: /img/clug_banner_1-compressor.jpg
----
-<div id="about" class="section center jumbotron">
-    <h1> Welcome to CLUG</h1>
-    <p class="lead">{{ site.description }}</p>
-</div>
+layout: landing-page
+---		
+		<!-- Main -->
+			<article id="main">
 
-<h2 class="page-heading">News</h2>
-<div class="post-list">
-    {% for post in paginator.posts %}
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a></h3> {{ post.excerpt }}
-    <hr/> {% endfor %}
-</div>
-<p class="rss-subscribe">Subscribe to our news <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+				<header class="special container">
+					<h2><strong>Welcome to Cochise Linux.</strong></h2>
+					
+					<br><p class="text-center">We are a volunteer non-profit organization 
+					of Linux users from Cochise County, Arizona. 
+					Our goals are to provide a platform for Linux users to talk 
+					with other Linux users about their problems and questions, 
+					to attend presentations from other members as well 
+					as outside vendors about Free and Open Source 
+					Software, and to have a place where they can increase 
+					their education to enable them to obtain a better 
+					job or increase the efficiency of their own organization.</p>
+				</header>
+					
+				<!-- One -->
+					<section class="wrapper style2 container special-alt">
+						<div class="row half">
+							<div class="8u">
+							
+								<header>
+									<h2>Monthly Meetings</h2>
+								</header>
+								<p>We hold two meetings per month where we give presentations and discuss / troubleshoot anyone's Linux questions.  Our meetings are (and always will be) free of any cost and open to the public, catering to any skill level or technology background.
+								<br><br>
+								Our presentations cover a variety of topics, from beginner to advanced (even specialized topics given by Linux professionals).
+								<br><br>
+								Check out our calendar for a list of upcoming meetings.</p>
+								<footer>
+									<ul class="buttons">
+										<li><a href="#" class="button">Upcoming Meetings</a></li>
+									</ul>
+								</footer>
+							
+							</div>
+							<div class="4u skel-cell-important">
+							
+								<ul class="featured-icons">
+									<li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
+									<li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
+									<li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
+									<li><span class="icon fa-inbox"><span class="label">Feature 4</span></span></li>
+									<li><span class="icon fa-lock"><span class="label">Feature 5</span></span></li>
+									<li><span class="icon fa-cog"><span class="label">Feature 6</span></span></li>
+								</ul>
+							
+							</div>				
+						</div>
+					</section>
+					
+				<!-- Two -->
+					<section class="wrapper style1 container special">
+						<h2><strong>Our Goals</strong></h2>
+						<div class="row">
+							<div class="4u">
+							
+								<section>
+									<span class="icon featured fa-check"></span>
+									<header>
+										<h3>Linux Awareness</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+								</section>
+							
+							</div>
+							<div class="4u">
+							
+								<section>
+									<span class="icon featured fa-check"></span>
+									<header>
+										<h3>Linux Support</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+								</section>
+							
+							</div>
+							<div class="4u">
+							
+								<section>
+									<span class="icon featured fa-check"></span>
+									<header>
+										<h3>Linux Education</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+								</section>
+							
+							</div>
+						</div>
+					</section>
+					
+				<!-- Three -->
+					<section class="wrapper style3 container special">
+					
+						<header class="major">
+							<h2>How to get involved.</h2>
+						</header>
+						
+						<div class="row">
+							<div class="6u">
+							
+								<section>
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<header>
+										<h3>The Meetings</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
 
-<!-- Pagination links -->
-<nav>
-  <ul class="pager">
-    <li>  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">New</a>
-  {% else %}
-    <span class="previous">New</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Previous</a>
-  {% else %}
-    <span class="next ">Previous</span>
-  {% endif %}</li>
-  </ul>
-</nav>
-{% include events.html %}
-{% include Mailing-info.html %}
+							</div>
+							<div class="6u">
+							
+								<section>
+									<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+									<header>
+										<h3>Mailing List</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="6u">
+							
+								<section>
+									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<header>
+										<h3>IRC</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
+
+							</div>
+							<div class="6u">
+							
+								<section>
+									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<header>
+										<h3>Google Plus Community</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
+
+							</div>
+						</div>
+
+						<footer class="major">
+							<ul class="buttons">
+								<li><a href="#" class="button">See More</a></li>
+							</ul>
+						</footer>
+					
+					</section>
+					
+			</article>
+
+		<!-- CTA -->
+			<section id="cta">
+			
+				<header>
+					<h2>Member Projects</h2>
+					<h3>Get involved or start a project today!</h3>
+				</header>
+				<footer>
+					<ul class="buttons">
+						<li><a href="#" class="button special">Take My Money</a></li>
+						<li><a href="#" class="button">LOL Wut</a></li>
+					</ul>
+				</footer>
+			
+			</section>
