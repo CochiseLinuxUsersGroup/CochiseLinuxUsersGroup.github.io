@@ -744,6 +744,17 @@
     margin-left: 3em;
 }
 
+/* Member */
+.member-next {
+	float: right;
+	margin-right: 3em;
+}
+
+.member-prev {
+	float: left;
+	margin-left: 3em;
+}
+
 /* Dropotron */
 
 	.dropotron {
