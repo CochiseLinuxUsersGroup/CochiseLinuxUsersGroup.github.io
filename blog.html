@@ -3,14 +3,13 @@ layout: default
 ---
 
 <article id="main">
-    <header class="special container">
-        <span class="icon fa-mobile"></span>
-        <h2>My <strong>Blog</strong></h2>
+    <header class="special style2 container">
+        <h2><strong>CLUG Meetings</strong></h2>
     </header>
-    <section class="wrapper style4 container">
+    <section class="wrapper style1 container">
         <ul class="posts">
           {% for post in site.posts %}
-            <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
+            <li class="wrapper {% if forloop.first %} style2 {% else %} style2 {% endif %}">
               <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 {{ post.excerpt }}
                 <section class="special">
