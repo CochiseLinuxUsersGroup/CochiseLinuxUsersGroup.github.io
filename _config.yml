@@ -12,3 +12,18 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+  - vendor
+  - clug.py
+  - install.sh
+  - test.py

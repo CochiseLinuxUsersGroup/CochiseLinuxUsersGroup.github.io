@@ -14,29 +14,29 @@ echo "|_____|_____|_____|_____|${reset}"
 
 echo "${yellow}Exporting path${reset}"
 
-rversion=`ruby --version | awk {'print substr($2, 0, 3)'}`
+rversion=`ruby --version | awk {'print substr($2, 0, 5)'}`
 case "$rversion" in
 	
-	2.2)
-	echo "2.2.0 path set"
-	export PATH=~/.gem/ruby/2.2.0/bin:$PATH
+	$rversion)
+	echo "${yellow}Setting path For${reset}${green} $rversion${reset}"
+	export PATH=~/.gem/ruby/$rversion/bin:$PATH
 	;;
-	1.9)
-	echo "1.9 path set"
-	export PATH=~/.gem/ruby/1.9.0/bin:$PATH
+	$rversion)
+	echo "$rversion path set"
+	export PATH=~/.gem/ruby/$rversion/bin:$PATH
 	;;
 	*)
-	echo {$rversion}
+	echo $rversion
 	;;
 
 esac
 
 echo "${yellow}Checking Dependencies${reset}"
-if [ -f ~/.gem/ruby/2.2.0/bin/bundler ]
+if [ -f ~/.gem/ruby/$rversion/bin/bundler ]
 	then
 	echo "${green}Found Bundler${reset}"
 
-elif [ -f ~/.gem/ruby/1.9.0/bin/bundler ]
+elif [ -f ~/.gem/ruby/$rversion/bin/bundler ]
 	then
 	echo "${green}Found Bundler${reset}"
 
@@ -61,7 +61,14 @@ xdg-open http://0.0.0.0:4000 &
 
 echo "${yellow}You Will Need To Refresh Your Browser After The Server Starts${reset}"
 echo "${green}Statring Jekyll${reset}"
-notify-send "Starting Server"
-bundle exec jekyll serve
+
+bundle exec jekyll serve 
+
+#jekyll=$! if jekyll is forked to the background this grabs the pid
+#kill $jekyll This kill the grabbed pid
+#trap '{ echo " Time to quit." 'kill $jekyll' }' Its a TRAP
+
+
+echo ""
 echo "Bye!"
 exit
