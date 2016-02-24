@@ -26,7 +26,7 @@ exclude:
   - vendor
   - clug.py
   - install.sh
-  - tester.py
+  - tester.sh
   - contact.html
   - no-sidebar.html
   - left-sidebar.html
