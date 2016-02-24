@@ -5,3 +5,5 @@ _site/
 .bundle/
 Gemfile.lock
 vendor
+.stfolder
+.stversions/
