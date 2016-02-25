@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "CLUG Meet and Eat"
-date:   2015-12-05
-categories: Meeting
+published: false
 ---
 ###Location: Sierra Vista Public Library
  
