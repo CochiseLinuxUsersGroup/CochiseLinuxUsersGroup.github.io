@@ -30,7 +30,7 @@ layout: post
 
 # **Louie Garcia** - Admin
 
-*IRC Nick**:  nuggyg  
+*IRC Nick*:  nuggyg  
 *Bio*: Louie Garcia aka nuggyg. A fairly new linux user who is in it for the security.Has a firefighting back and has a famous quote "I'm just a blue collar guy training for a white collar job!"
 *Contact*:  **[twitter](https://twitter.com/nuggy_g) || [google+](https://plus.google.com/u/0/107489447128690285761)**
 
