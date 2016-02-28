@@ -6,9 +6,10 @@ categories: Meeting
 ---
 ### Location: Schlotzky's - 3900 Fry Blvd. Sierra Vista, AZ 85635
  
-### Date: Thursday, November 19th 2015 
+### Date: Thursday, November 19th 2015
 
-### Meeting Notes:  
+### Meeting Notes:
+
 1.  7 people attended (1 new person)
 2.  Discussed advantages of  AZLOCO and CLUG membership
 3.  Discussed various desktop environments available in Linux operating systems

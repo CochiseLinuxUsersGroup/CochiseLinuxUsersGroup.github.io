@@ -8,18 +8,16 @@ categories: Meeting
  
 ### Date: Wednesday, December 16th, 2015
 
-### Meeting Notes:  
+### Meeting Notes:
 COCHISE LINUX USER GROUP MEETING 16 DECEMBER 2015 MINUTES
 
 The seventh meeting of the CLUG was held at the University of Arizona, Sierra Vista campus, room C165A North on 16 December 2015 at 1700-1800. Seven people attended the meeting. (One new person.)
 
-UPCOMING EVENTS:
+**Upcoming events**:
 
-17 December – Ubuntu Hour at Schlotzsky's Cafe at 1800-1900 hosted by Rex Bouwense.
-
-13 January – CLUG meeting at the University of Arizona, Sierra Vista campus, room C165A North at 1700-1800. There will be a presentation on GIT by Paul Bernard.
-
-23 January – CLUG meeting at the Sierra Vista public library conference room at 1400-1545. There will be a presentation on web site creation by Jake Strechek.
+* 17 December – Ubuntu Hour at Schlotzsky's Cafe at 1800-1900 hosted by Rex Bouwense.
+* 13 January – CLUG meeting at the University of Arizona, Sierra Vista campus, room C165A North at 1700-1800. There will be a presentation on GIT by Paul Bernard.
+* 23 January – CLUG meeting at the Sierra Vista public library conference room at 1400-1545. There will be a presentation on web site creation by Jake Strechek.
 
 DOWN THE ROAD:
 
