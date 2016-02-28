@@ -40,7 +40,7 @@ She is the grandmother of Devi and Louie and takes them to the meetings as well 
 
 ## Placeholder for Meskes
 
-aka meskes
+aka meskes  
 Here is some words they'll write
 
 _****This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
