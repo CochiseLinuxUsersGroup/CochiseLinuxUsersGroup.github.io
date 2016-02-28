@@ -34,4 +34,8 @@ aka nuggyg
 Louie Garcia aka nuggyg. A fairly new linux user who is in it for the security.Has a firefighting back and has a famous quote "I'm just a blue collar guy training for a white collar job!"
   **[twitter](https://twitter.com/nuggy_g) || [google+](https://plus.google.com/u/0/107489447128690285761)**
 
+##  Rose Leonard - Grandma
+
+She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.  
+
 _****This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
