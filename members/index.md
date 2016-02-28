@@ -4,43 +4,43 @@ layout: post
 
 ## **CLUG Members**
 
-# Rex Bouwense - Co-Founder.
+# **Rex Bouwense** - Co-Founder.
 
-**IRC Nick**:  MajB  
-**Bio**: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu Arizona Local Community (Mar 2014) Preferred Linux distribution - Lubuntu  
-**Contact**:   **[email](mailto:majb@azloco.com)**
+*IRC Nick*:  MajB  
+*Bio*: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu Arizona Local Community (Mar 2014) Preferred Linux distribution - Lubuntu  
+*Contact*:   **[email](mailto:majb@azloco.com)**
 
-# Jake Strichek - Co-Founder.
+# **Jake Strichek** - Co-Founder.
 
-**IRC/IRL Nick**: hippyjake  
-**Bio**: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.  
-**Contact**:  **[email](mailto:hippyjake@gmail.com)**
+*IRC/IRL Nick*: hippyjake  
+*Bio*: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.  
+*Contact*:  **[email](mailto:hippyjake@gmail.com)**
 
-# Paul Bernard - Co-Founder.
+# **Paul Bernard** - Co-Founder.
 
-**IRC Nick**:  paul_be  
-**Bio**: Long time Linux user and technology nerd. Speaks Bash, Python, and English. Prefered Linux distributions include Arch Linux and Linux Mint.  
-**Contact**: **[twitter](https://twitter.com/paul_ber) || [google+](https://plus.google.com/+PaulBernard87) || [email](mailto:paulbsocal@gmail.com)**
+*IRC Nick*:  paul_be  
+*Bio*: Long time Linux user and technology nerd. Speaks Bash, Python, and English. Prefered Linux distributions include Arch Linux and Linux Mint.  
+*Contact*: **[twitter](https://twitter.com/paul_ber) || [google+](https://plus.google.com/+PaulBernard87) || [email](mailto:paulbsocal@gmail.com)**
 
-# Devi Garcia - Admin
+# **Devi Garcia** - Admin
 
-**IRC Nick**:  Deoxizn  
-**Bio**: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. preferred linux distros are Antergos, Linux Mint and currently testing Ubuntu with Cinnamon... Self taught in some web launguages such as css, html and some php.  
-**Contact**:  **[twitter](https://twitter.com/z0mbiexx) || [google+](https://plus.google.com/u/0/114554287269046116654 ) || [email](mailto:asphyxiated.god@gmail.com)**
+*IRC Nick*:  Deoxizn  
+*Bio*: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. preferred linux distros are Antergos, Linux Mint and currently testing Ubuntu with Cinnamon... Self taught in some web launguages such as css, html and some php.  
+*Contact*:  **[twitter](https://twitter.com/z0mbiexx) || [google+](https://plus.google.com/u/0/114554287269046116654 ) || [email](mailto:asphyxiated.god@gmail.com)**
 
-# Louie Garcia - Admin
+# **Louie Garcia** - Admin
 
-**IRC Nick**:  nuggyg  
-**Bio**: Louie Garcia aka nuggyg. A fairly new linux user who is in it for the security.Has a firefighting back and has a famous quote "I'm just a blue collar guy training for a white collar job!"
-**Contact**:  **[twitter](https://twitter.com/nuggy_g) || [google+](https://plus.google.com/u/0/107489447128690285761)**
+*IRC Nick**:  nuggyg  
+*Bio*: Louie Garcia aka nuggyg. A fairly new linux user who is in it for the security.Has a firefighting back and has a famous quote "I'm just a blue collar guy training for a white collar job!"
+*Contact*:  **[twitter](https://twitter.com/nuggy_g) || [google+](https://plus.google.com/u/0/107489447128690285761)**
 
-# Rose Leonard - Grandma
+# **Rose Leonard** - Grandma
 
-**Bio**: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.  
+*Bio*: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.  
 
-# Placeholder for Meskes
+# **Placeholder for Meskes**
 
-**IRC Nick**:  meskes  
-**Bio**: Here is some words they'll write
+*IRC Nick*:  meskes  
+*Bio*: Here is some words they'll write
 
 _****This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
