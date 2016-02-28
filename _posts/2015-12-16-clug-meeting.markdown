@@ -4,11 +4,11 @@ title:  "CLUG Meeting"
 date:   2015-12-16
 categories: Meeting
 ---
-###Location: University of Arizona, South
+### Location: University of Arizona, South
  
-###Date: Wednesday, December 16th, 2015
+### Date: Wednesday, December 16th, 2015
 
-###Meeting Notes:  
+### Meeting Notes:  
 COCHISE LINUX USER GROUP MEETING 16 DECEMBER 2015 MINUTES
 
 The seventh meeting of the CLUG was held at the University of Arizona, Sierra Vista campus, room C165A North on 16 December 2015 at 1700-1800. Seven people attended the meeting. (One new person.)

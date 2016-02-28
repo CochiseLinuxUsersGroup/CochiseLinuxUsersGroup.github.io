@@ -4,11 +4,11 @@ title:  "CLUG Meet and Eat"
 date:   2015-12-05
 categories: Meeting
 ---
-###Location: Sierra Vista Public Library
+### Location: Sierra Vista Public Library
  
-###Date: Saturday, December 5th 2015
+### Date: Saturday, December 5th 2015
 
-###Meeting Notes:  
+### Meeting Notes:  
 For those of you that were unable to attend the 05 December Cochise Linux User Group meeting, here are the minutes of the meeting.
 
 The sixth meeting of the Cochise Linux User Group was held at the Sierra Vista public library conference room from 1400-1545. Nine people attended the meeting ( two new people). Paul Bernard introduced the new web site http://cochiselinux.com and the its sub-sections. Please check it out. It was created and is maintained by Jake Strechek and Paul.
