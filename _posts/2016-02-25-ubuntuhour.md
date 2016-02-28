@@ -10,7 +10,7 @@ categories: meeting
 
 ###Meeting Notes:
 
-**Attendies**: 6  
+**Attendies**: 6
   
 **Upcoming Events**:  
 Up­coming events:  
