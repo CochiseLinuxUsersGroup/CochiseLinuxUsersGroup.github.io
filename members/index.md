@@ -38,7 +38,7 @@ layout: post
 
 *Bio*: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.  
 
-# **Matt Eskes**
+# **Matt Eskes** - Member  
 
 *IRC Nick*:  meskes  
 *Bio*:  Matt began his journey into the world of Free and Open Source 
