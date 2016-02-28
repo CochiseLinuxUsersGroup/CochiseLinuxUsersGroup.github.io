@@ -25,7 +25,7 @@ Long time Linux user and technology nerd. Speaks Bash, Python, and English. Pref
 ## Devi Garcia - Member (early)
 
 aka Deoxizn  
-Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. preferred linux distros are Antergos, Linux Mint and would like to try out Mageia again...
+Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. preferred linux distros are Antergos, Linux Mint and currently testing Ubuntu with Cinnamon... Self taught in some web launguages such as css, html and some php.
 **[twitter](https://twitter.com/z0mbiexx) || [google+](https://plus.google.com/u/0/114554287269046116654 )**
 
 ## Louie Garcia - Member (early)
