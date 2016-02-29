@@ -6,9 +6,9 @@ categories: Meeting
 ---
 ### Location: Schlotzky's - 3900 Fry Blvd. Sierra Vista, AZ 85635
  
-### Date: Thursday, December 17th 2015 
+### Date: Thursday, December 17th 2015
 
-### Meeting Notes:  
+### Meeting Notes:
 Sierra Vista Ubuntu Hour 17 December 2015
 
 Schlotzsky's Cafe, 3900 East Fry Blvd
