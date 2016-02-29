@@ -1,0 +1,6 @@
+{
+    "brackets-file-tree-exclude.excludeList": [
+        "/vendor/",
+        "/_site/"
+    ]
+}
