@@ -1,17 +1,28 @@
 # Site settings
 title: CLUG
-email: your-email@domain.com
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are a volunteer non-profit organization of Linux users from Cochise County,
+  Arizona. Our goals are to provide a platform for Linux users to talk with other
+  Linux users about their problems and questions, to attend presentations from
+  other members as well as outside vendors about Free and Open Source Software,
+  and to have a place where they can increase their education to enable them to
+  obtain a better job or increase the efficiency of their own organization.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://locahost:4000" # the base hostname & protocol for your site
+url: "https://cochiselinux.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  CochiseLinuxUsersGroup
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+#permalink: /Blog/:title/
+timezone: America/Phoenix
+paginate: 5
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
 
 
 
