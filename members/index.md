@@ -56,7 +56,7 @@ layout: post
   
 Ubuntu — He worked with the “Bug Squad” where he would help track down bugs in the Beta releases of the OS, reported on them, and helped reproduce the particular issues, in order to help the package maintainers fix bugs. He was also a member of the Ubuntu Arizona Team LoCo for two years, which helps expose users to the Free and Open Source Software community.
   
-Fedora — He was is the former package maintainer for Fingerprint GUI, which was a package that controlled the the fingerprint scanner on the Sony Viao line of computers. He worked with the maintainer of the Debian/Ubuntu package to help insure the consistency of the package between both distributions. He also helped the Fedora security team detect and work on SELinux, a Linux Security Module Framework which helps harden the kernel against exploitation and execution of arbitrary code, in order achieve superuser permissions on the targeted system.
+Fedora — He is the former package maintainer for Fingerprint GUI, which was a package that controlled the the fingerprint scanner on the Sony Viao line of computers. He worked with the maintainer of the Debian/Ubuntu package to help insure the consistency of the package between both distributions. He also helped the Fedora security team detect and work on SELinux, a Linux Security Module Framework which helps harden the kernel against exploitation and execution of arbitrary code, in order achieve superuser permissions on the targeted system.
   
 Other distributions of note that he’s worked with are:
   
