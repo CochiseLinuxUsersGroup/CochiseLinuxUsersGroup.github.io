@@ -15,7 +15,7 @@ github_username:  CochiseLinuxUsersGroup
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 #permalink: /Blog/:title/
 timezone: America/Phoenix
 paginate: 5
