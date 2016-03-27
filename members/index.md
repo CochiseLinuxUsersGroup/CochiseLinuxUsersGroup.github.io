@@ -34,7 +34,7 @@ layout: post
 
 *Bio*: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. preferred linux distros are Antergos, Linux Mint and currently testing Ubuntu with Cinnamon... Self taught in some web launguages such as css, html and some php.
 
-*Contact*:  **[twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
+*Contact*:  **[Website](http://z0mbiexx.github.io) &brvbr; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
 
 # **Louie Garcia** - Admin
 
