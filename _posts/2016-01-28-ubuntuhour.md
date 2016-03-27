@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ubuntu Hour 1-28"
+title:  "Ubuntu Hour"
 date:   2016-01-28
 categories: meeting
 ---
