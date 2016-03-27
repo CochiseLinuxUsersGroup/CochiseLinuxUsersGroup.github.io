@@ -9,7 +9,6 @@ categories: meeting
 ### Date: Thursday, January 28th 2016  
 
 ### Meeting Notes:  
-1800-1900  
 
 7 attendees  
   

@@ -4,18 +4,18 @@ title:  "Ubuntu Hour"
 date:   2016-02-25
 categories: meeting
 ---
-### Location: Scholtzsky's Cafe, 3900 Fry Blvd
+### Location: Schlotzsky's Cafe, 3900 Fry Blvd
 
 ### Date: Thursday, Febuary 25th 2016
 
 ### Meeting Notes:
 
-**Attendies**: 6
+**Attendees**: 6
   
 **Upcoming Events**:
 
 * 27 February, CLUG meeting, 1400-1545 at the SV Public Library conference room.
-* 09 March, CLUG meeting, 1700-1800 at the University of Arizona, Sierra Vista campu s, room B159.
+* 09 March, CLUG meeting, 1700-1800 at the University of Arizona, Sierra Vista campus, room B159.
 * 24 March, Sierra Vista Ubuntu Hour, 1800-1900 at Schlotzsky's Cafe. Hosted by Rex Bouwense.
   
 **Linux news**:

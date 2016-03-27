@@ -9,11 +9,6 @@ categories: Meeting
 ### Date: Thursday, December 17th 2015
 
 ### Meeting Notes:
-Sierra Vista Ubuntu Hour 17 December 2015
-
-Schlotzsky's Cafe, 3900 East Fry Blvd
-
-1800-1900
 
 2 attendees
 
