@@ -23,6 +23,7 @@ Mint 17.3 Cinnamon (both 32 and 64 bit) hacked on 20 Feb 16. If you downloaded t
 The Mint forum is back up and they recommend that you change your password.
   
 **Discussion**:
-There were two lectures yesterday (24 February) co-sponsored by UA South and IEEE, Congress and CyberSecurity (1130-1230) and Elections and Technology (1700-1800). The CyberSecurity lecture was spot on considering the Apple vs. FBI conflict that is going on now. The Elections and Technology discussed Gerrymandering of districts to make 400-405 of the representative districts to be considered safe for one party or another so that there is no loyalty to the electorate but rather to the party.
-There was also some discussion on the installation of Ubuntu to a flash drive.
-The release party for Ubuntu 16.04 is scheduled for 14 May starting at 1500 in Chandler. As more details become available they will be released.
+
+ * There were two lectures yesterday (24 February) co-sponsored by UA South and IEEE, Congress and CyberSecurity (1130-1230) and Elections and Technology (1700-1800). The CyberSecurity lecture was spot on considering the Apple vs. FBI conflict that is going on now. The Elections and Technology discussed Gerrymandering of districts to make 400-405 of the representative districts to be considered safe for one party or another so that there is no loyalty to the electorate but rather to the party.
+ * There was also some discussion on the installation of Ubuntu to a flash drive.
+ * The release party for Ubuntu 16.04 is scheduled for 14 May starting at 1500 in Chandler. As more details become available they will be released.
