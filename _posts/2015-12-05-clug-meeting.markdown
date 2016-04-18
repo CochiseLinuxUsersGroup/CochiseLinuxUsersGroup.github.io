@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CLUG Meet and Eat"
+title:  "CLUG Meeting"
 date:   2015-12-05
 categories: Meeting
 ---
