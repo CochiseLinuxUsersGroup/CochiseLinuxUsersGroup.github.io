@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8th Clug Meeting"
+title:  "Clug Meeting"
 date:   2016-01-13
 categories: Meeting
 ---
