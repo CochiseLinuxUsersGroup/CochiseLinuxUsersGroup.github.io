@@ -4,7 +4,7 @@ layout: post
 
 ## **CLUG Members**
 
-# **Rex Bouwense** - Co-Founder.
+# **Rex Bouwense** - Co-Founder
 
 *IRC Nick*:  MajB
 
@@ -12,7 +12,7 @@ layout: post
 
 *Contact*:   **[email](mailto:majb@azloco.com)**
 
-# **Jake Strichek** - Co-Founder.
+# **Jake Strichek** - Co-Founder
 
 *IRC/IRL Nick*: hippyjake
 
@@ -20,7 +20,7 @@ layout: post
 
 *Contact*:  **[email](mailto:hippyjake@gmail.com)**
 
-# **Paul Bernard** - Co-Founder.
+# **Paul Bernard** - Co-Founder
 
 *IRC Nick*:  paul_be
 
@@ -48,26 +48,6 @@ layout: post
 
 *Bio*: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.
 
-# **Matt Eskes** - Member
-
-*IRC Nick*:  meskes
-
-*Bio*: Matt began his journey into the world of Free and Open Source Software shortly after Netscape opened the source code to Netscape Navigator, in 1998. His first distribution was Red Hat Linux 5.2, running Linux 2.0. Since then, he has used and/or contributed to various open source projects, including:
-  
-Ubuntu — He worked with the “Bug Squad” where he would help track down bugs in the Beta releases of the OS, reported on them, and helped reproduce the particular issues, in order to help the package maintainers fix bugs. He was also a member of the Ubuntu Arizona Team LoCo for two years, which helps expose users to the Free and Open Source Software community.
-  
-Fedora — He is the former package maintainer for Fingerprint GUI, which was a package that controlled the the fingerprint scanner on the Sony Viao line of computers. He worked with the maintainer of the Debian/Ubuntu package to help insure the consistency of the package between both distributions. He also helped the Fedora security team detect and work on SELinux, a Linux Security Module Framework which helps harden the kernel against exploitation and execution of arbitrary code, in order achieve superuser permissions on the targeted system.
-  
-Other distributions of note that he’s worked with are:
-  
-Gentoo Linux
-Debian GNU/Linux
-Mandrake Open Linux
-CyanogenMOD (Android)
-
-Since then, he’s made the move over to Mac OS X for his desktop systems, and he currently uses Red Hat Enterprise Linux on his servers as well as FreeBSD on the systems that he uses for his core networking services. 
-  
-Matt can be reached any time by email with questions and advice, by sending a self-addressed, stamped email
 
 *Contact*: **[email](mailto:matthew.t.eskes@gmail.com)**
  
