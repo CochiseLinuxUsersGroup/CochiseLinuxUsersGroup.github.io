@@ -48,7 +48,5 @@ layout: post
 
 *Bio*: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.
 
-
-*Contact*: **[email](mailto:matthew.t.eskes@gmail.com)**
  
 _****This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
