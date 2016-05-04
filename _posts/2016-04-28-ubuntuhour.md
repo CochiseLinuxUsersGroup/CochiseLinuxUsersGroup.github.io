@@ -24,7 +24,7 @@ catagories: meeting
  * 28 May, CLUG meeting, 1400-1545, Sierra Vista public library, conference room.
  
 **Discussion:**
-Ubuntu 16.04 has been released and there have been some problems creating a bootable USB flash drive for both the amd64 and
-i386 ISOs.  There are work-a-rounds available so check the forums,  http://ubuntuforums.org/ or 
-Ask Ubuntu http://askubuntu.co
-/questions
+
+ * Ubuntu 16.04 has been released and there have been some problems creating a bootable USB flash drive for both the amd64 and
+ i386 ISOs.  There are work-a-rounds available so check the forums,  http://ubuntuforums.org/ or 
+ Ask Ubuntu http://askubuntu.co/questions
