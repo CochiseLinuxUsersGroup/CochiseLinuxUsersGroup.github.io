@@ -1,5 +1,5 @@
 ---
-layout: "Ubuntu Hour"
+layout: "post"
 date: 2016-04-28
 catagories: meeting
 ---
