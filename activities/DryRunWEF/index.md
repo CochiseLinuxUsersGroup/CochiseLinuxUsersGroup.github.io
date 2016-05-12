@@ -2,7 +2,7 @@
 layout: post
 title: "Dry run of setup for West End Fair"
 date: 2016-04-09
-catagories: meetings
+catagories: activities
 ---
 ### Location: Sierra Vista Veterans Memorial Park
 
