@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dry run of setup for WEF (Pictures Inside)"
+title: "Dry run of setup for WEF"
 date: 2016-04-09
 catagories: meetings
 ---
