@@ -2,4 +2,4 @@
 layout: post
 ---
 
-<a href="/DryRunWEF">Dry Run for West End Fair</a>
+<a href="http://www.cochiselinux.com/activities/DryRunWEF">Dry Run for West End Fair</a>
