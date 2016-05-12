@@ -1,8 +1,7 @@
-
 ---
 layout: post
-title: "West End Fair"
-date: 2016-05-07
+title: "Dry run of setup for West End Fair"
+date: 2016-04-09
 catagories: activities
 ---
 
