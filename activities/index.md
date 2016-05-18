@@ -1,7 +1,17 @@
 ---
 layout: post
 ---
-05/07/2016: <a href="http://www.cochiselinux.com/activities/WestEndFair">The West End Fair (Pictures Inside)</a>
+
+    <section class="wrapper style1 container">
+        <ul class="posts">
+            <li class="wrapper {% if forloop.first %} style2 {% else %} style2 {% endif %}">
+              <h2><a href="http://www.cochiselinux.com/activities/WestEndFair">West End Fair [ 05/07/2016 ]</a></h2>
+                <section class="special">
+                    <ul class="buttons">
+                        <li><a href="http://www.cochiselinux.com/activities/WestEndFair" class="button">Read more</a></li>
+                    </ul></section>
+            </li>
+</ul>
 
 4/09/2016: <a href="http://www.cochiselinux.com/activities/DryRunWEF">Our dry run setup for the West End Fair  (Pictures Inside)</a>
 
