@@ -38,23 +38,23 @@ There were five attendees (one new individual)
 
   * We are looking for community projects to get our name in front of the public hopefully to increase our membership.
   
-     * Re-furbishing computers with Linux OS and donating them.  We already have one tower ready for a new home.  It only has 512 Mb of RAM, and an 80 Gb hard drive and has Lubuntu 14.04 installed but would make an excellent first computer for someone.  If we cannot find this one a home we may put this project on hold.
+     * 1. Re-furbishing computers with Linux OS and donating them.  We already have one tower ready for a new home.  It only has 512 Mb of RAM, and an 80 Gb hard drive and has Lubuntu 14.04 installed but would make an excellent first computer for someone.  If we cannot find this one a home we may put this project on hold.
     
-     * A slide show/presentation for high/middle school computer clubs.  A Group POC is needed to coordinate with the clubs.  Rex Bouwense already has the start of a presentation prepared.
+     * 2. A slide show/presentation for high/middle school computer clubs.  A Group POC is needed to coordinate with the clubs.  Rex Bouwense already has the start of a presentation prepared.
 
-     * Sierra Vista night Christmas Parade.  Louie Garcia has graciously volunteered to be the POC since he has this innate desire to dress up as a penguin.
+     * 3. Sierra Vista night Christmas Parade.  Louie Garcia has graciously volunteered to be the POC since he has this innate desire to dress up as a penguin.
     
   * Annual West End Fair after action report.  Rex Bouwense is assembling all documents that we used to get ready for the fair to place them in a folder on Google Docs to aid in next year's participation.  This will enable us to plan successfully without having to reinvent the stuff that we did this year.
   
-    * Get a street side site next year.
+    * 1. Get a street side site next year.
     
-    * Drop the coloring station
+    * 2. Drop the coloring station
     
-    * Study the possibility of adding monitors and computers and some kind of power supply to the display next year.  (David Goes)
+    * 3. Study the possibility of adding monitors and computers and some kind of power supply to the display next year.  (David Goes)
     
-    * Study the possibility of adding a black mesh to the sides of the canopy to cut down on the light inside.  This ideally will make the monitors easier to see.
+    * 4. Study the possibility of adding a black mesh to the sides of the canopy to cut down on the light inside.  This ideally will make the monitors easier to see.
     
-    * Add some magnets to the mesh to make ingress and egress easier.
+    * 5. Add some magnets to the mesh to make ingress and egress easier.
   
 
 
