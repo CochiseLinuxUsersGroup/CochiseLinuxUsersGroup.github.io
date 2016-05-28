@@ -38,11 +38,11 @@ There were five attendees (one new individual)
 
   * We are looking for community projects to get our name in front of the public hopefully to increase our membership.
   
-    * Re-furbishing computers with Linux OS and donating them.  We already have one tower ready for a new home.  It only has 512 Mb of RAM, and an 80 Gb hard drive and has Lubuntu 14.04 installed but would make an excellent first computer for someone.  If we cannot find this one a home we may put this project on hold.
+     * Re-furbishing computers with Linux OS and donating them.  We already have one tower ready for a new home.  It only has 512 Mb of RAM, and an 80 Gb hard drive and has Lubuntu 14.04 installed but would make an excellent first computer for someone.  If we cannot find this one a home we may put this project on hold.
     
-    * A slide show/presentation for high/middle school computer clubs.  A Group POC is needed to coordinate with the clubs.  Rex Bouwense already has the start of a presentation prepared.
+     * A slide show/presentation for high/middle school computer clubs.  A Group POC is needed to coordinate with the clubs.  Rex Bouwense already has the start of a presentation prepared.
 
-    * Sierra Vista night Christmas Parade.  Louie Garcia has graciously volunteered to be the POC since he has this innate desire to dress up as a penguin.
+     * Sierra Vista night Christmas Parade.  Louie Garcia has graciously volunteered to be the POC since he has this innate desire to dress up as a penguin.
     
   * Annual West End Fair after action report.  Rex Bouwense is assembling all documents that we used to get ready for the fair to place them in a folder on Google Docs to aid in next year's participation.  This will enable us to plan successfully without having to reinvent the stuff that we did this year.
   
