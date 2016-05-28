@@ -1,5 +1,6 @@
 ---
 layout: "post"
+title: "Ubuntu Hour"
 date: 2016-05-26
 catagories: meeting
 ---
