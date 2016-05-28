@@ -19,7 +19,7 @@ catagories: meetings
  
  **Other Information**
  
- * If you have a topic that you would like to present to the group or would like to see a topic presented please contact one of the administrators.
- * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We are welcome to attend.  Louie and I have attended two and I would like to get together another group to car pool up to Tempe.  We are exploring the possibility of holding an Install fest/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.  Todd Cole is looking at using a church meeting room with wifi and fixing or donating a computer as payment. Interesting idea.
- * Todd Cole has donated a desktop with Lubuntu already installed.  He wants us to find a home for it.
- * The presentation to high/middle school computer clubs is still without a POC.  If you would like to head this worthy  project, please notify any administrator.
+  * If you have a topic that you would like to present to the group or would like to see a topic presented please contact one of the administrators.
+  * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We are welcome to attend.  Louie and I have attended two and I would like to get together another group to car pool up to Tempe.  We are exploring the possibility of holding an Install fest/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.  Todd Cole is looking at using a church meeting room with wifi and fixing or donating a computer as payment. Interesting idea.
+  * Todd Cole has donated a desktop with Lubuntu already installed.  He wants us to find a home for it.
+  * The presentation to high/middle school computer clubs is still without a POC.  If you would like to head this worthy  project, please notify any administrator.
