@@ -13,19 +13,19 @@ catogories: meeting
 There were five attendees (one new individual)
 
 **Upcoming Events**
-<ul type="disc">
- <li> 14 May Ubuntu 16.04 LTS (Xenial Xerus) release party scheduled for 14 May from 1400 until ??.  The location is 5831 W. Kesler Street, Chandler.  It is more of a social event and the intent is to meet and greet although wifi will be available to install the new release should anyone want to do that.  The host for the event will be Mr & Mrs Walter Mack  (wmack on IRC).  Hamburger and hot dogs with appropriate condiments as well as soda will be provided.  If you plan to attend please RSVP to questions@azloco.com with a number attending and any side dish that you plan on bringing to assist in defraying the cost for our host.</li>
+
+ * 14 May Ubuntu 16.04 LTS (Xenial Xerus) release party scheduled for 14 May from 1400 until ??.  The location is 5831 W. Kesler Street, Chandler.  It is more of a social event and the intent is to meet and greet although wifi will be available to install the new release should anyone want to do that.  The host for the event will be Mr & Mrs Walter Mack  (wmack on IRC).  Hamburger and hot dogs with appropriate condiments as well as soda will be provided.  If you plan to attend please RSVP to questions@azloco.com with a number attending and any side dish that you plan on bringing to assist in defraying the cost for our host.
  
- <li>21 May AZLOCO/PLUG install-fest, UAT, 2625 W. Baseline, Tempe, 1000-1600.</li>
+ * 21 May AZLOCO/PLUG install-fest, UAT, 2625 W. Baseline, Tempe, 1000-1600.
  
- <li>26 May Ubuntu Hour, Schlotzsky's, 1800-1900</li>
+ * 26 May Ubuntu Hour, Schlotzsky's, 1800-1900
  
- <li>28 May CLUG meeting, Sierra Vista public library conference room, 1400-1545<li>
+ * 28 May CLUG meeting, Sierra Vista public library conference room, 1400-1545
  
- <li>04 June AZLOCO/PLUG install-fest, UAT, 2625 W. Baseline, Tempe, 1000-1600.</li>
+ * 04 June AZLOCO/PLUG install-fest, UAT, 2625 W. Baseline, Tempe, 1000-1600.
  
- <li>08 June CLUG meeting, UA South, room C165A, 1700-1800.</li>
-  </ul>
+ * 08 June CLUG meeting, UA South, room C165A, 1700-1800.
+  
  **Discussion**
 
   * Please give some thought to presentations that you would like to see given and those that you could do for the group.  They
