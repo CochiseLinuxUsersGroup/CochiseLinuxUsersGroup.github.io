@@ -10,6 +10,7 @@ title: Blog
     <section class="wrapper style1 container">
         <ul class="posts">
           {% for post in site.posts %}
+          {% include post.html item=post markdown=true %}
             <li class="wrapper {% if forloop.first %} style2 {% else %} style2 {% endif %}">
               <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 {{ post.excerpt }}
