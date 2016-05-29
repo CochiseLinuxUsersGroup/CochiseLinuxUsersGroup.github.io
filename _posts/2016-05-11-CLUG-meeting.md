@@ -58,4 +58,8 @@ There were five attendees (one new individual)
   
 
 
-
+{% if include.markdown %}
+    {{ include.item.content | markdownify }}
+  {% else %}  
+    {{ include.item.content }}
+  {% endif %}
