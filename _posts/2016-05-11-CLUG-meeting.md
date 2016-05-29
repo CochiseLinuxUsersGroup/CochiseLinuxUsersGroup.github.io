@@ -56,10 +56,3 @@ There were five attendees (one new individual)
     
     * Add some magnets to the mesh to make ingress and egress easier.
   
-
-
-{% if include.markdown %}
-    {{ include.item.content | markdownify }}
-  {% else %}  
-    {{ include.item.content }}
-  {% endif %}
