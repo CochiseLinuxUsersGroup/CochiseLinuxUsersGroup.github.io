@@ -22,13 +22,13 @@ catagories: meetings
  
  * 25 June CLUG meeting, 1400-1545 at Sierra Vista public library conference room, 2600 E. Tacoma, Sierra Vista.
  
- **Other Information:**
+**Other Information:**
  
-  * Please give some thought to presentations that you would like to see given and those that you could do for the group.  They can be on anything from a Linux operating system to your favorite FOSS.
+ * Please give some thought to presentations that you would like to see given and those that you could do for the group.  They can be on anything from a Linux operating system to your favorite FOSS.
   
-  * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We of course are welcome to attend.  Louie Garcia and Rex Bouwense have attended two of them and we would like to get together another group to car pool up to Tempe.  We are exploring the possibility of holding an Installation festival/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.
+ * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We of course are welcome to attend.  Louie Garcia and Rex Bouwense have attended two of them and we would like to get together another group to car pool up to Tempe.  We are exploring the possibility of holding an Installation festival/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.
   
-  * We are looking for community projects to get our name in front of the public hopefully to increase our membership.
+ * We are looking for community projects to get our name in front of the public hopefully to increase our membership.
    
    * Re-furbishing computers with Linux OS and donating them.  We already have one tower ready for a new home.  It only has 512 Mb of RAM, an 80 Gb hard drive and has Lubuntu 14.04 installed but would make an excellent first computer for someone.  If we cannot find this one a home we may put this project on hold.
    
