@@ -52,6 +52,7 @@ layout: post
 
 *Bio*: Linux user since 1999, solid in the terminal, self-taught basher, regular attendee at Google Community College, special power includes ability to fsck anything using electricity within a 4 block radius, whether he wants to or not.  On IRC, is the one with the weird linux-inside-joke nick. Does not do Windows.
 
+*Contact*:   **[email](mailto:hateno.hama@gmail.com)**
 
  
 _****This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
