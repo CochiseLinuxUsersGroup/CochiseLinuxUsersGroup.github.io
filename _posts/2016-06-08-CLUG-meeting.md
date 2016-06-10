@@ -29,6 +29,7 @@ There were eight attendees (one new individual, Todd Cole the AZLOCO Team Leader
  * Please give some thought to presentations that you would like to see given and those that you could do for the group.  They can be on anything from a Linux operating system to your favorite FOSS.
  
  * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We of course are welcome to attend.  Louie Garcia, David Garcia, David Gose, and Rex Bouwense have attended and we would like to get together another group to car pool up to Tempe.  We are exploring the possibility of holding an Installation festival/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.
+ 
  * Rex Bouwense recently approached Todd Cole, AZLOCO Team Leader, on having a Ubucon for the LUGs and computer clubs within the state of Arizona.  The obvious choice for a location would be the Phoenix metropolitan area because it has the most clubs and population.  He said that UAT then becomes a great ground location because it has a large meeting room that we could secure and the possibility of using the whole building.  Rex Bouwense is responsible for creating a strawman to determine the feasibility of this activity.
  
 **Community Projects**
@@ -45,6 +46,7 @@ There were eight attendees (one new individual, Todd Cole the AZLOCO Team Leader
    completed and returned to the committee.
    
 **Presentation**
+
  * Rex Bouwense gave a presentation on Ubuntu Arizona Local Community (AZLOCO)
 
  
