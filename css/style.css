@@ -625,9 +625,11 @@ input[type="reset"].small,
 #header nav ul li {
     display: inline-block;
     margin-left: 1.5em;
+    list-style-type: none;
 }
 #header nav ul li > ul {
     display: none;
+    list-style-type: none;
 }
 #header nav ul li a {
     border: solid 1px transparent;
@@ -636,6 +638,7 @@ input[type="reset"].small,
     line-height: 1em;
     padding: 0.6em 0.75em;
     text-decoration: none;
+    list-style-type: none;
 }
 #header nav ul li input[type="button"],
 #header nav ul li input[type="submit"],
@@ -644,6 +647,7 @@ input[type="reset"].small,
     font-size: 1em;
     min-width: 0;
     width: auto;
+    list-style-type: none;
 }
 #header nav ul li.submenu > a:before {
     -moz-osx-font-smoothing: grayscale;
@@ -652,10 +656,12 @@ input[type="reset"].small,
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
+    list-style-type: none;
 }
 #header nav ul li.submenu > a:before {
     content: '\f107';
     margin-right: 0.65em;
+    list-style-type: none;
 }
 #header nav ul li.active > a,
 #header nav ul li:hover > a {
@@ -665,6 +671,7 @@ input[type="reset"].small,
     -ms-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     background: rgba(188, 202, 206, 0.15);
+    list-style-type: none;
 }
 #header nav .cc-active {
     font-weight: 900;
