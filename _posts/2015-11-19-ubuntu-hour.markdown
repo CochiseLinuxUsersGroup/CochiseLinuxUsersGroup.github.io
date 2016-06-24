@@ -10,9 +10,9 @@ categories: Meeting
 
 ### Meeting Notes:
 
-1.  7 people attended (1 new person)
-2.  Discussed advantages of  AZLOCO and CLUG membership
-3.  Discussed various desktop environments available in Linux operating systems
-4.  Discussed future topics that should be discussed at the Ubuntu Hour
-5.  Discussed recommendations for a new inexpensive computer to load a Linux OS.  (included Chromebooks)
-6.  It was agreed that we do not want the Ubuntu Hour to be too structured.  It should be more of a time when people attending can discuss problems and have questions answered
+* 7 people attended (1 new person)
+* Discussed advantages of  AZLOCO and CLUG membership
+* Discussed various desktop environments available in Linux operating systems
+* Discussed future topics that should be discussed at the Ubuntu Hour
+* Discussed recommendations for a new inexpensive computer to load a Linux OS.  (included Chromebooks)
+* It was agreed that we do not want the Ubuntu Hour to be too structured.  It should be more of a time when people attending can discuss problems and have questions answered
