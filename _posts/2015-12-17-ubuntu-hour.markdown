@@ -12,8 +12,6 @@ categories: Meeting
 
 2 attendees
 
-Discussed the various ways to upgrade your Ubuntu operating system.
-
-Discussed upcoming events for CLUG and the SCaLE 14X at the Pasadina Conference Center
-
-Researched and discussed how to install and uninstall various desktop environments
+* Discussed the various ways to upgrade your Ubuntu operating system.
+* Discussed upcoming events for CLUG and the SCaLE 14X at the Pasadina Conference Center
+* Researched and discussed how to install and uninstall various desktop environments
