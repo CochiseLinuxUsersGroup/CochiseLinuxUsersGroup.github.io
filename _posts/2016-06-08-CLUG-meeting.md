@@ -2,7 +2,7 @@
 layout:  post
 title: "CLUG meeting 2016-06-08 minutes"
 date: 2016-06-08
-catogories: meeting
+categories: meeting
 ---
 ### Location: UA South, room C165A
 
