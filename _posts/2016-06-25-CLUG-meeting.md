@@ -19,11 +19,11 @@ categories: meeting
  
 **Other Information:**
 
- *Please give some thought to presentations that you would like to see given and those that you could do for the group.  They can be on anything from a Linux operating system to your favorite FOSS.  Chris has a presentation on his LAN that he wants to give.  
+ * Please give some thought to presentations that you would like to see given and those that you could do for the group.  They can be on anything from a Linux operating system to your favorite FOSS.  Chris has a presentation on his LAN that he wants to give.  
  * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We of course are welcome to attend.  Louie Garcia, David Garcia, David Gose, and Rex Bouwense have attended and we would like to get together another group to car pool up to Tempe on the 16th.  So far Rex, Greg, and Chris (tentative) are planning on going.  We are exploring the possibility of holding an Installation festival/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.
-  * Rex Bouwense has been approved as a Ubuntu member.
+ * Rex Bouwense has been approved as a Ubuntu member.
   
-  **Community Projects Update:**
+**Community Projects Update:**
 
  * Re-furbishing computers with Linux OS and donating them.  Officially on hold.
  * A slide show/presentation for high/middle school computer clubs.  A Group POC is still needed to coordinate with the club Rex Bouwense already has the start of a presentation prepared. 
