@@ -2,7 +2,7 @@
 layout: post
 title: "Clug Meeting"
 date: 2016-05-28
-catagories: meetings
+categories: meetings
 ---
 ### Location: Sierra Vista public library conference room, 2600 E. Tacoma St.
 
@@ -16,7 +16,7 @@ catagories: meetings
  * 08 June CLUG meeting, 1700-1800 at UA South, class room C165A.
  * 18 June AZLOCO/PLUG install-fest, 1000-1600 at UAT, 2625 W. Baseline Rd., Tempe.
  * 23 June Ubuntu Hour, 1800-1900 at Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
-  * 25 June CLUG meeting, 1400-1545 at Sierra Vista public library conference room, 2600 E. Tacoma, Sierra Vista.
+ * 25 June CLUG meeting, 1400-1545 at Sierra Vista public library conference room, 2600 E. Tacoma, Sierra Vista.
  
 **Other Information:**
  
