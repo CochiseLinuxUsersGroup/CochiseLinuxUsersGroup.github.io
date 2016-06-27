@@ -1,7 +1,7 @@
 ---
 layout: "post"
 date: 2016-04-28
-catagories: meeting
+categories: meeting
 ---
 
 ### Location: Schotzsky's Cafe, 3900 Fry Blvd.
