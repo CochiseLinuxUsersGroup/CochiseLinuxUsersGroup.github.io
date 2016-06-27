@@ -2,7 +2,7 @@
 layout: post
 title: "CLUG meeting"
 date: 2016-02-27
-catagories: meetings
+categories: meetings
 ---
 ### Location: Sierra Vista public library conference room, 2600 E. Tacoma St.
 
