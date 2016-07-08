@@ -11,6 +11,7 @@ categories: meeting
 ### Meeting Minutes:
 
 **Upcoming Events:**
+
  * 02 July AZLOCO/PLUG install-fest, 1000-1600 at UAT, 2625 W. Baseline Rd. Tempe.  CANCELED.
  * 13 July CLUG meeting, 1700-1800 at UA South, classroom C165A
  * 16 July AZLOCO/PLUG install-fest, 1000-1600, UAT, 2625 W. Baseline Rd, Tempe
