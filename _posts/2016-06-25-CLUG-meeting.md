@@ -4,7 +4,7 @@ title: "CLUG meeting 2016-06-25 minutes"
 date : 2016-06-25
 categories: meeting
 ---
-###Location: Sierra Vista public library conference room, 2600 E. Tacoma St.
+### Location: Sierra Vista public library conference room, 2600 E. Tacoma St.
 
 ### Date: Saturday, June 25th 2016
 
