@@ -2,14 +2,14 @@
 layout: post
 ---
 
-## ****CLUG Members****
+## **CLUG Members**
 
 - - -
 
-# ****Rex Bouwense**** - Co-Founder  
-****IRC Nick****:  MajB  
-****Bio****: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu Arizona Local Community (Mar 2014) Preferred Linux distribution - Lubuntu  
-****Contact****:   ****[email](mailto:majb@azloco.com)****
+# **Rex Bouwense** - Co-Founder  
+**IRC Nick**:  MajB  
+**Bio**: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu Arizona Local Community (Mar 2014) Preferred Linux distribution - Lubuntu  
+**Contact**:   **[email](mailto:majb@azloco.com)**
 
  - - -
  
