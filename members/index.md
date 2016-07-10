@@ -12,6 +12,8 @@ layout: post
 
 *Contact*:   **[email](mailto:majb@azloco.com)**
 
+***
+
 # **Jake Strichek** - Co-Founder
 
 *IRC/IRL Nick*: hippyjake
