@@ -12,7 +12,7 @@ layout: post
 
 *Contact*:   **[email](mailto:majb@azloco.com)**  
 ***  
-# **Jake Strichek** - Co-Founder
+**Jake Strichek** - Co-Founder
 
 *IRC/IRL Nick*: hippyjake  
 *Bio*: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.  
