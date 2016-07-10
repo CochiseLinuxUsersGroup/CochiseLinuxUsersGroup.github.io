@@ -14,8 +14,7 @@ layout: post
 ***
 # **Jake Strichek** - Co-Founder
 
-*IRC/IRL Nick*: hippyjake
-
+*IRC/IRL Nick*: hippyjake  
 *Bio*: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.  
 *Contact*:  **[Website](https://hippyjake.github.io/) &brvbar;  **[email](mailto:hippyjake@gmail.com)**
 ***
