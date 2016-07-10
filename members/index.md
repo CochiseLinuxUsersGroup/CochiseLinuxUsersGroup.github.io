@@ -16,8 +16,7 @@ layout: post
 
 *IRC/IRL Nick*: hippyjake
 
-*Bio*: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.
-
+*Bio*: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.  
 *Contact*:  **[Website](https://hippyjake.github.io/) &brvbar;  **[email](mailto:hippyjake@gmail.com)**
 ***
 # **Paul Bernard** - Co-Founder
