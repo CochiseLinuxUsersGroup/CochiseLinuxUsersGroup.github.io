@@ -1,10 +1,8 @@
 ---
 layout: post
+title: CLUG Members
 ---
 
-## **CLUG Members**
-
-- - -
 
 # **Rex Bouwense** - Co-Founder  
 **IRC Nick**:  MajB  
