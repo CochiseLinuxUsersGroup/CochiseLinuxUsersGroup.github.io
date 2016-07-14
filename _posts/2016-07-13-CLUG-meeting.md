@@ -31,7 +31,8 @@ There were eight attendees
 
  * A slide show/presentation for high/middle school computer clubs.  A Group POC is still needed to coordinate with the clubs. Rex Bouwense already has the start of a presentation prepared. 
  * Sierra Vista night Christmas Parade.  Louie Garcia is the Group POC.  No update at this time.
- 
+ * Chris Braswell stated that the Little League is looking for volunteers to run their concession stand.  More information later.
+
 **Presentation**
 
  * A presentation was given to the group by Chris Braswell on his Local Area Network and its components.
