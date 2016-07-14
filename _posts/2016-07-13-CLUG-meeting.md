@@ -24,8 +24,11 @@ There were eight attendees
  * Please give some thought to presentations that you would like to see given and those that you could do for the group.  They
    can be on anything from a Linux operating system to your favorite FOSS.  
  * Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  We of course are welcome to attend.  Louie Garcia, David Garcia, David Gose, and Rex Bouwense have attended at least one and we would like to get together another group to car pool up to Tempe on the 16th.  So far Rex and Greg are planning on going.  Departure time is 0700 on Saturday and expected return sometime between 2000 and 2100.  We are exploring the possibility of holding an Installation festival/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative and beneficial.
+ * Ubuntu15.10 Wily Werewolf will reach EOL on 29 July 2016.
+ * Mint 18 has been released in late June 2016.  It is a LTS release.
  
 **Community Projects**
+
  * A slide show/presentation for high/middle school computer clubs.  A Group POC is still needed to coordinate with the clubs. Rex Bouwense already has the start of a presentation prepared. 
  * Sierra Vista night Christmas Parade.  Louie Garcia is the Group POC.  No update at this time.
  
