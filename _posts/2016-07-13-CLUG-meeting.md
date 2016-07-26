@@ -6,7 +6,7 @@ categories: meeting
 ---
 ### Location: UA South, room C165A
 
-### Date: Wednesday, June 08, 2016
+### Date: Wednesday, July 13, 2016
 
 ### Meeting Minutes
 
