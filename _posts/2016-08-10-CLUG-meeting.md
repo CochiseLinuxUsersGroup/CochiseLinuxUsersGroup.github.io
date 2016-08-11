@@ -23,10 +23,12 @@ There were eight attendees
 
  * Three of our folks drove to Tucson on the 31st of July to attend an unofficial Tucson Free Unix Group meeting.  There were only four Tucson residents there and we gave them some tips and some CLUG and AZLOCO points of contact as well as our web sites and IRC channels.  They agreed to meet twice a month.  Not much was accomplished at the first meeting other than that.
  * Who has a presentation ready to give to the group?  Who has a subject that that they would like to see covered as a presentation?
+ 
   * Raspberry Pi. (Skyler Nix and Randy Britto).  Tentatively secheduled for the 27th of August.  This is the same presentation that they gave to the UA South a couple of months ago.
   * Gaming in a Linux World (David Garcia).  Currently no date scheduled.
   * Mathematics presentation.  Perhaps Joe Meditz would be willing to give one.
- *  Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  Five of our members have attended one.  We are exploring the possibility of holding an Install fest/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.  We need a project leader to head that up.  
+ *  Down the road – AZLOCO & PLUG co-sponsor an install-fest on the first & third Saturdays of each month.  Five of our members have attended one.  We are exploring the possibility of holding an Install fest/Linux Workshop here in Sierra Vista so to see how they run theirs would be informative.  We need a project leader to head that up.
+ 
   * Location (can be right next door, but let us look at other locations)
   * Manpower (roughly 6 to 10 individuals).  
   * Hours: 1000-1600.
