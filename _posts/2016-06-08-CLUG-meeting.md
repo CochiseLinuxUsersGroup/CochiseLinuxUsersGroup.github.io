@@ -31,7 +31,7 @@ There were eight attendees (one new individual, Todd Cole the AZLOCO Team Leader
  * We are looking for community projects to get our name in front of the public hopefully to increase our membership.
  * Re-furbishing computers with Linux OS and donating them.  Officially on hold.
  * A slide show/presentation for high/middle school computer clubs.  A Group POC is needed to coordinate with the clubs.  Rex Bouwense already has the start of a presentation prepared. 
-* Sierra Vista night Christmas Parade.  Louie Garcia has graciously volunteered to be the POC since he has this innate desire to dress up as a penguin.  No update at this time.
+ * Sierra Vista night Christmas Parade.  Louie Garcia has graciously volunteered to be the POC since he has this innate desire to dress up as a penguin.  No update at this time.
  * Annual West End Fair after action report is complete and available on Google Drive.  The final action a survey has been
    completed and returned to the committee.
    
