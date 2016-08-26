@@ -11,7 +11,7 @@ categories: meeting
 
 ### Meeting Notes:
 
-**Attendees:** 11
+**Attendees:** 9
 
 **Upcoming Events:**
 
