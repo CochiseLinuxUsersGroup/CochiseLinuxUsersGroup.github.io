@@ -32,5 +32,5 @@ categories: meeting
    * We will have to ensure that are own volunteers are fully trained in the installation of Linux in BIOS and UEFI and in the use of Gparted as well as the procedures for installing dual booting OS.  
    * It has been agreed that we should not attempt to install all Linux distributions but limit ourselves to only a few at least for this first install-fest. 
    * Backing up data from individuals computers will not be attempted.
-   *The location is not finalized but the library has the large meeting room which appears to be ideal.  Other locations will be evaluated as they are suggested.
+   * The location is not finalized but the library has the large meeting room which appears to be ideal.  Other locations will be evaluated as they are suggested.
  *  There was also a discussion on Gparted, what it's uses are and how to employ it.  
