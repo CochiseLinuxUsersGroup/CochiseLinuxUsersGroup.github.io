@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CLUG Meet and Eat"
+title:  "CLUG Meeting"
 date:   2015-12-05
 categories: Meeting
 ---
@@ -44,4 +44,3 @@ Presentation:
 Jake Strechek gave a presentation on Audio Production Under Linux.
 
 We closed the meeting and re-convened at Vinny's to enjoy some pizza and some good FOSS (and unrelated) conversation.
-Rex Bouwense
