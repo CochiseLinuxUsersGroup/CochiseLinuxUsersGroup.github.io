@@ -25,6 +25,7 @@ There were nine attendees
  
   * Gaming in a Linux World – David Garcia – TBD
   * Securing your personal computer and your personal LAN – TBD
+  * Using Virtual Machine - TBD
   
  * Sierra Vista Installation Festival
  
