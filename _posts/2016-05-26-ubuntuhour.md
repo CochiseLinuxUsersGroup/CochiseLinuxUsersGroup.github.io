@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Ubuntu Hour 2016-05-26 minutes"
+title: "Ubuntu Hour 2016-05-26"
 date: 2016-05-26
 categories: meeting
 ---
