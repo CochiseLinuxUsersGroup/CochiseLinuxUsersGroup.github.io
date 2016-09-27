@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLUG meeting"
+title: "CLUG meeting 2016-04-23"
 date: 2016-04-23
 categories: meetings
 ---
