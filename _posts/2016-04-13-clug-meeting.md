@@ -22,3 +22,6 @@ Members were once again asked to submit topics for presentations for future meet
 
 There was no presentation scheduled so we adjourned to Denny's for something to eat and some additional Linux/FOSS 
 conversation.
+
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG%20meeting%2001%2C%2014-09-16%20UA%20South%2C%20Sierra%20Vista%20AZ.JPG "4-13")
