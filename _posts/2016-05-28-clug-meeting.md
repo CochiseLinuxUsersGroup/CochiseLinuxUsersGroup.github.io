@@ -33,3 +33,9 @@ categories: meetings
   
  * Louie Garcia gave a short presentation on Python which is intended to be the first of several that he will be giving.
  We adjourned and reconvened at Native Grill and Wings for some refreshments and additional Linux conversation.
+ 
+ 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_28-05-16Library_1.JPG)
+
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_28-05-16Library-2.JPG)
