@@ -36,5 +36,7 @@ There were 10 attendees (3 new people) Passed out install disks, SWAG, and infor
  
 **Community projects update**
 
- * Presentation for high/middle school computer clubs - Chris Braswell, project manager 
+ * Presentation for high/middle school computer clubs - Chris Braswell, project manager
+ 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_22-10-16.JPG) 
  
