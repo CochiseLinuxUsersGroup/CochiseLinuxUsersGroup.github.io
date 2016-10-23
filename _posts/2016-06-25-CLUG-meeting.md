@@ -34,4 +34,10 @@ categories: meeting
 **Presentation**
 
  * A presentation was given to the group by Bruce Adamson on terminal commands.  It was well received because the attendees were actually inputing the information into their computers and could see the result.  Consensus was that we would like Bruce to continue this presentation and schedule a part II.
+ 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_1.JPG)
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_2.JPG)
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_3.JPG)
   
