@@ -18,8 +18,8 @@ categories: meeting
  * 01 November, Tucson Linux Meet Up, 2000-2100, Raging Sage, 2458 N. Campbell Avenue, Tucson.
  * 05 November, AZLOCO/PLUG installfest, 1000-1600, Gangplank, 260 S. Arizona Avenue, Chandler.
  * 09 November, CLUG meeting, 1700-1800, UA South, 1140 Colombo Ave. Sierra Vista.
+ * 17 November, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista. 
  * 19 November, AZLOCO/PLUG installfest, 1000-1600, UAT 2625 Baseline Road, Tempe.
- * 24 November, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista.
  * 26 November, CLUG meeting, 1400-1530, Sierra Vista public library conference room, 2600 E. Tacoma, Sierra Vista. 
  
 **Discussion**
