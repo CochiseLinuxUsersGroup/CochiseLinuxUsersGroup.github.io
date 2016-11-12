@@ -9,20 +9,6 @@ title: CLUG Members
 **Bio**: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu Arizona Local Community (Mar 2014) Preferred Linux distribution - Lubuntu  
 **Contact**:   **[email](mailto:majb@azloco.com)**
 
- - - -
- 
-# **Jake Strichek** - Co-Founder  
-**IRC/IRL Nick**: hippyjake  
-**Bio**: Likes CSS and HTML. Has been known to evangelize Markdown and Linux.  
-**Contact**:  **[Website](https://hippyjake.github.io/) &brvbar;  [email](mailto:hippyjake@gmail.com)**
-
-- - -
-
-# **Paul Bernard** - Co-Founder  
-**IRC Nick**:  paul_be  
-**Bio**: Long time Linux user and technology nerd. Speaks Bash, Python, and English. Prefered Linux distributions include Arch Linux and Linux Mint.  
-**Contact**: **[twitter](https://twitter.com/paul_ber) &brvbar; [google+](https://plus.google.com/+PaulBernard87) &brvbar; [email](mailto:paulbsocal@gmail.com)**
-
 - - -
 
 # **Devi Garcia** - Admin
@@ -44,11 +30,6 @@ title: CLUG Members
 # **Rose Leonard** - Grandma  
 **Bio**: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like shes paying attention.
 
-- - -
-
-# **Bruce Adamson** - New Member  
-**Bio**: Linux user since 1999, solid in the terminal, self-taught basher, regular attendee at Google Community College, special power includes ability to fsck anything using electricity within a 4 block radius, whether he wants to or not.  On IRC, is the one with the weird linux-inside-joke nick. Does not do Windows.  
-**Contact**:   **[email](mailto:hateno.hama@gmail.com)**
 
  
 _**This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
