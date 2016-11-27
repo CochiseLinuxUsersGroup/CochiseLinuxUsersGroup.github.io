@@ -16,7 +16,7 @@ There were 10 attendees
 
  * 03 December AZLOCO/PLUG install-fest, 1000-1600, UAT, 2625 W. Baseline Rd, Tempe
  * 14 December CLUG meeting, 1700-1800, UA South Learning Resource Center, Sierra Vista
- * 17 December AZLOCO/PLUG install-fest, 1000-1600, UAT, 2625 W. Baseline Rd, Tempe * 
+ * 17 December AZLOCO/PLUG install-fest, 1000-1600, UAT, 2625 W. Baseline Rd, Tempe 
  * 22 December Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista 
  * 24 December CLUG meeting CANCELLED
  
