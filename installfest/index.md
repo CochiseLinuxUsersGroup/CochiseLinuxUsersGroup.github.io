@@ -3,4 +3,4 @@ layout: default
 title: installfest
 ---
 
-![alt text](/images/installfest.jpg)
+![alt text](/images/installfest2.jpg)
