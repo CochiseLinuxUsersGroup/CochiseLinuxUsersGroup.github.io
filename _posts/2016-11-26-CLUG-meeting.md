@@ -36,11 +36,7 @@ There were 10 attendees
  * Dress rehearsal at the next CLUG meeting on 14 December (if needed)
  
 **Presentation**
- * Linux Gaming by David Garcia
- * https://www.reddit.com/r/linux_gaming/
- * http://store.steampowered.com/steamos
- * https://www.gog.com/  (DRM Free games)
- * http://www.humblebundle.com/  (DRM & DRM Free)
+ * Linux Gaming by David Garcia | <a href="https://github.com/CochiseLinuxUsersGroup/Presentations/blob/master/GaminginLinux/Linux%20Gaming.odp">Download odp here</a>
 
 **Discussion**
 
