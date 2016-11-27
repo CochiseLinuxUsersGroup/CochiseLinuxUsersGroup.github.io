@@ -4,7 +4,7 @@ title: installfest
 ---
 
 
-![alt text](https://i.stack.imgur.com/0BYg1.png)
+![alt text](http://rs337.pbsrc.com/albums/n371/karlos080/trans.gif~c200)
 
 
 ![alt text](/images/installfest2.jpg)
