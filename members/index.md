@@ -11,7 +11,7 @@ title: CLUG Members
 
 - - -
 
-# **Devi Garcia** - Admin
+# **Devi [David] Garcia** - Admin
 **Screenfetch**:  
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/screenfetch/Devi's%20Laptop.jpg "Laptop Screenfetch")  ![alt text](https://cdn.rawgit.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/screenfetch/desktop_screenfetch.png "Desktop Screenfetch")  
 **IRC Nick**:  Deoxizn  
@@ -32,4 +32,4 @@ title: CLUG Members
 
 
  
-_**This member list is opt in. Please contact Jake or Devi if you wish to be added.**_
+_**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
