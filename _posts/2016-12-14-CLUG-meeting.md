@@ -4,7 +4,7 @@ title: "CLUG meeting 2016-12-14"
 date: 2016-12-14
 categories: meeting
 ---
-### Location: UA South, Classroom B157
+### Location: UA South, Resource Learning Center
 
 ### Date: Wednesday, December 14, 2016
 
@@ -27,7 +27,7 @@ There were eight attendees
  * Confirmed location:  University of Arizona South, Resource Learning Center
  * Install media:  On Hand
  * Member Training:  One additional member training session will take place on 7 January at the University of Arizona Resource Learning Center, 1800-1900.
- *Brochures:  Distributed via email.  Additional brochures will be distributed beginning next month to public locations.
+ * Brochures:  Distributed via email.  Additional brochures will be distributed beginning next month to public locations.
  * Hold Harmless Agreements/Installer Questionnaires:  Printed and on hand
  * Event is already posted to the AZLOCO event portal and calendar.
  * AZLOCO personnel from the Phoenix area have been invited to attend and assist.  Todd Cole, Walter Mack, and Paul Kairis have accepted.  There may be other attending as well.
@@ -36,5 +36,6 @@ There were eight attendees
  * A 16 port switch has been made available for our use by Don Ritter and Todd Cole from AZLOCO.  All other required hardware is on hand or has been promised by one or more members.
  
 **Discussion**
+
  * The Ubuntu thumb drives that had been passed out to some members may or may not be defective.  If you have one and it is defective please contact Rex Bouwense to have it exchanged.
  * During the annual library lottery for reservations for the conference room, we managed to obtain the fourth Saturday 1300-1545 for each month in 2017 starting with February so our library meetings will continue and we will have an extra hour for presentations and training.
