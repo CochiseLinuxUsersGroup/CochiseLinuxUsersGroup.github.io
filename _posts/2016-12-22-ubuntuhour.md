@@ -26,3 +26,9 @@ categories: meeting
  * Discussed attendance at other AZLOCO around the state and upcoming CLUG events.
  * Received donations for enough power strips, extension cords, and CAT5 cables, for our installfest on the 28th of January.  The hardware requirements, install media, and personnel required to run the event are now on hand.  The IEEE section of Fort Huachuca will be joining us at the installfest.
  * Discussed the use of Virtual Box to do testing of programs and Linux distros.
+
+ ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_12-22-16_1-400x400.JPG)
+ 
+ ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_12-22-16_2-400x400.JPG)
+  
+ ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_12-22-16_3-400x400.JPG)
