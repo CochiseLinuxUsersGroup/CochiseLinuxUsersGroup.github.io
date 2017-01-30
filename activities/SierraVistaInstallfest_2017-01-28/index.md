@@ -70,3 +70,4 @@ LESSONS LEARNED:
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest22_2017-01-28.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest23_2017-01-28.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest24_2017-01-28.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest25_2017-01-28.jpg)
