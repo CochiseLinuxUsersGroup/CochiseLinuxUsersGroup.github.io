@@ -22,9 +22,6 @@ that were posted in various locations around town, posting a notice in the Cochi
 
 6.  Flyers with information about AZLOCO and CLUG mission, activities, and event dates as well as Free an Open Source Equivalents to proprietary software applications were distributed to individuals at the event.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest01_2017-01-28.jpg ")
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/West-End-Fair-Information-Booth-01-Sierra-Vista-AZ.JPG "WEF 1")
-
 7.  Training of members on installation procedures took place at regularly scheduled CLUG meetings for those people who thought that they were a little weak or apprehensive about installing a Linux Operating System on a stranger's computer.
 
 8.  We limited our installation ISOs to Ubuntu or Ubuntu “flavors” unlike AZLOCO who will install any Linux operating system on your computer.  This allowed us to have install media on hand without a great deal of work because most of it was already created and in members’ possession.
@@ -49,4 +46,5 @@ LESSONS LEARNED:
 
 8.  The host must ensure that the quest fills out and signs the questionnaire to the extent of even filling it out for him/her.  No blank answers allowed.  Then assign a member to perform the work.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28.jpg "SierraVistaInstallfest_2017-01-28")
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest01_2017-01-28.jpg)
+
