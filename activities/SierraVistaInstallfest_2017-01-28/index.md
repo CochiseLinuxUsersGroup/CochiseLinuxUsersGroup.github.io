@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SierraVistaInstallfest_2017-01-28"
+title: "Sierra Vista Installfest"
 date: 2017-01-28
 catagories: activities
 ---
