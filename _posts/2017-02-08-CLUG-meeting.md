@@ -33,3 +33,9 @@ There were 7 attendees
 **Other News:*
 
  *  Bruce Adamson has donated a great deal of computers, parts, and accessories to the Group.  he will be leaving for a new position in Okinowa.  We wish you the best Bruce.  Stay in touch if you can.
+ 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting2017-02-08_1-400x400.JPG) 
+  
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting2017-02-08_2-400x400.JPG)
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting2017-02-08_3-400x400.JPG) 
