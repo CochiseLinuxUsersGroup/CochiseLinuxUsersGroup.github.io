@@ -40,4 +40,8 @@ There were 13 attendees, three of which were new to the Group
  * A presentation was given by Rex Bouwense on how to configure your Software Updater in Ubuntu and the three ways to update your system
  * In the follow on discussion activating the GUFW was also covered.
  
+ ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting2017-02-25_1-400x400.JPG)
+ 
+ ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting2017-02-25_2-400x400.JPG)
+ 
  
