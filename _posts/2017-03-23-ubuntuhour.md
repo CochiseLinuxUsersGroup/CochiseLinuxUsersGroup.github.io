@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Ubuntu Hour 2017-03-23"
-date: 2017-02-23
+date: 2017-03-23
 categories: meeting
 ---
 
