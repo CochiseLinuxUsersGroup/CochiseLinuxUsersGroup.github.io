@@ -6,7 +6,7 @@ categories: meeting
 ---
 ### Location: Sierra Vista public library conference room
 
-### Date: Wednesday, February 25, 2017
+### Date: Saturday, February 25, 2017
 
 ### Meeting Minutes
 
