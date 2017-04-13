@@ -4,7 +4,7 @@ title: "CLUG meeting 2017-04-12"
 date: 2017-04-12
 categories: meeting
 ---
-### Location: UA South, room B157
+### Location: UA South, room B159
 
 ### Date: Wednesday, April 12, 2017
 
