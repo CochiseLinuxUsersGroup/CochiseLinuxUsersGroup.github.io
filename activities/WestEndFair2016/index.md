@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "West End Fair"
+title: "West End Fair 2016"
 date: 2016-05-07
 catagories: activities
 ---
