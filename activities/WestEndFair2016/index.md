@@ -15,4 +15,4 @@ The Cochise Linux User Group (CLUG) in conjunction with the Ubuntu Arizona Local
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/West-End-Fair-Information-Booth-04-Sierra-Vista-AZ.JPG "WEF 4")
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/West-End-Fair-Information-Booth-05-Sierra-Vista-AZ.JPG "WEF 5")
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/West-End-Fair-Information-Booth-06-Sierra-Vista-AZ.JPG "WEF 6")
