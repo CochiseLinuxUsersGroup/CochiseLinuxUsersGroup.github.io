@@ -13,7 +13,7 @@ title: CLUG Members
 
 # **Devi [David] Garcia** - Admin
 **Screenfetch**:  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/screenfetch/Devi's%20Laptop.jpg "Laptop Screenfetch")  ![alt text](https://cdn.rawgit.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/screenfetch/desktop_screenfetch.png "Desktop Screenfetch")  
+![alt text]( "Desktop Screenfetch")  
 **IRC Nick**:  Deoxizn  
 **Bio**: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. Self taught in some web launguages such as css, html and some php.  
 **Contact**:  **[Website](http://z0mbiexx.github.io) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
