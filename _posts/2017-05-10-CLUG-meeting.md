@@ -4,7 +4,7 @@ title: "CLUG meeting 2017-05-10"
 date: 2017-05-10
 categories: meeting
 ---
-### Location: UA South, Resource Learning Center
+### Location: UA South, Learning Resource Center
 
 ### Date: Wednesday, May 10, 2017
 
