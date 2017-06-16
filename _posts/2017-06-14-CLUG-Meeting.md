@@ -29,7 +29,7 @@ There were 9 attendees
  * Quantum Computing by Chris Braswell on 24 June
  * VPNs by Cody Roehsler, time TBA
  
-**Community projects updates:
+**Community projects updates:**
  
  * CLUG installfest 15 July 2017 – Greg Christ
  * Confirmed location UA South Learning Resource Center
