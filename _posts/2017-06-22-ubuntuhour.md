@@ -18,7 +18,7 @@ categories: meeting
  * 24 June, CLUG meeting, 1300-1530, Sierra Vista public library conference room, 2600 E. Tacoma Street, Sierra Vista
  * 12 July, CLUG Meeting, 1700-1800, UA South, 1140 N. Colombo Avenue, Sierra Vista
  
-** Upcoming AZLOCO Events:**
+**Upcoming AZLOCO Events:**
 
  * 01 July, AZLOCO/PLUG Installfest, 1000-1600, UAT, 2625 Baseline Road, Tempe
  * 15 July, AZLOCO/PLUG Installfest, 1000-1600, UAT, 2625 Baseline Road, Tempe
