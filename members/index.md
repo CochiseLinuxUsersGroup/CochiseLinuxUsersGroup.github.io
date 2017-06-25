@@ -30,10 +30,10 @@ title: CLUG Members
 
 - - -
 
-# **C.G. Braswell** - Member
-**IRC Nick**:  (varies, sometimes "paperbackwriter")
-**Bio**: A novelist and indy publisher.
-**Prefered Distro**: Ubuntu 16.xx
+# **C.G. Braswell** - Member  
+**IRC Nick**:  (varies, sometimes "paperbackwriter")  
+**Bio**: A novelist and indy publisher.  
+**Prefered Distro**: Ubuntu 16.xx  
 **Contact**:   **[email](mailto:chris.braswell@fusepowder.com)**
 
 - - -
