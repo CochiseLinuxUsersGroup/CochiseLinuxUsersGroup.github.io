@@ -40,7 +40,7 @@ categories: meeting
 
 **Presentations:  (Both were taped by Jim Barba)**
 
- * A U-Tube presentation on What is Linux by Leo LaPort was shown by Greg Christ  
+ * A YouTube presentation on What is Linux by Leo LaPort was shown by Greg Christ  
  * VPNs by Cody Roehsler.
 
 **Discussion:**
