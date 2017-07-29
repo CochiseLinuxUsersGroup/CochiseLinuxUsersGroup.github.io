@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UA South Install"
+title: "UA_South_Install"
 date: 2017-07-28
 catagories: activities
 ---
