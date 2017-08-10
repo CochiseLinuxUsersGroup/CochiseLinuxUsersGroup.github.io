@@ -30,7 +30,7 @@ There were 13 attendees
  
 **Recent Linux/FOSS News Items:**
 
- * Ubuntu 16.04.3 has been released on 3 August as has all of the Ubuntu “flavors”
+ * Ubuntu 16.04.3 has been released on 3 August as has all of the Ubuntu “flavors”.
 
 **Discussion:**
 
