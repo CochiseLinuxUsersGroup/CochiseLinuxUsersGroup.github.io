@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SierraVistaRocks"
+title: "Sierra_Vista_Rocks"
 date: 2017-08-18
 catagories: activities
 ---
