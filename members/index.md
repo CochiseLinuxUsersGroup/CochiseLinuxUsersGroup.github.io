@@ -13,8 +13,6 @@ title: CLUG Members
 - - -
 
 # **Devi [David] Garcia** - Admin
-**Screenfetch**:  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/deoxizn_neofetch.jpg)  
 **IRC Nick**:  Deoxizn  
 **Bio**: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty windows peasant.. Self taught in some web launguages such as css, html and some php.  
 **Prefered Distro**: Antergos/Mint  
