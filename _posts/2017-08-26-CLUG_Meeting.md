@@ -27,7 +27,13 @@ categories: meeting
  
 **Presentations:**
 
-**Discussions:**
+ * Rex Bouwense will be revising the monthly Introduction to the Terminal Presentations that was first introduced last year by Paul Bernard.
+ * Jaidan Braswell’s ASCII Games is currently on track for 23 September.
+ * There was a request for a Thunderbird presentation that would basically show how to configure multiple email accounts in the application.
+
+**Discussion:**
+
+ * Centered around Chris Braswell’s computer.  He had installed Ubuntu 16.04.3 using Legacy instead of UEFI and he was having some issues.  After a somewhat lengthy demonstration of the problems, it was suggested that he do a re-install using UEFI.  Since he had to back up some of his data, the re-install could not take place at the meeting.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-26_1-400x400.JPG)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-26_2-400x400.JPG)
