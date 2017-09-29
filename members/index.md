@@ -47,12 +47,12 @@ title: CLUG Members
 
 - - -
 
-# **Cody Roehsler - Member
+# **Cody Roehsler** - Member
 **Bio**:  A 14 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
 
 - - -
 
-# **Jaidan Braswell - Member
+# **Jaidan Braswell** - Member
 **Bio**:  A 11 year old student who uses Ubuntu and Slackware as his primary Operating Systems.  He experiments with other Linux Operating Systems as they release new versions.
  
 
