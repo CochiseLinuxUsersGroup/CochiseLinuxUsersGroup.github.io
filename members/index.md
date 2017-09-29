@@ -43,7 +43,17 @@ title: CLUG Members
 
 
 # **Thailyn & Lilith Garcia** - Wife and Daughter of Devi  
-**Bio**: They give Devi his rides to the meeting as well as sit in the meeting and entertain the members as well as try and be involved in any way they can. 
+**Bio**: They give Devi his rides to the meeting as well as sit in the meeting and entertain the members as well as try and be involved in any way they can.
+
+- - -
+
+# **Cody Roehsler - Member
+**Bio**:  A 14 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
+
+- - -
+
+# **Jaidan Braswell - Member
+**Bio**:  A 11 year old student who uses Ubuntu and Slackware as his primary Operating Systems.  He experiments with other Linux Operating Systems as they release new versions.
  
 
 _**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
