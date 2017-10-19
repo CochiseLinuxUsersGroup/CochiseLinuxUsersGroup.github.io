@@ -20,9 +20,9 @@ title: CLUG Members
 **Contact**:   **[email](mailto:majb@azloco.com)**
 
 - - -
-
-# **Devi [David] Garcia** - Admin
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/david.jpg "David's Photo"){: .members }
+# **Devi [David] Garcia** - Admin
+
 **IRC Nick**:  Deoxizn   
 **Bio**: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty Windows peasant.. Self taught in some web languages such as css, html and some php.   
 **Prefered Distro**: Antergos   
