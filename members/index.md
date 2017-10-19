@@ -13,8 +13,7 @@ title: CLUG Members
 - - -
 
 # **Devi [David] Garcia** - Admin
-[![David's Photo](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/david.jpg)](http://cochiselinux.com){: .members }
-**IRC Nick**:  Deoxizn  
+[![David's Photo](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/david.jpg)](http://cochiselinux.com){: .members }**IRC Nick**:  Deoxizn  
 **Bio**: Casual linux user with a little bit of knowledge of bits and pieces.. otherwise a dirty Windows peasant.. Self taught in some web languages such as css, html and some php.  
 **Prefered Distro**: Antergos  
 **Prefered Desktop Enviorment**: Cinnamon/Openbox with tint2  
