@@ -51,12 +51,16 @@ title: CLUG Members
 **Bio**: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like she's paying attention.
 &nbsp;  
 &nbsp;  
+&nbsp;  
+&nbsp;  
 
 - - -
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/lilith.jpg "lilith's Photo"){: .members }
 # **Thailyn & Lilith Garcia** - Wife and Daughter of Devi  
 **Bio**: They give Devi his rides to the meeting as well as sit in the meeting and entertain the members as well as try and be involved in any way they can.
+&nbsp;  
+&nbsp;  
 &nbsp;  
 &nbsp;  
 
