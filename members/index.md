@@ -1,12 +1,3 @@
-<style type="text/css">
-.members {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
-
 ---
 layout: post
 title: CLUG Members
@@ -76,3 +67,12 @@ title: CLUG Members
  
 
 _**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
+
+<style type="text/css">
+.members {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
