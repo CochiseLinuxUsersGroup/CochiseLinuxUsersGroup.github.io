@@ -3,6 +3,7 @@ layout: post
 title: CLUG Members
 ---
 
+- - -
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rex.jpg "Rex's Photo"){: .members }
 # **Rex Bouwense** - Co-Founder  
 **IRC Nick**:  MajB  
