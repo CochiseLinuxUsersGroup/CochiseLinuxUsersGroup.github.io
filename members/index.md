@@ -1,3 +1,12 @@
+<style type="text/css">
+.members {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
+
 ---
 layout: post
 title: CLUG Members
