@@ -21,9 +21,9 @@ categories: meeting
 **Upcoming AZLOCO Events:**
 
  * 04 November, AZLOCO/PLUG Installfest, 1000-1600, Mesa Center for Higher Education, 245 2nd Street, Mesa
- * 18 November, AZLOCO/PLUG Installfest, 1000-1600, UAT, 2625 Baseline Road, Tempe
  * 16 November, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista.
- 
+ * 18 November, AZLOCO/PLUG Installfest, 1000-1600, UAT, 2625 Baseline Road, Tempe
+
 **Discussion:**
 
  * The upcoming Installfest on Saturday 28 October was discussed in detail.  All of the hardware has been tested at the UA South and found to be 100% functional.  All of the install media has been updated and checked to insure accuracy.  The manning chart for the Installfest has been finalized.  Publicity for the event has been coordinated with the Sierra Vista Herald/Review, The Cochise Trading Post, and Facebook.  The flyers have been distributed to all members and posted throughout the town and Fort Huachuca.
