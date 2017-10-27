@@ -22,7 +22,7 @@ categories: meeting
 
  * 07 October, AZLOCO/PLUG Installfest, 1000-1600, UAT, 2625 Baseline Road, Tempe
  * 21 October, AZLOCO/PLUG Installfest, 1000-1600, UAT, 2625 Baseline Road, Tempe
- * 26, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista.
+ * 26 October, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista.
  
 **Discussion:**
 
