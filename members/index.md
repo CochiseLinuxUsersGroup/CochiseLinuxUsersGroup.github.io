@@ -64,7 +64,7 @@ title: CLUG Members
 
 - - -
 
-# **Jaidan Braswell** - Member
+# **Jaidon Braswell** - Member
 **Bio**:  A 11 year old student who uses Ubuntu and Slackware as his primary Operating Systems.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
  
 
