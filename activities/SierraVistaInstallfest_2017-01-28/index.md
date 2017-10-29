@@ -44,7 +44,7 @@ LESSONS LEARNED:
 
 7.  The use of a welcoming station worked well but only because we were not super busy.  If we had been busier we may have required a separate host and a separate individual to ensure the installs are progressing on tract.
 
-8.  The host must ensure that the quest fills out and signs the questionnaire to the extent of even filling it out for him/her.  No blank answers allowed.  Then assign a member to perform the work.
+8.  The host must ensure that the guest fills out and signs the questionnaire to the extent of even filling it out for him/her.  No blank answers allowed.  Then assign a member to perform the work.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest01_2017-01-28.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest02_2017-01-28.jpg)
