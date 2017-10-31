@@ -39,7 +39,6 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * Even though we broadened our publicity to include Facebook posts we were not satisfied with the turnout.  Continue to seek new ways to publicize the event.  (Of the 18 people attending, 8 were CLUG members, 1 was from the Herald/Review, 5 were relatives of members or guests, 1 only wanted information about Linux distros and the CLUG, and only 3 were there for installation assistance.)
  
-
  * The wired Internet seemed to recycle itself off every 30 minutes or so.  Attempt to determine why this occurred – if it was a natural occurrence at the school or if we need to find a different way to connect to the Internet to get updates.  All of the hardware and the CAT-5 cables had been checked before the event and were in perfect working order.
 
  * Continue to look for new locations to hold this event to reach new and perhaps a different audience.  The library conference room still is an alternative.
@@ -50,9 +49,9 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * During the event a child closed a locked door in the newly created play-room and inadvertently locked herself in.  Since we are all Linux users and use different distros there were several solutions offered.  Breaking the door or window were of course quickly eliminated as foolish and too much like a Microsoft Windows solution to a security breach.  Other solutions ranged from scaling the wall to make an entry from above to picking the lock.  Once again the simplest solution won out as it normally does in Linux distros, have the security lady merely open the door.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28_2.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28_3.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28_4.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28_5.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-01-28_7.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_1-400x400.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_2-400x400.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_3-400x400.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_4-400x400.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_5-400x400.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_7-400x400.jpg) 
