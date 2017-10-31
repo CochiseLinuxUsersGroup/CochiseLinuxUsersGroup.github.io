@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UA_South_Install"
+title: "UA South Install"
 date: 2017-07-28
 catagories: activities
 ---
@@ -9,3 +9,9 @@ We were asked by Dr John DeLalla, the Director of Continuing Education at the Un
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UASouthInstall_2017-07-28_1-400x400.JPG)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UASouthInstall_2017-07-28_2-400x400.JPG)
+
+
+<footer>
+<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-07-15" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinux.com/activities/SierraVistaRocks" class="post-next">Next Post</a>
+  </footer>
