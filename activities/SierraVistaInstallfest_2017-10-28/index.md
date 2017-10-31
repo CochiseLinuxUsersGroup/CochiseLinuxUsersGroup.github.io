@@ -49,9 +49,9 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * During the event a child closed a locked door in the newly created play-room and inadvertently locked herself in.  Since we are all Linux users and use different distros there were several solutions offered.  Breaking the door or window were of course quickly eliminated as foolish and too much like a Microsoft Windows solution to a security breach.  Other solutions ranged from scaling the wall to make an entry from above to picking the lock.  Once again the simplest solution won out as it normally does in Linux distros, have the security lady merely open the door.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_1-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_2-400x400.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_3-400x400.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_4-400x400.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_5-400x400.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_7-400x400.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_1-400x400.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_2-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_3-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_4-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_5-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_7-400x400.JPG) 
