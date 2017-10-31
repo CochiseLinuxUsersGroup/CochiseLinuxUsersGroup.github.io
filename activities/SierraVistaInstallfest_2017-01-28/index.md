@@ -80,3 +80,8 @@ LESSONS LEARNED:
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest7_2017-01-28-400x400.JPG)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest8_2017-01-28-400x400.JPG)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest9_2017-01-28-400x400.JPG)
+
+<footer>
+<a href="http://cochiselinux.com/activities/WIL" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinux.com/activities/WestEndFair2017" class="post-next">Next Post</a>
+  </footer>
