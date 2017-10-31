@@ -23,7 +23,4 @@ Here's some Pictures by Rose:
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%285%29.jpg "WEF Setup 5")
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%286%29.jpg "WEF Setup 6")
 
-
-<footer>
 <a href="http://cochiselinux.com/activities/WestEndFair2016/" class="post-next">
-</footer>
