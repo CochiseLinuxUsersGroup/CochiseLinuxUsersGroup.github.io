@@ -29,3 +29,8 @@ The Cochise Linux User Group (CLUG) in conjunction with the Ubuntu Arizona Local
  * RECOMMENDATIONS FOR FUTURE EVENTS:  Submit the application early.  Since we did we were able to sort out the above problem. Only a AZLoCo team leader or admin can order the Ubuntu conference pack, so request early.  It requires at least 30 days. Being last minute about planning is probably not the best option for this type of event.  While this event is not a complicated one ensuring that the booth is manned all day by competent individuals should be done in plenty of time to find substitutes should that be required.  In addition back up equipment should be planned for in case of failure of some to show or function properly.
  
 Louie Garcia, Project Manager  
+
+<footer>
+<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-01-28" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-07-15" class="post-next">Next Post</a>
+  </footer>
