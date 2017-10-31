@@ -15,15 +15,15 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * Hardware for the event was on hand from previous Installfests that was donated by various members of the CLUG and AZLOCO .  It includes switches, routers, and CAT-5 cables.  A router was borrowed from the UA South IT Department to connect to their wired Internet.
 
- * Software in the form of installation media, DVDs and USB thumb drives was created by Rex Bouwense, and remains on hand for future events.
+ * Software, DVDs and USB thumb drives in the form of installation media, was created by Rex Bouwense and remains on hand for future events.
 
  * Ubuntu SWAG was passed out at the event.  Items included Ubuntu lanyards, install disks, stickers, and pins.
 
- * Flyers with information about the AZLOCO and CLUG mission, activities, and event dates as well as Free an Open Source Equivalents to proprietary software applications were distributed to individuals at the event.
+ * Flyers with information about the AZLOCO and CLUG missions, activities, and event dates as well as Free an Open Source Equivalents to proprietary software applications were distributed to individuals at the event.
  
  * Training of members on installation procedures took place at regularly scheduled CLUG meetings and Ubuntu Hours for those members who thought that they were a little weak or apprehensive about installing a Linux Operating System on a stranger's computer.
 
- * We limited our installation ISOs to Ubuntu or Ubuntu “flavors” and Linux Mint (the two most popular and user friendly Linux Distributions) unlike AZLOCO who will install any Linux operating system on your computer.   
+ * We limited our installation ISOs to Ubuntu or Ubuntu “flavors” and Linux Mint (the two most popular and user friendly Linux Distributions) unlike other AZLOCO installfests where you can have any Linux operating system installed on your computer.   
 
  * Name tags were created for attending members by Rex Bouwense to identify them as installers and members of CLUG.
 
@@ -37,7 +37,7 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * The use of a welcoming station worked well once again.  The greeter also supervised all of the installations and provided answers to questions that were asked by the guests before the installation was begun.  However, the greeter attempted to have the guest fill out the questionnaire but some were not aware of how much RAM they had or how big their hard disk was.  This has to be done by the installer.  Revise this questionnaire to only include the things that we actually need and return to the practice of having the installer assist the guest in filling it out.
 
- * Even though we broadened our publicity to include Facebook posts we were not satisfied with the turnout.  Continue to seek new ways to publicize the event.  (Of the 18 people attending, 8 were CLUG members, 1 was from the Herald/Review, 5 were relatives of members or guests, 1 only wanted information about Linux distros and the CLUG, and only 3 were there for installation assistance.)
+ * Even though we broadened our publicity to include Facebook posts we were not satisfied with the turnout, continue to seek new ways to publicize the event.  (Of the 18 people attending, 8 were CLUG members, 1 was from the Herald/Review, 5 were relatives of members or guests, 1 only wanted information about Linux distros and the CLUG, and only 3 were there for installation assistance.)
  
  * The wired Internet seemed to recycle itself off every 30 minutes or so.  Attempt to determine why this occurred – if it was a natural occurrence at the school or if we need to find a different way to connect to the Internet to get updates.  All of the hardware and the CAT-5 cables had been checked before the event and were in perfect working order.
 
