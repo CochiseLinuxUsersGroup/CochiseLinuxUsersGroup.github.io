@@ -55,3 +55,8 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_4-400x400.JPG) 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_5-400x400.JPG) 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2017-10-28_7-400x400.JPG) 
+
+
+<footer>
+<a href="http://cochiselinux.com/activities/SierraVistaRocks" class="post-prev">Previous Post</a>
+  </footer>
