@@ -31,7 +31,7 @@ There were 10 attendees
  
 **Discussion:**
 
- *Group members attended the Brown Bag lecture on Robotics at the Cochise College downtown campus on 01 November and the free lecture on Viterbi Algorithum and Trace Back at the UA South Public Meeting Room in Groth Hall on 02 November.  The Robotics lecture fgeatured 6 sixth and seventh grade students from Col Smith Middle School on Fort Huachuca.
+ * Group members attended the Brown Bag lecture on Robotics at the Cochise College downtown campus on 01 November and the free lecture on Viterbi Algorithum and Trace Back at the UA South Public Meeting Room in Groth Hall on 02 November.  The Robotics lecture fgeatured 6 sixth and seventh grade students from Col Smith Middle School on Fort Huachuca.
  * There was an excellent article on the CLUG published in the Sierra Vista Herald/Review last Tuesday.  We should get some great publicity out of it.
  * We are scheduled to sign up for dates for the conference room  in the public library on 17 November at 1145.  We will ask for the 4th Saturday of each month again from 1300-1545.
  * Check out the new countdown clock on the web site Home page thanks to David Garcia.  It will announce the next event/meeting/get together of the group if Rex Bouwense can figure out to update it.
