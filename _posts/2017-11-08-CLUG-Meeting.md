@@ -18,6 +18,12 @@ There were 10 attendees
  * 25 November CLUG Meeting 1300-1530, Sierra Vista public library conference room, 2600 East Tacoma St. Sierra Vista.
  * 08 November CLUG Meeting, 1700-1800, UA South, Learning Resource Center, 1140 Colombo Ave. Sierra Vista.
  
+**Future Presentations:**
+
+ * Free lecture at the UA South Public Meeting Room in Groth Hall, 9 November, 1730-1900, Cyber-Crystal Ball:  Peering into the Future of IT.  THIS LECTURE HAS BEEN CANCELED AND WILL PROBABLY BE RESCHEDULED FOR MARCH OF 2018.
+ * Free lecture at the UA South Public Meeting Room in Groth Hall, 16 November, 1200-1300, EMC:  Military Electromagnetic Compatability
+ * Introduction to the Command Line (part 3) scheduled 23 December 2017 – Rex Bouwense
+ 
 **Comunity Projects Update:**
 
  * Installfest After Action Report (See the whole report on the activities page) – Rex Bouwense
