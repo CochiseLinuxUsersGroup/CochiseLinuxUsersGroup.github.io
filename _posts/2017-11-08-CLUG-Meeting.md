@@ -16,7 +16,7 @@ There were 10 attendees
 
  * 16 November Ubuntu Hour, 1800-1900, Scholtzsky's Cafe, 3900 E. Fry Blvd., Sierra Vista.
  * 25 November CLUG Meeting 1300-1530, Sierra Vista public library conference room, 2600 East Tacoma St. Sierra Vista.
- * 08 November CLUG Meeting, 1700-1800, UA South, Learning Resource Center, 1140 Colombo Ave. Sierra Vista.
+ * 13 December CLUG Meeting, 1700-1800, UA South, Learning Resource Center, 1140 Colombo Ave. Sierra Vista.
  
 **Future Presentations:**
 
@@ -31,7 +31,7 @@ There were 10 attendees
  
 **Discussion:**
 
- * Group members attended the Brown Bag lecture on Robotics at the Cochise College downtown campus on 01 November and the free lecture on Viterbi Algorithum and Trace Back at the UA South Public Meeting Room in Groth Hall on 02 November.  The Robotics lecture fgeatured 6 sixth and seventh grade students from Col Smith Middle School on Fort Huachuca.
+ * Group members attended the Brown Bag lecture on Robotics at the Cochise College downtown campus on 01 November and the free lecture on Viterbi Algorithum and Trellis Trace Back at the UA South Public Meeting Room in Groth Hall on 02 November.  The Robotics lecture featured 6 students (sixth and seventh grade) from Col Smith Middle School on Fort Huachuca who were able to assemble and program a bot to do some simple commands in 10 minutes.
  * There was an excellent article on the CLUG published in the Sierra Vista Herald/Review last Tuesday.  We should get some great publicity out of it.
  * We are scheduled to sign up for dates for the conference room  in the public library on 17 November at 1145.  We will ask for the 4th Saturday of each month again from 1300-1545.
  * Check out the new countdown clock on the web site Home page thanks to David Garcia.  It will announce the next event/meeting/get together of the group if Rex Bouwense can figure out to update it.
