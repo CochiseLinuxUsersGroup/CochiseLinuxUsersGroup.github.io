@@ -14,3 +14,7 @@ The first computer merely had to be rebooted to eliminate the black flashes that
 The second computer was only downloading the email headers and not the content in-spite of using POP3.  After checking the settings of the email provider it was decided to use Thunderbird in lieu of Evolution as the client.  Once we set it  up and demonstrated to the individual that it was functioning properly, he was quite satisfied.
 
 This couple from Sunsites, believe that there were enough people who live in Sunsites to make it worth while to schedule an Installfest there at some time in the future.  They will investigate and report back to the group on the number who are interested and a location to hold the event.
+
+<footer>
+<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-10-28" class="post-prev">Previous Post</a>
+  </footer>
