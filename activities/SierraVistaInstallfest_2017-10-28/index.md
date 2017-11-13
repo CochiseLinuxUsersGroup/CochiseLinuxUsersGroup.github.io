@@ -59,4 +59,5 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
 <footer>
 <a href="http://cochiselinux.com/activities/SierraVistaRocks" class="post-prev">Previous Post</a>
+<a href="http://cochiselinux.com/activities/CLUG_House_Calls_2017-11-10_and_2017-11-11" class="post-next">Next Post</a>
   </footer>
