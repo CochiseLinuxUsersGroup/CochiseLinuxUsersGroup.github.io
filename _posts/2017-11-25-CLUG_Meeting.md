@@ -48,7 +48,7 @@ categories: meeting
 **Aftermath:**
  * We reconvened at Peter Piper Pizza for some nourishment and additional conversation on Linux related subjects as well as how attempting to herd a large group of very small children was very like attempting to herd cats.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-11-25_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-11-25_2-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-11-25_3-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-11-25_4-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-25_1-400x400.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-25_2-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-25_3-400x400.JPG) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-25_4-400x400.JPG) 
