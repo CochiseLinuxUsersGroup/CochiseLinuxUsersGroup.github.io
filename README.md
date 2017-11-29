@@ -1,5 +1,5 @@
 #Cochise Linux User Group Website
 
-##www.cochiselinux.com
+##CochiseLinuxUsersGroup.github.io
 
 ###Chat with us on irc.  Server: irc.freenode.net Channel: #cochiselinux
