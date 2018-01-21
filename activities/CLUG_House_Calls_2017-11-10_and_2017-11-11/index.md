@@ -16,5 +16,6 @@ The second computer was only downloading the email headers and not the content i
 This couple from Sunsites, believe that there were enough people who live in Sunsites to make it worth while to schedule an Installfest there at some time in the future.  They will investigate and report back to the group on the number who are interested and a location to hold the event.
 
 <footer>
-<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-10-28" class="post-prev">Previous Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2017-10-28" class="post-prev">Previous Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2018-01-20" class="post-next">Next Post</a> 
   </footer>
