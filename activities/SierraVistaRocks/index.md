@@ -19,6 +19,6 @@ With all of the rocks that were hidden found, it was decided to place a few more
 
 
 <footer>
-<a href="http://cochiselinux.com/activities/UA_South_Install_2017-07-28" class="post-prev">Previous Post</a>  
-<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-10-28" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/UA_South_Install_2017-07-28" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2017-10-28" class="post-next">Next Post</a>
   </footer>
