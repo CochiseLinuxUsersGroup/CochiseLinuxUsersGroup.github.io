@@ -18,6 +18,6 @@ The Cochise Linux User Group (CLUG) in conjunction with the Ubuntu Arizona Local
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/West-End-Fair-Information-Booth-06-Sierra-Vista-AZ.JPG "WEF 6")
 
 <footer>
-<a href="http://cochiselinux.com/activities/DryRunWEF" class="post-prev">Previous Post</a>  
-<a href="http://cochiselinux.com/activities/WIL" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/DryRunWEF" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinuxusergroup.org/activities/WIL" class="post-next">Next Post</a>
   </footer>
