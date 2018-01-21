@@ -31,6 +31,6 @@ The Cochise Linux User Group (CLUG) in conjunction with the Ubuntu Arizona Local
 Louie Garcia, Project Manager  
 
 <footer>
-<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-01-28" class="post-prev">Previous Post</a>  
-<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-07-15" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2017-01-28" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2017-07-15" class="post-next">Next Post</a>
   </footer>
