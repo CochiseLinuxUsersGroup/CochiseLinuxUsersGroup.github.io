@@ -12,6 +12,6 @@ We were asked by Dr John DeLalla, the Director of Continuing Education at the Un
 
 
 <footer>
-<a href="http://cochiselinux.com/activities/SierraVistaInstallfest_2017-07-15" class="post-prev">Previous Post</a>  
-<a href="http://cochiselinux.com/activities/SierraVistaRocks" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2017-07-15" class="post-prev">Previous Post</a>  
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaRocks" class="post-next">Next Post</a>
   </footer>
