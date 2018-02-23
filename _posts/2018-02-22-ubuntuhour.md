@@ -26,7 +26,7 @@ categories: meeting
  * 22 March, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista.
  * 21 April, Bionic Beaver Release Party/AZLOCO/PLUG Installfest, 1400-1800, 5831 West Kesler Street, Chandler.  All are invited.
  
-** Discussion:**
+**Discussion:**
 
  * 01 March Canonical will be releasing the fourth of five point releases of 16.04 (16.04.4). Our install media must be upgraded for that release prior to the Installfest.  Rex Bouwense.
  * 05 May, West End Fair 1000-1700.  Do we want to participate?  At the 2017 event we obtained two new members, Cody and Lynn.  At the 2016 event we obtained recognition but only received one new member.  Cost is $25 or $45 depending upon how Rosie Mackey classifies us.  Everything else is on hand to include the ramada, table, chairs, and banners.  No decision was made as to our participation.
