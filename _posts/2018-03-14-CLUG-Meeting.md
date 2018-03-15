@@ -28,7 +28,7 @@ There were 7 attendees (one new person)
 **Community projects updates:**
 
  * Installfest – 28 April 2018 Planning continues without problems.  All install media has been updated to 16.04.4 and checked for proper functioning. 
- * West End Fair – 05 May 2018 Although no consensus was reached or probably ever will.  We will continue to participate
+ * West End Fair – 05 May 2018 Although no consensus was reached or probably ever will.  We will continue to participate.
  
 **Discussion:**
 
