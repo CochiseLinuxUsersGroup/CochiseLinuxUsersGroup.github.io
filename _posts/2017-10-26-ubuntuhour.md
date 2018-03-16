@@ -5,7 +5,7 @@ date: 2017-10-26
 categories: meeting
 ---
 
-## Location: Schlotzsky's Cafe, 3900 Fry Blvd.
+### Location: Schlotzsky's Cafe, 3900 Fry Blvd.
 
 ### Date: Thursday, October 26, 2017
 
