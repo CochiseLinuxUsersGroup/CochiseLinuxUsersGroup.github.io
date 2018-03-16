@@ -9,7 +9,7 @@ categories: meeting
 
 ### Date: Wednesday, March 14, 2018
 
-### Meeting Minutes
+### Meeting Minutes:
 
 **Attendees:** 7 (one new person)
 
