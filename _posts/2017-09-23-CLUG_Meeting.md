@@ -5,7 +5,7 @@ date: 2017-09-23
 categories: meeting
 ---
 
-## Location: Sierra Vista Public Library conference room, 2600 E. Tacoma St.
+### Location: Sierra Vista Public Library conference room, 2600 E. Tacoma St.
 
 ### Date: Saturday, September 23, 2017
 
