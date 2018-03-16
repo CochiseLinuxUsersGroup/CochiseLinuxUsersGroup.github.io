@@ -4,13 +4,14 @@ title: "CLUG Meeting 2018-03-14"
 date: 2018-03-14
 categories: meeting
 ---
+
 ### Location: UA South, Learning Resource Center
 
 ### Date: Wednesday, March 14, 2018
 
 ### Meeting Minutes
 
-There were 7 attendees (one new person)
+**Attendees:** 7 (one new person)
 
 **Upcoming CLUG Events:**
 
