@@ -5,7 +5,7 @@ date: 2018-02-24
 categories: meeting
 ---
 
-## Location: Sierra Vista Public Library conference room, 2600 E. Tacoma St.
+### Location: Sierra Vista Public Library conference room, 2600 E. Tacoma St.
 
 ### Date: Saturday, February 24, 2018
 
