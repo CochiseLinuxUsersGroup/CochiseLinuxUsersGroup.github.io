@@ -5,7 +5,7 @@ date: 2018-01-25
 categories: meeting
 ---
 
-## Location: Schlotzsky's Cafe, 3900 Fry Blvd.
+### Location: Schlotzsky's Cafe, 3900 Fry Blvd.
 
 ### Date: Thursday, January 25, 2018
 
