@@ -5,7 +5,7 @@ date: 2017-08-24
 categories: meeting
 ---
 
-## Location: Schlotzsky's Cafe, 3900 Fry Blvd.
+### Location: Schlotzsky's Cafe, 3900 Fry Blvd.
 
 ### Date: Thursday, August 24, 2017
 
