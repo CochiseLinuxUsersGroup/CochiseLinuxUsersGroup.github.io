@@ -4,12 +4,11 @@ title: Cochise Linux User Group - CLUG
 description: > # this means to ignore newlines until "baseurl:"
   We are a volunteer non-profit organization of Linux users from Cochise County,
   Arizona. Our goals are to provide a platform for Linux users to talk with other
-  Linux users about their problems and questions, to attend presentations from
-  other members as well as outside vendors about Free and Open Source Software,
-  and to have a place where they can increase their education to enable them to
-  obtain a better job or increase the efficiency of their own organization.
+  Linux users about their problems and questions, to host presentations from
+  members as well as outside individuals about Free and Open Source Software,
+  and to expand the use of Linux on personal computers through out the county.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://cochiselinux.com" # the base hostname & protocol for your site
+url: "https://cochiselinuxusergroup.org" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  CochiseLinuxUsersGroup
 
