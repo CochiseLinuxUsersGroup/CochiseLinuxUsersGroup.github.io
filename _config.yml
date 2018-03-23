@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   members as well as outside individuals about Free and Open Source Software,
   and to expand the use of Linux on personal computers through out the county.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://cochiselinuxusergroup.org" # the base hostname & protocol for your site
+url: "https://cochiselinux.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  CochiseLinuxUsersGroup
 
