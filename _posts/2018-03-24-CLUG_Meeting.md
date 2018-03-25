@@ -62,4 +62,4 @@ sudo apt-get install ffmpeg
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_2-400x400.JPG)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_3-400x400.JPG)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/NativeGrill_2018-03-24_4-400x400.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/NativeGrill_2018-03-24-400x400.JPG)
