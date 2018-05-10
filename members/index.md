@@ -7,7 +7,7 @@ title: CLUG Members
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rex.jpg "Rex's Photo"){: .members }
 # **Rex Bouwense** - Co-Founder  
 **IRC Nick**:  MajB  
-**Bio**: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu Arizona Local Community (Mar 2014) Certified Ubuntu Member (Jun 2016)  
+**Bio**: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu-Arizona Local Community Team (Mar 2014) Certified Ubuntu Member (Jun 2016)  
 **Prefered Distro**: Lubuntu  
 **Prefered Desktop Environment**: LXDE  
 **Contact**:   **[email](mailto:majb@azloco.com)**
@@ -60,12 +60,12 @@ title: CLUG Members
 - - -
 
 # **Cody Roehsler** - Member
-**Bio**:  A 14 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
+**Bio**:  A 15 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
 
 - - -
 
 # **Jaidon Braswell** - Member
-**Bio**:  A 11 year old student who uses Ubuntu and Slackware as his primary Operating Systems.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
+**Bio**:  A 12 year old student who uses Ubuntu and Slackware as his primary Operating Systems.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
  
 
 _**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
