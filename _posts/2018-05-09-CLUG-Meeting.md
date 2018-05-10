@@ -11,7 +11,7 @@ categories: meeting
 
 ### Meeting Minutes:
 
-**Attendees:** 11
+**Attendees:** 11 (2 new people)
 
 **Upcoming CLUG Events:**
 
@@ -38,7 +38,7 @@ categories: meeting
  * How to solve problems or ask questions.  The best way is to bring the computer to a CLUG meeting or a Ubuntu Hour.  However, there are other options.  CLUG has an IRC channel on freenode.net (#cochiselinux) where questions can be raised.  The CLUG has a mailing list that can be used to present problems and find solutions, cochiselinux@freelists.org.  If you intend to use our the mailing list, remember that a post to it will be sent to the entire mailing list.  Give all the appropriate information required and describe your problem or question in detail.  If responding to a problem, please use “reply” so all the information on the question can be kept on one thread.   Most, if not all Linux distros, have forums that are devoted to solving problems that individuals have with their computers.  Ubuntu’s forums are at https://ubuntuforums.org/.
  * The CLUG web site has a page that has member photos and very short Bios.  It is an opt in page but I encourage you to submit a short Bio and photo if you so desire to either Rex or Devi to be included on the page.  Of course if you have outstanding warrants or a former spouse or ex-partner that is looking for you we will understand.  If you want to make changes to your current Bio, once again contact Rex or Devi with your change(s) and they will make any necessary corrections.
 
-**Problems with your system and/or applications or just questions:
+**Problems with your system and/or applications or just questions:**
 
  * A question was raised by Lynn who is using Lubuntu.  How can thumbnails of photos be seen when trying to move them from a flash drive to the computer or another flash drive? By default (on Lubuntu) thumbnails are only visible for files under 2MBs.  To change that open the file manager (which in Lubuntu is PCMan FM) and then select Edit from the horizontal menu at the top and then Preferences.  A new pop-up window will be displayed titled Preferences.  Select Display from the Vertical menu on the left.  About halfway down the window there is a line that reads “Do not generate thumbnails for files exceeding this size” followed by a number.  Merely increase that number to 9999 or whatever number you would like and the thumbnails will become visible.
 
