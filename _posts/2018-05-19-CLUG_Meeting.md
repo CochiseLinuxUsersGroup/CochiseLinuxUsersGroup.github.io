@@ -22,7 +22,7 @@ categories: meeting
 
 **Future Presentations:**
 
- * A topic for a future presentation was requested by Otto.  Open Source Applications for Ham Radio Enthusiats
+ * A topic for a future presentation was requested by Otto.  Open Source Applications for Ham Radio Enthusiasts
 
 **Presentation:**
 
