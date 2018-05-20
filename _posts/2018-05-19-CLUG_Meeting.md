@@ -26,11 +26,11 @@ categories: meeting
 
 **Presentation:**
 
- * Lubuntu - by Rex Bouwense
+ * Lubuntu - by Rex Bouwense (a copy of the slides can be found on the presentations page https://github.com/CochiseLinuxUsersGroup/Presentations)
 
 **Discussion:**
 
- * Our new attendee asked if a Linux Operating System could be installed on a computer from 2004 with Microsoft Windows installed.  Since he did not have the technical specifications he was advised to bring it to a Ubuntu Hour or another Meeting where we could have a look
+ * Our new attendee asked if a Linux Operating System could be installed on a computer from 2004 with Microsoft Windows XP installed.  Since he did not have the technical specifications, he was advised to bring it to a Ubuntu Hour or another Meeting where we could have a look
  * Because most of the attendees had other commitments, the dining portion of the meeting was cancelled much to the chagrin of Rex and Greg who enjoyed a cigarette outside of the library before adjourning.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-19_1-400x400.JPG)
