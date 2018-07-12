@@ -43,3 +43,12 @@ categories: meeting
 **Aftermath:**
  
  * We retired to Peter Piper Pizza where we consumed pizza and soda and continued talking about Linux and FOSS topics as well as some unrelated subjects such as what type of soda Todd was have on hand for visitors to his new home.
+ 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-11_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-11_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-11_4.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peterpiperpizza_2018-07-11.jpg)
+
+
+
+
