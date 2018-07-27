@@ -29,12 +29,12 @@ categories: meeting
  * Discussed a possible topic for a future presentation “Personal Security for your Computer”. Occasionally the simplest things are often overlooked.  It was suggested that perhaps some of the members may need a refresher on PC Security.
  * Discussed the procedures and methods to install upgrades.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhr_2018-07-26_6.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_8.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_7.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_4.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_5.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_6.jpg)
 
 
