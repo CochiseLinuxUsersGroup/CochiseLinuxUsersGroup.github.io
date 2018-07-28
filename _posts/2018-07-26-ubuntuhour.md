@@ -37,4 +37,8 @@ categories: meeting
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_5.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_6.jpg)
 
+OUR BIGGEST FAN
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_3.jpg)
+
 
