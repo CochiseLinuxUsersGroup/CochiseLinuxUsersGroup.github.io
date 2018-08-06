@@ -33,3 +33,8 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_6.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_7.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_nativegrill_2018-08-04_2.jpg)
+
+<footer>
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2018-04-28" class="post-prev">Previous Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2018-08-04" class="post-next">Next Post</a>
+  </footer>
