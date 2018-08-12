@@ -1,11 +1,11 @@
 ---
 layout: post
-title: CLUG Members
+title: Some of Our Members
 ---
 
 - - -
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rex.jpg "Rex's Photo"){: .members }
-# **Rex Bouwense** - Co-Founder  
+<h3># **Rex Bouwense** - Co-Founder</h3>  
 **IRC Nick**:  MajB  
 **Bio**: Full time Linux user since 2008\. Frequent contributor to Ubuntu Forms (Feb 2009) and Ask Ubuntu (Mar 2014) Moderator/Administrator of LXDE Forum (Aug 2011) Member Launchpad (Aug 2008) and Ubuntu-Arizona Local Community Team (Mar 2014) Certified Ubuntu Member (Jun 2016)  
 **Prefered Distro**: Lubuntu  
