@@ -41,7 +41,7 @@ title: Some of Our Members
 - - -
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rose.jpg "Rose's Photo"){: .members }
 # **Rose Leonard** - Grandma  
-**Bio**: She is the grandmother of Devi and Louie and takes them to the meetings as well as attends them and sits along the others just listening along trying to act like she's paying attention.
+**Bio**: She is the grandmother of Devi and Louie and is a novice when it comes to Linux but she is learning.
 &nbsp;  
 &nbsp;  
 &nbsp;  
