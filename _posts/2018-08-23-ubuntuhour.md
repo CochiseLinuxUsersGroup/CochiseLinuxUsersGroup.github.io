@@ -28,3 +28,6 @@ categories: meeting
  * Discussed the upcoming Security presentation to be given at the CLUG meeting on Saturday 25 August at the Sierra Vista Public Library.
  * Immediately following the Saturday meeting there is a a birthday party for one of our CLUG members at the Family Fun Center.  All are invited.
  * Discussed the up-coming Kali Challenge issued by one of our members.  The final results will hopefully be in on Saturday.
+ 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_2018-08-23_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_2018-08-23_2.jpg)
