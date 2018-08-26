@@ -20,7 +20,7 @@ title: Some of Our Members
 **Bio**: Games on Windows 10 and Uses Antergos as a Daily Driver when not playing games or using Windows Only Applications. Currently in College for Network Technology and Dabbles in Cybersecurity and Web Development.   
 **Prefered Distro**: Antergos   
 **Prefered Desktop Enviorment**: Cinnamon/Openbox with tint2/Budgie   
-**Contact**:  **[Website](http://z0mbiexx.github.io) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
+**Contact**:  **[Website](http://deoxizn.com) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
 
 - - -
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/louie.jpg "Louie's Photo"){: .members }
