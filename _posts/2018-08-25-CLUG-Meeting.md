@@ -27,11 +27,11 @@ categories: meeting
 
 **Presentation:**
 
- * Security Considerations (by Rex Bouwense).  The files are available on our website under Presentations. 
+ * Security Considerations (by Rex Bouwense).  The slides are available on our website under Presentations. 
 
 **Discussion/Problems/Questions:**
 
- * Since the individual who asked for the Kali challenge was not present, it was tabled  until a future meeting.
+ * Since the individual who asked for the Kali challenge was not present, it was tabled until a future meeting.
  * A question was asked about re-using pre-made install flash drives.  It is perfectly OK to use them.  You just normally have to write over them.
  * John, a new attendee from Cochise, said that there was some interest in Linux in the Sunsites area.  He was tasked to see just how much was there and if it would be worth while to conduct a short class and an installfest.
  * Tom asked if it might be worth while to use a generic password (1234) for the installfests and give each person a handout on how to change their password after the installation and updates.  He was tasked with coming up with such a handout.
