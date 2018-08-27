@@ -37,4 +37,8 @@ categories: meeting
  * Tom asked if it might be worth while to use a generic password (1234) for the installfests and give each person a handout on how to change their password after the installation and updates.  He was tasked with coming up with such a handout.
  * After the meeting, there is a birthday party for Jaidon at the Family Fun Center on Wilcox Drive.  All are invited.  It will start at 1630 and run until 1930.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-25_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-25_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-25_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_jaidonbirthdayparty-4.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rex_and_chris_playing_8_ball_1.jpg)
