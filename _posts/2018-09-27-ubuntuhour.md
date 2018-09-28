@@ -30,3 +30,8 @@ categories: meeting
  * Discussed the upcoming Installfest in Sierra Vista AZ on 3 November.
  * David demonstrated his telephone which is built like a Star Trek Communicator.
  * Helen wanted to give Devi three stars for his solution to her problem of reversing the scrolling feature on her mouse.
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_4.jpg)
