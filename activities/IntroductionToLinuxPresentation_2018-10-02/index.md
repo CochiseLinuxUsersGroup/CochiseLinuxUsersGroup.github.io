@@ -14,5 +14,5 @@ An Introduction To Linux slide presentation was conducted at the Sunsites branch
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2018-08-04" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/IntroductionTo LinuxPresentation" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/IntroductionToLinuxPresentation_2018-10-02" class="post-next">Next Post</a>
   </footer>
