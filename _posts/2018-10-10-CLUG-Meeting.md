@@ -5,7 +5,7 @@ date: 2018-10-10
 categories: meeting
 ---
 
-### Location: University of Arizona South Learning Resource Center 
+### Location: UA South, Learning Resource Center 
 
 ### Date: Wednesday, 10 October, 2018
 
