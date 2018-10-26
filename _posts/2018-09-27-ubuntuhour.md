@@ -31,7 +31,7 @@ categories: meeting
  * David Gose demonstrated his telephone which is built like a Star Trek communicator.
  * Helen had asked at a previous meeting how she could get her mouse to scroll in what she called a normal manner (the same way the wheel was moving).  Devi had given her a site (https://ubuntuforums.org/showthread.php?t=2390338) which explains how to change it.  Now she wants to give Devi three stars for his solution to her problem of reversing the scrolling feature on her mouse. Devi is really accumulating those stars. 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/sv_ubuntuhour_2018-09-27_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-09-27_4.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/sv_ubuntuhour_2018-09-27_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/sv_ubuntuhour_2018-09-27_4.jpg)
