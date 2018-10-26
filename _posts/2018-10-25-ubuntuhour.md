@@ -23,6 +23,7 @@ categories: meeting
 **Discussion:**
 
  * Discussed the 3 November installfest manning requirements and signed people up for times to insure that each period will be properly manned.
+ * Discussed the search engine DuckDuckGo and the use of Privacy Badger in FireFox.
  * Discussed the Linux Mint Release note that required user action if the home directory is installed encrypted.  Swap is configured improperly.  See https://www.linuxmint.com/rel_tara_cinnamon.php.  This action is required in all three Linux Mint releases; Cinnamon, xfce, and Mate.
  
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/LinuxMintReleaseNotes.png)
