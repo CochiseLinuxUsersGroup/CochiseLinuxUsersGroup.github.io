@@ -29,6 +29,7 @@ categories: meeting
  * Ubuntu by Rex Bouwense
  * It covered Ubuntu and its five officially supported  “flavors” 
  * The history, minimum install requirements, desktop, and default applications were discussed for each distribution.
+ * Slides from the presentation can be found at https://github.com/CochiseLinuxUsersGroup/Presentations.  Just look for Ubuntu.odp
 
 **Discussion/Problems/Questions:**
 
