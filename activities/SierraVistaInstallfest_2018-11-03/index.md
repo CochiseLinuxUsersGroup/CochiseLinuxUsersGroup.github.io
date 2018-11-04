@@ -5,7 +5,7 @@ date: 2018-11-03
 catagories: activities
 ---
 
-The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local Community Team, AZLOCO, conducted an Installation Festival on Saturday, 03 November at the Sierra Vista Public Library meeting room room.  Sixteen people attended the event which resulted in two installs (both Lubuntu 18.04.1).  A one on one traing session was conducted on Ubuntu and its flavors demonstrating what each application does.  Distributed Ubuntu stickers, lanyards, and pins as well as information about Free and Open Source Software and the local Linux groups.  Discussions were held on possible additional publicity for the next installfest and a location change for the 2019 installfests.
+The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local Community Team, AZLOCO, conducted an Installation Festival on Saturday, 03 November at the Sierra Vista Public Library meeting room room.  Sixteen people attended the event which resulted in two installs (both Lubuntu 18.04.1).  A one on one training session was conducted on Ubuntu and its flavors demonstrating what each application does and on Linux operating systems and how to choose the correct one for your computer.  Distributed Ubuntu stickers, lanyards, and pins as well as information about Free and Open Source Software and the local Linux groups.  Discussions were held on possible additional publicity for the next installfest and a location change for the 2019 installfests.
 
 **PREPARATIONS:**
 
