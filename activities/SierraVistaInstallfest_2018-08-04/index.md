@@ -7,9 +7,9 @@ catagories: activities
 
 The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local Community Team, AZLOCO, conducted an Installation Festival on Saturday, 04 August at the Sierra Vista Public Library Mona Bishop room.  Fourteen people attended the event which resulted in two installs (GalliumOS and Lubuntu).  In addition a BIOS was updated for an attendee.  Individuals were provided with information on Linux, AZLOCO, and CLUG.  Ubuntu SWAG was also distributed.
 
-**PREPERATIONS:**
+**PREPARATIONS:**
 
-* Coordination was done with Susan Abend, Adult Services Librarian, Leisure & Library Services, Sierra Vista Public Library, for use of the Mona Bishop room about four month in advance.  We also have the room for the 3 November Installfest.
+* Coordination was done with Susan Abend, Adult Services Librarian, Leisure & Library Services, Sierra Vista Public Library, for use of the Mona Bishop room about four months in advance.  We also have the room for the 3 November Installfest.
       
 * Publicizing the event started approximately two months before the event and took the form of flyers that were posted in various locations around town and the Education Center on Fort Huachuca, posting a notice in the Cochise Trading Post, posting a notice on the Sierra Vista Herald/Review’s on line web site (http://www.svherald.com/calendar/#/), and sending copies of the flyer to the CLUG mailing list for distribution to their friends and neighbors and at their places of employment and worship.
 
