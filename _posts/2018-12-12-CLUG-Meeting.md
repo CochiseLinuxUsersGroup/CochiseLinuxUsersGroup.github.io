@@ -36,22 +36,21 @@ categories: meeting
  * A gentleman, first name Bruce, from Bisbee recently became a follower of the Cochise Linux User Group Facebook page.  He wanted assistance with several projects in Tucson and Bisbee that would involve putting together a Linux network for him to provide Internet to customers at a price.  He was told him that the Group would not get involved but the would the question would be raised at our next meeting and if anyone was interested in assisting him they would contact him directly.  No one was interested in taking on that project.
  * Cody had a problem with successfully connecting two monitors while gaming because neither one of them had an HDMI connection and his tower only has only one DVI socket to connect one monitor.  Solutions offered in jest were buy a new monitor and get rid of Microsoft Windows.  David came up with the ultimate solution, at Peter Piper Pizza.  See below.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-12-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-12-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-12-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-12-12_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-12-12_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-12-12_6.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_12-12-2018_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_12-12-2018_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_12-12-2018_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_12-12-2018_4.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_12-12-2018_5.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_12-12-2018_6.jpg)
 
 **Aftermath:**
 
  * We retired to Peter Piper Pizza to enjoy some pizza and some additional conversation where David came up with the ultimate solution to Cody’s problem, a monitor with an HDMI connection which he presented to Cody (much to the displeasure of Lynn).
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_peter_piper_pizza_2018-12-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_peter_piper_pizza_2018-12-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_peter_piper_pizza_2018-12-12_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_peter_piper_pizza_12-12-2018_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_peter_piper_pizza_12-12-2018_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_peter_piper_pizza_12-12-2018_3.jpg)
 
  * David's solution to Cody's problem.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io//master/images/rsz_solution_to_codys_problem_12-12-2018.jpg
-
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_solution_to_codys_problem_12-12-2018.jpg)
