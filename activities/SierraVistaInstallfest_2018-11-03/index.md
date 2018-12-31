@@ -53,5 +53,5 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/IntroductionToLinuxPresentation_2018-10-02" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2018-11-03" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/TuxInTheSnow" class="post-next">Next Post</a>
   </footer>
