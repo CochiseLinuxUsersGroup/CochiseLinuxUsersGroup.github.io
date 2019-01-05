@@ -638,6 +638,7 @@ input[type="reset"].small,
 #header nav ul li > ul {
     display: none;
     list-style-type: none;
+    border-left: dotted 1px;
 }
 #header nav ul li a {
     border: solid 1px transparent;
@@ -647,6 +648,7 @@ input[type="reset"].small,
     padding: 0.6em 0.75em;
     text-decoration: none;
     list-style-type: none;
+    border-left: dotted 1px;
 }
 #header nav ul li input[type="button"],
 #header nav ul li input[type="submit"],
