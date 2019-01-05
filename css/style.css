@@ -633,6 +633,7 @@ input[type="reset"].small,
     display: inline-block;
     margin-left: 1.5em;
     list-style-type: none;
+    border-left: dotted 1px;
 }
 #header nav ul li > ul {
     display: none;
