@@ -330,6 +330,13 @@ input[type="email"] {
 .icon.circle.fa-dribbble:hover {
     background: #df93b8;
 }
+.icon.circle.fa-envelope {
+    background: #da83ae;
+    color: white;
+}
+.icon.circle.fa-envelope:hover {
+    background: #df93b8;
+}
 .icon.featured {
     cursor: default;
     display: block;
