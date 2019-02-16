@@ -19,7 +19,7 @@ title: Some of Our Members
 **IRC Nick**:  Deoxizn   
 **Bio**: Games on Windows 10 and Uses Antergos as a Daily Driver when not playing games or using Windows Only Applications. Currently in College for Network Technology and Dabbles in Cybersecurity and Web Development.   
 **Prefered Distro**: Antergos   
-**Prefered Desktop Envirorment**: xfce   
+**Prefered Desktop Environment**: xfce   
 **Contact**:  **[Website](http://deoxizn.com) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
 
 - - -
