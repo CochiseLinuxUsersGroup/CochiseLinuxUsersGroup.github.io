@@ -19,7 +19,7 @@ title: Some of Our Members
 **IRC Nick**:  Deoxizn   
 **Bio**: Games on Windows 10 and Uses Antergos as a Daily Driver when not playing games or using Windows Only Applications. Currently in College for Network Technology and Dabbles in Cybersecurity and Web Development.   
 **Prefered Distro**: Antergos   
-**Prefered Desktop Enviorment**: xfce   
+**Prefered Desktop Envirorment**: xfce   
 **Contact**:  **[Website](http://deoxizn.com) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
 
 - - -
@@ -41,7 +41,7 @@ title: Some of Our Members
 - - -
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rose.jpg "Rose's Photo"){: .members }
 # **Rose Leonard** - Grandma  
-**Bio**: She is the grandmother of Devi and Louie and is a novice when it comes to Linux but she is learning.  Currently has peppermint on her netbook.
+**Bio**: She is the grandmother of Devi and Louie and is a novice when it comes to Linux but she is learning.  Currently has Peppermint on her netbook.
 &nbsp;  
 &nbsp;  
 &nbsp;  
