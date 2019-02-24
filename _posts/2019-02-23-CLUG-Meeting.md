@@ -27,12 +27,13 @@ categories: meeting
  * There was a request for a presentation or rather a demonstration on how to recover a corrupted Grub file (computer will not boot).
 
 
-**Presentation:**  
+**Presentation:**
+
  * Email and Thunderbird by Rex Bouwense (slides can be seen at https://github.com/CochiseLinuxUsersGroup/Presentations/blob/master/Email_and_Thunderbird.odp)
 
 **Discussion/Problems/Questions:**
 
- *There is a possibility that the Group can set up a display at the UA South Family Day on 13 April 2019.  However, we will not be able to wear our CLUG shirts or display our CLUG and AZLOCO banners.  It is a UA South activity and not open to third party groups.  While we would qualify as a UA South activity, all signage, banners, shirts, etc must be UA specific.  After a lengthy discussion, it was decided not to participate.
+ * There is a possibility that the Group can set up a display at the UA South Family Day on 13 April 2019.  However, we will not be able to wear our CLUG shirts or display our CLUG and AZLOCO banners.  It is a UA South activity and not open to third party groups.  While we would qualify as a UA South activity, all signage, banners, shirts, etc must be UA specific.  After a lengthy discussion, it was decided not to participate.
  * There is a free lecture at the UA South on 26 February 1700-1830 at the Public Meeting Room in Groth Hall.  Subject:  Networking in the Federal Government.  Please RSVP to Dr John DeLalla as seating is limited.
  * Chris confirmed that we have permission to use the front room at Livia’s Coffee for our next installfest which will occur on 04 May 2019, 1100-1500.
  * CLUG T-shirts were distributed to the newer members of the group.
