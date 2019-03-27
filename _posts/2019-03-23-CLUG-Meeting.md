@@ -31,7 +31,7 @@ categories: meeting
  
 **Discussion/Problems/Questions:**
 
- * The question of data back-up was raised again because it was discussed on the mailing list email.  Hard drives do fail as do flash drives it was stressed that if you have data that must be saved you need to have two backups.  These should be to Cds/DVDs, flash drives, SD cards, external hard drives, or clouds.  It will do you no good to store your back-up on your computer’s hard drive if the hard drive fails.  Rex did mention that AZLOCO members are entitled to an initial 10 Gb storage on the Team’s NextCloud server.
+ * The question of data back-up was raised again because it was discussed on the mailing list email.  Hard drives do fail as do flash drives.  It was stressed that if you have data that must be saved you need to have two backups.  These should be to Cds/DVDs, flash drives, SD cards, external hard drives, or clouds.  It will do you no good to store your back-up on your computer’s hard drive if the hard drive fails.  Rex did mention that AZLOCO members are entitled to an initial 10 Gb storage on the Team’s NextCloud server.
  * Bill’s printer problem disappeared when he was given a donated HP printer which is working flawlessly.
  * Ted was still having problems signing up for the Group mailing list so we signed him up during the meeting.  If you are not getting a response from from cochiselinux after you send the request to be added please check your SPAM or junk folder.  Your email provider may think that the message is SPAM which was exactly what happened in this case.
  * The new individuals were provided with information on the Cochise Linux User Group, Ubuntu, FOSS equivalents to Microsoft applications, and some Ubuntu SWAG.
