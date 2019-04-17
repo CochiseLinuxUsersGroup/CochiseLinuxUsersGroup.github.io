@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 1 – SYSTEM INFORMATION
 # Display Linux system information
 uname -a
