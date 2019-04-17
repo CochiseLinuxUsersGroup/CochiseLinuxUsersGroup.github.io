@@ -1,5 +1,6 @@
 ---
 layout: default
+title: WebIRC Chat Room
 ---
 
 <header class="special container">
