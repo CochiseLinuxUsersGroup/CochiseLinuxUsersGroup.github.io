@@ -327,8 +327,22 @@ cd sourcecode<br>
 make<br>
 make install<br>
 <br>
+# Adding Repositories:<br>
+# Edit the sources list file, and add<br>
+sudo -H gedit /etc/apt/sources.list<br>
+<br>
+# add from terminal<br>
+sudo add-apt-repository <repository_name><br>
+sudo apt update<br>
+sudo apt install <application_name><br>
+<br>
+ # install via dpkg<br>       
+sudo dpkg -i <package_name>.deb <br>       
 <br>
 11 – SEARCH<br>
+# Search for an application.<br>
+apt search <application_name><br>
+        <br>
 # Search for pattern in file<br>
 grep pattern file<br>
 <br>
