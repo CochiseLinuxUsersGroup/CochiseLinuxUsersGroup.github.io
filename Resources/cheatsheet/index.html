@@ -3,7 +3,9 @@ layout: default
 title: Linux Command Cheat Sheet
 ---
 <br><br><br>
-1 – SYSTEM INFORMATION<br>
+<center>- <a href="#sysinfo">System Information</a>  |  <a href="#hwinfo">Hardware Information</a>  |  <a href="#perfstat">Performance Monitoring & Statistics</a>  |  <a href="#userinfo">User Inofrmation and Management</a>  |  <a href="#files">Files and Directory Commands</a>  |  <a href="#process">Process Management</a>  |  <a href="#fileperm">File Permissions</a>  |  <a href="#networking">Networking</a>  |  <a href="#archive">Archiving (TAR)</a>  |  <a href="#install">Installing Packages</a>  |  <a href="#search">Search</a>  |  <a href="#ssh">SSH Logins</a>  |  <a href="#filetrans">File Transfers</a>  |  <a href="#diskuse">Disk Usage</a>  |  <a href="#nav">Navigation</a>
+</center><br><br>
+1 – <a id="sysinfo">SYSTEM INFORMATION</a><br>
 # Display Linux system information<br>
 uname -a<br>
 <br>
@@ -38,7 +40,7 @@ w<br>
 whoami<br>
 <br>
 <br>
-2 – HARDWARE INFORMATION<br>
+2 – <a id="hwinfo">HARDWARE INFORMATION</a><br>
 # Display messages in kernel ring buffer<br>
 dmesg<br>
 <br>
@@ -70,7 +72,7 @@ hdparm -tT /dev/sda<br>
 badblocks -s /dev/sda<br>
 <br>
 <br>
-3 – PERFORMANCE MONITORING AND STATISTICS<br>
+3 – <a id="perfstat">PERFORMANCE MONITORING AND STATISTICS</a><br>
 # Display and manage the top processes<br>
 top<br>
 <br>
@@ -108,7 +110,7 @@ free -h<br>
 watch df -h<br>
 <br>
 <br>
-4 – USER INFORMATION AND MANAGEMENT<br>
+4 – <a id="userinfo">USER INFORMATION AND MANAGEMENT</a><br>
 # Display the user and group ids of your current user.<br>
 id<br>
 <br>
@@ -134,7 +136,7 @@ userdel john<br>
 usermod -aG sales john<br>
 <br>
 <br>
-5 – FILE AND DIRECTORY COMMANDS<br>
+5 – <a id="files">FILE AND DIRECTORY COMMANDS</a><br>
 # List all files in a long listing (detailed) format<br>
 ls -al<br>
 <br>
@@ -187,7 +189,7 @@ tail file<br>
 tail -f file<br>
 <br>
 <br>
-6 – PROCESS MANAGEMENT<br>
+6 – <a id="process">PROCESS MANAGEMENT</a><br>
 # Display your currently running processes<br>
 ps<br>
 <br>
@@ -222,7 +224,7 @@ fg<br>
 fg n<br>
 <br>
 <br>
-7 – FILE PERMISSIONS<br>
+7 – <a id="fileperm">FILE PERMISSIONS</a><br>
 <img src="https://www.linuxtrainingacademy.com/wp-content/uploads/2017/02/linux-permissions-chart.png"><br>
 Linux chmod example<br>
         PERMISSION      EXAMPLE<br>
@@ -247,7 +249,7 @@ Linux chmod example<br>
         - = no access<br>
         <br>
         <br>
-8 – NETWORKING<br>
+8 – <a id="networking">NETWORKING</a><br>
 # Display all network interfaces and ip address<br>
 ifconfig -a<br>
 <br>
@@ -285,7 +287,7 @@ wget http://domain.com/file<br>
 netstat -nutlp<br>
  <br>
 <br>
-9 – ARCHIVES (TAR FILES)<br>
+9 – <a id="archive">ARCHIVES (TAR FILES)</a><br>
 # Create tar named archive.tar containing directory.<br>
 tar cf archive.tar directory<br>
 <br>
@@ -305,7 +307,7 @@ tar cjf archive.tar.bz2 directory<br>
 tar xjf archive.tar.bz2<br>
 <br>
 <br>
-10 – INSTALLING PACKAGES<br>
+10 – <a id="install">INSTALLING PACKAGES</a><br>
 # Search for a package by keyword.<br>
 yum search keyword<br>
 <br>
@@ -340,7 +342,7 @@ sudo apt install <application_name><br>
  # install via dpkg<br>       
 sudo dpkg -i <package_name>.deb <br>       
 <br>
-11 – SEARCH<br>
+11 – <a id="search">SEARCH</a><br>
 # Search for an application.<br>
 apt search <application_name><br>
         <br>
@@ -360,7 +362,7 @@ find /home/john -name 'prefix*'<br>
 find /home -size +100M<br>
 <br>
 <br>
-12 – SSH LOGINS<br>
+12 – <a id="ssh">SSH LOGINS</a><br>
 # Connect to host as your local username.<br>
 ssh host<br>
 <br>
@@ -371,7 +373,7 @@ ssh user@host<br>
 ssh -p port user@host<br>
 <br>
 <br>
-13 – FILE TRANSFERS<br>
+13 – <a id="filetrans">FILE TRANSFERS</a><br>
 # Secure copy file.txt to the /tmp folder on server<br>
 scp file.txt server:/tmp<br>
 <br>
@@ -388,7 +390,7 @@ rsync -a /home /backups/<br>
 rsync -avz /home server:/backups/<br>
 <br>
 <br>
-14 – DISK USAGE<br>
+14 – <a id="diskuse">DISK USAGE</a><br>
 # Show free and used space on mounted filesystems<br>
 df -h<br>
 <br>
@@ -405,7 +407,7 @@ du -ah<br>
 du -sh<br>
 <br>
 <br>
-15 – DIRECTORY NAVIGATION<br>
+15 – <a id="nav">DIRECTORY NAVIGATION</a><br>
 <br>
 # To go up one level of the directory tree.  (Change into the parent directory.)<br>
 cd ..<br>
