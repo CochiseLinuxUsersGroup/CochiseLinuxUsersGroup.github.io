@@ -113,7 +113,8 @@ The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) de
   </ul>
 <br><Br>
 Modern Linux distributions include a /run directory as a temporary filesystem (tmpfs) which stores volatile runtime data, following the FHS version 3.0. According to the FHS version 2.3, such data were stored in /var/run but this was a problem in some cases because this directory is not always available at early boot. As a result, these programs have had to resort to trickery, such as using /dev/.udev, /dev/.mdadm, /dev/.systemd or /dev/.mount directories, even though the device directory isn’t intended for such data.Among other advantages, this makes the system easier to use normally with the root filesystem mounted read-only. For example, below are the changes Debian made in its 2013 Wheezy release:<br>
-<ul>
+<br>
+  <ul>
 <li>/dev/.* ? /run/*</li>
 <li>/dev/shm ? /run/shm</li>
 <li>/dev/shm/* ? /run/*</li>
