@@ -35,7 +35,7 @@ categories: meeting
  * Discussed the upcoming Installfest on 04 May at Livia’s Coffee 1100-1500.
  * Announced the release of Ubuntu 19.04 which is an interim release only supported for 9 months.  There are no more 32 bit releases for any of the Ubuntu flavors so the search for a “go to” distro continues.  The next candidate may be ToriOS by Rex Bouwense.
  * Announced the presence of the Zero Tolerance Network slides on our website.  They are in PDF format.
- * There was a brief discussion of Eli’s question raised on the mailing list about his inability to get VLC to play a DVD.  It worked under 16.04 which had a Unity Desktop.  He installed 18.04 and then installed the Unity desktop on top of it.  He was offered several solutions. VLC works as expected on the gnone desktop and other players work as expected on other desktops and distros.  Occasionally desktop environments do not play well with each other when installed together.
+ * There was a brief discussion of Eli’s question raised on the mailing list about his inability to get VLC to play a DVD.  It worked under 16.04 which had a Unity Desktop.  He installed 18.04 and then installed the Unity desktop on top of it.  He was offered several solutions. VLC works as expected on the gnome desktop and other players work as expected on other desktops and distros.  Occasionally desktop environments do not play well with each other when installed together.
 
 
 **Aftermath:**
