@@ -65,7 +65,7 @@ title: Some of Our Members
 - - -
 
 # **Jaidon Braswell** - Member
-**Bio**:  A 12 year old student who uses Ubuntu as his primary Operating Systems.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
+**Bio**:  A 12 year old student who uses Ubuntu as his primary Operating System.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
  
 
 _**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
