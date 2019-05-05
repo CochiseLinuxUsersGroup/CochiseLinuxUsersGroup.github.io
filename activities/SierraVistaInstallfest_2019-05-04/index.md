@@ -6,6 +6,7 @@ catagories: activities
 ---
 
 The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local Community Team, AZLOCO, conducted an Installation Festival on Saturday, 04 May at Livia’s Coffee, 2480 E. Wicox Dr., Sierra Vista AZ.  Fourteen people attended the event which resulted in two installs (Both Xubuntu). Preparations for a dual boot with Microsoft Windows 7 were discussed. Distributed Ubuntu stickers, lanyards, and pins as well as information about Free and Open Source Software, AZLOCO and the local Linux group.
+
 **PREPARATIONS:**
 
 * Coordination was done with Ashley at Livia’s Coffee for use of their meeting room on 23 February 2019.
