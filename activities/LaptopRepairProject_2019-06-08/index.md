@@ -31,6 +31,8 @@ The Cochise Linux User Group, CLUG, conducted a Laptop Repair Session on Saturda
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_3.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_4.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_5.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_6.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_7.jpg)
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/SierraVistaInstallfest_2019-05-04" class="post-prev">Previous Post</a>
