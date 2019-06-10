@@ -9,7 +9,7 @@ The Cochise Linux User Group, CLUG, conducted a Laptop Repair Session on Saturda
 
 **PREPARATIONS:**
 
-* Ted had secured some used laptop computers at a University of Arizona auction and wanted to see if the group members could get them working, install a Linux operating system on them, and then donated them.  
+* Ted had secured some used laptop computers at a University of Arizona auction and wanted to see if the group members could get them working, install a Linux operating system on them, and then donate them.  
 * There were plenty of laptop power supplies, extra RAM, and extra hard drives on hand.
 
 **ACTIVITIES:**
