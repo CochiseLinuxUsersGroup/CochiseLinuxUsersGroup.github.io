@@ -29,7 +29,7 @@ categories: meeting
 
 **Presentation:**
 
- * Why you should switch to a Linux Operating System by Rex Bouwense
+ * Why you should switch to a Linux Operating System by Rex Bouwense.  The slides are at our website https://github.com/CochiseLinuxUsersGroup/Presentations.
 
 **Discussion/Problems/Questions:**
 
