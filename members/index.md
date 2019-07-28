@@ -34,8 +34,8 @@ title: Some of Our Members
 
 # **C.G. Braswell** - Member  
 **IRC Nick**:  (varies, sometimes "paperbackwriter")  
-**Bio**: A novelist and indy publisher.  
-**Prefered Distro**: Ubuntu 16.xx  
+**Bio**: A novelist and independent publisher.  
+**Prefered Distro**: Ubuntu 18.04  
 **Contact**:   **[email](mailto:chris.braswell@fusepowder.com)**
 
 - - -
@@ -65,7 +65,7 @@ title: Some of Our Members
 - - -
 
 # **Jaidon Braswell** - Member
-**Bio**:  A 12 year old student who uses Ubuntu as his primary Operating System.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
+**Bio**:  A 13 year old student who uses Ubuntu as his primary Operating System.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
  
 
 _**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
