@@ -46,6 +46,11 @@ categories: meeting
  
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_1rsz_clug_mtg_2019-08-24_1.jpg) 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_1rsz_clug_mtg_2019-08-24_2.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_1rsz_clug_mtg_2019-08-24_3.jpg) 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_1rsz_clug_mtg_2019-08-24_3.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-08-24_4.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-08-24_5.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-08-24_6.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-08-24_7.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-08-24_8.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_1rsz_clug_at_vinneys_2019-08-24_1.jpg) 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_1rsz_clug_at_vinneys_2019-08-24_3.jpg) 
