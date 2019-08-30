@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warrior Healing Center Linux Computer Lab"
-date: 2019-08-03 to 2019-08-26
+date: 2019-08-26
 catagories: activities
 ---
 
