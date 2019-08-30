@@ -37,5 +37,5 @@ The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Work
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/LaptopRepairProject_2019-06-08" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/ComputerRepairInstallWorkshop_2019-08-03" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/WarriorHealingCenterLinuxComputerLab_2019-08-26" class="post-next">Next Post</a>
   </footer>
