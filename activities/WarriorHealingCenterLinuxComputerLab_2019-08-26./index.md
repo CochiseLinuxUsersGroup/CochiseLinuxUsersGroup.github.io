@@ -9,6 +9,9 @@ On 26 August 2019, the Cochise Linux User Group in conjuction with the Ubuntu Ar
 
 ![alt text(https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_banner.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_azloco_banner.jpg)
+![alt text(https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_warriorhealingcentercomputerlab_2019-08-29_1.jpg)
+![alt text(https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_warriorhealingcentercomputerlab_2019-08-29_2.jpg)
+![alt text(https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_warriorhealingcentercomputerlab_2019-08-29_3.jpg)
 
 
 <footer>
