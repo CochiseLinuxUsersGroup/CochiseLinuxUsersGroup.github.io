@@ -15,5 +15,5 @@ On 26 August 2019, the Cochise Linux User Group in conjuction with the Ubuntu Ar
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/ComputerRepairInstallWorkshop_2019-08-03" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/WarriorHealingCenterLinuxComputerLab_2019-08-26" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/IntroductionToLinuxPresentation_2019-08-29" class="post-next">Next Post</a>
   </footer>
