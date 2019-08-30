@@ -5,7 +5,7 @@ date: 2019-08-03 to 2019-08-26
 catagories: activities
 ---
 
-On 26 August 2019, the Cochise Linux User Group in Conjuction with the Ubuntu Arizona Local Community Team finished setting up a Linux computer lab for the Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista, AZ.  All four of the computers were donated, renovated by members of the two organizations, and had Ubuntu 18.04 or Xubuntu 18.04 installed.  They are intended to be used by veterans from the local communities who otherwise have no access to a computer.
+On 26 August 2019, the Cochise Linux User Group in conjuction with the Ubuntu Arizona Local Community Team finished setting up a Linux computer lab for the Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista, AZ.  All four of the computers were donated, renovated by members of the two organizations, and had Ubuntu 18.04 or Xubuntu 18.04 installed.  They are intended to be used by veterans from the local communities who otherwise have no access to a computer.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/ 	rsz_clug_banner.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/ 	rsz_azloco_banner.jpg)
