@@ -5,11 +5,11 @@ date: 2019-08-03
 catagories: activities
 ---
 
-The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Workshop on Saturday, 03 August 2019 at the Verteran Synergy Center, 1838 Paseo San Luis, Sierra Vista AZ.  Eleven people attended the event.
+The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Workshop on Saturday, 03 August 2019 at the Warrior Healin Center, 1838 Paseo San Luis, Sierra Vista AZ.  Eleven people attended the event.
 
 **PREPARATIONS:**
 
- * Reserved the conference room at the Veteran Synergy Center.  Since very little activity occurs there on the weekends, this was relatively easy to do.  Merely signed up on the sheet attached to the door.
+ * Reserved the conference room at the Warrior Healing Center.  Since very little activity occurs there on the weekends, this was relatively easy to do.  Merely signed up on the sheet attached to the door.
  * Moved the laptops and spare parts to the Center.
  * Sent notice to the mailing list and made an announcement at the CLUG meeting.
  * The workshop was also publicized on the Center’s Facebook page.
