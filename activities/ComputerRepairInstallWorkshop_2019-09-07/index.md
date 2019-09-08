@@ -5,7 +5,7 @@ date: 2019-09-07
 catagories: activities
 ---
 
-The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Workshop on Saturday, 07 September 2019 at the Waarrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ.  Fourteen people attended the event.  Six were new.
+The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Workshop on Saturday, 07 September 2019 at the Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ.  Fourteen people attended the event.  Six were new.
 
 
 **PREPARATIONS:**
@@ -19,7 +19,7 @@ The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Work
  * The event was held from 1000-1500 on Saturday 07 September 2019.  We had initially planned on only four hours but it ran over because of an on going install and updates.
  * There were 6 installs (5 Ubuntu, 1 Xubuntu).
  * Three computers were completed to the extent that they are ready to be donated.  An additional two have already been installed in the Center’s computer lab to bring the total there to four. The sixth computer was retained by the owner.
- * Distributed install media and information on Linux, Ubuntu, AZLOCO, and CLUG were distrubuted to the new individuals.
+ * Distributed install media and information on Linux, Ubuntu, AZLOCO, and CLUG to the new individuals.
  * Many questions on Linux in general and Ubuntu specifically were answered.
 
 **LESSONS LEARNED:**
