@@ -21,7 +21,7 @@ categories: meeting
 
 **Presentation:**
 
- *Working with Libre Office by Rex Bouwense
+ * Working with Libre Office by Rex Bouwense
 
 **Discussion/Problems/Questions:**
 
