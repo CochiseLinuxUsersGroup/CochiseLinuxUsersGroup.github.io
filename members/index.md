@@ -60,7 +60,7 @@ title: Some of Our Members
 - - -
 
 # **Cody Roehsler** - Member
-**Bio**:  A 15 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
+**Bio**:  A 16 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
 
 - - -
 
