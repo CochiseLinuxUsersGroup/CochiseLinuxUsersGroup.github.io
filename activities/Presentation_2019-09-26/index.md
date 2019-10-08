@@ -18,5 +18,5 @@ A "Why You Should Switch to Linux" presentation was conducted on 26 September 20
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/ComputerRepairInstallWorkshop_2019-09-07" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/Presentation_2019-09-26" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/ComputerPresentation_2019-10-07" class="post-next">Next Post</a>
   </footer>
