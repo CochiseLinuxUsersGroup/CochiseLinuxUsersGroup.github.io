@@ -14,5 +14,5 @@ A computer with Ubuntu 18.04.3 installed was presented to Rusty at the Warrior H
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/Presentation_2019-09-26" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/ComputerPresentation_2019-10-07" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/Installfest_2019-11-02" class="post-next">Next Post</a>
   </footer>
