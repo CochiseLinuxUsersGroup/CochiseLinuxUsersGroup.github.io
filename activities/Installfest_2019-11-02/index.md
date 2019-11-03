@@ -32,12 +32,10 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_5.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_7.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_laptopdonation_whc-1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_laptopdonation_whc-2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_laptopdonation_whc-3.jpg)
+
 
 <footer>
-<a href="http://cochiselinuxusergroup.org/activities/ComputerPresentation_2019-10-07" class="post-prev">Previous Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/WarriorHealingCenterOperationsCenterAssistance_2019-11-01" class="post-prev">Previous Post</a>
 <a href="http://cochiselinuxusergroup.org/activities/Installfest_2019-11-02" class="post-next">Next Post</a>
   </footer>
 
