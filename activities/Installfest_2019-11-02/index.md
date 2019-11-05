@@ -32,6 +32,7 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_5.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_7.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_6.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_modpizza_2019-11-02_1.jpg)
 
 
 <footer>
