@@ -23,7 +23,7 @@ categories: meeting
  * Ubuntu 20.04, Focal Fassa will be released on 23 April 2020.
  * Discussed the support that we have provided the Warrior Healing Center.
  * Discussed the possibility of a Tails presentation to be given at a future date.
- * Gene displayed a Timex Sinclare 1000 (a gaming computer circa 1982) which his family has had in their possession from that period.
+ * Gene displayed a Timex Sinclair 1000 (computer circa 1982) which his family has had in their possession from that period.
  * Request for “what to do after installing” web sites to be posted for easy access. https://easylinuxtipsproject.blogspot.com/p/2.html.
  * Discussed how to restore the theme options to Linux Mint 19 that they removed. https://forums.linuxmint.com/viewtopic.php?t=272414 and https://forums.linuxmint.com/viewtopic.php?f=208&t=272414.
  * Discussed PenDrive Linux.  You can put numerous tools on a flash drive for Linux distributions.
