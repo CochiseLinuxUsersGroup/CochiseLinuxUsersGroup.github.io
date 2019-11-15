@@ -26,6 +26,7 @@ categories: meeting
  * Gene displayed a Timex Sinclare 1000 (a gaming computer circa 1982) which his family has had in their possession from that period.
  * Request for “what to do after installing” web sites to be posted for easy access. https://easylinuxtipsproject.blogspot.com/p/2.html.
  * Discussed how to restore the theme options to Linux Mint 19 that they removed. https://forums.linuxmint.com/viewtopic.php?t=272414 and https://forums.linuxmint.com/viewtopic.php?f=208&t=272414.
+ * Discussed PenDrive Linux.  You can put numerous tools on a flash drive for Linux distributions.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_2.jpg)
