@@ -34,13 +34,13 @@ categories: meeting
  * The color of the new CLUG caps was also discussed, with black, grey, and light blue being the nominees.  A decision will be made at the next meeting in January.
  * The next free lecture at the University of Arizona South will be on 27 January at 1730 in Groth Hall's public meeting room and will be on "Self Driving Car Security".
  * Ubuntu Cinnamon Remix was released on 04 December.  It is not an official version or supported by Cannonical, but it is based on Ubuntu 19.10.
- * Linux Mint 19.3 (Tricia) was released ion 18 December.
+ * Linux Mint 19.3 (Tricia) was released on 18 December.
  * An successful installation of Ubuntu 18.04.3 was conducted for one of our new people on his laptop.
  * Information on the Cochise Linux User Group, Free and Open Source applications, and some Ubuntu SWAG were distributed to the two new individuals.
  
 **Aftermath:**
 
- * We adjourned the meeting after the successful installation and reconvened at Peter Piper Pizza for some pizza and additional discussion of Linux and non-Linux topic.
+ * We adjourned the meeting after the successful installation and reconvened at Peter Piper Pizza for some pizza and additional discussion of Linux and non-Linux topics.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-12-28_2.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-12-28_1.jpg)
