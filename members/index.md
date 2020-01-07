@@ -19,7 +19,7 @@ title: Some of Our Members
 **IRC Nick**:  Deoxizn   
 **Bio**: Games on Windows 10 and Uses Arch Based Distros as a Daily Driver when not playing games or using Windows Only Applications.  
 **Prefered Distro**: Arch based  
-**Prefered Desktop Environment**: xfce, openbox, awesome   
+**Prefered Desktop Environment**: kde   
 **Contact**:  **[Website](https://z0mbiexx.github.io) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
 
 - - -
@@ -59,13 +59,10 @@ title: Some of Our Members
 
 - - -
 
-# **Cody Roehsler** - Member
-**Bio**:  A 16 year old high school student who uses Ubuntu on his current computer and Virtual Machine to test and experiment with other Linux Operating Systems.  He is an avid gamer and is building his own gaming machine.
-
-- - -
-
 # **Jaidon Braswell** - Member
 **Bio**:  A 13 year old student who uses Ubuntu as his primary Operating System.  He is a self taught coder and experiments with other Linux Operating Systems as they release new versions.
+ 
+ 
  
 
 _**This member list is opt in. Please contact Devi or Rex if you wish to be added.**_
