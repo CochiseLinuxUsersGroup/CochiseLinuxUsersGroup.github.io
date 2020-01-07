@@ -17,7 +17,7 @@ title: Some of Our Members
 # **Devi [David] Garcia** - Admin
 
 **IRC Nick**:  Deoxizn   
-**Bio**: Games on Windows 10 and Uses Arch Based Distros as a Daily Driver when not playing games or using Windows Only Applications.  
+**Bio**: Games on Windows 10 and Uses Arch Based Distros as a Daily Driver when not playing games or using Windows Only Applications. Also runs the local computer shop in town fixing and building computers for users.  
 **Prefered Distro**: Arch based  
 **Prefered Desktop Environment**: KDE   
 **Contact**:  **[Website](https://z0mbiexx.github.io) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
