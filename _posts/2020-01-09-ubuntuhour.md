@@ -22,7 +22,7 @@ categories: meeting
 
  * Discussed the upcoming Installfest and the preparations for it.
  * Gene discussed the possibility of obtaining some donated laptops.  He will report back with the results.
- * A question was raised concerning how to create multiple launchers for Firefox that would go to specific URLs when launched which was answered.
+ * A question was raised concerning how to create multiple launchers for Firefox that would go to specific URLs when launched. The easiest way is to launch FireFox and select Edit and then Preferences from the drop down menu.  Under Home select Custom URLs under Home Page and New Windows.  Then place the desired URLs in the blank.  That way when ever FireFox is launched those URLs will open up in a separate Tab or Window. 
  * An individual who had purchased a computer with Ubuntu installed asked for assistance in how to do some simple tasks in Linux.  We discussed that at length.
  
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_1.jpg)
