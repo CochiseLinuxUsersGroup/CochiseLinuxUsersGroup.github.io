@@ -28,7 +28,7 @@ title: Some of Our Members
 **IRC Nick**:  nuggyg  
 **Bio**: Louie Garcia aka nuggyg. A fairly new linux user who is in it for the security.  Has a firefighting background and has a famous quote "I'm just a blue collar guy training for a white collar job!"  
 **Prefered Distro**: KaliLinux  
-**Contact**:  **[twitter](https://twitter.com/nuggy_g){:target="_blank"} **
+**Contact**:  [twitter](https://twitter.com/nuggy_g){:target="_blank"} 
 
 - - -
 
