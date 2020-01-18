@@ -20,7 +20,7 @@ title: Some of Our Members
 **Bio**: Uses Manjaro at work for a work laptop and Windows for a Home OS for Gaming, also runs the local computer shop in town fixing and building computers.  
 **Prefered Distro**: Arch based  
 **Prefered Desktop Environment**: KDE   
-**Contact**:  **[Website](https://z0mbiexx.github.io) &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx) &brvbar; [twitter](https://twitter.com/z0mbiexx) &brvbar; [google+](https://plus.google.com/u/0/114554287269046116654 ) &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
+**Contact**:  **[Website](https://z0mbiexx.github.io){:target="_blank"}  &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx){:target="_blank"}   &brvbar; [twitter](https://twitter.com/z0mbiexx){:target="_blank"}  &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
 
 - - -
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/louie.jpg "Louie's Photo"){: .members }
@@ -28,7 +28,7 @@ title: Some of Our Members
 **IRC Nick**:  nuggyg  
 **Bio**: Louie Garcia aka nuggyg. A fairly new linux user who is in it for the security.  Has a firefighting background and has a famous quote "I'm just a blue collar guy training for a white collar job!"  
 **Prefered Distro**: KaliLinux  
-**Contact**:  **[twitter](https://twitter.com/nuggy_g) &brvbar; [google+](https://plus.google.com/u/0/107489447128690285761)**
+**Contact**:  **[twitter](https://twitter.com/nuggy_g){:target="_blank"} **
 
 - - -
 
