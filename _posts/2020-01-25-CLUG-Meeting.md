@@ -42,7 +42,7 @@ categories: meeting
 
 **Aftermath:**
  
- * We ajourned to Street Tacos for some tacos and some additional conversation.
+ * We adjourned to Street Tacos for some tacos and some additional conversation.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_2.jpg)
