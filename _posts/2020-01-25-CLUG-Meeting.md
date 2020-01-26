@@ -28,6 +28,7 @@ categories: meeting
 
  * Expected release of Ubuntu 18.04.4 is 7 February
  * If you have a computer that has the dreaded supervisor/BIOS/power-on password and that password has been lost or forgotten. There is a way to backdoor it in most models.  When you attempt to log on you will get a message that you need to enter the password.  After three unsuccessful attempts you will generally be given an error code.  Copy it down and go to https://bios-pw.org and follow the instructions  Enter the failure code and you will be given the backdoor password.  Obviously, you need another computer to do that.
+ * Gene announced that this week he should have definite information on additional computers that might be donated to the Group.  When we have a definite date we will schedule a Linux Workshop to make them ready for repair/Linux installation/donation to individuals and or groups.
  * The Group has 5 computers ready to be donated (a Dell Latitude, 2 Gateways, a Toshiba,and an HP).  A sixth one has already been donated.
  
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_computerdonation.jpg)
