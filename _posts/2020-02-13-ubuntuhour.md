@@ -23,7 +23,7 @@ categories: meeting
 
  * Discussed the release of Ubuntu 18.04.4 on 06 February and the update of all of our install media which has been completed in anticipation of our installation festival on 04 April.
  * A question was raised concerning an Epson Artisan series 830 printer.  Apparently it prints normally with a Microsoft Windows computer but prints very dark with Linux Mint computer on the same network.  One solution was offered to download and install the recommended Linux driver on the Linux machine.
- * Discussed the Endeavour Linux update process  which apparently uses a PacMan icon to gobble up the dots as it is updating.
+ * Discussed the EndeavourOS update process  which apparently uses a PacMan icon to gobble up the dots as it is updating.
  * A donated computer was given to one of the members who was in need of a laptop.
  
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-02-13_1.jpg)
