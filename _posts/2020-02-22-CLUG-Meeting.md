@@ -23,7 +23,7 @@ categories: meeting
  
  * The Contents of Some Linux Files by Rex Bouwense, TBD
  * How to build a computer by Ted Janecki, TBD
- * Robo Lin ux by Tim Kirk, TBD
+ * Robo Linux by Tim Kirk, TBD
  * Post Installation Activities by Rex Bouwense, TBD
  
 **Presentation:**
