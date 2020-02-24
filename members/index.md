@@ -17,7 +17,7 @@ title: Some of Our Members
 # **Devi [David] Garcia** - Admin
 
 **IRC Nick**:  Deoxizn   
-**Bio**: Uses Manjaro at work for a work laptop and Windows for a Home OS for Gaming, also runs the local computer shop in town fixing and building computers.  
+**Bio**: Windows user full time but when does use linux its usually a arch based OS... sometimes Solus.. or some other obscure random distro im checking out.   
 **Prefered Distro**: Arch based  
 **Prefered Desktop Environment**: XFCE   
 **Contact**:  **[Website](https://z0mbiexx.github.io){:target="_blank"}  &brvbar; [Steam](https://steamcommunity.com/id/z0mbiexx){:target="_blank"}   &brvbar; [twitter](https://twitter.com/z0mbiexx){:target="_blank"}  &brvbar; [email](mailto:asphyxiated.god@gmail.com)**
