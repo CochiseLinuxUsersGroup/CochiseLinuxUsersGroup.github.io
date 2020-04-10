@@ -37,7 +37,7 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
 <footer>
 <a href="http://cochiselinuxusergroup.org/activities/WarriorHealingCenterOperationsCenterAssistance_2019-11-01" class="post-prev">Previous Post</a>
-<a href="http://cochiselinuxusergroup.org/activities/Installfest_2019-11-02" class="post-next">Next Post</a>
+<a href="http://cochiselinuxusergroup.org/activities/Donated_Computers" class="post-next">Next Post</a>
   </footer>
 
 
