@@ -5,7 +5,7 @@ date: 2020-04-09
 categories: meeting
 ---
 
-### Location: Big Blue Button (https://bbb.azloco.net)
+### Location: Big Blue Button
 
 ### Date: Thursday, April 09, 2020
 
