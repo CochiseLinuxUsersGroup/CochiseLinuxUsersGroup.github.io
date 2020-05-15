@@ -15,7 +15,7 @@ categories: meeting
 
 **Upcoming Events:**
 
- * 23 May, CLUG Meeting, 1300-1545, Bib Blue Button, https://bbb.azloco.net
+ * 23 May, CLUG Meeting, 1300-1545, Big Blue Button, https://bbb.azloco.net
  * 11 June, Sierra Vista Ubuntu Hour, Schlotzsky's Cafe, 1800-1900, 3900 Fry Blvd, Sierra Vista.  Tentative depending upon the Covid-19 situation.  May be conducted on Big Blue Button.
  
 **Discussion:**
