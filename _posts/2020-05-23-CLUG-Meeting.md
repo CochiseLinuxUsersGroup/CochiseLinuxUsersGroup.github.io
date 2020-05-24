@@ -35,7 +35,7 @@ categories: meeting
 **Presentation:**
 
  * Using GParted by Rex Bouwense
- * Slises are available on our website at https://github.com/CochiseLinuxUsersGroup/Presentations
+ * Slides are available on our website at https://github.com/CochiseLinuxUsersGroup/Presentations
 
 **Discussion/Problems/Questions:**
 
