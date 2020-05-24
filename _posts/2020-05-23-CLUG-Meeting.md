@@ -40,7 +40,7 @@ categories: meeting
 **Discussion/Problems/Questions:**
 
  * How To Reset Sudo Password In Ubuntu 20.04 LTS, https://www.ostechnix.com/how-to-reset-sudo-password-in-ubuntu-20-04-lts/
- * A member wanted to install an older version of a program that he had installed.  He was advised that it may not have any security patches that updates may have installed and advised how to do it.
+ * A member wanted to install an older version of a program that he had installed.  He was advised that it may not have any security patches that updates may have installed.  He was advised how to do it with that warning.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-05-23_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-05-23_2.jpg)
