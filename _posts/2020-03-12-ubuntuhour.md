@@ -37,4 +37,4 @@ For Ubuntu: https://fossbytes.com/things-to-do-after-installing-ubuntu/
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_3.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_4.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_6.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_6a.jpg)
