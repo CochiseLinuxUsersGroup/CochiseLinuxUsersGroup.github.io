@@ -5,7 +5,7 @@ date: 2020-08-22
 categories: meeting
 ---
 
-### Location: Warrior Healing Center
+### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista
 
 ### Date: Saturday, 22 August, 2020
 
