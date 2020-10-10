@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Donated Computers"
-date:   2020-04-01
+date:   2020-04-09
 categories: Meeting
 ---
 
