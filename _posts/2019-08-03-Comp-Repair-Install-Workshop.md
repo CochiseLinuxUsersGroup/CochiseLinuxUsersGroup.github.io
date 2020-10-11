@@ -5,7 +5,7 @@ date: 2019-08-03
 categories: Meeting
 ---
 
-The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Workshop on Saturday, 03 August 2019 at the Warrior Healin Center, 1838 Paseo San Luis, Sierra Vista AZ.  Eleven people attended the event.
+The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Workshop on Saturday, 03 August 2019 at the Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ.  Eleven people attended the event.
 
 **PREPARATIONS:**
 
