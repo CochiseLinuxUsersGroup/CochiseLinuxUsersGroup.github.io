@@ -5,7 +5,7 @@ date: 2020-10-24
 categories: meeting
 ---
 
-### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista
+### Location: 143 Street Tacos, 80 S. Carmichael Ave., Sierra Vista
 
 ### Date: Saturday, 24 October, 2020
 
@@ -41,3 +41,5 @@ categories: meeting
 
 **Aftermath:**
  * While some of the members enjoyed the great Mexican food before the meeting and even during the meeting, there were some that waited until the meeting was concluded to get together and eat and continue discussing flash drives and their use.
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_1.jpg)
