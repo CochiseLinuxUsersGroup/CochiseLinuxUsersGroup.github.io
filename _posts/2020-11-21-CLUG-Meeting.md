@@ -27,12 +27,11 @@ categories: meeting
  * The second point release for Ubuntu 20.04 is due in January of next year.
 
 **Presentation:**
-        ◦ How to install Ubuntu to a flash drive by Rex Bouwense.
-        ◦ If you missed it, see https://askubuntu.com/questions/1217832/how-to-create-a-full-install-of-ubuntu-20-04-to-usb-device-step-by-step for step by step tutorial.
+ * How to install Ubuntu to a flash drive by Rex Bouwense.
+ * If you missed it, see https://askubuntu.com/questions/1217832/how-to-create-a-full-install-of-ubuntu-20-04-to-usb-device-step-by-step for step by step tutorial.
 
 **Discussion/Problems/Questions:**
-        ◦ A member asked why his flash drive that was made at last month’s meeting would not boot. He was walked through the procedures to get it to boot from the flash drive.
+ * A member asked why his flash drive that was made at last month’s meeting would not boot. He was walked through the procedures to get it to boot from the flash drive.
           
 **Aftermath:**
-
- *In reality we ate before, during, and after the meeting.  The tacos were great although one member choose a Sonoran Dog.  (Excellent choice as well.)
+ * In reality we ate before, during, and after the meeting.  The tacos were great although one member choose a Sonoran Dog.  (Excellent choice as well.)
