@@ -18,7 +18,7 @@ categories: meeting
  * 19 December, CLUG Meeting, 1300-1545, 143 Street Tacos, 80 S. Carmichael Ave., Sierra Vista (Note the date change - the 3rd Saturday in lieu of the 4th Saturday because of the Christmas holidays.) 
 
 **Future Presentations:**
- * How to use Rescue Zilla to back up and restore your system, TBA.
+ * How to use Rescuezilla to back up and restore your system, TBA.
  * How to set up and use Ventoy as a multiboot flash drive, TBA.
  * Robo Linux by Tim Kirk, TBA
 
