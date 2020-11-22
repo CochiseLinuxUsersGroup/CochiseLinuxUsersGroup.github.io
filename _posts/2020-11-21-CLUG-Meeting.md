@@ -23,7 +23,7 @@ categories: meeting
  * Robo Linux by Tim Kirk, TBA
 
 **Recent Linux/FOSS News Items:** 
- * There is a new kernal released, 5.10 rc4.  (Released on 16 November).  Thank you Linus.
+ * There is a new kernel released, 5.10 rc4.  (Released on 16 November).  Thank you Linus.
  * The second point release for Ubuntu 20.04 is due in January of next year.
 
 **Presentation:**
