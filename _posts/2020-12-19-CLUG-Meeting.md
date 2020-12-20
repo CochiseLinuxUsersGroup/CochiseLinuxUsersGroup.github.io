@@ -35,7 +35,7 @@ categories: meeting
  * https://rescuezilla.com/
  * The slides are available on our web site:  https://github.com/CochiseLinuxUsersGroup/Presentations 
 
-**Discussion/Problems/Questions:
+**Discussion/Problems/Questions:**
  * Raffle tickets were passed out to the guests eating at 143 Street Tacos.  The drawing was held at at 1400 and Annette was the lucky winner of a free renovated IBM R52 Thinkpad with a Linux OS installed
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerannette_2020-12-19_1.jpg)
