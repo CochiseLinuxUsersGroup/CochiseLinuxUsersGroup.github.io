@@ -15,7 +15,8 @@ categories: meeting
 
 **Upcoming Events:**
  * 27 March, CLUG Meeting, 1300-1500, 143 Street Tacos, 80 S. Carmichael Ave., Sierra Vista
- * 08 April, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
+ * 08 April, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
+ * 10 April, Linux Workshop, 1000-1300, Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista
 
 **Discussion:**
  * Discussed the new Ubuntu Installer to be previewed with the 21.10 release.  The Repair Installation option on the welcome page is probably the big addition.
