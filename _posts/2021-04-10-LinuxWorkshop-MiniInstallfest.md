@@ -7,10 +7,10 @@ categories: Meeting
 
 The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local Community Team, AZLOCO, conducted a Linux Workshop/Mini-Installation Festival on Saturday, 10 April 2021 at the Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ.  Nine people attended the event.  The purpose was to install Ubuntu 20.04 on the 3 desktop computers that were donated to the group.  In order to give the newer members of the group some experience in installation and post installation activities they were the ones that did the work supervised by the more experienced members.  These installations were completed with only one minor issue (a mini-install was conducted instead of a full install), which was corrected later.  We also had to add RAM to one of the computers to bring the the total to 4 Gbs.  A test was also preformed on the new draft Post Installation Instructions.  Deficiencies were corrected and the document has been modified.
 
-**PREPERATIONS:**
+**PREPARATIONS:**
 
  * The wired and wireless internet at the Warrior Healing Center is more than adequate for the conduct of our installfests.
- * The group has additional switches, a spare monitor, spare VGA and DVI cords, spare power cords, two spare keyboards (one of which has a P2 connector), and a spare mouse should any be required because an individual failed to bring the necessary equipment.
+ * The group has additional switches, a spare monitor, spare VGA and DVI cables, spare power cables, two spare keyboards (one of which has a P2 connector), and a spare mouse should any be required because an individual failed to bring the necessary equipment.
 
 **LESSONS LEARNED:**
 
