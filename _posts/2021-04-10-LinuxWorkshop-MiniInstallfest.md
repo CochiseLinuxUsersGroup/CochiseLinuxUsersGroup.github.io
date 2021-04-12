@@ -20,7 +20,7 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
 **AFTERMATH:**
 
- * Several members retired to Vinny's Pizza at the conclusion of the event to enjoy some decicious pizza and continue the conversation on general Linux topics.
+ * Several members retired to Vinny's Pizza at the conclusion of the event to enjoy some delicious pizza and continue the conversation on general Linux topics.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_2.jpg)
