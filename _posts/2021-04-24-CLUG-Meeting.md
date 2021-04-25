@@ -38,7 +38,7 @@ categories: meeting
 **Discussion/Problems/Questions:**
  * Discussed the results of the Linux Workshop on 10 April.  Appropriate thank you's were handed out.
  * Discussed the additional computers that will be donated to the Warrior Healing Center some time before the end of May and our mission to get them in shape to run a Linux OS.
- * A member had a problem with the keyboard on his laptop.  It was corrected by reseeding the keyboard.
+ * A member had a problem with the keyboard on his laptop.  It was corrected by reseating the keyboard.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_2.jpg)
