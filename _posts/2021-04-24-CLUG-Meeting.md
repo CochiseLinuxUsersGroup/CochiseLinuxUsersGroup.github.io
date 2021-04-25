@@ -32,7 +32,7 @@ categories: meeting
  * It comes in three desktop environments; Cinnamon, xfce, and Mate
  * Significant applications are Stealth VM Free
  * Faast Boot (which can decrease your boot time to about 7 seconds) Free
- * Untracter (can change your MAC address at configurable intervals) Cost $42
+ * Untracker (can change your MAC address at configurable intervals) Cost $42
  * Backdoor Security (closes even unknown back doors) Free
 
 **Discussion/Problems/Questions:**
