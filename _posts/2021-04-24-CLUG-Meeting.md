@@ -30,7 +30,7 @@ categories: meeting
  * Robo Linux by Tim Kirk
  * The current version is Robo Linux 12 which is free.  If you get the 12 plus version which costs $124 you get additional applications.
  * It comes in three desktop environments; Cinnamon, xfce, and Mate
- * Significant applications are Self VM (which also has a VPN included) Free
+ * Significant applications are Stealth VM Free
  * Faast Boot (which can decrease your boot time to about 7 seconds) Free
  * Untracter (can change your MAC address at configurable intervals) Cost $42
  * Backdoor Security (closes even unknown back doors) Free
