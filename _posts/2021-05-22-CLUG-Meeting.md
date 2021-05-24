@@ -22,7 +22,7 @@ categories: meeting
  * AZLOCO Website:  https://www.azloco.org/
  * AZLOCO Wiki:  https://wiki.ubuntu.com/ArizonaTeam
  * AZLOCO FaceBook page:  https://www.facebook.com/UbuntuAZTeam
- * AZLOCO Mailing Lisy Archives:  https://lists.ubuntu.com/archives/ubuntu-us-az/  
+ * AZLOCO Mailing List Archives:  https://lists.ubuntu.com/archives/ubuntu-us-az/  
  
 **Upcoming CLUG Events:**
  * 10 June, Ubuntu Hour, 1800-1900, Schlotzsky’s, 3900 E. Fry Blvd., Sierra Vista 
