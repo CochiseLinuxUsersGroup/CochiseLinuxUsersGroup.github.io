@@ -15,7 +15,7 @@ categories: meeting
 
 **Upcoming Events:**
  * 20 November, CLUG Meeting, 1300-1500, 143 Street Tacos, 80 S. Carmichael Ave., Sierra Vista
- * 08 December, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
+ * 09 December, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
 
 **Discussion:**
  * A member has a desktop computer that originally had Win8 installed and it was updated to Win10.  It finally displayed the Blue Screen of Death.  He wanted to know if a Linux Operating System could be installed on it.  He was advised to bring it to the next meeting and we would attempt to install.
