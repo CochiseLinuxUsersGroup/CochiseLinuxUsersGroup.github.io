@@ -27,7 +27,7 @@ categories: meeting
 
 **Presentation:**
  * Installing Virtual Box (YouTube Video) by Rex Bouwense
- * The video can be seen by going to https://duckduckgo.com/?t=ffab&q=virtual+box+install&atb=v239-1&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwX75Z-4MEoM or contacting Rex for the content on a flash drive.
+ * The video can be seen by going to https://www.youtube.com/watch?v=wX75Z-4MEoM or contacting Rex for the content on a flash drive.
 
 **Discussion/Problems/Questions:**
  * Discussed the pros and cons of using a Virtual Machine vs Dual Booting.
