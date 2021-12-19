@@ -32,7 +32,8 @@ categories: meeting
 **Discussion/Problems/Questions:**
  * Discussed the pros and cons of using a Virtual Machine vs Dual Booting.
  * Discussed the intricacies of installing Virtual Box.
- * Discussed the feasibility of conducting an installfest/Linux Workshop in the January/February time frame
+ * Discussed the feasibility of conducting an installfest/Linux Workshop in the January/February time frame.
+ * Discussed the pros and cons of using distribution upgrade vs a fresh install.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-12-18_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-12-18_2.jpg)
