@@ -11,7 +11,7 @@ categories: meeting
 
 ### Meeting Minutes:
 
-**Attendees:** 8
+**Attendees:** 8.  We welcomed Bruce back from Okinawa after a 5 year absence.
 
 **Upcoming CLUG Events:**
  * 10 March, Ubuntu Hour, 1800-1900, Schlotzsky’s, 3900 E. Fry Blvd., Sierra Vista 
