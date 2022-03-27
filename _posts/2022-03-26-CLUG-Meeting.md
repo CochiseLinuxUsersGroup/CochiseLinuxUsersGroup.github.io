@@ -30,6 +30,7 @@ categories: meeting
 
 **Presentation:**   
  * PWAs (Progressive Web Applications) by Teruel DeCampo and Rex Bouwense
+ * Presentation slides and notes can be found on our website.  https://github.com/CochiseLinuxUsersGroup/Presentations
 
  **Discussion/Problems/Questions:**
   * Gene gave an update on his power wall project.
