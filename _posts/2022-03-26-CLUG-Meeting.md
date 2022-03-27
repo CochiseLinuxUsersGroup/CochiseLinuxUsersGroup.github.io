@@ -29,7 +29,7 @@ categories: meeting
  * The Buena High School Cyber Patriot Team has finished first in the state and will be participating in the National competition.
 
 **Presentation:**   
- * PWAs (Progressive Web Applications) by Terrel DeCampo and Rex Bouwense
+ * PWAs (Progressive Web Applications) by Teruel DeCampo and Rex Bouwense
 
  **Discussion/Problems/Questions:**
   * Gene gave an update on his power wall project.
