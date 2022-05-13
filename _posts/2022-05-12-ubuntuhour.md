@@ -28,7 +28,8 @@ categories: meeting
  * Opened Big Blue Button and Zoom to see if members would attend via one of those applications in addition to those attending the physical meeting.  Advantages and disadvantages will be discussed at the next meeting.
  * Ron presented a printing problem with his Brother printer.  He has downloaded the driver and instructions on how to install it.
  * Chris offered a bounty of a free phone to anyone who can open his phone as root.
- * Discussed the possibility of creating a place where members can suggest a topic that they would like to learn more about.  (Perhaps somewhere on the website) 
+ * Discussed the possibility of creating a place where members can suggest a topic that they would like to learn more about.  (Perhaps somewhere on the website)
+ * Discussed Ventoy. 
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_2.jpg)
