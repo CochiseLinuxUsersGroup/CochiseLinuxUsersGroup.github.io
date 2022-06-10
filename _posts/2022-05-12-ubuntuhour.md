@@ -21,6 +21,7 @@ categories: meeting
 **Announcements:**
  * Talked about members who have azloco.com email addresses who must migrate any email that they wish to save before 31 May when we will lose those addresses.
  * The Group has donated 2 additional computers (one laptop and one desktop) to two vets at the Warrior Healing Center.
+ 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harlanwithhiscomputer.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_eviewithhercomputer.jpg)
 
