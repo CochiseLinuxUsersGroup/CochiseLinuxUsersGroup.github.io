@@ -22,7 +22,8 @@ categories: meeting
  * Discussed having a meeting during the week rather than a Saturday.  It was decided to try a short meeting in August as a test in an attempt to get more people attending the events.  The date and time will be released after a location can be reserved.
  * Discussed having a link to the Cochise Linux Google Group on the Cochise Linux User Group website.  It was completed before the meeting ended.  All someone has to do if they have joined the Cochise Linux Google Group is log into their Google account and select their Google Drive.  The Cochise Linux Google Drive documents have been shared with them.  Select "Shared with me" and you will be able to see the documents.
  * Discussed having a quick workshop to install Linux operating systems on 8 computers.  The date selected was this Saturday, 16 July 2022, at 1000 until 1400 hours at the Warrior Healing Center.
- * Discussed the possibility of using Word Press to create a blog for the Group.  Bruce is exploring this option
+ * Discussed the possibility of using Word Press to create a blog for the Group.  Bruce is exploring this option.
+ * A minor bug was revealed in Xubuntu 22.04 install media.  After you have finished installing Xubuntu or completed testing it and you have selected reboot, the familiar "remove the install media and press enter" message does not appear on the monitor screen.  There is merely a blinking cursor in the left hand corner of the screen.  So. remove the media without receiving the message and press enter.  This only happens in Xubuntu.  The message is received in all of the other flavors of Ubuntu, Linux Mint, MX Linux, and AntiX. 
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_2.jpg)
