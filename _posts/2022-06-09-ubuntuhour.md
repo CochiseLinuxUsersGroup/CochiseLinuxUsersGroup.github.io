@@ -15,7 +15,7 @@ categories: meeting
 
 **Upcoming Events:**
  * 25 June, CLUG Meeting, 1300-1500, 143 Street Tacos, 80 S. Carmichael Ave., Sierra Vista
- * 14 July, Sierra Vista Ubuntu Hour,use it is hosted on GitHub 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
+ * 14 July, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
 
 **Announcements:**
  * Mike announced that he has four desktop computers (minus the monitors) to donate.  He was advised to deliver them to the Warrior Healing Center where they will be stored until we can gather a group to conduct an installfest.
