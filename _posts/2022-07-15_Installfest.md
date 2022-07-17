@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Installfest 2022-07-15"
 date: 2022-07-15
 categories: Meeting
