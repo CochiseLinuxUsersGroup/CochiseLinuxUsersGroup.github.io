@@ -1,9 +1,15 @@
 ---
 layout: "post"
-title: "Installfest 2022-07-15"
-date: 2022-07-15
+title: "Installfest 2022-07-16"
+date: 2022-07-16
 categories: Meeting
 ---
+
+### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ
+
+### Date: Saturday, July 16, 2022
+
+### Meeting Notes:
 
 The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local Community Team, AZLOCO, conducted an Installation Festival on Saturday, 15 July 2022 at the Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ.  Seven people attended the event, 5 physically and 2 virtually via Big Blue Button.  The purpose of this Installfest was to install Ubuntu 22.04 or another Linux distributio on 8 computers that have been donated.
 
