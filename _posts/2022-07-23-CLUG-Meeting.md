@@ -36,7 +36,7 @@ categories: meeting
  * Balena Etcher by Rex Bouwense
 
 **Discussion/Problems/Questions:**
- * A member asked if there was a pause option when you are copying a very large file from one directory to another.  No answer was provided by those present.
+ * A member asked if there was a pause option when you are copying a very large file from one directory to another.  No answer was provided by those present.  David later presented an answer. To pause type: kill -STOP PID. To continue paused process type:  kill -CONT PID. (where PID is Process ID. You can get PID by running System monitor or top command).
  * A member asked if it was possible to cause the computer to shut down immediately after copying a large file.  This can be accomplished by using the terminal by separating the two commands by a semi-colon or &&.  There is no know GUI to accomplish this task.
  * Discussed the purpose of the second meeting next month to possibly increase the attendance at the monthly meetings.
  * Several members were having problems seeing the documents that were shared with them in the Cochise Linux Google Group.  Perhaps this is not the best way to share documents with the Group.  Other options will be looked at.
