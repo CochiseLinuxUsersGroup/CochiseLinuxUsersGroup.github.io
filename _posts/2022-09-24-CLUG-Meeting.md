@@ -27,7 +27,7 @@ categories: meeting
  * MX Linux was released on 29 August.
  * For those of you still using Ubuntu 20.04,  the fifth point release, 20.04.5 was released on 01 September.
  * Debian 11.5 was released on 11 September.
- * Fedora 37 beta was released on 13 September
+ * Fedora 37 beta was released on 13 September.
  * Starting with the November monthly meeting we will be changing the location to the Warrior Healing Center main conference room (1838 Paseo San Luis),  the time to 1700-1830, and the date to the fourth Tuesday of each month.  There were several factors that entered into this decision.  Among them were the membership poll and the availability of locations that we could reserve for the entire year.
 
 **Presentation:**
@@ -40,7 +40,7 @@ categories: meeting
 
 **Discussion/Problems/Questions:**
  * Discussed the phased in updates that Canonical has introduced for Ubuntu 22.04.
- * A member raised an issue that he has been have while using his desktop computer (Ubuntu 22.04 installed) to copy a very large group of files to an external hard drive  First the display will blank after a certain time.  He was advised that the default time out for inactivity on the monitor is 5 minutes.  If he wanted to observe the activity he should change the time out to never during the transfer operation.  Second the copy and paste operation never completes. Because we do not have the log files to look at we were unable to determine the reason for the failure.  The external hard drive could be formatted incorrectly, some files may be corrupted, or permissions may be configured incorrectly are among the reasons for failure.  He was asked to bring the external hard drive to the next meeting
+ * A member raised an issue that he has been have while using his desktop computer (Ubuntu 22.04 installed) to copy a very large group of files to an external hard drive  First the display will blank after a certain time.  He was advised that the default time out for inactivity on the monitor is 5 minutes.  If he wanted to observe the activity he should change the time out to never during the transfer operation.  Second the copy and paste operation never completes. Because we do not have the log files to look at we were unable to determine the reason for the failure.  The external hard drive could be formatted incorrectly, some files may be corrupted, or permissions may be configured incorrectly are among the reasons for failure.  He was asked to bring the external hard drive to the next meeting.
  * One of the guests asked for information to install a Linux OS in a dual boot on his Microsoft Windows 7 computer.  He was advised that WIN7 had of course reached end of life and was no longer receiving updates or security patches so he was advised against that option.  Two distros that are very user friendly for individuals new to Linux are Linux Mint and Ubuntu.  If he did not want to install one of them to his computer he was advised that the best way to determine if he liked a distro was to use a bootable flash drive to explore one of those distros which would not make any changes to his computer or to install one of distros to a flash drive and boot his computer from it.  He was also offered a the use of a free computer that already had Ubuntu 22.04 installed to familiarize himself with the the distro.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-09-24_1.jpg)
