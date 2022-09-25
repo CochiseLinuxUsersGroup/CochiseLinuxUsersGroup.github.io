@@ -1,7 +1,7 @@
 ---
 layout:  post
 title: "CLUG Meeting 2022-09-24"
-date: 2022-08-27
+date: 2022-09-24
 categories: meeting
 ---
 
