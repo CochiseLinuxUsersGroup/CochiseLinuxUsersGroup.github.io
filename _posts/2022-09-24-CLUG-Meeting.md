@@ -19,7 +19,7 @@ categories: meeting
  * 22 October, CLUG Meeting, 1300-1500, 143 Street Tacos, 80 S. Carmichael Ave. (The last meeting that will be held at Street Tacos)
 
 **Useful CLUG links:**
- * CLUG website:  https://cochiselinususergroup.org
+ * CLUG website:  https://cochiselinuxusergroup.org/
  * CLUG FaceBook Page:  https://www.facebook.com/groups/1059259857477393/
  * CLUG Mailing List Archives:  https://www.freelists.org/archive/cochiselinux
 
