@@ -14,7 +14,7 @@ categories: meeting
 **Attendees:** 8
 
 **Useful CLUG links:**
- * CLUG website:  https://cochiselinususergroup.org
+ * CLUG website:  https://cochiselinuxusergroup.org
  * CLUG FaceBook Page:  https://www.facebook.com/groups/1059259857477393/
  * CLUG Mailing List Archives:  https://www.freelists.org/archive/cochiselinux
 
