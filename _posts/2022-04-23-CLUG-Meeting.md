@@ -18,7 +18,7 @@ categories: meeting
  * 28 May, CLUG Meeting, 1300-1500, 143 Street Tacos, 80 S. Carmichael Ave., Sierra Vista
 
 **Useful CLUG links:**
- * CLUG website:  https://cochiselinususergroup.org
+ * CLUG website:  https://cochiselinuxusergroup.org
  * CLUG FaceBook Page:  https://www.facebook.com/groups/1059259857477393/
  * CLUG Mailing List Archives:  https://www.freelists.org/archive/cochiselinux
  * CLUG Presentation Slides:  https://github.com/CochiseLinuxUsersGroup/Presentations
