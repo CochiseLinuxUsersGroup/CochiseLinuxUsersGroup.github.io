@@ -33,7 +33,7 @@ categories: meeting
 
 **Presentation:**        
  * Digitizing Your DVD/Video Collection by Tommy Worthey
- * Slides can be found on our web site, https://github.com/CochiseLinuxUsersGroup/Presentationsresentation:** 
+ * Slides can be found on our web site, https://github.com/CochiseLinuxUsersGroup/Presentationsresentation
 
 **Discussion/Problems/Questions:**
  * A member asked where can he find the applications to install that are listed on the 7 page handout.  They can be downloaded from the Ubuntu Software Center, the icon is the orange suitcase with a big A on it.
