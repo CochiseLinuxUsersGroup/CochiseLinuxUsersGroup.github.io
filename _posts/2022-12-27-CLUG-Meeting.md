@@ -20,7 +20,7 @@ categories: meeting
  * 23 January, Configuring Your Desktop, 1700-1800, Warrior Healing Center, 1838 Paseo San Luis
  * 24 January, CLUG Meeting, 1700-1830, Warrior Healing Center, 1838 Paseo San Luis
  * 30 January, Using Firefox, 1700-1800, Warrior Healing Center, 1838 Paseo San Luis
- * 06 February, Using Thunderbird, 1700-1800, Warrior Healing Center, 1838 Pasdeo San Luis
+ * 06 February, Using Thunderbird, 1700-1800, Warrior Healing Center, 1838 Paseo San Luis
 
 **Useful CLUG links:**
  * CLUG website:  https://cochiselinuxusergroup.org/
@@ -44,7 +44,7 @@ categories: meeting
  * Media Server by Tommy Worthey
 
 **Discussion/Problems/Questions:**
- * A member has had a problem with the size of the cursor displaying the same size when he opened VLC.  To correct the probleom he had to uninstall VLC and reinstall it from the VLC website.  Either that or living with the change in size.  Installing it from the software store does not correct the problem.
+ * A member has had a problem with the size of the cursor displaying the same size when he opened VLC.  To correct the problem he had to uninstall VLC and reinstall it from the VLC website.  Either that or living with the change in size.  Installing it from the software store does not correct the problem.
  * https://archive.org/  will display movies that are no longer protected by copyright.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_1.jpg)
