@@ -7,7 +7,7 @@ categories: meeting
 
 ### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista
 
-### Date: Saturday, 22 November 2022
+### Date: Tuesday, 22 November 2022
 ### Meeting Minutes:
 
 **Attendees:** 
