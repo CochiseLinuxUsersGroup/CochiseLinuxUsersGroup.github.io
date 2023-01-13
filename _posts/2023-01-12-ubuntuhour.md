@@ -31,7 +31,7 @@ categories: meeting
 
 **Discussion:**
  * Look at March/April time frame for our next Installfest.  Discussion will continue at the next meeting.
- * Discussed the program Recuva for recovery of accidentally deleted files but unfortunately it is built for Microsoft Widows and not cross platform.
+ * Discussed the program Recuva for recovery of accidentally deleted files but unfortunately it is built for Microsoft Windows and not cross platform.
  * Discussed the case where an SD card which was formerly mounted as read/write was now mounted as read only.  If the lock is not on and attempts to mount it all fail to mount it as read/write it is probably failing so any data on it should be backed up as soon as possible.
  * Discussed a large file transfer to a USB device failing in Ubuntu when the screen saver was activated.  Possible solutions may be found in the configuration of the power manager or the screen saver itself.
 
