@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Security Considerations 2023-01-16"
+title: "Security Considerations Class 2023-01-16"
 date: 2023-01-16
 categories: meeting
 ---
