@@ -5,7 +5,7 @@ date: 2023-02-06
 categories: meeting
 ---
 
-### Location: Warrior Healing Center, 1838 paseo San Luis, Sierra Vista AZ
+### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista AZ
 
 ### Date: Monday, 06 February, 2023
 
