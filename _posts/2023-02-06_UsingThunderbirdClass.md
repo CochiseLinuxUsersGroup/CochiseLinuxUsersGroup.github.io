@@ -23,3 +23,7 @@ categories: meeting
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_2.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_3.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_4.jpg)
+
+ * In addition a computer was donated to Monica, one of the attendees.
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_monica_emmerson_with_donated_computer.jpg)
