@@ -7,7 +7,7 @@ categories: meeting
 
 ### Location: Schlotzsky's Cafe, 3900 E. Fry Blvd. Sierra Vista AZ
 
-### Date: Thursday, 12 January, 2022
+### Date: Thursday, 12 January, 2023
 
 ### Meeting Notes:
 
