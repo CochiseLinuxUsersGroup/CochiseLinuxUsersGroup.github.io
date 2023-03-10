@@ -31,3 +31,8 @@ categories: meeting
  * Discussed DVD vs VHS quality comparison.
  * Installed the driver for Display Link for an attendee.
 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2003-03-09_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_2.jpg)
