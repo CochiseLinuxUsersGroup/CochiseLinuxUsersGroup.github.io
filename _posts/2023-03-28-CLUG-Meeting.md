@@ -23,7 +23,7 @@ categories: meeting
  * CLUG Mailing List Archives:  https://www.freelists.org/archive/cochiselinux
 
 **Announcements:**
- * As of today CLUG has conducted 168 installs and donated 98 computers to individuals and groups.  The latest donations were to Donna G and Noah K.
+ * As of today CLUG has conducted 168 installs and donated 99 computers to individuals and groups.  The latest donations were to Donna G and Noah K.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_donnagraybillandhercomputer.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_noahklaboandhiscomputer.jpg)
