@@ -603,7 +603,7 @@ input[type="reset"].small,
     }
 }
 #header {
-    background: a9a9a9;
+    background: white;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
     color: inherit;
     cursor: default;
