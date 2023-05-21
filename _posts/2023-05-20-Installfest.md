@@ -23,7 +23,7 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * The set up took less than 20 minutes with 4 people involved.
  * There were 2 donated computers present for installation.  One was deemed unusable.
- * Five installs were completed. (1 Ubuntu 22.04, 1 Kubuntu 22.04, 1 Lubuntu 22.04, 1 Linx Mint Debian Edtion, and 1 Bodhi Linux)
+ * Five installs were completed. (1 Ubuntu 22.04, 1 Kubuntu 22.04, 1 Lubuntu 22.04, 1 Linx Mint Debian Edition, and 1 Bodhi Linux)
  * A HP printer/scanner was configured for an attendee
  * One desktop computer was donated to an attendee.
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_bradedwards_with_donated_computer.jpg)
