@@ -18,7 +18,7 @@ categories: meeting
  * 13 July, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
 
 **Announcements:**
- * To date we have donated  computers to individuals or groups and conducted 173 installs on laptops and desktops.
+ * To date we have donated 103 computers to individuals or groups and conducted 173 installs on laptops and desktops.
  * We have 42 people on our mailing list and 37 members on our Facebook page.
  * We have 1 laptop and 8 desktops ready for donation.
 
