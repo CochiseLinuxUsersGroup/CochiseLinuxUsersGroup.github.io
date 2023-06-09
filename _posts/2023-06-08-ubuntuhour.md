@@ -22,6 +22,7 @@ categories: meeting
  * We have 42 people on our mailing list and 37 members on our Facebook page.
  * We have 1 laptop and 8 desktops ready for donation.
  * We made another computer donation.  This computer went to the Military Library of the Warrior Healing Center.
+
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_militarylibrary_whc_1.jpg)
 
 **Discussion:**
