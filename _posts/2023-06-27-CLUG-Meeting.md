@@ -31,11 +31,11 @@ categories: meeting
 **Future Presentations:**
  * Synaptic Package Manager by Rex Bouwense, 25 July
 
-**Presenatation:**
+**Presentation:**
  * Introduction To Scripting by Noah Klaybo
 
 **Discussion/Problems?Questions:**
- * Rex reintroduced the Linux Distribution Familiarization Project that had originally been introduced about 18 months ago.  It is a way for our members to become familiar with distributions that are not normally used by beginning Linux users.  It was decided to kick it off next meeting.
+ * Rex reintroduced the Linux Distribution Familiarization Project that had originally been introduced about 18 months ago.  It is a way for our members to become familiar with distributions that are not normally used by beginning Linux users.  It was decided to kick it off at the next meeting.
  * Gene raised a question about why the cursor changed size on his new Ubuntu install when using VLC.  This has happened to no one else so we set up an experiment with his hard drive and after a reinstall of VLC the cursor was working perfectly.  Perhaps it was a bad download or a bad first install.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_4.jpg)
