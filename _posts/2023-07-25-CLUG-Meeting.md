@@ -31,7 +31,7 @@ categories: meeting
 This one went to the Warrior Healing Center for recording intake forms and is located in the Computer Lab
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_input_forms_whc.jpg)
 
-The next two went to case works at the Warrior Healing Center
+The next two went to caseworkers at the Warrior Healing Center
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_3whc.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_4whc.jpg)
 
