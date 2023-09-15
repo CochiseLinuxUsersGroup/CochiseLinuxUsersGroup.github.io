@@ -50,7 +50,7 @@ Greg C with his computer
 **Discussion:**
  * Discussed where to buy computers and computer parts and accessories since the store in Sierra Vista has closed.
  * An attendee wanted to move an icon to the Dash in Ubuntu.  This can be done with a simple right click on the program in the menu and select add to favorites.
- * Discussed the Kiosk Project that we were asked to assist the Warrior Healing Center in developing
+ * Discussed the Kiosk Project that we were asked to assist the Warrior Healing Center in developing.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2023-09-14_01.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2023-09-14_02.jpg)
