@@ -40,7 +40,7 @@ categories: meeting
  * WattOS-R12 by Rex Bouwense.  (Slides can be found on our website)
 
 **Discussion**
- * Discussed installing an operating system with persistance to a flash drive.
+ * Discussed installing an operating system with persistence to a flash drive.
  * Discussed the application Disks
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-09-26_1.jpg)
