@@ -11,11 +11,11 @@ categories: meeting
 
 ### Meeting Notes:
 
-**Attendees:** 7 (one new person)
+**Attendees:** 7 (one new person).
 
 **Upcoming Events:**
- * 24 October, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista
- * 09 November, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista
+ * 24 October, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista.
+ * 09 November, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
 
 **Announcements:**
  * To date we have donated 118 computers to individuals or groups and conducted 182 installs on laptops and desktops.
