@@ -19,7 +19,7 @@ categories: meeting
 
 **Announcements:**
  * To date we have donated 118 computers to individuals or groups and conducted 186 installs on laptops and desktops.
- * We have 44 people on our mailing list and 36 members on our Facebook page.
+ * We have 44 people on our mailing list and 37 members on our Facebook page.
  * We have 3 desktop computers ready for donation.
  * The Good Neighbor Alliance may want 2-3 computers for their residents to use.  We will know more on Monday, 13 November.
 
