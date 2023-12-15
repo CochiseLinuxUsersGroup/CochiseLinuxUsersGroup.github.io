@@ -31,6 +31,7 @@ Dale S with his computer.
  * Discussed text to speech applications for Linux OS.
  * Distributed home-made candy to attendees.
  * Discussed presentations for the upcoming year.
+ * Discussed Canonical phasing of updates.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_2.jpg)
