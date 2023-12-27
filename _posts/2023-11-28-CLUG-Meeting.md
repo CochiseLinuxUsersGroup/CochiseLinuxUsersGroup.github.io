@@ -39,7 +39,7 @@ categories: meeting
 **Presentation:**
  * Tethering and Hot Spots by Greg Christ
 
-**Discussion**
+**Discussion:**
  * For the first time in a very long time none of the members present had a question or a problem with their Linux computer.
  * We discussed the upcoming December meeting.  It was encouraged that members bring their spouses or have them meet us at Vinney’s after the meeting.
  * We discussed the future release of Ubuntu 24.04 on 25 April and a possible installfest the beginning of May to install the new version on the Warrior Healing Center computers.  No decision was reached at this time.
