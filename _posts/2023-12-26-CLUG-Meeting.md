@@ -41,7 +41,7 @@ Beverly E. with her computer
  * Configuring KODI by Gene Zastera, 25 June
 
 **Presentation:**
- * Using LibreOffice Calc by Rex Bouwense
+ * Using LibreOffice Calc by Rex Bouwense (the presentation slides can be found at https://github.com/CochiseLinuxUsersGroup/Presentations
 
 **Discussion:**
  * No computer problems were raised at this time.
