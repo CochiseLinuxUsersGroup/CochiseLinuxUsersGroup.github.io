@@ -47,7 +47,7 @@ Brian S. with his computer
  * Gene reminded the group of his difficulty copying very large data files to another disk.  He pointed out that he was using an old disk.  With a newer disk the operation is much smoother.
  * Discussed the advantage advantages and disadvantages of upgrading your computer to a newer version vs re-installation.  In either case you need to back up your data just in case something goes wrong.  If you do not back up your data it is not important because Murphy’s Law may apply.
  * Discussed cleaning your printer and recommended a local shop that does repairs, Toner West.
- * Briefly discussed KODI and that fact that it is in need of some patches. Hopefully it will be patched by the time the presentation is given in June.
+ * Briefly discussed KODI and the fact that it is in need of some patches. Hopefully it will be patched by the time the presentation is given in June.
  * Briefly discussed Ubuntu Pro.
 
 
