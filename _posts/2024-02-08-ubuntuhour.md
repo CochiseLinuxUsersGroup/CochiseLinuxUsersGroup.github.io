@@ -29,7 +29,7 @@ Charley with his computer
  * We have 4 desktop computers ready for donation.
 
 **Discussion:**
- * Discussed the the Kiosk Project that we are doing for the Warrior Healing Project and its eventual positioning of 10-12 computers through out Cochise County, Arizona.
+ * Discussed the Kiosk Project that we are doing for the Warrior Healing Project and its eventual positioning of 10-12 computers throughout Cochise County, Arizona.
  * Discussed the advantages and disadvantages of Ubuntu Pro.
  * Discussed the presentations that are scheduled for the next couple of months.
  * Discussed the results of the mailing list update.  Twenty non-responsive e-mail address have been dropped from the list.
