@@ -42,7 +42,7 @@ Gloria G. with her computer
 
 **Discussion:**
  * Discussed Ventoy, its uses and advantages.
- * A member had a problem with J Loader which was not functioning properly. If J Loader 2 is being used, it is problem with the YouTube site or J Loader itself.
+ * A member had a problem with JDownloader2 which was not functioning properly. If JDownloader2 is being used, it is a problem with the YouTube site or JDownloader2 itself.
  * If you are in need of old software that is no longer in your repositories, recommend that you go to Internet Archive at https://archive.org
  * A member brought up a problem he cannot share a printer with four computers on a wired LAN using a USB cable.  The printer is shared and enabled and the driver is in CUPS.  The printer is recognized by the other 3 computers but still will not print.  No solution was offered.
 
