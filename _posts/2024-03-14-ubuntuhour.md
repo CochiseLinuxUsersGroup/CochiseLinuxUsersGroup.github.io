@@ -34,7 +34,7 @@ Rose and her Surface Pro
  *    or
  *  pkill snap-store
  *  sudo snap refresh
- * Discussed the use and misuse of the mailing list.  If you want to ask a question or you have a problem, do not rely to an unrelated email.  Instead send your email with the problem in the subject line to cochiselinux@freelists.org and it will go to everyone on the mailing list.  That way the question can be searched in the archives as well as the responses and it can perhaps help someone else.
+ * Discussed the use and misuse of the mailing list.  If you want to ask a question or you have a problem, do not reply to an unrelated email.  Instead send your email with the problem in the subject line to cochiselinux@freelists.org and it will go to everyone on the mailing list.  That way the question can be searched in the archives as well as the responses and it can perhaps help someone else.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_2.jpg)
