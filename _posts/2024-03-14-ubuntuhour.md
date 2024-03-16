@@ -27,13 +27,17 @@ Rose and her Surface Pro
  * We have 5 desktop computers and 2 laptop computers ready for donation.
 
 **Discussion:**
- * Discussed how to install Ventoy.  There are slides on our website at https://github.com/CochiseLinuxUserGroup/Presentations.  However they are three years old. It is better to go to the Ventoy website at https://www.ventoy.net/en/index.html. Download the Linux version from the Download tab.  Then chose “Get Started” from the vertical menu under the Documents tab.  Follow the instructions there for installation.  When you add ISOs you do not install.  Just copy and paste.
+ * Discussed how to install Ventoy.  There are slides on our website at https://github.com/CochiseLinuxUserGroup/Presentations.  However, they are three years old. It is better to go to the Ventoy website at https://www.ventoy.net/en/index.html. Download the Linux version from the Download tab.  Then choose “Get Started” from the vertical menu under the Documents tab.  Follow the instructions there for installation.  When you add ISOs you do not install.  Just copy and paste.
  * Discussed how to stop the snap-store to update it.  (Two ways)
- *  sudo killall snap-store
- *  sudo snap refresh
+```
+sudo killall snap-store
+ sudo snap refresh
+```
  *    or
- *  pkill snap-store
- *  sudo snap refresh
+```
+pkill snap-store
+   sudo snap refresh
+```
  * Discussed the use and misuse of the mailing list.  If you want to ask a question or you have a problem, do not reply to an unrelated email.  Instead send your email with the problem in the subject line to cochiselinux@freelists.org and it will go to everyone on the mailing list.  That way the question can be searched in the archives as well as the responses and it can perhaps help someone else.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_1.jpg)
