@@ -43,11 +43,12 @@ Rose with her computer
  * Slides are available on our website https://github.com/CochiseLinuxUsersGroup/Presentations
 
 **Discussion:**
- * A member wanted to know how to kill firefox when it freezes.  sudo pkill firefox
+ * A member wanted to know how to kill firefox when it freezes.
+   '''sudo pkill firefox '''
  * A member wanted to know how to proceed when he gets a message that his file system is corrupted.  See https://askubuntu.com/questions/885062/root-file-system-requires-manual-fsck#885066
  * A member wanted to know why his computer would not boot immediately after unmounting a flash drive with Ventoy installed.  No solution was offered but the member did have a work around, merely rebooting.
  * A member wanted to know why his computer (only 2 years old and with an ssd) was getting slower and slower.  No solution was offered but the member decided to do a clean re-install.
- * David offered a solution to those individuals who must use a Windows program once or twice a year so it is not really worth while to install it in Virtual Box.  https://github.com/dockur/windows
+ * David offered a solution to those individuals who must use a Windows program once or twice a year so it is not really worthwhile to install it in Virtual Box.  https://github.com/dockur/windows
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_01.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_02.jpg)
