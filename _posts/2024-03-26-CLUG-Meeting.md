@@ -44,7 +44,7 @@ Rose with her computer
 
 **Discussion:**
  * A member wanted to know how to kill firefox when it freezes.
-   '''sudo pkill firefox '''
+   ```sudo pkill firefox ```
  * A member wanted to know how to proceed when he gets a message that his file system is corrupted.  See https://askubuntu.com/questions/885062/root-file-system-requires-manual-fsck#885066
  * A member wanted to know why his computer would not boot immediately after unmounting a flash drive with Ventoy installed.  No solution was offered but the member did have a work around, merely rebooting.
  * A member wanted to know why his computer (only 2 years old and with an ssd) was getting slower and slower.  No solution was offered but the member decided to do a clean re-install.
