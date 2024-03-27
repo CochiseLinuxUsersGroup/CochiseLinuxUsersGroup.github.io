@@ -32,6 +32,12 @@ Rose with her computer
  * We have 28 people on our mailing list and 39 members on our Facebook page.
  * We have 5 desktop computers ready for donation.
 
+**Future Presentations:**
+ * 23 April, VMs by Greg Christ
+ * 28 May, AI by Zack Braswell
+ * 25 June, KODI by Gene Zastera
+ * 23 July, Using Snaptic Package Manager by Rex Bouwense
+
 **Presentation:**
  * Endeavour OS by David Garcia.
  * Slides are available on our website https://github.com/CochiseLinuxUsersGroup/Presentations
