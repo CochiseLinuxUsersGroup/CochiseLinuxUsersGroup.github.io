@@ -30,7 +30,7 @@ categories: meeting
 **Future Presentations:**
  * 25 June, AI by Zack Braswell
  * 23 July, KODI by Gene Zastera
- * 27 August, Using Snaptic Package Manager by Rex Bouwense
+ * 27 August, Using Synaptic Package Manager by Rex Bouwense
 
 
 **Presentation:**
