@@ -15,9 +15,8 @@ categories: meeting
 
 **Upcoming Events:**
  * 18 May, Installation Festival, 1100-1500, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista
- * 28 May, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista.  The presentation will by on VMs by Greg Christ.
+ * 28 May, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista.  The presentation will be on VMs by Greg Christ.
  * 13 June, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
-
 
 **Announcements:**
  * To date we have donated 133 computers to individuals or groups
@@ -25,7 +24,6 @@ categories: meeting
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_mike_with_his_mac_mini.jpg)
 
 Mike L with his Mac-Mini
-
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_mark_faulkner_and_his_computer.jpg)
 
