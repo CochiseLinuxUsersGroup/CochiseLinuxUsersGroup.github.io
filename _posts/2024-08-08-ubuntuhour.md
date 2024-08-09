@@ -21,7 +21,7 @@ categories: meeting
  * To date we have donated 140 computers to individuals or groups and conducted 233 installs on laptops and desktops.
  * We have 30 people on our mailing list and 43 followers on our Facebook page.
  * We have 2 desktop computers and 2 laptop computers ready for distribution.
- * David G has successfully passed the A+ cert exam.  Congratulations David.
+ * David Garcia has successfully passed the A+ cert exam.  Congratulations David.
 
 **Discussion and Activities:**
  * Discussed using labels to organize your email accounts.  Works in Gmail and Outlook
