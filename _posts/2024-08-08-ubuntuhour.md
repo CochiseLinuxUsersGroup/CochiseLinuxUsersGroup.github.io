@@ -16,7 +16,7 @@ categories: meeting
 **Upcoming Events:**
  * 27 August, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista.
  * 12 September, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
- * 
+   
 **Announcements:**
  * To date we have donated 140 computers to individuals or groups and conducted 233 installs on laptops and desktops.
  * We have 30 people on our mailing list and 43 followers on our Facebook page.
