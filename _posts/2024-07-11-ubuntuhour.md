@@ -14,8 +14,8 @@ categories: meeting
 **Attendees:** 7.
 
 **Upcoming Events:**
- * 27 August, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista.  The presentation will be on Kodi by Gene Zastera.
- * 12 September, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
+ * 22 July, CLUG Meeting, 1700-1800, Warrior Healing Center, main conference room, 1838 Paseo San Luis, Sierra Vista.  The presentation will be on Kodi by Gene Zastera.
+ * 08 August, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
 
 
 **Announcements:**
