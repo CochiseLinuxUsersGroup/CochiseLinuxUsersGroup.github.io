@@ -37,13 +37,13 @@ categories: meeting
  * Back-up Solutions by Doug Barth on 26 November 2024
 
 **Presentation:**
- *  Desktop Environments by Rex Bouwense.  Copies of the slides can be found on our web site.
+ *  Desktop Environments by Rex Bouwense.  Copies of the slides can be found on our website.
 
 **Discussion:**
- * Discussed mounting and unmouting a USB flash drive or SSD and why in some cases you could not immediately unmount a device after coping some data to it.
+ * Discussed mounting and unmounting a USB flash drive or SSD and why in some cases you could not immediately unmount a device after copying some data to it.
  * Discussed back-up options.  Decided on a presentation to be given in November
  * Discussed the inability of a member to get on Reddit after upgrading to Linux Mint 21.3
- * Discussed the information available on our web site, https://cochiselinuxusergroup.org
+ * Discussed the information available on our website, https://cochiselinuxusergroup.org
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mgt_2024-09-24_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_2.jpg)
