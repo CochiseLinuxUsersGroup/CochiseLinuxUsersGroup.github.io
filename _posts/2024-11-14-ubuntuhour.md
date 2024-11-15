@@ -18,24 +18,24 @@ categories: meeting
  * 12 December, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
    
 **Announcements:**
- * To date we have donated 145 computers to individuals or groups
+ * To date we have donated 147 computers to individuals or groups
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_anthonylauwithcomputer.jpg)
 
 This one went to Tony L
 
-and conducted 244 installs on laptops and desktops.
+and conducted 249 installs on laptops and desktops.
 
  * We have 32 people on our mailing list and 46 members on our Facebook page.
- * We have 1 desktop computer and 1 laptop computer ready for donation.
+ * We have 2 desktop computers and 3 laptop computers ready for donation.
 
 **Discussion and Activities:**
  * Discussed the use of the dd command.
  * Discussed local Internet providers.
  * Discussed why more people are not using a Linux system and wht we can do about it.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_2.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_1.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_2.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_3.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_4.jpg)
 
