@@ -32,7 +32,7 @@ and conducted 249 installs on laptops and desktops.
 **Discussion and Activities:**
  * Discussed the use of the dd command.
  * Discussed local Internet providers.
- * Discussed why more people are not using a Linux system and wht we can do about it.
+ * Discussed why more people are not using a Linux system and what we can do about it.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_2.jpg)
