@@ -31,6 +31,10 @@ categories: meeting
  * Back-up Solutions by Doug Barth on 17 December 2024
  * Repairing GRUB for the grub> prompt by Rex Bouwense on 28 January
 
+**Presentation:**
+ * “How to fix initramfs error” by Rex Bouwense.  
+ * Slides are available on our website https://cochiselinuxusergroup.org/Resources/
+
 **Discussion:**
  * A member brought in two laptops and asked to have Ubuntu 24.04.1 installed on them.  The installation will take place tomorrow at the Warrior Healing Center at 0900.
  * A member asked if he could clone a hard drive and then put it in another computer.  Yes for Linux operating systems but not without an Apple account for Apple computers.
