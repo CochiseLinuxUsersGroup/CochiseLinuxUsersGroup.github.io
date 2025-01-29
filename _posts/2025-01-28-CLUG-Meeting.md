@@ -39,7 +39,7 @@ categories: meeting
  * Slides are available on our website https://cochiselinuxusergroup.org/Resources/
 
 **Discussion/Activities:**
- * Discussed the IEEE speaker series and our support for the them.  Some of the topics presented are of interest to the majority of the members
+ * Discussed the IEEE speaker series and our support for them.  Some of the topics presented are of interest to the majority of the members
  * A member asked if the Outlook calendar can be synced with Thunderbird calendar or Google calendar.  See https://www.digitaltrends.com/computing/how-to-sync-outlook-calendar-with-google-calendar/#dt-heading-sync-google-calendar-to-outlook-calendar
 for a solution and step by step procedure.
  * There was a discussion about Microsoft vs Linux security.
