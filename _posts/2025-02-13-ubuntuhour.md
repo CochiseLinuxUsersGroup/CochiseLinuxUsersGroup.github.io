@@ -40,8 +40,8 @@ This one went to Ted J
 **Discussion and Activities:**
  * Discussed HAM Radio Linux applications.
  * Discussed installing Linux OS to Chromebooks, computers, and flash drives.
- * Mike is in need of some 3 ½ inch hard drives.  If anyone has spare, please donate.
- * There was request to repeat the Ventoy presentation.  It is scheduled for March.
+ * Mike is in need of some 3 ½ inch hard drives.  If anyone has spare time, please donate.
+ * There was a request to repeat the Ventoy presentation.  It is scheduled for March.
  * David introduced us to https://puter.com.  Check it out.
 
 
