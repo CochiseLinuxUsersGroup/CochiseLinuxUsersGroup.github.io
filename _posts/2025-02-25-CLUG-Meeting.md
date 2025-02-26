@@ -47,7 +47,7 @@ This one went to John L
  * TBA, "Using Alias" by David Garcia
 
 **Presentation:**
- * “Installing a Linux OS on a Chromebook” by David Garcia & Rex Bouwense
+ * “Installing a Linux OS on a Chromebook” by David Garcia & Rex Bouwense.  The slides may be found on our web site https://cochiselinuxusergroup.org/  under the resources tab. 
 
 **Discussion/Activities:**
  * If you plan on attending the party on the 16th please RSVP
