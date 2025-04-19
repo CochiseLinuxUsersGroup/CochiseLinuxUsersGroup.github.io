@@ -20,6 +20,6 @@ categories: Meeting
 	* What the Group does for the Warrior Healing Center
  * A link to the slides used for the presentation can be found on our website, https://cochiselinuxusergroup.org
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_presentation_whc.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_presentation_whc.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsv_clug_presentation_whc.jpg)
+
 
