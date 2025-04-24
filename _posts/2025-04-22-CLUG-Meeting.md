@@ -15,7 +15,7 @@ categories: meeting
 
 **Discussion/Activities:**
  *  In lieu of a general meeting it had been decided to to have a social meeting at a local restaurant where spouses, families, and significant others could attend and not be bored to tears by the geeky conversation that was normally part of our meetings.  This was the first attempt at such a meeting.
- *  It was decided by those present to continue having these types of meetings quarterly at variuos restaurants around Sierra Vista.
+ *  It was decided by those present to continue having these types of meetings quarterly at various restaurants around Sierra Vista.
  *  The next one is tentatively scheduled for 22 July at 1700 at Denny's, 2397 E. Fry Blvd, Sierra Vista, AZ.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_1.jpg)
