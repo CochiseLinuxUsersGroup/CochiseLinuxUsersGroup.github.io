@@ -41,6 +41,10 @@ This one went to Angel O.
 
 This one went to Shacquello N.
 
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_tablets_donated__to_mike_lopez.jpg)
+
+These went to Mike L for a Sunday School class.
+
  * We have 35 people on our mailing list and 52 members on our Facebook page.
  * We have 7 desktop computers ready for donation.
 
