@@ -46,3 +46,5 @@ categories: meeting
  * This was our second attempt to have a social meeting (in lieu of a general meeting) at a local restaurant where spouses, families, and significant others could attend and not be bored to tears by the geeky conversation that was normally part of our meetings.
  * Once again it was decided to continue to have such meetings by those present.
  * The next one is tentatively scheduled for 28 October at 1700 at La Casita, 465 E. Fry Blvd
+
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-07-22_1.jpg)
