@@ -32,7 +32,9 @@ categories: meeting
 
  This one went to Mike L
  
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris.jpg)
 
+ This one went to Martha H
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_daniel_wallis.jpg)
 
