@@ -1,8 +1,3 @@
----
-layout: default
-title: CLUG Inventory List
----
-
 Acer (output 19 volts 3.42 amps) <br>
 Compaq (4 pin square connector)  <br>
 Dell (3 pin square connector) <br>
