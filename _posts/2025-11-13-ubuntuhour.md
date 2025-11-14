@@ -22,10 +22,6 @@ categories: meeting
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_jonah_haines.jpg)
 
-This one went to Jonah H
-
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris_2.jpg)
-
 This one went to Martha H
 
  * and conducted 316 installs on laptops and desktops.  This year alone we have installed 63.
@@ -35,7 +31,7 @@ This one went to Martha H
 **Discussion and Activities:**
  * Set up Ubuntu 24.04.3 on a Ventoy flash drive for an attendee.
  * Discussed the creation of new Mini Linux Workshops at the Warrior Healing Center, 1838 Paseo San Luis, from 0900-1200 every Monday, Wednesday, and Friday in the Computer Lab.  If you have a problem or a question and do not want to use the mailing list or Discord, you can stop by and hopefully have it solved or answered.
- * Discussed the up coming presentation on Artificial Inteligence.
+ * Discussed the up coming presentation on Artificial Intelligence.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_2.jpg)
