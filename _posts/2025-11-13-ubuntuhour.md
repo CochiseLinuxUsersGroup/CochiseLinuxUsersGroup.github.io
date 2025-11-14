@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 208 computers to individuals or groups.  This year alone we have donated 59.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_jonah_haines.jpg)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris_2.jpg)
 
 This one went to Martha H
 
