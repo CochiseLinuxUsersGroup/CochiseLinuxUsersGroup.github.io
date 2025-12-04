@@ -1132,7 +1132,7 @@ code {
 ul#hpmenu {
 margin: 35px 0;
 padding: 0;
-font: 14px Verdana;
+font: 16px Verdana;
 list-style-type: none;
 }
   
@@ -1144,6 +1144,10 @@ ul#hpmenu li a {
 padding: 5px 10px;
 border: 1px solid #aaa;
 text-decoration: none;
+}
+.imgfloat {
+    float: right;
+    margin-right: 10em;
 }
 
 }
