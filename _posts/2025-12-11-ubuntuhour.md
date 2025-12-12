@@ -35,7 +35,7 @@ This one went to Steven V
 **Discussion and Activities:**
  * Discussed what Ventoy does and does not do.
  * Discussed how to dual boot with a common /home
- * Asked for volunteers to take a more active roll in the administration of the group
+ * Asked for volunteers to take a more active role in the administration of the group
  * Received an update on the progress of the mini-workshops. 
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_1.JPG)
