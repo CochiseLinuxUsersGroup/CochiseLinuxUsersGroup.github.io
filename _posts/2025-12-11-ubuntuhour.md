@@ -14,7 +14,7 @@ categories: meeting
 **Attendees:** 9 (1 new person)
 
 **Upcoming Events:**
- * 23 December, CLUG Supper Meeting, 1700-1830, Native Grill and Wings, 3950 Martin Luther King Jr Pkwy, Sierra Vista.
+ * 23 December, CLUG Workshop, 1700-1830, Warrior Healing Center main conference room, 1838 Paseo San Luis. Sierra Vista.
  * 08 January, Sierra Vista Ubuntu Hour, 1800-1900, Schlotzsky's Cafe, 3900 Fry Blvd, Sierra Vista.
 
 **Announcements:**
