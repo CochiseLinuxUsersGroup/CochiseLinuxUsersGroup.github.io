@@ -15,3 +15,5 @@ USB A to DVI
 VGA 
 VGA extension male to female 
 VGA to HDMI 
+Display adapter to VGA
+Display adapter to mini display adapter
