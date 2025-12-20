@@ -1150,4 +1150,12 @@ text-decoration: none;
     margin-right: 3em;
 }
 
+.navbar li ul {
+  display: none;
+}
+
+.navbar li:hover ul {
+  display: block;
+}
+
 }
