@@ -7,7 +7,7 @@ categories: meeting
 
 ### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista, AZ
 
-### Date: Tuesday, 23 November 2025
+### Date: Tuesday, 25 November 2025
 ### Meeting Minutes:
 
 **Attendees:** 
