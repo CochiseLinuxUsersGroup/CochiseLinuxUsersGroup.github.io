@@ -5,7 +5,7 @@ date: 2026-01-27
 categories: meeting
 ---
 
-### Location: Warrior Healing Center, 1838 Paseo San Luis, Sierra Vista, AZ
+### Location: Native Grill & Wings, 3950 Martin Luther King Jr Pkwy, Sierra Vista, AZ
 
 ### Date: Tuesday, 27 January 2026
 ### Meeting Minutes:
