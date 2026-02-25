@@ -46,7 +46,7 @@ categories: meeting
 **Aftermath:**
  * Several members retired to Culver’s to enjoy a burger and to continue to discuss Linux and CLUG related topics.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2026-02-24_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2026-02-24_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2026-02-24_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2026-02-24_4.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-02-24_2.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-02-24_1.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-02-24_3.JPG)
+![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-02-24_4.JPG)
