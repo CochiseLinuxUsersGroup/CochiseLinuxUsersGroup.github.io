@@ -24,4 +24,4 @@ Generic (output 19 volts 2.1 amps) (1 each)<br>
 Generic (output 19 volts 2.53 amps) (1 each)<br>
 Generic (output 19.5 volts 3,42 amps) (1 each)<br>
 Generic (output 19.5 volts 4.62 amps) (1 each)<br>
-Generic (output 15-20 volts 2.25-3 amps (USB type C connector)(1 each)<br>
+Generic (output 15-20 volts 2.25-3 amps (USB type C connector)(1 each)<br><br>
