@@ -1,19 +1,20 @@
-DVI  
-DVI splitter  
-DVI to HDMI  
-DVI-D connector  
-DVI-A connector  
-DVI to VGA splitter   
-HDMI   
-HDMI extension   
-HDMI to HDMI mini   
-HDMI Display adapter   
-HDMI Display Adapter to VGA   
+DVI (10 each)  
+DVI splitter (2 each)    
+DVI to HDMI (1 each)    
+DVI-D connector (1 each)    
+DVI-A connector (2 each)  
+DVI to VGA splitter (1 each)     
+HDMI (15 each)  
+HDMI extension (4 each)     
+HDMI to HDMI mini (1 each)     
+HDMI Display adapter (8 each)     
+HDMI Display Adapter to VGA (1 each)
+Display adapter to mini display adapter (1 each)   
 HDMI Display adapter to HDMI female  
-PS2 to USB connector   
-USB A to DVI   
-VGA  
-VGA extension male to female   
-VGA to HDMI   
-Display adapter to VGA  
-Display adapter to mini display adapter  
+PS2 to USB connector (12 each)     
+USB A to DVI (1 each)     
+VGA (6 each)    
+VGA extension male to female (2 each)     
+VGA to HDMI (1 each)     
+VGA to Display port (1 each)   
+ 
