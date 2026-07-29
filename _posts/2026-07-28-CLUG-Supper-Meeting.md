@@ -44,7 +44,7 @@ categories: meeting
 
 **Future Presentations:**
  * 25 August, “Desktop Environments” by Rex Bouwense
- * TBD24 November, “How to prepare Linux install media for your computer” by Rex Bouwense
+ * 24 November, “How to prepare Linux install media for your computer” by Rex Bouwense
  * TBD, “LaTex & Texstudio” by George Self
 
 **Discussion/Problems/Questions/Activities:**
