@@ -23,12 +23,11 @@ categories: meeting
  * CLUG website:  https://cochiselinuxusergroup.org
  * CLUG FaceBook Page:  https://www.facebook.com/groups/1059259857477393/
  * CLUG Mailing List Archives: https://www.freelists.org/archive/cochiselinux
- * CLUG Discord channel:  https://discord.com/invite/ym2hCH5FSk
 
 **Announcements:**
  * To date we have donated 208 computers to individuals or groups.  This year we have donated 59.
  * and conducted 328 installs on laptop and desktop computers.  This year we have conducted 75.
- * We have 39 people on our mailing list, 52 members on our Facebook page, and 9 people on our Discord channel.
+ * We have 39 people on our mailing list, 52 members on our Facebook page.
  * We have 7 desktop computers and 3 laptop computers ready for donation.
  * In addition we have 1 desktop computer and 1 laptop computer with Microsoft Windows 10 installed.  Both have been reset if anyone wants them before we put a  Linux OS on them.
 
@@ -43,7 +42,7 @@ categories: meeting
 **Discussion/Activities:**
  * Discussed the use of computers during presentations to give the members a hands on capability.  
  * Discussed the use of the 19 remaining computers that we received from the ASCU.  They are all i5’s or i7’s with 8 or 16 Gbs of RAM.  Hopefully we can take care of most of them at the next Linux Workshop.
- * Those not on the mailing list or Discord were urged to sign up for one or preferably both.
+ * Those not on the mailing list were urged to sign up.
 
 **Aftermath:**
  * Several of the members retired to Culver’s for a hamburger and fries and some additional Linux conversation.

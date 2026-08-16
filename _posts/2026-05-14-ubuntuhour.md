@@ -29,7 +29,7 @@ categories: meeting
 This one went to Ted J.
 
  * and conducted 389 installs on laptops and desktops.  This year alone we have installed 48.
- * We have 39 people on our mailing list, 52 members on our Facebook page, and 11 people on our Discord channel.
+ * We have 39 people on our mailing list, 52 members on our Facebook page.
  * We have 13 desktop computers and 1 laptop computer ready for donation.
 
 **Discussion and Activities:**

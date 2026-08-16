@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 222 computers to individuals or groups.  Last year we donated 72.  This year we have donated 1.
  * To date we have conducted 350 installs on laptops and desktops.  Last year we conducted 88.  This year we have conducted 9.
- * We have 38 people on our mailing list, 53 members on our Facebook page, and 9 people on our Discord channel.
+ * We have 38 people on our mailing list, 53 members on our Facebook page.
  * We have 13 desktop computers and 1 laptop computer ready for donation.
 
 **Discussion and Activities:**

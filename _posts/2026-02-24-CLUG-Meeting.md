@@ -25,13 +25,12 @@ categories: meeting
  * CLUG website:  https://cochiselinuxusergroup.org
  * CLUG FaceBook Page:  https://www.facebook.com/groups/1059259857477393/
  * CLUG Mailing List Archives: https://www.freelists.org/archive/cochiselinux
- * CLUG Discord channel:  https://discord.com/invite/ym2hCH5FSk
  * CLUG inventory of computers and spare parts & accessories:  https://cochiselinuxusergroup.org/inventory 
 
 **Announcements:**
  * To date we have donated 222 computers to individuals or groups.  Last year we donated 72. This year we have donated 2. 
  * To date we have conducted 356 installs on laptop and desktop computers.  Last year we conducted 88. This year we have conducted 15.
- * We have 39 people on our mailing list, 55 people on our Facebook page, and 11 people on our Discord channel.
+ * We have 39 people on our mailing list, 55 people on our Facebook page.
  *We have 18 desktop computers and 1 laptop computer ready for donation.
 
 **Future Presentations:**

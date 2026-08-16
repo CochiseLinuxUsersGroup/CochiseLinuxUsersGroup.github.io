@@ -33,7 +33,7 @@ This one went to Endeavor.
 This one went to Jonah H.
 
  * and conducted 399 installs on laptops and desktops.  This year alone we have installed 58.
- * We have 40 people on our mailing list, 52 members on our Facebook page, and 11 people on our Discord channel.
+ * We have 40 people on our mailing list, 52 members on our Facebook page.
  * We have 11 desktop computers and 1 laptop computer ready for donation.
 
 **Discussion and Activities:**

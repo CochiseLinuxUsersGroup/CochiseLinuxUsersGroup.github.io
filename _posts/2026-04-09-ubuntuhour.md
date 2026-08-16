@@ -36,13 +36,12 @@ This one went to Nelson H.
 This one went to Lance W.
 
  * and conducted 364 installs on laptops and desktops.  This year alone we have installed 23.
- * We have 38 people on our mailing list, 52 members on our Facebook page, and 11 people on our Discord channel.
+ * We have 38 people on our mailing list, 52 members on our Facebook page.
  * We have 10 desktop computers and 1 laptop computer ready for donation.
 
 **Discussion and Activities:**
  * Discussed the scheduled release of Ubuntu 26.04 and some of the new features and installing or upgrading from 24.04.4.
  * Discussed a problem that a member had booting to the grub menu and the possible solutions.
- * We simulcast the Ubuntu Hour on our Discord channel but no one participated.
 
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_1.jpg)
 ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_2.jpg)
