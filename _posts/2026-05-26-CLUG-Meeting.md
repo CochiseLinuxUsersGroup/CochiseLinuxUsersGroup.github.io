@@ -31,7 +31,7 @@ categories: meeting
  * To date we have donated 239 computers to individuals or groups.  Last year we donated 72. This year we have donated 18. 
  * To date we have conducted 395 installs on laptop and desktop computers.  Last year we conducted 88. This year we have conducted 54.
  * We have 39 people on our mailing list, 57 people on our Facebook page.
- *We have 12 desktop computers and 1 laptop computer ready for donation.
+ * We have 12 desktop computers and 1 laptop computer ready for donation.
 
 **Future Presentations:**
  * 25 August, “Desktop Environments” by Rex Bouwense
