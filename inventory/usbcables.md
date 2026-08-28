@@ -1,5 +1,5 @@
 USB-2 A male to A male (5 each)  
-USB-2 A male to B male (22 each)   
+USB-2 A male to B male (23 each)   
 USB-2 A male to mini male (16 each)  
 USB-2 A male to micro male (23 each)  
 USB-2 A male to micro 4 pin female (1 each)  
