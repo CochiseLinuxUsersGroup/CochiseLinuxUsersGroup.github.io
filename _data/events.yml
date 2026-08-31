@@ -1,5 +1,18 @@
-# Upcoming CLUG events - update this file to refresh homepage and structured data
-# Dates in ISO format with America/Phoenix timezone (Phoenix does not observe DST, always -07:00)
+# =============================================================================
+# EDIT GUIDE — HOW TO UPDATE HOMEPAGE "Upcoming Events" (EASY, anyone can do)
+# 1. Copy/paste one block (dash + 5 lines) to add a new event at bottom
+# 2. Edit fields:
+#    - date: YYYY-MM-DD (ISO, e.g. 2026-09-10) — used for sort & Google time
+#    - time: "HH:MM:SS-07:00" — 24h + -07:00 = Phoenix (no DST). 17:00=5pm, 18:00=6pm
+#    - time_display: "5pm" or "6pm" — what shows on homepage (just text)
+#    - display: "Sep 10" — short label on homepage (Mon Day)
+#    - title: "Ubuntu Hour" etc — keep short (Ubuntu Hour, CLUG Meeting, Linux Workshop, Supper Meeting)
+#    - location: free text, shown only if you add to index.html loop (currently not displayed, safe to edit)
+# 3. Keep chronological order (earliest top) — homepage shows first 8
+# 4. Save + git push — homepage updates + SEO time tag auto-updates. No HTML needed!
+# 5. Remove past events (cut the 5-line block) or keep — homepage limit hides extras
+# Dates MUST be ISO + Phoenix is always -07:00 (no DST)
+# =============================================================================
 - date: 2026-09-10
   time: "18:00:00-07:00"
   time_display: "6pm"

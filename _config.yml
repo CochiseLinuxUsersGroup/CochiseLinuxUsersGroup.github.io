@@ -1,29 +1,39 @@
-# Site settings
+# =============================================================================
+# EDIT GUIDE — _config.yml is the site’s global settings (no HTML needed)
+# HOW TO EDIT (safe for beginners):
+#  - title/tagline/description → shown in Google + browser tab (keep under ~60/160 chars)
+#  - url MUST be https://cochiselinuxusergroup.org (no trailing slash) — used for SEO canonical
+#  - author/logo/image → used for SEO cards (leave as /images/CLUG-badge.png unless you replace file)
+#  - social.links → "sameAs" for Google — add/remove full URLs only
+#  - Do NOT edit baseurl, lang, locale unless you know Jekyll
+# =============================================================================
+
+# Site settings — EDIT THESE to change what appears in Google/search/social
 title: Cochise Linux User Group - CLUG
-tagline: Free Linux Help, Workshops & Community in Cochise County, Arizona
-email: cochiselinux@freelists.org
-description: > # this means to ignore newlines until "baseurl:"
+tagline: Free Linux Help, Workshops & Community in Cochise County, Arizona  # short tagline under title
+email: cochiselinux@freelists.org  # contact email shown in JSON-LD, change if list address changes
+description: > # this means to ignore newlines until "baseurl:" — Keep 150-160 chars for Google
   Cochise Linux User Group (CLUG) is a volunteer non-profit in Sierra Vista
   and Cochise County, Arizona. We host free monthly meetings, Ubuntu Hours,
   Linux workshops and presentations on Free & Open Source Software, and provide
   free troubleshooting and install help for Ubuntu, Linux Mint, LMDE and more.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://cochiselinuxusergroup.org" # the base hostname & protocol for your site
-lang: en
-locale: en_US
-author:
+baseurl: "" # LEAVE BLANK — subpath if site was /blog/ (not needed here)
+url: "https://cochiselinuxusergroup.org" # LEAVE AS HTTPS — base hostname for SEO/canonical
+lang: en  # html lang attribute (en = English)
+locale: en_US  # for SEO locale
+author:  # Default author for posts/pages (overridden per-post if you add author: Name)
   name: Cochise Linux User Group
   email: cochiselinux@freelists.org
-logo: /images/CLUG-badge.png
-image: /images/CLUG-badge.png
-# Social / SEO
-github_username: CochiseLinuxUsersGroup
+logo: /images/CLUG-badge.png  # Must exist in /images/ — shown in Google cards
+image: /images/CLUG-badge.png  # Default share image (when page has no own image)
+# Social / SEO — EDIT ONLY URLs here (add new Facebook/GitHub if they change)
+github_username: CochiseLinuxUsersGroup  # github.com/USERNAME
 twitter:
-  username: cochiselinux
-  card: summary
+  username: cochiselinux  # twitter handle without @
+  card: summary  # summary = small card, summary_large_image = big
 facebook:
   publisher: https://www.facebook.com/groups/1059259857477393/
-social:
+social:  # Used for JSON-LD sameAs — list every official profile (one per line, full https URL)
   name: Cochise Linux User Group
   links:
     - https://github.com/CochiseLinuxUsersGroup
@@ -31,44 +41,44 @@ social:
     - https://www.freelists.org/archive/cochiselinux
     - https://cochiselinuxusergroup.org
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /blog/:year/:month/:day/:title/
-timezone: America/Phoenix
-paginate: 5
-paginate_path: "/blog/page:num/"
+# Build settings — ADVANCED: only edit if you know Jekyll; safe defaults below
+markdown: kramdown  # leave as kramdown (GitHub Pages default)
+highlighter: rouge  # code highlighting
+permalink: /blog/:year/:month/:day/:title/  # URL for blog posts — /blog/2026/01/15/title/
+timezone: America/Phoenix  # for post dates
+paginate: 5  # EDIT: number of posts per blog page (5) — change to 10 to show more per page
+paginate_path: "/blog/page:num/"  # LEAVE — where page 2,3… live
 
-plugins:
+plugins:  # LEAVE — these add SEO/sitemap/RSS (need Gemfile too)
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# SEO defaults - jekyll-seo-tag
+# SEO defaults — LEAVE: fallback image/author when page has none (page front-matter overrides)
 defaults:
   - scope:
-      path: ""
+      path: ""  # all files
     values:
-      layout: default
-      image: /images/CLUG-badge.png
-      author: Cochise Linux User Group
+      layout: default  # fallback layout
+      image: /images/CLUG-badge.png  # fallback share image
+      author: Cochise Linux User Group  # fallback author
   - scope:
-      path: ""
+      path: ""  # all posts
       type: posts
     values:
       layout: post
       author: Cochise Linux User Group
       image: /images/CLUG-badge.png
 
-kramdown:
-  input: GFM
-  auto_ids: true
+kramdown:  # LEAVE — markdown parser options
+  input: GFM  # GitHub Flavored Markdown
+  auto_ids: true  # auto-add id to headings for #links
   syntax_highlighter: rouge
 
-# Collections & pagination handling
+# Collections & pagination handling — LEAVE
 feed:
-  path: /feed.xml
+  path: /feed.xml  # RSS feed at /feed.xml — auto-filled from _posts
 
 
 

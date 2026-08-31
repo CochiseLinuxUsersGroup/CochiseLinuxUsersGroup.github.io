@@ -5,6 +5,16 @@ description: Detailed list of laptop AC adapters available at CLUG Warrior Heali
 image: /images/CLUG-badge.png
 ---
 
+<!--
+EDIT GUIDE — CHARGER DETAILS (detailed list linked from inventory)
+FILE: inventory/charger.md — shown at /inventory/charger.html
+
+HOW: Each line = one charger:  Dell (output 19.5 volts 3.34 amps) (4 each)
+- Change number in (X each) to update count
+- Add: copy a line, change brand/volts/amps/count
+- Remove: delete line
+- Keep format: Brand (output ... ) (N each) — one per line, two spaces at end for line break
+-->
 # Laptop AC Adapter Details
 
 Dell (output 19.5 volts 3.34 amps) (4 each)  

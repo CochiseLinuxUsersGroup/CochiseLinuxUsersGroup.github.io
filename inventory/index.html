@@ -6,304 +6,250 @@ image: /images/CLUG-badge.png
 keywords: [free computers, CLUG inventory, Sierra Vista, Linux hardware, donated computers]
 ---
 
-	<article id="main">
+<!--
+============================================================================
+EDIT GUIDE — INVENTORY PAGE (for anyone, no HTML knowledge needed)
+FILE: inventory/index.html  — This is the ONLY file to edit for inventory.
+
+HOW TO UPDATE IN 30 SECONDS:
+1. Press Ctrl+F and search for the category you want (e.g. "Laptop Hard Drives")
+2. Find the pill with the number:  e.g.  500GB <strong>×11</strong>
+3. Change ONLY the number after × (e.g. ×11 → ×10 when you give one away)
+4. Save + git push — page auto-updates
+
+HOW TO ADD A NEW COMPUTER:
+1. Copy one <div class="computer-card"> ... </div> block under "Desktop Computers" or "Laptop Computers"
+2. Paste it below the last one, edit Model, Hard drive, RAM, Processor, OS
+3. Save + push
+
+HOW TO ADD A NEW CATEGORY:
+1. Copy a whole <section id="..."> block (e.g. Routers)
+2. Paste above </section> near bottom, change h2/h3 title and pills
+3. Also add a link to the anchor nav at top (see <!-- ANCHOR NAV -->)
+
+STYLE: Pills = responsive badges (no tables = mobile-friendly). Don't change style="..." unless you know CSS.
+CHILD PAGES: Detailed lists live in inventory/charger.md, monitor.md, usbcables.md — each has own EDIT GUIDE at top.
+LAST UPDATED: Change date at bottom<!-- LAST UPDATED --> when you edit anything.
+QUESTIONS? Ask on mailinglist or GitHub — all comments like this are invisible on the live site.
+============================================================================
+-->
+
+<article id="main">
 <header class="special container">
 <h1>CLUG Inventory List</h1>
 <p>Free computers, parts &amp; accessories stored at the Warrior Healing Center for members</p>
 </header>
+
 <section class="wrapper style1 container">
 <p style="text-align:center;">These items are stored at the Warrior Healing Center and are free to any CLUG member for their use.</p>
- 			<br><br>
 
-	<!-- Laptops -->
-			<h2>Laptop Computers</h2>
+<!-- ==================== ANCHOR NAV — EDIT PILLS TO ADD/REMOVE JUMP LINKS ==================== -->
+<!-- HOW: Add <a href="#id">Label</a> here AND ensure the section below has matching id="id" -->
+<nav style="text-align:center; margin:1em 0 1.5em 0; display:flex; flex-wrap:wrap; justify-content:center; gap:0.5em;" aria-label="Inventory sections">
+  <a href="#computers" class="button small" style="padding:0.4em 0.8em;"><i class="fa fa-desktop"></i> Computers</a>
+  <a href="#storage" class="button small" style="padding:0.4em 0.8em;"><i class="fa fa-hdd-o"></i> Storage & Memory</a>
+  <a href="#peripherals" class="button small" style="padding:0.4em 0.8em;"><i class="fa fa-keyboard-o"></i> Peripherals</a>
+  <a href="#cables" class="button small" style="padding:0.4em 0.8em;"><i class="fa fa-plug"></i> Cables</a>
+  <a href="#networking" class="button small" style="padding:0.4em 0.8em;"><i class="fa fa-wifi"></i> Networking</a>
+</nav>
 
-			ASUS K54C<br>
-			<code>Hard drive: 320.1 Gb ||
-			RAM: 6Gb ||
-			Processor: Intel pentium B970 x2 ||
-			OS: Ubuntu 26.04 [full install]</code><br>
+<!-- ==================== SECTION 1: COMPUTERS ==================== -->
+<!-- EDIT: Add/remove computer-card blocks. Keep id="computers" for anchor -->
+<h2 id="computers"><i class="fa fa-desktop"></i> Computers</h2>
 
-	<!-- Laptop HDD -->
-			<h3>Laptop Hard Drives</h3>
-			<table style="text-align: left;">
-  			<tr>
-    		<th>100GB</th>
-    		<th>120GB</th>
-			<th>160GB</th>  
-			<th>250GB</th>
-			<th>320GB</th>
-			<th>500GB</th>
-  			</tr>
-  			<tr>
-    		<td>Qty. 1</td>
-    		<td>Qty. 2</td>
-			<td>Qty. 2</td>  
-			<td>Qty. 3</td>
-			<td>Qty. 2</td>
-			<td>Qty. 11</td>
-  			</tr>
-			</table>
+<!-- ----- Laptop Computers — EDIT EACH computer-card ----- -->
+<!-- HOW: Copy/paste a computer-card div to add a laptop. Edit text between tags only. -->
+<h3>Laptop Computers</h3>
+<div style="display:flex; flex-wrap:wrap; gap:1em; margin-bottom:1.5em;">
+  <!-- EDIT laptop: Model, specs inside <code>. Keep || separators for readability -->
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>ASUS K54C</strong><br>
+    <code>Hard drive: 320.1 Gb || RAM: 6Gb || Processor: Intel pentium B970 x2 || OS: Ubuntu 26.04 [full install]</code>
+  </div>
+</div>
 
-	<!-- Laptop Ram -->
-			<h3>Laptop RAM</h3>
-   			<table style="text-align: left;">
-  			<tr>
-	  		<th>DDR3</th>
-  			</tr>
-  			<tr>
-    		<th>1GB</th>
-    		<th>2GB</th>
-			<th>4GB</th>
-			<th>8GB</th>
-			</tr>
-  			<tr>
-    		<td>Qty. 8</td>
-    		<td>Qty. 25</td>
-			<td>Qty. 3</td>
-			<td>Qty. 1</td>
-			</tr>
-			</table>
+<!-- ----- Desktop Computers — EDIT EACH computer-card ----- -->
+<h3>Desktop Computers</h3>
+<div style="display:flex; flex-wrap:wrap; gap:1em; margin-bottom:1.5em;">
+  <!-- EDIT desktop: duplicate this block for each machine, change [x2] for multiples -->
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>Dell Optiplex 780</strong><br>
+    <code>Hard drive: 2 Tbs || RAM: 8 Gbs || Processor: Intel Core 2 duo CPU E8400 @ 3.00 GHz || OS: Linux Mint 22.3 [Normal install]</code>
+  </div>
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>Dell Optiplex 960</strong><br>
+    <code>Hard drive: 500 Gb || RAM: 6 Gbs || Processor: Intel Core Duo E8400 || OS: Lubuntu 26.04 LTS [Normal install]</code>
+  </div>
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>HP Compaq 6005 Pro SFF</strong><br>
+    <code>Hard drive: 1.5 Tb || RAM: 8 Gbs || Processor: AMD Athlon II x 2 B24 x 2 || OS: Ubuntu 26.04 LTS [Minimal]</code>
+  </div>
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>Dell Optiplex 3020 Small [x2]</strong><br>
+    <code>Hard drive: Varies || RAM: 8 Gbs || Processor: Intel i5-4590 || OS: Ubuntu 26.04 LTS [Minimal]</code>
+  </div>
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>Dell Inspiron 3268</strong><br>
+    <code>Hard drive: 500 Gbs || RAM: 8 Gbs || Processor: Intel i3-7100 || OS: Ubuntu 26.04 LTS [Minimal]</code>
+  </div>
+  <div class="computer-card" style="flex:1 1 300px; border:1px solid #e5e5e5; padding:1em; border-radius:6px;">
+    <strong>Dell Vostro 320 (all-in-one)</strong><br>
+    <code>Hard drive: 1 Tb || RAM: 4 Gbs || Processor: Intel Core 2 Duo CPU E8400 @ 3.00 GHz || OS: Linux Mint 22.3 [full install]</code>
+  </div>
+</div>
 
-   			<table style="text-align: left;">
-  			<tr>
-	  		<th>DDR4</th>
-  			</tr>
-  			<tr>
-			<th>4GB</th>
-			<th>8GB</th>	
-			</tr>
-  			<tr>
-			<td>Qty. 2</td>
-			<td>Qty. 1</td>	
-			</tr>
-			</table>
+<!-- ==================== SECTION 2: STORAGE & MEMORY ==================== -->
+<h2 id="storage"><i class="fa fa-hdd-o"></i> Storage & Memory</h2>
 
-	<!-- Laptop Wifi Chips -->
-			<h3>Laptop WiFi Chips</h3>
-			Assorted sizes (29 each)<br><br>
+<!-- ----- Laptop Hard Drives — EDIT Qty pills (change ×number) ----- -->
+<!-- HOW: Each pill = one size. Change ×11 to new count. To add size, copy a <span>pill</span> -->
+<h3>Laptop Hard Drives</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">100GB <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">120GB <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">160GB <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">250GB <strong>×3</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">320GB <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">500GB <strong>×11</strong></span>
+</div>
 
-	<!-- Laptop AC Adapters -->
-			<h3>Laptop AC Adapters</h3>
-			Detailed List of Chargers <a href="charger.html" target="_blank" rel="noopener">View full charger inventory list</a><br>
-			<table style="text-align: left;">
-  			<tr>
-			<th>Dell</th>
-			<th>Delta</th>  
-			<th>HiPro</th>  
-    		<th>HP</th>
-			<th>Insignia</th>
-			<th>Lenovo</th>
-			<th>LiteOn</th>
-			<th>Generic</th>
-  			</tr>
-  			<tr>
-			<td>Qty. 17</td>
-			<td>Qty. 3</td>
-			<td>Qty. 1</td>
-			<td>Qty. 12</td>
-			<td>Qty. 1</td>
-			<td>Qty. 1</td>
-			<td>Qty. 4</td>
-			<td>Qty. 4</td>
-  			</tr>
-			</table><br>
-	
+<!-- ----- Laptop RAM DDR3 — EDIT pills ----- -->
+<h3>Laptop RAM — DDR3</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:0.8em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">1GB <strong>×8</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">2GB <strong>×25</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">4GB <strong>×3</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">8GB <strong>×1</strong></span>
+</div>
+<!-- ----- Laptop RAM DDR4 — EDIT pills ----- -->
+<h3>Laptop RAM — DDR4</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">4GB <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">8GB <strong>×1</strong></span>
+</div>
 
-	<!-- Desktop PCs -->
-			<h2>Desktop Computers</h2>
+<!-- ----- Laptop WiFi Chips — EDIT number ----- -->
+<h3>Laptop WiFi Chips</h3>
+<p>Assorted sizes — <strong>29 each</strong> <!-- EDIT number only --></p>
 
-			Dell Optiplex 780<br>
-			<code>Hard drive:  2 Tbs ||
-			RAM:  8 Gbs ||
-			Processor:  Intel Core 2 duo CPU E8400 @ 3.00 GHz ||
-			OS: Linux Mint 22.3 [Normal install]</code><br>
+<!-- ----- Laptop AC Adapters — EDIT brand pills ----- -->
+<!-- HOW: Detailed breakdown in charger.html — quick totals here. Edit × numbers. Link below goes to full list. -->
+<h3>Laptop AC Adapters</h3>
+<p><a href="charger.html" target="_blank" rel="noopener" class="button small"><i class="fa fa-external-link"></i> View full charger inventory list</a></p>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">Dell <strong>×17</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">Delta <strong>×3</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">HiPro <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">HP <strong>×12</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">Insignia <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">Lenovo <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">LiteOn <strong>×4</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">Generic <strong>×4</strong></span>
+</div>
 
-			Dell Optiplex 960<br>
-			<code>Hard drive:  500 Gb ||
-			RAM:  6 Gbs ||
-			Processor:  Intel Core Duo E8400 ||
-			OS: Lubuntu 26.04 LTS [Normal install]</code><br>
+<!-- ----- Desktop RAM DDR3/DDR4 — EDIT pills ----- -->
+<h3>Desktop RAM — DDR3</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:0.8em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">1GB <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">2GB <strong>×12</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">4GB <strong>×3</strong></span>
+</div>
+<h3>Desktop RAM — DDR4</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">1GB <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">4GB <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">8GB <strong>×1</strong></span>
+</div>
 
-			HP Compaq 6005 Pro SFF<br>
-			<code>Hard drive:  1.5 Tb ||
-			RAM:  8 Gbs ||
-			Processor:  AMD Athlon II x 2 B24 x 2 ||
-			OS: Ubuntu 26.04 LTS [Minimal]</code><br>
+<!-- ----- Desktop Hard Drives — EDIT pills ----- -->
+<h3>Desktop Hard Drives</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">500GB <strong>×0</strong></span>
+</div>
 
-			Dell Optiplex 3020 Small [x2]<br>
-			<code>Hard drive:  Varies ||
-			RAM:  8 Gbs ||
-			Processor:  Intel i5-4590 ||
-			OS: Ubuntu 26.04 LTS [Minimal]</code><br>
+<!-- ==================== SECTION 3: PERIPHERALS ==================== -->
+<h2 id="peripherals"><i class="fa fa-keyboard-o"></i> Peripherals</h2>
 
-			Dell Inspiron 3268<br>
-			<code>Hard drive:  500 Gbs ||
-			RAM:  8 Gbs ||
-			Processor:  Intel i3-7100 ||
-			OS: Ubuntu 26.04 LTS [Minimal]</code><br>
+<!-- ----- Keyboards/Mice — EDIT numbers/text ----- -->
+<h3>Keyboards</h3>
+<p>USB — <strong>22 each</strong>, plus 7 committed to computers ready for donation <!-- EDIT numbers --> <br>
+Wireless (with mouse) — <strong>1 each</strong></p>
 
-			Dell Vostro 320 (all-in-one)<br>
-			<code>Hard drive:  1 Tb ||
-			RAM:  4 Gbs ||
-			Processor:  Intel Core 2 Duo CPU E8400 @ 3.00 GHz ||
-			OS: Linux Mint 22.3 [full install]</code><br>
+<h3>Mice</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">Track Wheel <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">USB-A Wired <strong>×10</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">USB-C Wired <strong>×1</strong></span>
+</div>
 
-	<!-- Desktop RAM -->
-			<h3>Desktop RAM</h3>
-   			<table style="text-align: left;">
-  			<tr>
-	  		<th>DDR3</th>
-  			</tr>
-  			<tr>
-    		<th>1GB</th>
-    		<th>2GB</th>
-			<th>4GB</th>
-			</tr>
-  			<tr>
-    		<td>Qty. 1</td>
-    		<td>Qty. 12</td>
-			<td>Qty. 3</td>
-			</tr>
-			</table>
+<!-- ==================== SECTION 4: CABLES ==================== -->
+<h2 id="cables"><i class="fa fa-plug"></i> Cables</h2>
 
-  			<table style="text-align: left;">
-  			<tr>
-	  		<th>DDR4</th>
-  			</tr>
-  			<tr>
-			<th>1GB</th>
-			<th>4GB</th>
-			<th>8GB</th>
-			</tr>
-  			<tr>
-			<td>Qty. 2</td>
-    		<td>Qty. 2</td>
-			<td>Qty. 1</td>
-			</tr>
-			</table><br>
+<!-- ----- Monitor Cables — EDIT pills + link to monitor.html ----- -->
+<h3>Monitor Cables and Connectors</h3>
+<p><a href="monitor.html" target="_blank" rel="noopener" class="button small"><i class="fa fa-external-link"></i> View full monitor cable inventory</a></p>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">DVI <strong>×4</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">HDMI <strong>×5</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">USB <strong>×13</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">VGA <strong>×6</strong></span>
+</div>
 
+<!-- ----- Power Cables — EDIT numbers ----- -->
+<h3>Power Cables</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px; font-size:0.9em;">3 prong-female (3–10 ft) <strong>×72</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">3 prong-male <strong>×6</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">2 prong-square <strong>×14</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">2 prong-round <strong>×12</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">3 prong-straight <strong>×1</strong></span>
+</div>
 
-	<!-- Desktop HDDs -->
-			<h3>Desktop Hard Drives</h3>
-			<table style="text-align: left;">
-  			<tr>
-    		<th>500GB</th>
-  			</tr>
-  			<tr>
-			<td>Qty. 0</td>
-  			</tr>
-			</table><br>
+<!-- ----- USB Cables — EDIT pills + link ----- -->
+<h3>USB Cables</h3>
+<p><a href="usbcables.html" target="_blank" rel="noopener" class="button small"><i class="fa fa-external-link"></i> View full USB cable inventory</a></p>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">USB-2 <strong>×104</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">USB-3 <strong>×29</strong></span>
+</div>
 
-	<!-- Keyboards -->
-			<h3>Keyboards</h3>
-			USB (22 each, plus 7 comitted to computers ready for donation)<br>
-			Wireless (1 each with wireless mouse)<br>
+<!-- ----- USB Hubs — EDIT ----- -->
+<h3>USB Hub</h3>
+<p>4-port USB-2 — <strong>1 each</strong></p>
 
-	<!-- Mice -->
-			<h3>Mice</h3>
-			<table style="text-align: left;">
-  			<tr>
-    		<th>Track Wheel</th>
-    		<th>USB-A Wired</th>
-	    	<th>USB-C Wired</th>			
- 			</tr>
-  			<tr>
-    		<td>Qty. 1</td>
-    		<td>Qty. 10</td>
-			<td>Qty. 1</td>
-			</tr>
-			</table><br>
+<!-- ----- Ethernet — EDIT pills ----- -->
+<h3>Ethernet Patch Cables (Mostly Cat5 / Cat6)</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">1–10 ft <strong>×52</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">11–20 ft <strong>×3</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">21–50 ft <strong>×0</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">51–100 ft <strong>×5</strong></span>
+</div>
 
-	<!-- Monitors & Cables -->
-			<h3>Monitor Cables and Connectors</h3>
-			Detailed List of monitor cables <a href="monitor.html" target="_blank" rel="noopener">View full monitor cable inventory</a><br>
+<!-- ==================== SECTION 5: NETWORKING ==================== -->
+<h2 id="networking"><i class="fa fa-wifi"></i> Networking</h2>
 
-			<table style="text-align: left;">
-  			<tr>
-    		<th>DVI</th>
-    		<th>HDMI</th>
-			<th>USB</th>
-			<th>VGA</th>  
-  			</tr>
-  			<tr>
-    		<td>Qty. 4</td>
-    		<td>Qty. 5</td>
-			<td>Qty. 13</td>
-			<td>Qty. 6</td>
-  			</tr>
-			</table><br>	
+<!-- ----- Routers/Switches/Wireless — EDIT lists/pills ----- -->
+<h3>Routers</h3>
+<ul>
+  <li>Netgear Nighthawk X6 AC3200 R8000 — <strong>1 each</strong></li>
+  <li>ASUS AC2400 4×4 dual-band gigabit — <strong>1 each</strong></li>
+  <li>Netgear Nighthawk AC1900 — <strong>1 each</strong></li>
+  <li>Linksys Max Stream AC1900 — <strong>1 each</strong></li>
+</ul>
 
+<h3>Network Switches (all 10/100 Mb)</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5em; margin-bottom:1em;">
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">4 Port <strong>×1</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">6 Port <strong>×2</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">8 Port <strong>×6</strong></span>
+  <span style="border:1px solid #e5e5e5; padding:0.4em 0.8em; border-radius:999px;">48 Port <strong>×1</strong></span>
+</div>
 
-	<!-- Power Cables -->
-			<h3>Power Cables</h3>
-			3 prong-female (various lengths 3 feet to 10 feet) (72 each)<br>
-			3 prong-male (6 each)<br>
-			2 prong-one square side (14 each) <br>
-			2 prong-round sides (12 each)<br>
-			3 prong-straight (1 each)<br><br>
+<h3>Wireless Adapter</h3>
+<p>AX1800 USB 3 — <strong>1 each</strong></p>
 
-
-	<!-- Routers -->
-			<h3>Routers</h3>
-			Netgear Nighthawk x 6 Router AC3200 R8000 (1 each)<br><br>
-			ASUS AC	2400 4x4 dual band gigabit router (1 each)<br><br>
-			Netgear Nighthawk AC 1900 (1 each)<br><br>
-			Linksys Max Stream AC 1900 (1 each)<br><br>
-
-
-	<!-- USB Cables -->
-			<h3>USB Cables</h3>
-			Detailed List of USB cables <a href="usbcables.html" target="_blank" rel="noopener">View full USB cable inventory</a><br>
-			USB-2 (104 each)<br>                                                                                  
-			USB-3 (29 each)<br><br>
-
-
-	<!-- USB Hubs -->
-			<h3>USB Hub</h3>
-			4 port USB-2 (1 each)<br><br>
-
-
-	<!-- Switches -->
-			<h3>Network Switches (all 10/100 Mb)</h3>
-			<table style="text-align: left;">
-  			<tr>
-    		<th>4 Port</th>
-    		<th>6 Port</th>
-			<th>8 Port</th>
-			<th>48 Port</th>  
-  			</tr>
-  			<tr>
-    		<td>Qty. 1</td>
-    		<td>Qty. 2</td>
-			<td>Qty. 6</td>
-			<td>Qty. 1</td>
-  			</tr>
-			</table><br>
-
-	<!-- Wireless Adapter -->
-			<h3>Wireless Adapter</h3>
-			AX1800 USB 3 (1 each)<br><br>
-
-
-	<!-- Ethernet Cables -->
-			<h3>Ethernet Patch Cables (Mostly Cat5 / Cat6)</h3>
-			<table style="text-align: left;">
-  			<tr>
-    		<th>1ft-10ft</th>
-    		<th>11ft-20ft</th>
-			<th>21ft-50ft</th>
-			<th>51ft-100ft</th>  
-  			</tr>
-  			<tr>
-    		<td>Qty. 52</td>
-   		 	<td>Qty. 3</td>
-			<td>Qty. 0</td>
-			<td>Qty. 5</td>
-  			</tr>
-			</table><br><br>
-
-
-	</section>
-<p style="text-align:right;"><small>Last Updated 28 August 2026</small></p>
+</section>
+<!-- LAST UPDATED — EDIT date when you change anything above -->
+<p style="text-align:right;"><small>Last Updated 28 August 2026 <!-- EDIT date: DD Month YYYY --></small></p>
 </article>
