@@ -4,9 +4,9 @@ EDIT GUIDE — DEFAULT LAYOUT (wraps most pages)
 FILE: _layouts/default.html
 
 HOW IT WORKS:
-- Every page with layout: default gets wrapped: <html lang="en"> + head + header + {{ content }} + footer
-- {{ content }} = your page's HTML/markdown below front-matter
-- To change page width/background, edit class="no-sidebar" on <body>
+- Every page with layout: default gets wrapped: html + head + header + content + footer
+- content = your page's HTML/markdown below front-matter (in file)
+- To change page width/background, edit class="no-sidebar" on body
 - Beginners: you rarely need to edit this — edit the page itself (e.g. distros/index.html)
 ============================================================================
 -->
