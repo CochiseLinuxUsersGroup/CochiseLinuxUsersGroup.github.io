@@ -19,5 +19,5 @@ categories: meeting
  * Six people had registered for the class but only 3 of those attended.
  * Discussed how to configure Firefox to the individual desires.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_firefox_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_firefox_2.jpg)
+![Whc Class Configuring Firefox 1 - Configuring Firefox Class 2023-01-30 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_firefox_1.jpg)
+![Whc Class Configuring Firefox 2 - Configuring Firefox Class 2023-01-30 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_firefox_2.jpg)

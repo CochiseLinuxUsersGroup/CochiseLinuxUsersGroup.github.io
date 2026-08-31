@@ -27,9 +27,9 @@ categories: meeting
  * Discussed the Kernel update problem.
  * Discussed phased updates.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_6.jpg)
+![Sv Ubuntuhour 2023 08 10 1 - Ubuntu Hour 2023-08-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_1.jpg)
+![Sv Ubuntuhour 2023 08 10 2 - Ubuntu Hour 2023-08-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_2.jpg)
+![Sv Ubuntuhour 2023 08 10 3 - Ubuntu Hour 2023-08-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_3.jpg)
+![Sv Ubuntuhour 2023 08 10 4 - Ubuntu Hour 2023-08-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_4.jpg)
+![Sv Ubuntuhour 2023 08 10 5 - Ubuntu Hour 2023-08-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_5.jpg)
+![Sv Ubuntuhour 2023 08 10 6 - Ubuntu Hour 2023-08-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-08-10_6.jpg)

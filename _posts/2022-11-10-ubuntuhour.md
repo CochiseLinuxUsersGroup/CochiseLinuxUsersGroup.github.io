@@ -22,7 +22,7 @@ categories: meeting
  * We will be conducting classes for Linux newbies at the Warrior Healing Center in the new year.
  * We had one donated computer to a vet this last month bringing our total to 78.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_chriscurasiandhiscomputer.jpg)
+![Chriscurasiandhiscomputer - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_chriscurasiandhiscomputer.jpg)
 
  * We have also had one additional install bringing our total to 150.
  * We are looking at getting polo shirts with for the CLUG.  They will come in assorted colors and run between $22 and $28 each.  More information will be available at our next meeting.
@@ -32,13 +32,13 @@ categories: meeting
  * Distributed information on Linux, Ubuntu, and the local LUG to the new attendees.
  * Demonstrated how to install Ubuntu to one of the new attendees.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_9.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_10.jpg)
+![Sv Ubuntuhour 2022 11 10 1 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_1.jpg)
+![Sv Ubuntuhour 2022 11 10 2 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_2.jpg)
+![Sv Ubuntuhour 2022 11 10 3 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_3.jpg)
+![Sv Ubuntuhour 2022 11 10 4 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_4.jpg)
+![Sv Ubuntuhour 2022 11 10 5 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_5.jpg)
+![Sv Ubuntuhour 2022 11 10 6 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_6.jpg)
+![Sv Ubuntuhour 2022 11 10 7 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_7.jpg)
+![Sv Ubuntuhour 2022 11 10 8 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_8.jpg)
+![Sv Ubuntuhour 2022 11 10 9 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_9.jpg)
+![Sv Ubuntuhour 2022 11 10 10 - Ubuntu Hour 2022-11-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-11-10_10.jpg)

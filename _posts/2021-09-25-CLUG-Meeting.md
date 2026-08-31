@@ -45,13 +45,13 @@ categories: meeting
  * Discussed Mike’s Linux project in Naco/Bisbee
  * Conducted a Ubuntu install for Mike.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_9.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_10.jpg)
+![Clug Meeting 2021 09 25 2 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_2.jpg)
+![Clug Meeting 2021 09 25 1 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_1.jpg)
+![Clug Meeting 2021 09 25 3 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_3.jpg)
+![Clug Meeting 2021 09 25 4 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_4.jpg)
+![Clug Meeting 2021 09 25 5 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_5.jpg)
+![Clug Meeting 2021 09 25 6 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_6.jpg)
+![Clug Meeting 2021 09 25 7 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_7.jpg)
+![Clug Meeting 2021 09 25 8 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_8.jpg)
+![Clug Meeting 2021 09 25 9 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_9.jpg)
+![Clug Meeting 2021 09 25 10 group photo - CLUG Meeting 2021-09-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-09-25_10.jpg)

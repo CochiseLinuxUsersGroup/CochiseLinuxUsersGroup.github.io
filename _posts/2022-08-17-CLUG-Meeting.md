@@ -30,7 +30,7 @@ categories: meeting
  * Discussed the option of making another attempt to get high school students involved in the organization.  It was generally agree that we should make another attempt starting with Buena.  Action:  Gene.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_4.jpg)
+![Clug Meeting 2022 08 17 1 group photo - CLUG Meeting 2022-08-17](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_1.jpg)
+![Clug Meeting 2022 08 17 2 group photo - CLUG Meeting 2022-08-17](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_2.jpg)
+![Clug Meeting 2022 08 17 3 group photo - CLUG Meeting 2022-08-17](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_3.jpg)
+![Clug Meeting 2022 08 17 4 group photo - CLUG Meeting 2022-08-17](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-17_4.jpg)

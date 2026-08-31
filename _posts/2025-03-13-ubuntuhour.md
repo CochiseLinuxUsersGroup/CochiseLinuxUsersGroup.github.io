@@ -20,11 +20,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 162 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_chris_braswell_with_computer.jpg)
+![Chris Braswell with Computer - Ubuntu Hour 2025-03-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_chris_braswell_with_computer.jpg)
 
 This one went to Chris B
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_greg_christ_with_computer.jpg)
+![Greg Christ with Computer - Ubuntu Hour 2025-03-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_greg_christ_with_computer.jpg)
 
 This one went to Greg C
 
@@ -39,7 +39,7 @@ This one went to Greg C
  * Discussed ROKU and Firestick set up with your home WiFi.
  * Discussed a printer problem that a member was having with one of his laptop computers.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_4.jpg)
+![Sv Ubuntu Hour 2025 03 13 1 - Ubuntu Hour 2025-03-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_1.jpg)
+![Sv Ubuntu Hour 2025 03 13 2 - Ubuntu Hour 2025-03-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_2.jpg)
+![Sv Ubuntu Hour 2025 03 13 3 - Ubuntu Hour 2025-03-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_3.jpg)
+![Sv Ubuntu Hour 2025 03 13 4 - Ubuntu Hour 2025-03-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-03-13_4.jpg)

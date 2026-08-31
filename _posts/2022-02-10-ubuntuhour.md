@@ -25,6 +25,6 @@ categories: meeting
  * A member had a problem with Samba.  Since he only wanted to transfer a small number of documents from one computer to a second computer, he was advised to transfer them via a USB flash drive rather than trying to try to configure Samba.
  * An attendee had a problem printing with his Chrome Book and HP printer.  The printer had to be added each time he wanted to print a document.  Since he had brought neither to the meeting he was advised to bring them to the next meeting so a possible solution could be offered.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-02-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-02-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-02-10_3.jpg)
+![Sv Ubuntuhour 2022 02 10 1 - Ubuntu Hour 2022-02-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-02-10_1.jpg)
+![Sv Ubuntuhour 2022 02 10 2 - Ubuntu Hour 2022-02-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-02-10_2.jpg)
+![Sv Ubuntuhour 2022 02 10 3 - Ubuntu Hour 2022-02-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-02-10_3.jpg)

@@ -24,7 +24,7 @@ categories: meeting
 
 **Announcements:**
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_brian_stough_and_his_computer.jpg)
+![Brian Stough and his Computer - CLUG Meeting 2024-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_brian_stough_and_his_computer.jpg)
 
 Brian S. with his computer
 
@@ -51,8 +51,8 @@ Brian S. with his computer
  * Briefly discussed Ubuntu Pro.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_5.jpg)
+![Clug Mtg 2024 01 23 1 - CLUG Meeting 2024-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_1.jpg)
+![Clug Mtg 2024 01 23 2 - CLUG Meeting 2024-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_2.jpg)
+![Clug Mtg 2024 01 23 3 - CLUG Meeting 2024-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_3.jpg)
+![Clug Mtg 2024 01 23 4 - CLUG Meeting 2024-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_4.jpg)
+![Clug Mtg 2024 01 23 5 - CLUG Meeting 2024-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-01-23_5.jpg)

@@ -47,8 +47,8 @@ categories: meeting
 **Aftermath:**
  * Some of the members retired to Culver’s to enjoy some food and additional conversation. All of which was not necessarily Linux related.  
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_5.jpg)
+![Clug Mtg 2023 10 24 1 - CLUG Meeting 2023-10-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_1.jpg)
+![Clug Mtg 2023 10 24 2 - CLUG Meeting 2023-10-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_2.jpg)
+![Clug Mtg 2023 10 24 3 - CLUG Meeting 2023-10-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_3.jpg)
+![Clug Mtg 2023 10 24 4 - CLUG Meeting 2023-10-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_4.jpg)
+![Clug Mtg 2023 10 24 5 - CLUG Meeting 2023-10-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-10-24_5.jpg)

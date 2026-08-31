@@ -30,6 +30,6 @@ categories: meeting
 
  * We adjourned to Peter Piper Pizza where we enjoyed some refreshments and continued our conversations on Linux related and non-related subjects.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-08_3.jpg)
+![Clug Mtg 2018 08 08 1 - CLUG Meeting 2018-08-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-08_1.jpg)
+![Clug Mtg 2018 08 08 2 - CLUG Meeting 2018-08-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-08_2.jpg)
+![Clug Mtg 2018 08 08 3 - CLUG Meeting 2018-08-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-08-08_3.jpg)

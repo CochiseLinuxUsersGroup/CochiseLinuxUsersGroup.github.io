@@ -39,7 +39,7 @@ There were 5 attendees
 
  * We adjourned to Native Grill and Wings for some nourishment and additional conversation not all of which was Linux or Open Source related.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_4-400x400.JPG)
+![Clugmtg 2017 09 13 1 400x400 - CLUG Meeting 2017-09-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_1-400x400.JPG)
+![Clugmtg 2017 09 13 2 400x400 - CLUG Meeting 2017-09-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_2-400x400.JPG)
+![Clugmtg 2017 09 13 3 400x400 - CLUG Meeting 2017-09-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_3-400x400.JPG)
+![Clugmtg 2017 09 13 4 400x400 - CLUG Meeting 2017-09-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-13_4-400x400.JPG)

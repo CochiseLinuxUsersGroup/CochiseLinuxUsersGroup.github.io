@@ -25,7 +25,7 @@ categories: meeting
 **Announcements:**
  * To date we have conducted 199 installs on laptop and desktop computers and donated 128 computers to individuals and groups.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_rose_and_her_surface_pro.jpg)
+![Rose and her Surface Pro - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_rose_and_her_surface_pro.jpg)
 
 Rose with her computer
 
@@ -50,18 +50,18 @@ Rose with her computer
  * A member wanted to know why his computer (only 2 years old and with an ssd) was getting slower and slower.  No solution was offered but the member decided to do a clean re-install.
  * David offered a solution to those individuals who must use a Windows program once or twice a year so it is not really worthwhile to install it in Virtual Box.  https://github.com/dockur/windows
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_01.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_02.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_03.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_04.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_05.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_06.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_07.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_10.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_12.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_13.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_14.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_15.jpg)
+![Clug Mtg 2024 03 26 01 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_01.jpg)
+![Clug Mtg 2024 03 26 02 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_02.jpg)
+![Clug Mtg 2024 03 26 03 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_03.jpg)
+![Clug Mtg 2024 03 26 04 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_04.jpg)
+![Clug Mtg 2024 03 26 05 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_05.jpg)
+![Clug Mtg 2024 03 26 06 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_06.jpg)
+![Clug Mtg 2024 03 26 07 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_07.jpg)
+![Clug Mtg 2024 03 26 10 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_10.jpg)
+![Clug Mtg 2024 03 26 12 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_12.jpg)
+![Clug Mtg 2024 03 26 13 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_13.jpg)
+![Clug Mtg 2024 03 26 14 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_14.jpg)
+![Clug Mtg 2024 03 26 15 - CLUG Meeting 2024-03-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-03-26_15.jpg)
 
 **Aftermath:**
  * Some of the members retired to Culver's for some nourishment and additional conversation all of which was not directly or indirectly connected to Linux.

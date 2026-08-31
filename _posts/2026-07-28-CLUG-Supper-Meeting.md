@@ -31,11 +31,11 @@ categories: meeting
  * To date we have donated 251 computers to individuals or groups.  Last year we donated 72. This year we have donated 30.
  * This one went to Jim L..
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_jim_lesperavce_and_his_computer.jpg)
+![Jim Lesperavce and his Computer - CLUG Supper Meeting 2026-07-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_jim_lesperavce_and_his_computer.jpg)
 
 * This one went to Rex B.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated-to_rex_bouwense.jpg)
+![Computer Donated to Rex Bouwense - CLUG Supper Meeting 2026-07-28 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated-to_rex_bouwense.jpg)
 
  * To date we have conducted 411 installs on laptop and desktop computers.  Last year we conducted 88. This year we have conducted 70.
  * We have 40 people on our mailing list, 57 people on our Facebook page.
@@ -50,4 +50,4 @@ categories: meeting
  * Attendees had breakfast, lunch, or dinner.  Their choice.  All had a good time
  * Since Schlotzsky’s will be closing for good on 12 August, future Ubuntu Hours will be held at Carl’s Jr, 2080 E. Fry Blvd for now.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_supper_meeting_2026-07-28.jpg)
+![Clug Supper Meeting 2026 07 28 group photo - CLUG Supper Meeting 2026-07-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_supper_meeting_2026-07-28.jpg)

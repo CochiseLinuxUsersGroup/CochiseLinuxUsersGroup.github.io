@@ -30,8 +30,8 @@ categories: meeting
  * Discussed the proposed age requirement for installation on computers.
  * Discussed popularity of desktop environments.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_4.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_5.JPG)
+![Resizeplus Sv Ubuntuhour 2026 03 12 1 - Ubuntu Hour 2026-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_1.JPG)
+![Resizeplus Sv Ubuntuhour 2026 03 12 2 - Ubuntu Hour 2026-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_2.JPG)
+![Resizeplus Sv Ubuntuhour 2026 03 12 3 - Ubuntu Hour 2026-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_3.JPG)
+![Resizeplus Sv Ubuntuhour 2026 03 12 4 - Ubuntu Hour 2026-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_4.JPG)
+![Resizeplus Sv Ubuntuhour 2026 03 12 5 - Ubuntu Hour 2026-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-03-12_5.JPG)

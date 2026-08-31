@@ -25,7 +25,7 @@ categories: meeting
  * Discussed the possibility of using Word Press to create a blog for the Group.  Bruce is exploring this option.
  * A minor bug was revealed in Xubuntu 22.04 install media.  After you have finished installing Xubuntu or completed testing it and you have selected reboot, the familiar "remove the install media and press enter" message does not appear on the monitor screen.  There is merely a blinking cursor in the left hand corner of the screen.  So. remove the media without receiving the message and press enter.  This only happens in Xubuntu.  The message is received in all of the other flavors of Ubuntu, Linux Mint, MX Linux, and AntiX. 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_4.jpg)
+![Sv Ubuntuhour 2022 07 14 1 - Ubuntu Hour 2022-07-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_1.jpg)
+![Sv Ubuntuhour 2022 07 14 2 - Ubuntu Hour 2022-07-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_2.jpg)
+![Sv Ubuntuhour 2022 07 14 3 - Ubuntu Hour 2022-07-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_3.jpg)
+![Sv Ubuntuhour 2022 07 14 4 - Ubuntu Hour 2022-07-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-07-14_4.jpg)

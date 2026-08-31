@@ -47,10 +47,10 @@ categories: meeting
  * A member could not transfer data from his laptop to his flash drive.  We reformatted the flash drive and solved the problem. 
  * A member could not remember the password he created.  He was given the procedure and the procedure was sent to the Mailing list so everyone would have a reminder of how to do it.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_7.jpg)
+![Clug Mtg 2021 06 26 1 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_1.jpg)
+![Clug Mtg 2021 06 26 2 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_2.jpg)
+![Clug Mtg 2021 06 26 3 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_3.jpg)
+![Clug Mtg 2021 06 26 4 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_4.jpg)
+![Clug Mtg 2021 06 26 5 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_5.jpg)
+![Clug Mtg 2021 06 26 6 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_6.jpg)
+![Clug Mtg 2021 06 26 7 - CLUG Meeting 2021-06-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-06-26_7.jpg)

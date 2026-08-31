@@ -40,11 +40,11 @@ categories: meeting
  * Discussed the additional computers that will be donated to the Warrior Healing Center some time before the end of May and our mission to get them in shape to run a Linux OS.
  * A member had a problem with the keyboard on his laptop.  It was corrected by reseating the keyboard.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_8.jpg)
+![Clug Mtg 2021 04 24 1 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_1.jpg)
+![Clug Mtg 2021 04 24 2 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_2.jpg)
+![Clug Mtg 2021 04 24 3 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_3.jpg)
+![Clug Mtg 2021 04 24 4 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_4.jpg)
+![Clug Mtg 2021 04 24 5 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_5.jpg)
+![Clug Mtg 2021 04 24 6 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_6.jpg)
+![Clug Mtg 2021 04 24 7 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_7.jpg)
+![Clug Mtg 2021 04 24 8 - CLUG Meeting 2021-04-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-04-24_8.jpg)

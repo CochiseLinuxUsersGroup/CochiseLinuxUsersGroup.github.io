@@ -35,7 +35,7 @@ categories: meeting
  
  * We adjourned to Native Grill for some nourishment and some additional conversation.  Rex confirmed that hot definitely means HOT.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_5.jpg)
+![Clug Mtg 2018 11 24 1 - CLUG Meeting 2018-11-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_1.jpg)
+![Clug Mtg 2018 11 24 2 - CLUG Meeting 2018-11-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_2.jpg)
+![Clug Mtg 2018 11 24 4 - CLUG Meeting 2018-11-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_4.jpg)
+![Clug Mtg 2018 11 24 5 - CLUG Meeting 2018-11-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-24_5.jpg)

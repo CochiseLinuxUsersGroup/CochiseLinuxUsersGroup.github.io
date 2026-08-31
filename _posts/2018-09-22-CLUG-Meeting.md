@@ -38,8 +38,8 @@ categories: meeting
 
  * We reconvened at Vinney’s Pizza for some pizza and additional conversation some of which may or may not have anything to do with Linux or Free and Open Source Software.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_vinneys.jpg)
+![Clugmtg 2018 09 22 1 - CLUG Meeting 2018-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_1.jpg)
+![Clugmtg 2018 09 22 2 - CLUG Meeting 2018-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_2.jpg)
+![Clugmtg 2018 09 22 3 - CLUG Meeting 2018-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_3.jpg)
+![Clugmtg 2018 09 22 4 - CLUG Meeting 2018-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-22_4.jpg)
+![Clug At Vinneys - CLUG Meeting 2018-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_vinneys.jpg)

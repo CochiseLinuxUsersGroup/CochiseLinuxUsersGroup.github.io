@@ -49,9 +49,9 @@ categories: meeting
  * Mike gave an update on the project to provide computers to a youth center in Naco, AZ.  It is progressing slowly.  It was recommended that he select a date that some of the members can get together to install Linux on the laptops that he has already accumulated for the project.
  * Discussed possible future presentations of applications that members have used and believe other members could use to their advantage.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_6.jpg)
+![Clug Mtg 2021 08 28 4 - CLUG Meeting 2021-08-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_4.jpg)
+![Clug Mtg 2021 08 28 5 - CLUG Meeting 2021-08-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_5.jpg)
+![Clug Mtg 2021 08 28 1 - CLUG Meeting 2021-08-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_1.jpg)
+![Clug Mtg 2021 08 28 2 - CLUG Meeting 2021-08-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_2.jpg)
+![Clug Mtg 2021 08 28 3 - CLUG Meeting 2021-08-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_3.jpg)
+![Clug Mtg 2021 08 28 6 - CLUG Meeting 2021-08-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-08-28_6.jpg)

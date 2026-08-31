@@ -31,11 +31,11 @@ categories: meeting
  * Discussed the possibility of using a computer with all of the ISOs downloaded in lieu of flash drives for installation at our installfests.  Tommy and Rex will explore this possibility.
  * Discussed the difference between AZLOCO and Arizona LUGs and their relationship to each other.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_8.jpg)
+![Sv Ubuntuhour 2023 05 11 1 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_1.jpg)
+![Sv Ubuntuhour 2023 05 11 2 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_2.jpg)
+![Sv Ubuntuhour 2023 05 11 3 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_3.jpg)
+![Sv Ubuntuhour 2023 05 11 4 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_4.jpg)
+![Sv Ubuntuhour 2023 05 11 5 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_5.jpg)
+![Sv Ubuntuhour 2023 05 11 6 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_6.jpg)
+![Sv Ubuntuhour 2023 05 11 7 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_7.jpg)
+![Sv Ubuntuhour 2023 05 11 8 - Ubuntu Hour 2023-05-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-05-11_8.jpg)

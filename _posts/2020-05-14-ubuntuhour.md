@@ -23,6 +23,6 @@ categories: meeting
  * Discussed the possibility of a cook out later in the Summer providing the Covid-19 situation improves.  It would be a family affair.
  * Discussed the future CLUG meeting presentations for May, June, and July which will be “Using Gparted”, “Conducting a dual boot and separate /home installations”,  and a Hands on installation for Group members respectively.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-05-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-05-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-05-14_2.jpg)
+![Sv Ubuntuhour 2020 05 14 3 - Ubuntu Hour 2020-05-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-05-14_3.jpg)
+![Sv Ubuntuhour 2020 05 14 1 - Ubuntu Hour 2020-05-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-05-14_1.jpg)
+![Sv Ubuntuhour 2020 05 14 2 - Ubuntu Hour 2020-05-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-05-14_2.jpg)

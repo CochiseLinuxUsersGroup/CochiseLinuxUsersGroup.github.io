@@ -31,11 +31,11 @@ categories: meeting
  * To date we have donated 227 computers to individuals or groups.  Last year we donated 72. This year we have donated 6.
  * This one went to Earl H.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Earl_Humphries_and_his_computer.jpg)
+![Resizeplus Earl Humphries and his Computer - CLUG Linux-Workshop-Meeting 2026-03-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Earl_Humphries_and_his_computer.jpg)
 
  * This one went to Dan S.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Dan_Shaw_and_his_computer.jpg)
+![Resizeplus Dan Shaw and his Computer - CLUG Linux-Workshop-Meeting 2026-03-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Dan_Shaw_and_his_computer.jpg)
  
  * To date we have conducted 363 installs on laptop and desktop computers.  Last year we conducted 88. This year we have conducted 22.
  * We have 39 people on our mailing list, 55 people on our Facebook page.
@@ -52,7 +52,7 @@ categories: meeting
 **Aftermath:**
  * Several members retired to Culver’s to enjoy a burger and to continue to discuss Linux and CLUG related topics.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_4.JPG)
+![Resizeplus Clug Mtg 2026 03 24 1 - CLUG Linux-Workshop-Meeting 2026-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_1.JPG)
+![Resizeplus Clug Mtg 2026 03 24 2 - CLUG Linux-Workshop-Meeting 2026-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_2.JPG)
+![Resizeplus Clug Mtg 2026 03 24 3 - CLUG Linux-Workshop-Meeting 2026-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_3.JPG)
+![Resizeplus Clug Mtg 2026 03 24 4 - CLUG Linux-Workshop-Meeting 2026-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-03-24_4.JPG)

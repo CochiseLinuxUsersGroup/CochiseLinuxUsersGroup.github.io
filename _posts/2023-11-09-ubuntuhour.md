@@ -28,11 +28,11 @@ categories: meeting
  * Discussed how to unlock an Android phone.
  * Discussed scheduled presentations for the next 5 months.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_9.jpg)
+![Sv Ubuntuhour 2023 11 09 1 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_1.jpg)
+![Sv Ubuntuhour 2023 11 09 2 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_2.jpg)
+![Sv Ubuntuhour 2023 11 09 3 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_3.jpg)
+![Sv Ubuntuhour 2023 11 09 5 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_5.jpg)
+![Sv Ubuntuhour 2023 11 09 7 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_7.jpg)
+![Sv Ubuntuhour 2023 11 09 8 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_8.jpg)
+![Sv Ubuntuhour 2023 11 09 9 - Ubuntu Hour 2023-11-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-11-09_9.jpg)
 

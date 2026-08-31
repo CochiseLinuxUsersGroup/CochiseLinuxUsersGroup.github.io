@@ -38,11 +38,11 @@ categories: meeting
  * Rex reintroduced the Linux Distribution Familiarization Project that had originally been introduced about 18 months ago.  It is a way for our members to become familiar with distributions that are not normally used by beginning Linux users.  It was decided to kick it off at the next meeting.
  * Gene raised a question about why the cursor changed size on his new Ubuntu install when using VLC.  This has happened to no one else so we set up an experiment with his hard drive and after a reinstall of VLC the cursor was working perfectly.  Perhaps it was a bad download or a bad first install.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_8.jpg)
+![Clug Mtg 2023 06 27 4 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_4.jpg)
+![Clug Mtg 2023 06 27 1 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_1.jpg)
+![Clug Mtg 2023 06 27 2 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_2.jpg)
+![Clug Mtg 2023 06 27 3 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_3.jpg)
+![Clug Mtg 2023 06 27 5 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_5.jpg)
+![Clug Mtg 2023 06 27 6 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_6.jpg)
+![Clug Mtg 2023 06 27 7 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_7.jpg)
+![Clug Mtg 2023 06 27 8 - CLUG Meeting 2023-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-06-27_8.jpg)

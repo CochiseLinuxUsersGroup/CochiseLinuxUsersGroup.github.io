@@ -28,8 +28,8 @@ categories: meeting
  * Briefly discussed mlocate and netplanner
  * Gene presented an update on his power wall project.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_5.jpg)
+![Sv Ubuntuhour 2022 03 10 1 - Ubuntu Hour 2022-03-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_1.jpg)
+![Sv Ubuntuhour 2022 03 10 2 - Ubuntu Hour 2022-03-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_2.jpg)
+![Sv Ubuntuhour 2022 03 10 3 - Ubuntu Hour 2022-03-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_3.jpg)
+![Sv Ubuntuhour 2022 03 10 4 - Ubuntu Hour 2022-03-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_4.jpg)
+![Sv Ubuntuhour 2022 03 10 5 - Ubuntu Hour 2022-03-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-03-10_5.jpg)

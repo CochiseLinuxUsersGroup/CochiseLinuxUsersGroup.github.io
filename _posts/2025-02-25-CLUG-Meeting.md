@@ -26,15 +26,15 @@ categories: meeting
 **Announcements:**
  * To date we have donated 156 computers to individuals and groups and conducted 262 installs on desktops and laptops.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_greg_vaughn_with_computer.jpg)
+![Greg Vaughn with Computer - CLUG Meeting 2025-02-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_greg_vaughn_with_computer.jpg)
 
 This one went to Greg V
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_jacob_vasquez_with_computer.jpg)
+![Jacob Vasquez with Computer - CLUG Meeting 2025-02-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_jacob_vasquez_with_computer.jpg)
 
 This one went to Jacob V
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_john_lopez_with_computer.jpg)
+![John Lopez with Computer - CLUG Meeting 2025-02-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_john_lopez_with_computer.jpg)
 
 This one went to John L
 
@@ -57,9 +57,9 @@ This one went to John L
 **Aftermath:**
  * Several of the members retired to Culver's for some food and some additional Linux discussion.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_01.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_02.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_03.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_04.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_05.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_06.jpg)
+![Clug Mtg 2025 02 25 01 - CLUG Meeting 2025-02-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_01.jpg)
+![Clug Mtg 2025 02 25 02 - CLUG Meeting 2025-02-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_02.jpg)
+![Clug Mtg 2025 02 25 03 - CLUG Meeting 2025-02-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_03.jpg)
+![Clug Mtg 2025 02 25 04 - CLUG Meeting 2025-02-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_04.jpg)
+![Clug Mtg 2025 02 25 05 - CLUG Meeting 2025-02-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_05.jpg)
+![Clug Mtg 2025 02 25 06 - CLUG Meeting 2025-02-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-02-25_06.jpg)

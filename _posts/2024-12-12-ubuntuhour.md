@@ -27,12 +27,12 @@ categories: meeting
  * Discussed the availability of fiber internet from Cox and Allo.
  * Consumed the delicious cookies made by the wife of one of our members.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_9.jpg)
+![Sv Ubuntu Hour 2024 12 12 1 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_1.jpg)
+![Sv Ubuntu Hour 2024 12 12 2 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_2.jpg)
+![Sv Ubuntu Hour 2024 12 12 3 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_3.jpg)
+![Sv Ubuntu Hour 2024 12 12 4 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_4.jpg)
+![Sv Ubuntu Hour 2024 12 12 5 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_5.jpg)
+![Sv Ubuntu Hour 2024 12 12 6 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_6.jpg)
+![Sv Ubuntu Hour 2024 12 12 7 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_7.jpg)
+![Sv Ubuntu Hour 2024 12 12 8 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_8.jpg)
+![Sv Ubuntu Hour 2024 12 12 9 - Ubuntu Hour 2024-12-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-12-12_9.jpg)

@@ -25,11 +25,11 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * Even though we continue to broadened our publicity we were not satisfied with the turnout so we must continue to seek new ways to publicize the event.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_nativegrill_2018-08-04_2.jpg)
+![Clug Installfest 2018 08 04 1 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_1.jpg)
+![Clug Installfest 2018 08 04 2 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_2.jpg)
+![Clug Installfest 2018 08 04 3 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_3.jpg)
+![Clug Installfest 2018 08 04 4 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_4.jpg)
+![Clug Installfest 2018 08 04 5 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_5.jpg)
+![Clug Installfest 2018 08 04 6 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_6.jpg)
+![Clug Installfest 2018 08 04 7 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_installfest_2018-08-04_7.jpg)
+![Clug At Nativegrill 2018 08 04 2 - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_nativegrill_2018-08-04_2.jpg)

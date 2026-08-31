@@ -41,9 +41,9 @@ categories: meeting
 
  * Several of the attendees reconvened at Native Grill and Wings to continue socializing and to enjoy some excellent nourishment.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_6.jpg)
+![Clug Mtg 2020 08 22 3 - CLUG Meeting 2020-08-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_3.jpg)
+![Clug Mtg 2020 08 22 4 - CLUG Meeting 2020-08-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_4.jpg)
+![Clug Mtg 2020 08 22 1 - CLUG Meeting 2020-08-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_1.jpg)
+![Clug Mtg 2020 08 22 2 - CLUG Meeting 2020-08-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_2.jpg)
+![Clug Mtg 2020 08 22 5 - CLUG Meeting 2020-08-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_5.jpg)
+![Clug Mtg 2020 08 22 6 - CLUG Meeting 2020-08-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-08-22_6.jpg)

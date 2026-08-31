@@ -47,6 +47,6 @@ for a solution and step by step procedure.
 **Aftermath:**
  * Several of the members retired to Carl's Jr for a burger and some additional Linux discussion
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-01-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-01-28_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-01-28_3.jpg)
+![Clug Mtg 2025 01 28 1 - CLUG Meeting 2025-01-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-01-28_1.jpg)
+![Clug Mtg 2025 01 28 2 - CLUG Meeting 2025-01-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-01-28_2.jpg)
+![Clug Mtg 2025 01 28 3 - CLUG Meeting 2025-01-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-01-28_3.jpg)

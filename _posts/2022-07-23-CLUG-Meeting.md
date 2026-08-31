@@ -41,10 +41,10 @@ categories: meeting
  * Discussed the purpose of the second meeting next month to possibly increase the attendance at the monthly meetings.
  * Several members were having problems seeing the documents that were shared with them in the Cochise Linux Google Group.  Perhaps this is not the best way to share documents with the Group.  Other options will be looked at.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_5.jpg)
+![Clug Meeting 2022 07 23 1 group photo - CLUG Meeting 2022-07-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_1.jpg)
+![Clug Meeting 2022 07 23 2 group photo - CLUG Meeting 2022-07-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_2.jpg)
+![Clug Meeting 2022 07 23 3 group photo - CLUG Meeting 2022-07-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_3.jpg)
+![Clug Meeting 2022 07 23 4 group photo - CLUG Meeting 2022-07-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_4.jpg)
+![Clug Meeting 2022 07 23 5 group photo - CLUG Meeting 2022-07-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-07-23_5.jpg)
 
 

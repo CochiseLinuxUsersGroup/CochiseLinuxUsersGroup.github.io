@@ -38,7 +38,7 @@ There were 9 attendees
 
  * Because most of the members present had other obligations no restaurant was chosen for an after meeting bite to eat.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_4-400x400.JPG)
+![Clugmtg 2017 10 11 1 400x400 - CLUG Meeting 2017-10-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_1-400x400.JPG)
+![Clugmtg 2017 10 11 2 400x400 - CLUG Meeting 2017-10-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_2-400x400.JPG)
+![Clugmtg 2017 10 11 3 400x400 - CLUG Meeting 2017-10-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_3-400x400.JPG)
+![Clugmtg 2017 10 11 4 400x400 - CLUG Meeting 2017-10-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-10-11_4-400x400.JPG)

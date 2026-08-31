@@ -29,16 +29,16 @@ categories: meeting
  * Discussed a possible topic for a future presentation “Personal Security for your Computer”. Occasionally the simplest things are often overlooked.  It was suggested that perhaps some of the members may need a refresher on PC Security.
  * Discussed the procedures and methods to install upgrades.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_6.jpg)
+![Sv Ubuntuhr 2018 07 26 8 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_8.jpg)
+![Sv Ubuntuhr 2018 07 26 7 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_7.jpg)
+![Sv Ubuntuhr 2018 07 26 1 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_1.jpg)
+![Sv Ubuntuhr 2018 07 26 2 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_2.jpg)
+![Sv Ubuntuhr 2018 07 26 4 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_4.jpg)
+![Sv Ubuntuhr 2018 07 26 5 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_5.jpg)
+![Sv Ubuntuhr 2018 07 26 6 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_6.jpg)
 
 OUR BIGGEST FAN
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_3.jpg)
+![Sv Ubuntuhr 2018 07 26 3 - Ubuntu Hour 2018-07-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhr_2018-07-26_3.jpg)
 
 

@@ -40,9 +40,9 @@ categories: meeting
  * A member had a problem with a Linux installation on a Windows computer. Recommended that he install Ubuntu on it and then the distro of his choice over Ubuntu.
  * A member had a problem with a port being pushed into laptop and not recoverable.  Recommended that he bring it to the computer lab where several members could work on it and attempt to replace the port.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_6.jpg)
+![Clug Mtg 2024 06 25 1 - CLUG Meeting 2024-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_1.jpg)
+![Clug Mtg 2024 06 25 2 - CLUG Meeting 2024-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_2.jpg)
+![Clug Mtg 2024 06 25 3 - CLUG Meeting 2024-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_3.jpg)
+![Clug Mtg 2024 06 25 4 - CLUG Meeting 2024-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_4.jpg)
+![Clug Mtg 2024 06 25 5 - CLUG Meeting 2024-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_5.jpg)
+![Clug Mtg 2024 06 25 6 - CLUG Meeting 2024-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-06-25_6.jpg)

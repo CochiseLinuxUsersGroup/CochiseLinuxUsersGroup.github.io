@@ -25,8 +25,8 @@ categories: meeting
 **Announcements:**
  * As of today CLUG has conducted 168 installs and donated 99 computers to individuals and groups.  The latest donations were to Donna G and Noah K.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_donnagraybillandhercomputer.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_noahklaboandhiscomputer.jpg)
+![Donnagraybillandhercomputer - CLUG Meeting 2023-03-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_donnagraybillandhercomputer.jpg)
+![Noahklaboandhiscomputer - CLUG Meeting 2023-03-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_noahklaboandhiscomputer.jpg)
 
  * CLUG has 41 people on the mailing list and 37 people following our Facebook page.
 
@@ -40,11 +40,11 @@ categories: meeting
 **Discussion/Problems/Questions:**
  * There was a discussion about what we can do at the Installfest waiting for someone to come in for assistance.  Among the responses were format our extra laptop and desktop hard drives and check the spare video cards that we have for functionality.  It was also suggested that we explore the reason why the size of the cursor changes when VLC or any other video player is being used.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_9.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_10.jpg)
+![Clug Mtg 2023 03 28 3 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_3.jpg)
+![Clug Mtg 2023 03 28 1 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_1.jpg)
+![Clug Mtg 2023 03 28 4 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_4.jpg)
+![Clug Mtg 2023 03 28 5 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_5.jpg)
+![Clug Mtg 2023 03 28 6 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_6.jpg)
+![Clug Mtg 2023 03 28 7 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_7.jpg)
+![Clug Mtg 2023 03 28 9 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_9.jpg)
+![Clug Mtg 2023 03 28 10 - CLUG Meeting 2023-03-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-03-28_10.jpg)

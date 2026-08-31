@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 123 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_charley_with_his_computer.jpg)
+![Charley with his Computer - Ubuntu Hour 2024-02-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_charley_with_his_computer.jpg)
 
 Charley with his computer
 
@@ -34,7 +34,7 @@ Charley with his computer
  * Discussed the presentations that are scheduled for the next couple of months.
  * Discussed the results of the mailing list update.  Twenty non-responsive e-mail address have been dropped from the list.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_4.jpg)
+![Sv Ubuntu Hour 2024 02 08 1 - Ubuntu Hour 2024-02-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_1.jpg)
+![Sv Ubuntu Hour 2024 02 08 2 - Ubuntu Hour 2024-02-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_2.jpg)
+![Sv Ubuntu Hour 2024 02 08 3 - Ubuntu Hour 2024-02-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_3.jpg)
+![Sv Ubuntu Hour 2024 02 08 4 - Ubuntu Hour 2024-02-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-02-08_4.jpg)

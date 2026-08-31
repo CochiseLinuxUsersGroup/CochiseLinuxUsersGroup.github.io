@@ -27,5 +27,5 @@ categories: meeting
  * Discussed our participation in the West End Fair on 6 May 2017.  The project manager will be Louie Garcia.
  * Distributed information on Ubuntu and the Cochise Linux user Group to an interested individual.
  
-  ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour02_2017-02-23-400x400.JPG)
-   ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour01_2017-02-23-400x400.JPG)
+  ![Ubuntuhour02 2017 02 23 400x400 - Ubuntu Hour 2017-02-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour02_2017-02-23-400x400.JPG)
+   ![Ubuntuhour01 2017 02 23 400x400 - Ubuntu Hour 2017-02-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour01_2017-02-23-400x400.JPG)

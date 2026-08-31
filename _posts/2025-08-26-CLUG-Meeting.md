@@ -26,21 +26,21 @@ categories: meeting
 **Announcements:**
  * To date we have donated 198 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_brandon_fisher.jpg)
+![Computer Donated to Brandon Fisher - CLUG Meeting 2025-08-26 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_brandon_fisher.jpg)
 This one went to Brandon F
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_david_mckim.jpg)
+![Computer Donated to David Mckim - CLUG Meeting 2025-08-26 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_david_mckim.jpg)
 This one went to David M
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_andy_shaw.jpg)
+![Computer Donated to Andy Shaw - CLUG Meeting 2025-08-26 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_andy_shaw.jpg)
 This one went to Andy S
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_donna_sicovitch.jpg)
+![Computer Donated to Donna Sicovitch - CLUG Meeting 2025-08-26 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_donna_sicovitch.jpg)
 This one went to Donna S
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_az_steam.jpg)
+![Computer Donated to Az Steam - CLUG Meeting 2025-08-26 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_az_steam.jpg)
 This one went to AZ STEAM
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_marque_ratlif.jpg)
+![Computer Donated to Marque Ratlif - CLUG Meeting 2025-08-26 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_marque_ratlif.jpg)
 This one went to Marque Raitliff
 
  * and conducted 302 installs on laptop and desktop computers.
@@ -58,8 +58,8 @@ This one went to Marque Raitliff
  * Bruce did present a problem that he was unable to solve, involving a NVIDEA card driver which was causing his computer to freeze up while playing a game.  Unfortunately solutions that were offered had already been tried by him and were unsuccessful.
  * Bruce still has the like new printer for sale.  Contact him if interested.  Works well on Linux.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_4.jpg)
+![Clug Mtg 2025 08 26 1 - CLUG Meeting 2025-08-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_1.jpg)
+![Clug Mtg 2025 08 26 2 - CLUG Meeting 2025-08-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_2.jpg)
+![Clug Mtg 2025 08 26 3 - CLUG Meeting 2025-08-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_3.jpg)
+![Clug Mtg 2025 08 26 4 - CLUG Meeting 2025-08-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-08-26_4.jpg)
  

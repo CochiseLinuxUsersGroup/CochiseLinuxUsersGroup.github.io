@@ -39,10 +39,10 @@ categories: meeting
 
  * We adjourned to the Pizza Hut where we continued to talk about Linux and non-Linux related subjects as well as enjoyed some pizza.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/PizzaHut_2018-03-14_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/PizzaHut_2018-03-14_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/PizzaHut_2018-03-14_3-400x400.JPG)
+![Clug Mtg 2018 03 14 1 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_1-400x400.JPG)
+![Clug Mtg 2018 03 14 2 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_2-400x400.JPG)
+![Clug Mtg 2018 03 14 3 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_3-400x400.JPG)
+![Clug Mtg 2018 03 14 4 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-14_4-400x400.JPG)
+![Pizzahut 2018 03 14 1 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/PizzaHut_2018-03-14_1-400x400.JPG)
+![Pizzahut 2018 03 14 2 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/PizzaHut_2018-03-14_2-400x400.JPG)
+![Pizzahut 2018 03 14 3 400x400 - CLUG Meeting 2018-03-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/PizzaHut_2018-03-14_3-400x400.JPG)

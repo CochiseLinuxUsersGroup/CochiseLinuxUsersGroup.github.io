@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 147 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_anthonylauwithcomputer.jpg)
+![Anthonylauwithcomputer - Ubuntu Hour 2024-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_anthonylauwithcomputer.jpg)
 
 This one went to Tony L
 
@@ -34,10 +34,10 @@ and conducted 249 installs on laptops and desktops.
  * Discussed local Internet providers.
  * Discussed why more people are not using a Linux system and what we can do about it.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_4.jpg)
+![Sv Ubuntuhour 2404 11 14 1 - Ubuntu Hour 2024-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_1.jpg)
+![Sv Ubuntuhour 2404 11 14 2 - Ubuntu Hour 2024-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2404-11-14_2.jpg)
+![Sv Ubuntuhour 2024 11 14 3 - Ubuntu Hour 2024-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_3.jpg)
+![Sv Ubuntuhour 2024 11 14 4 - Ubuntu Hour 2024-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-11-14_4.jpg)
 
 
 

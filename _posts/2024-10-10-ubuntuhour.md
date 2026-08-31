@@ -27,6 +27,6 @@ categories: meeting
  * One of the new attendees brought in a computer that froze up after an attempt to upgrade.  We worked on it but were unsuccessful in repairing it.  Best guess was the hard drive was ready to die and since the screen was constantly flickering the video card was also in the process of dying.  Could not even get Ubuntu to boot correctly in live mode.  He was offered one of the computers that we have ready for donation but declined the offer.
  * Distributed information on the group to the new attendees.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-10-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-10-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-10-10_3.jpg)
+![Sv Ubuntuhour 2024 10 10 1 - Ubuntu Hour 2024-10-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-10-10_1.jpg)
+![Sv Ubuntuhour 2024 10 10 2 - Ubuntu Hour 2024-10-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-10-10_2.jpg)
+![Sv Ubuntuhour 2024 10 10 3 - Ubuntu Hour 2024-10-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-10-10_3.jpg)

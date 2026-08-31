@@ -30,7 +30,7 @@ categories: meeting
 
  * We adjourned to Native Grill and Wings for some food and additional conversation all of which was not Linux related.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_4.jpg)
+![Clug Mtg 2018 07 28 3 - CLUG Meeting 2018-07-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_3.jpg)
+![Clug Mtg 2018 07 28 1 - CLUG Meeting 2018-07-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_1.jpg)
+![Clug Mtg 2018 07 28 2 - CLUG Meeting 2018-07-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_2.jpg)
+![Clug Mtg 2018 07 28 4 - CLUG Meeting 2018-07-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-07-28_4.jpg)

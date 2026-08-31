@@ -45,4 +45,4 @@ There were 5 attendees
 
  * How to change your Admin password by Rex Bouwense
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg2017-04-12-400x400.JPG) 
+![Clugmtg2017 04 12 400x400 - CLUG meeting 2017-04-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg2017-04-12-400x400.JPG) 

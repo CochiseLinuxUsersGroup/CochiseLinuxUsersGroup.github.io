@@ -20,8 +20,8 @@ categories: meeting
 **Announcements:**
  * As of today we have conducted 166 installs and donated 97 computers to individuals and groups.  Two additional computers were donated to John I. and David L.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_johningramandhiscomputer.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_davidlewisandhiscomputer.jpg)
+![Johningramandhiscomputer - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_johningramandhiscomputer.jpg)
+![Davidlewisandhiscomputer - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_davidlewisandhiscomputer.jpg)
 
  * We are looking at 08  or 15 April for our next installfest.
  * We now have 40 people subscribed to our mailing list and 37 people following us on our Facebook page.
@@ -31,11 +31,11 @@ categories: meeting
  * Discussed DVD vs VHS quality comparison.
  * Installed the driver for Display Link for an attendee.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2003-03-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_8.jpg)
+![Sierravistaubuntuhour 2003 03 09 1 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2003-03-09_1.jpg)
+![Sierravistaubuntuhour 2023 03 09 2 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_2.jpg)
+![Sierravistaubuntuhour 2023 03 09 3 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_3.jpg)
+![Sierravistaubuntuhour 2023 03 09 4 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_4.jpg)
+![Sierravistaubuntuhour 2023 03 09 5 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_5.jpg)
+![Sierravistaubuntuhour 2023 03 09 6 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_6.jpg)
+![Sierravistaubuntuhour 2023 03 09 7 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_7.jpg)
+![Sierravistaubuntuhour 2023 03 09 8 - Ubuntu Hour 2023-03-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2023-03-09_8.jpg)

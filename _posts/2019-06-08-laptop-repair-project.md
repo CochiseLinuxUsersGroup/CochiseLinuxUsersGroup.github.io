@@ -26,10 +26,10 @@ The Cochise Linux User Group, CLUG, conducted a Laptop Repair Session on Saturda
 * The RAM chips had not been checked so we had to use trial and error to get good ones.
 * While the initial results do not indicate that a lot was done, four hours should be sufficient for future activities like this.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_7.jpg)
+![Clug Laptoprepairproject 2019 06 08 1 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_1.jpg)
+![Clug Laptoprepairproject 2019 06 08 2 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_2.jpg)
+![Clug Laptoprepairproject 2019 06 08 3 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_3.jpg)
+![Clug Laptoprepairproject 2019 06 08 4 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_4.jpg)
+![Clug Laptoprepairproject 2019 06 08 5 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_5.jpg)
+![Clug Laptoprepairproject 2019 06 08 6 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_6.jpg)
+![Clug Laptoprepairproject 2019 06 08 7 - Laptop Repair Project](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_laptoprepairproject_2019-06-08_7.jpg)

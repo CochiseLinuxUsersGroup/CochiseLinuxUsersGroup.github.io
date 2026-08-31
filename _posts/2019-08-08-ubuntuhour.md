@@ -28,4 +28,4 @@ and use Start up Disk Creator to make the flash drive.
  * It was also decided to have another Workshop on 07 September.
  * Information was provided to the new attendee on Linux, FOSS, and Ubuntu resources.  His questions were also answered.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rszsv_ubuntuhour_2019-08-08.jpg)
+![Sv Ubuntuhour 2019 08 08 - Ubuntu Hour 2019-08-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rszsv_ubuntuhour_2019-08-08.jpg)

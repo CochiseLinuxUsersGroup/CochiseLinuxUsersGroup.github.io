@@ -31,7 +31,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 185 computers to individuals and groups 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_whc_dep_dir.jpg)
+![Computer Donated to Whc Dep Dir - CLUG Meeting 2025-06-24 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_whc_dep_dir.jpg)
 
 This one went to the Warrior Healing Center deputy director
 
@@ -50,8 +50,8 @@ and conducted 284 installs on desktops and laptops.
 **Aftermath:**
  * Several of the members retired to Culver's for some food and some additional Linux discussion.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_4.jpg)
+![Clug Mtg 2025 06 24 1 - CLUG Meeting 2025-06-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_1.jpg)
+![Clug Mtg 2025 06 24 2 - CLUG Meeting 2025-06-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_2.jpg)
+![Clug Mtg 2025 06 24 3 - CLUG Meeting 2025-06-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_3.jpg)
+![Clug Mtg 2025 06 24 4 - CLUG Meeting 2025-06-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-06-24_4.jpg)
 

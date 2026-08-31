@@ -22,12 +22,12 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
  * Several members retired to Vinny's Pizza at the conclusion of the event to enjoy some delicious pizza and continue the conversation on general Linux topics.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_5.jpg)
+![Linuxworkshop 2021 04 10 1 - LinuxWorkshop_Mini-Installfest 2021-04-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_1.jpg)
+![Linuxworkshop 2021 04 10 2 - LinuxWorkshop_Mini-Installfest 2021-04-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_2.jpg)
+![Linuxworkshop 2021 04 10 3 - LinuxWorkshop_Mini-Installfest 2021-04-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_3.jpg)
+![Linuxworkshop 2021 04 10 4 - LinuxWorkshop_Mini-Installfest 2021-04-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_4.jpg)
+![Linuxworkshop 2021 04 10 5 - LinuxWorkshop_Mini-Installfest 2021-04-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_linuxworkshop_2021-04-10_5.jpg)
 
  * We don't often see the computers that we upgrade being used in an environment.  Here are two of the three computers that we revived in the Operations Center of the Warrior Healing Center.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_warriorhealingcenteropnsctr_2.jpg)
+![Warriorhealingcenteropnsctr 2 - LinuxWorkshop_Mini-Installfest 2021-04-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_warriorhealingcenteropnsctr_2.jpg)

@@ -1,24 +1,49 @@
 ---
 layout: default
-title: Activities
+title: Meeting Notes & Past Events | Cochise Linux User Group
+description: Read summaries and meeting notes from Cochise Linux User Group past events, Ubuntu Hours, workshops and presentations in Sierra Vista, Cochise County. 250+ computers donated and growing.
+image: /images/CLUG-badge.png
+keywords: [CLUG meeting notes, Linux events, Sierra Vista, Ubuntu Hour notes, workshop summaries]
 ---
 
 <article id="main">
     <header class="special style2 container">
-        <h2><strong>Summary of Meetings and Past Events</strong></h2>
+        <h1>Summary of Meetings and Past Events</h1>
+        <p>Meeting notes, Ubuntu Hours &amp; workshop summaries from Sierra Vista</p>
     </header>
     <section class="wrapper style1 container">
+        {% if paginator %}
+          {% assign posts = paginator.posts %}
+        {% else %}
+          {% assign posts = site.posts %}
+        {% endif %}
         <ul class="posts">
-          {% for post in site.posts %}
+          {% for post in posts %}
             <li class="wrapper {% if forloop.first %} style2 {% else %} style2 {% endif %}">
-              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.categories %} • {{ post.categories | join: ", " }}{% endif %}</p>
                 {{ post.excerpt }}
                 <section class="special">
                     <ul class="buttons">
-                        <li><a href="{{ post.url }}" class="button">Read more</a></li>
+                        <li><a href="{{ post.url | relative_url }}" class="button">Read more</a></li>
                     </ul></section>
             </li>
           {% endfor %}
         </ul>
+        <!-- Pagination -->
+        {% if paginator and paginator.total_pages > 1 %}
+        <nav class="pagination" aria-label="Blog pagination" style="text-align:center; margin:2em 0;">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="button small" rel="prev">← Newer Posts</a>
+          {% endif %}
+          <span style="margin:0 1em;">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | relative_url }}" class="button small" rel="next">Older Posts →</a>
+          {% endif %}
+        </nav>
+        <p style="text-align:center; margin-top:1.5em;"><em>Showing {{ paginator.posts.size }} of {{ paginator.total_posts }} meeting notes. <a href="/feed.xml">Subscribe via RSS</a></em></p>
+        {% else %}
+        <p style="text-align:center; margin-top:1.5em;"><em>Showing {{ site.posts.size }} meeting notes. <a href="/feed.xml">Subscribe via RSS</a> • <a href="/calendar">View calendar</a></em></p>
+        {% endif %}
     </section>
 </article>

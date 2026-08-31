@@ -30,8 +30,8 @@ categories: meeting
  * Discussed various ways to list and sort files in Ubuntu.
  * Discussed the hands on procedure for the next presentation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_4.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_5.JPG)
+![Resizeplus Sv Ubuntuhour 2026 02 12 1 - Ubuntu Hour 2026-02-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_1.JPG)
+![Resizeplus Sv Ubuntuhour 2026 02 12 2 - Ubuntu Hour 2026-02-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_2.JPG)
+![Resizeplus Sv Ubuntuhour 2026 02 12 3 - Ubuntu Hour 2026-02-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_3.JPG)
+![Resizeplus Sv Ubuntuhour 2026 02 12 4 - Ubuntu Hour 2026-02-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_4.JPG)
+![Resizeplus Sv Ubuntuhour 2026 02 12 5 - Ubuntu Hour 2026-02-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_UbuntuHour_2026-02-12_5.JPG)

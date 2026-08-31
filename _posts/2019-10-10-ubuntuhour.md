@@ -25,5 +25,5 @@ categories: meeting
  * Discussed why an 80 GB SSD would only indicate that it contained only 8 Mbs of space (Defective Hard drive or firmware upgrade problem or something else)
  * Distributed information on AZLOCO, CLUG, Ubuntu, and FOSS to the new person
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-10-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-10-10_2.jpg)
+![Sv Ubuntuhour 2019 10 10 1 - Ubuntu Hour 2019-10-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-10-10_1.jpg)
+![Sv Ubuntuhour 2019 10 10 2 - Ubuntu Hour 2019-10-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-10-10_2.jpg)

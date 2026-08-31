@@ -29,10 +29,10 @@ categories: meeting
  * Recommended video  Why Ubuntu is the Devil and Why So Many No Longer Use It. https://youtu.be/L7uL50zVZJA.  It was initially posted by Devi to the mailing list and parts of it are quite humorous. 
  * Information on Ubuntu, the Cochise Linux User Group, Free and Open Source Software, and AZLOCO was distributed to the new attendees.  Their questions were answered.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_7.jpg)
+![Sv Ubuntuhour 2019 07 11 1 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_1.jpg)
+![Sv Ubuntuhour 2019 07 11 2 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_2.jpg)
+![Sv Ubuntuhour 2019 07 11 3 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_3.jpg)
+![Sv Ubuntuhour 2019 07 11 4 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_4.jpg)
+![Sv Ubuntuhour 2019 07 11 5 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_5.jpg)
+![Sv Ubuntuhour 2019 07 11 6 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_6.jpg)
+![Sv Ubuntuhour 2019 07 11 7 - Ubuntu Hour 2019-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-07-11_7.jpg)

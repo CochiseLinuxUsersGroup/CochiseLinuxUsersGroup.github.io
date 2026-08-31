@@ -25,8 +25,8 @@ categories: meeting
  * Discussed the information contained in the website and how it could be of use to individuals.
  * Distributed AZLOCO and CLUG information as well as Ubuntu lanyards to the new attendees.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_5.jpg)
+![Sv Ubuntuhour 2020 09 10 1 - Ubuntu Hour 2020-09-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_1.jpg)
+![Sv Ubuntuhour 2020 09 10 2 - Ubuntu Hour 2020-09-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_2.jpg)
+![Sv Ubuntuhour 2020 09 10 3 - Ubuntu Hour 2020-09-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_3.jpg)
+![Sv Ubuntuhour 2020 09 10 4 - Ubuntu Hour 2020-09-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_4.jpg)
+![Sv Ubuntuhour 2020 09 10 5 - Ubuntu Hour 2020-09-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-09-10_5.jpg)

@@ -20,16 +20,16 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
  * Spare RAM for both desktops and laptops was present and used to upgrade the memory in one of the computers.  This should also always be present during future installfests.
  * The tools were used and should be present at future installfests.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_9.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_10.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_11.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_12.jpg)
+![Sv Installfest 2022 01 15 4 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_4.jpg)
+![Sv Installfest 2022 01 15 3 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_3.jpg)
+![Sv Installfest 2022 01 15 5 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_5.jpg)
+![Sv Installfest 2022 01 15 1 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_1.jpg)
+![Sv Installfest 2022 01 15 2 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_2.jpg)
+![Sv Installfest 2022 01 15 6 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_6.jpg)
+![Sv Installfest 2022 01 15 7 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_7.jpg)
+![Sv Installfest 2022 01 15 8 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_8.jpg)
+![Sv Installfest 2022 01 15 9 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_9.jpg)
+![Sv Installfest 2022 01 15 10 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_10.jpg)
+![Sv Installfest 2022 01 15 11 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_11.jpg)
+![Sv Installfest 2022 01 15 12 - LinuxWorkshop-Installfest 2022-01-15](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2022-01-15_12.jpg)
 

@@ -41,9 +41,9 @@ There were 13 attendees
 **Aftermath:**
  * We adjourned to Peter Piper Pizza to continue our discussion and enjoy some pizza and soda.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_atPeterPiperPizza_2017-08-09_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_atPeterPiperPizza_2017-08-09_2-400x400.JPG)
+![Clugmtg 2017 08 09 1 400x400 - CLUG Meeting 2017-08-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_1-400x400.JPG)
+![Clugmtg 2017 08 09 2 400x400 - CLUG Meeting 2017-08-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_2-400x400.JPG)
+![Clugmtg 2017 08 09 3 400x400 - CLUG Meeting 2017-08-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_3-400x400.JPG)
+![Clugmtg 2017 08 09 4 400x400 - CLUG Meeting 2017-08-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-09_4-400x400.JPG)
+![Clug Atpeterpiperpizza 2017 08 09 1 400x400 - CLUG Meeting 2017-08-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_atPeterPiperPizza_2017-08-09_1-400x400.JPG)
+![Clug Atpeterpiperpizza 2017 08 09 2 400x400 - CLUG Meeting 2017-08-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_atPeterPiperPizza_2017-08-09_2-400x400.JPG)

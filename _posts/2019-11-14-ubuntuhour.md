@@ -28,11 +28,11 @@ categories: meeting
  * Discussed how to restore the theme options to Linux Mint 19 that they removed. https://forums.linuxmint.com/viewtopic.php?t=272414 and https://forums.linuxmint.com/viewtopic.php?f=208&t=272414.
  * Discussed PenDrive Linux.  You can put numerous tools on a flash drive for Linux distributions.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_6.jpg)
+![Svubuntuhour 2019 11 14 1 - Ubuntu Hour 2019-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_1.jpg)
+![Svubuntuhour 2019 11 14 2 - Ubuntu Hour 2019-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_2.jpg)
+![Svubuntuhour 2019 11 14 3 - Ubuntu Hour 2019-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_3.jpg)
+![Svubuntuhour 2019 11 14 4 - Ubuntu Hour 2019-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_4.jpg)
+![Svubuntuhour 2019 11 14 5 - Ubuntu Hour 2019-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_5.jpg)
+![Svubuntuhour 2019 11 14 6 - Ubuntu Hour 2019-11-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-11-14_6.jpg)
 
 

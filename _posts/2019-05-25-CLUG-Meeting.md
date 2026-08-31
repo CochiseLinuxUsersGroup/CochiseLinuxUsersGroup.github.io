@@ -39,12 +39,12 @@ categories: meeting
 
  * We retired to Peter Piper Pizza to enjoy some food and continue our conversations on Linux and FOSS topics.  An impromptu birthday celebration was also conducted for David Garcia who will celebrate his birthday tomorrow.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_5.jpg)
+![Clug Mtg 2019 05 25 1 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_1.jpg)
+![Clug Mtg 2019 05 25 2 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_2.jpg)
+![Clug Mtg 2019 05 25 3 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_3.jpg)
+![Clug Mtg 2019 05 25 4 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-05-25_4.jpg)
+![Clug At Peter Piper 2019 05 25 1 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_1.jpg)
+![Clug At Peter Piper 2019 05 25 2 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_2.jpg)
+![Clug At Peter Piper 2019 05 25 3 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_3.jpg)
+![Clug At Peter Piper 2019 05 25 4 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_4.jpg)
+![Clug At Peter Piper 2019 05 25 5 - CLUG Meeting 2019-05-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peter_piper_2019-05-25_5.jpg)

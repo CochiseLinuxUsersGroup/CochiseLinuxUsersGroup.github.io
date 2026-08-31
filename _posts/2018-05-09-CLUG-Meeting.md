@@ -42,24 +42,24 @@ categories: meeting
 
  * A question was raised by Lynn who is using Lubuntu.  How can thumbnails of photos be seen when trying to move them from a flash drive to the computer or another flash drive? By default (on Lubuntu) thumbnails are only visible for files under 2MBs.  To change that open the file manager (which in Lubuntu is PCMan FM) and then select Edit from the horizontal menu at the top and then Preferences.  A new pop-up window will be displayed titled Preferences.  Select Display from the Vertical menu on the left.  About halfway down the window there is a line that reads “Do not generate thumbnails for files exceeding this size” followed by a number.  Merely increase that number to 9999 or whatever number you would like and the thumbnails will become visible.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/MakeThumbnailsVisible.png)
+![Makethumbnailsvisible - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/MakeThumbnailsVisible.png)
  
  * A question was raised by Gene who is also using Lubuntu.  What is the official website for downloading Lubuntu?  https://lubuntu.me/
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/OfficialLubuntWebsite.png)
+![Officiallubuntwebsite - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/OfficialLubuntWebsite.png)
 
  * A question was raised by Ted who was having problems getting his printer, which is a Hewlett-Packard model, to work with his operating system.  Since HP is very Linux friendly and almost all of their printers will run on a Linux system out of the box, it was recommended that he download and install HP Linux Imaging and Printing (HPLIP). https://developers.hp.com/hp-linux-imaging-and-printing
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/HPLIP.png)
+![Hplip - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/HPLIP.png)
 
 **Aftermath:**
 
  * We adjourned to Peter Piper Pizza where we enjoyed some soft drinks and pizza.  Discussions on Linux and the CLUG continued to take place.  Most notably a suggestion that was made by David Garcia, the designer of our new CLUG leaflet, that we include a section in the minutes on questions asked or problems raised with the solutions offered with screen shots if appropriate.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_5-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_6-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_7-400x400.JPG)
+![Clug Mtg 2018 05 09 1 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_1-400x400.JPG)
+![Clug Mtg 2018 05 09 2 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_2-400x400.JPG)
+![Clug Mtg 2018 05 09 3 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_3-400x400.JPG)
+![Clug Mtg 2018 05 09 4 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_4-400x400.JPG)
+![Clug Mtg 2018 05 09 5 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_5-400x400.JPG)
+![Clug Mtg 2018 05 09 6 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_6-400x400.JPG)
+![Clug Mtg 2018 05 09 7 400x400 - CLUG Meeting 2018-05-09](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-05-09_7-400x400.JPG)

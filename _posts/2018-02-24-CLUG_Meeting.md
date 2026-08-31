@@ -54,7 +54,7 @@ categories: meeting
 
  * We retired to Native Grill and Wings to enjoy some great food and some additional conversation.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-02-24_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-02-24_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-02-24_3-400x400.JPG)
+![Clug Mtg 2018 02 24 1 400x400 - CLUG Meeting 2018-02-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-02-24_1-400x400.JPG)
+![Clug Mtg 2018 02 24 2 400x400 - CLUG Meeting 2018-02-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-02-24_2-400x400.JPG)
+![Clug Mtg 2018 02 24 3 400x400 - CLUG Meeting 2018-02-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-02-24_3-400x400.JPG)
 

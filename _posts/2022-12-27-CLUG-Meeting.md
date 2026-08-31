@@ -30,9 +30,9 @@ categories: meeting
 **Announcements:**
  * Linux Mint 21.1 was released on 21 December 2022
  * Three additional computers have been donated this last month.
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_patwithcomputer.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_rosewithcomputer.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_nicolesandefurwithcomputer.jpg)
+![Patwithcomputer - CLUG Meeting 2022-12-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_patwithcomputer.jpg)
+![Rosewithcomputer - CLUG Meeting 2022-12-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_rosewithcomputer.jpg)
+![Nicolesandefurwithcomputer - CLUG Meeting 2022-12-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_nicolesandefurwithcomputer.jpg)
  * To date the CLUG has donated 89 computers to individuals and groups and conducted 161 installs.
  * We have 1 laptop, 1 netbook, and 10 desktop computers that are ready to be donated. 
 
@@ -47,8 +47,8 @@ categories: meeting
  * A member has had a problem with the size of the cursor displaying the same size when he opened VLC.  To correct the problem he had to uninstall VLC and reinstall it from the VLC website.  Either that or living with the change in size.  Installing it from the software store does not correct the problem.
  * https://archive.org/  will display movies that are no longer protected by copyright.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_5.jpg)
+![Clug Meeting 2022 12 27 1 group photo - CLUG Meeting 2022-12-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_1.jpg)
+![Clug Meeting 2022 12 27 2 group photo - CLUG Meeting 2022-12-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_2.jpg)
+![Clug Meeting 2022 12 27 3 group photo - CLUG Meeting 2022-12-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_3.jpg)
+![Clug Meeting 2022 12 27 4 group photo - CLUG Meeting 2022-12-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_4.jpg)
+![Clug Meeting 2022 12 27 5 group photo - CLUG Meeting 2022-12-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-12-27_5.jpg)

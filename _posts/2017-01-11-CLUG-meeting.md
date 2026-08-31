@@ -32,4 +32,4 @@ There were 6 attendees
  * All of our meetings at both the library and the University of Arizona are now being advertised on the Sierra Vista Herald web site and in print.
  * We are collecting quite a bit of equipment for the Group; computers, server, CAT-5 cables, switches, routers, etc.  If you have equipment that you would like to donate contact Rex Bouwense.
  
-  ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-01-11-400x400.JPG) 
+  ![Clug Mtg 2017 01 11 400x400 - CLUG meeting 2017-01-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-01-11-400x400.JPG) 

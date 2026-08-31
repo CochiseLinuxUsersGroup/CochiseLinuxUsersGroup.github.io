@@ -20,23 +20,23 @@ categories: meeting
 **Announcements:**
  * To date we have donated 184 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_miles_oliver.jpg)
+![Computer Donated to Miles Oliver - Ubuntu Hour 2025-06-12 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_miles_oliver.jpg)
 
 This one went to Miles O.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_peter_byrd.jpg)
+![Computer Donated to Peter Byrd - Ubuntu Hour 2025-06-12 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_peter_byrd.jpg)
 
 This one went to Peter B. for the Democratic HQ in Sierra Vista
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_paul_pacholski.jpg)
+![Computer Donated to Paul Pacholski - Ubuntu Hour 2025-06-12 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_paul_pacholski.jpg)
 
 This one went to Paul P.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_angel_ortiz_2.jpg)
+![Computer Donated to Angel Ortiz 2 - Ubuntu Hour 2025-06-12 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_angel_ortiz_2.jpg)
 
 This one went to Angel O.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_kelly_prior.jpg)
+![Computer Donated to Kelly Prior - Ubuntu Hour 2025-06-12 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_kelly_prior.jpg)
 
 This one went to Kelly P.
 
@@ -49,7 +49,7 @@ This one went to Kelly P.
  * Discussed why we install Ubuntu for a new user.
  * Pointed out the website of the Western North Carolina Linux User Group who tapes their meetings and presentations and posts them on You-Tube.  This may be something that we want to do.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_4.jpg)
+![Sv Ubuntu Hour 2025 06 12 1 - Ubuntu Hour 2025-06-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_1.jpg)
+![Sv Ubuntu Hour 2025 06 12 2 - Ubuntu Hour 2025-06-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_2.jpg)
+![Sv Ubuntu Hour 2025 06 12 3 - Ubuntu Hour 2025-06-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_3.jpg)
+![Sv Ubuntu Hour 2025 06 12 4 - Ubuntu Hour 2025-06-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-06-12_4.jpg)

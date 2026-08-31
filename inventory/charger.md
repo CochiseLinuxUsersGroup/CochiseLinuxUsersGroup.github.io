@@ -1,3 +1,12 @@
+---
+layout: default
+title: Laptop AC Adapter Details | CLUG Inventory
+description: Detailed list of laptop AC adapters available at CLUG Warrior Healing Center, Sierra Vista - Dell, HP, Lenovo and more
+image: /images/CLUG-badge.png
+---
+
+# Laptop AC Adapter Details
+
 Dell (output 19.5 volts 3.34 amps) (4 each)  
 Dell (output 19.5 volts 4.62 amps) (7 each)  
 Dell (output 19.5 volts 6.7 amps) (2 each)  

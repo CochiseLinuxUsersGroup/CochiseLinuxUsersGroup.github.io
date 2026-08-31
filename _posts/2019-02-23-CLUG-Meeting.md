@@ -42,8 +42,8 @@ categories: meeting
 
  * After the meeting was adjourned we retired to Street tacos for some food and additional conversation on Linux and non-Linux subjects.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_street_tacos_2019-02-23.jpg)
+![Clug Mtg 2019 02 23 1 - CLUG Meeting 2019-02-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_1.jpg)
+![Clug Mtg 2019 02 23 2 - CLUG Meeting 2019-02-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_2.jpg)
+![Clug Mtg 2019 02 23 3 - CLUG Meeting 2019-02-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_3.jpg)
+![Clug Mtg 2019 02 23 4 - CLUG Meeting 2019-02-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-02-23_4.jpg)
+![Clug At Street Tacos 2019 02 23 - CLUG Meeting 2019-02-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_street_tacos_2019-02-23.jpg)

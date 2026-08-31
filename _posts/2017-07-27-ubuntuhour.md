@@ -38,8 +38,8 @@ categories: meeting
  * The new Penguin made his inaugural appearance at the Ubuntu Hour.
  * One of the members inadvertently locked her keys in her car so we spent 30 minutes after the meeting attempting to open the car with wire, cable, a broom, and a few other items.  With 9 people present, there were 9 different solutions because we are group of Linux users who use different distros.   The solution was the old standard, the coat hanger.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_4-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_5-400x400.JPG) 
+![Ubuntuhour 2017 07 27 1 400x400 - Ubuntu Hour 2017-07-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_1-400x400.JPG)
+![Ubuntuhour 2017 07 27 2 400x400 - Ubuntu Hour 2017-07-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_2-400x400.JPG)
+![Ubuntuhour 2017 07 27 3 400x400 - Ubuntu Hour 2017-07-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_3-400x400.JPG)
+![Ubuntuhour 2017 07 27 4 400x400 - Ubuntu Hour 2017-07-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_4-400x400.JPG) 
+![Ubuntuhour 2017 07 27 5 400x400 - Ubuntu Hour 2017-07-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-07-27_5-400x400.JPG) 

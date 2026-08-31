@@ -38,8 +38,8 @@ categories: meeting
  * Briefly discussed the results of our Installfest conducted on 20 May.
  * Two computers were donated after the meeting (one to Noah K. and one to David G.)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_5.jpg)
+![Clug Mtg 2023 05 23 4 - CLUG Meeting 2023-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_4.jpg)
+![Clug Mtg 2023 05 23 1 - CLUG Meeting 2023-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_1.jpg)
+![Clug Mtg 2023 05 23 2 - CLUG Meeting 2023-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_2.jpg)
+![Clug Mtg 2023 05 23 3 - CLUG Meeting 2023-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_3.jpg)
+![Clug Mtg 2023 05 23 5 - CLUG Meeting 2023-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-05-23_5.jpg)

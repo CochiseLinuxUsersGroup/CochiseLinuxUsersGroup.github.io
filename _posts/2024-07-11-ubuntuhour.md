@@ -21,7 +21,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 139 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_george_praggasstis_and_laptop.jpg)
+![George Praggasstis and Laptop - Ubuntu Hour 2024-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_george_praggasstis_and_laptop.jpg)
 
 This one went to George P.
 
@@ -35,8 +35,8 @@ and conducted 232 installs on laptops and desktops.
  * Discussed a possible project for members who are hardware geeks.  We came into a laptop that was dropped and destroyed the ac adapter port.  We have the new part but the repair will require disassembly and soldering.  Anyone who wants to tackle it please contact Rex.
  * Discussed the successful installation of George’s printer.  After many hours of research and trial and error he did it himself.  Congratulations George.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_5.jpg)
+![Sv Ubuntuhour 2024 07 11 1 - Ubuntu Hour 2024-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_1.jpg)
+![Sv Ubuntuhour 2024 07 11 2 - Ubuntu Hour 2024-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_2.jpg)
+![Sv Ubuntuhour 2024 07 11 3 - Ubuntu Hour 2024-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_3.jpg)
+![Sv Ubuntuhour 2024 07 11 4 - Ubuntu Hour 2024-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_4.jpg)
+![Sv Ubuntuhour 2024 07 11 5 - Ubuntu Hour 2024-07-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2024-07-11_5.jpg)

@@ -25,7 +25,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 141 computers to individuals and groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_gene_with_computer.jpg)
+![Gene with Computer - CLUG Meeting 2024-09-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_gene_with_computer.jpg)
 
 (This one went to Gene Z)
 
@@ -45,7 +45,7 @@ categories: meeting
  * Discussed the inability of a member to get on Reddit after upgrading to Linux Mint 21.3
  * Discussed the information available on our website, https://cochiselinuxusergroup.org
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mgt_2024-09-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_4.jpg)
+![Clug Mgt 2024 09 24 1 - CLUG Meeting 2024-09-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mgt_2024-09-24_1.jpg)
+![Clug Mtg 2024 09 24 2 - CLUG Meeting 2024-09-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_2.jpg)
+![Clug Mtg 2024 09 24 3 - CLUG Meeting 2024-09-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_3.jpg)
+![Clug Mtg 2024 09 24 4 - CLUG Meeting 2024-09-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-09-24_4.jpg)

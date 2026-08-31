@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 142 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_cheryl__with_computer.jpg)
+![Cheryl with Computer - Ubuntu Hour 2024-09-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_cheryl__with_computer.jpg)
 
  (Cheryl L with her laptop)
  
@@ -33,8 +33,8 @@ categories: meeting
  * Discussed moving to Linux from Microsoft Windows.
  * Discussed using Docker.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_5.jpg)
+![Sv Ubuntu Hour 2024 09 12 1 - Ubuntu Hour 2024-09-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_1.jpg)
+![Sv Ubuntu Hour 2024 09 12 2 - Ubuntu Hour 2024-09-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_2.jpg)
+![Sv Ubuntu Hour 2024 09 12 3 - Ubuntu Hour 2024-09-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_3.jpg)
+![Sv Ubuntu Hour 2024 09 12 4 - Ubuntu Hour 2024-09-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_4.jpg)
+![Sv Ubuntu Hour 2024 09 12 5 - Ubuntu Hour 2024-09-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-09-12_5.jpg)

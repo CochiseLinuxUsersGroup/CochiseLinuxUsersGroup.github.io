@@ -32,9 +32,9 @@ For Linux Mint: https://fossbytes.com/things-to-do-after-installing-linux-mint/
 For Ubuntu: https://fossbytes.com/things-to-do-after-installing-ubuntu/
  * There was a request for some Linux books.  David provided a link to a folder on his Dropbox account that contains books on Linux should anyone want to look into them. https://tinyurl.com/w8pksgt
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_6a.jpg)
+![Sv Ubuntuhour 2020 03 12 1 - Ubuntu Hour 2020-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_1.jpg)
+![Sv Ubuntuhour 2020 03 12 2 - Ubuntu Hour 2020-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_2.jpg)
+![Sv Ubuntuhour 2020 03 12 3 - Ubuntu Hour 2020-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_3.jpg)
+![Sv Ubuntuhour 2020 03 12 4 - Ubuntu Hour 2020-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_4.jpg)
+![Sv Ubuntuhour 2020 03 12 5 - Ubuntu Hour 2020-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_5.jpg)
+![Sv Ubuntuhour 2020 03 12 6a - Ubuntu Hour 2020-03-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-03-12_6a.jpg)

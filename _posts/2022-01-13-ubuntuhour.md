@@ -25,9 +25,9 @@ categories: meeting
  * Discussed the preparations for the Installfest on Saturday.
  * Repaired a member’s laptop which would not boot.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_6.jpg)
+![Sv Ubuntuhour 2022 01 13 1 - Ubuntu Hour 2022-01-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_1.jpg)
+![Sv Ubuntuhour 2022 01 13 2 - Ubuntu Hour 2022-01-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_2.jpg)
+![Sv Ubuntuhour 2022 01 13 3 - Ubuntu Hour 2022-01-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_3.jpg)
+![Sv Ubuntuhour 2022 01 13 4 - Ubuntu Hour 2022-01-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_4.jpg)
+![Sv Ubuntuhour 2022 01 13 5 - Ubuntu Hour 2022-01-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_5.jpg)
+![Sv Ubuntuhour 2022 01 13 6 - Ubuntu Hour 2022-01-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2022-01-13_6.jpg)

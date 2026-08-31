@@ -29,9 +29,9 @@ categories: meeting
  * Since there were very few people in attendance, no presentation was given.  However it was decided that if our main venue is once again made unavailable we would simply cancel the meeting rather than try to reschedule at a new location.
  * The Schlotzsky’s cable system was hacked with invaluable assistance from Devi (who knew which button to press) so it is possible to have a slide show presentation there.  All that is needed is a VGA cable and a compatible laptop.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_5-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_6-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_7-400x400.JPG)
+![Clugmtg 2017 05 27 2 400x400 - CLUG Meeting 2017-05-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_2-400x400.JPG)
+![Clugmtg 2017 05 27 3 400x400 - CLUG Meeting 2017-05-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_3-400x400.JPG)
+![Clugmtg 2017 05 27 4 400x400 - CLUG Meeting 2017-05-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_4-400x400.JPG)
+![Clugmtg 2017 05 27 5 400x400 - CLUG Meeting 2017-05-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_5-400x400.JPG)
+![Clugmtg 2017 05 27 6 400x400 - CLUG Meeting 2017-05-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_6-400x400.JPG)
+![Clugmtg 2017 05 27 7 400x400 - CLUG Meeting 2017-05-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-05-27_7-400x400.JPG)

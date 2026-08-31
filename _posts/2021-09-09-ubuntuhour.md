@@ -23,8 +23,8 @@ categories: meeting
  * Discussed “Our Introduction to Different Linux Distributions Project”
  * A guest who was given a donated computer discussed his experiences dealing with Ubuntu for the first time.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_5.jpg)
+![Sv Ubuntuhour 2021 09 09 1 - Ubuntu Hour 2021-09-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_1.jpg)
+![Sv Ubuntuhour 2021 09 09 2 - Ubuntu Hour 2021-09-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_2.jpg)
+![Sv Ubuntuhour 2021 09 09 3 - Ubuntu Hour 2021-09-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_3.jpg)
+![Sv Ubuntuhour 2021 09 09 4 - Ubuntu Hour 2021-09-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_4.jpg)
+![Sv Ubuntuhour 2021 09 09 5 - Ubuntu Hour 2021-09-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-09-09_5.jpg)

@@ -39,13 +39,13 @@ categories: meeting
  * A member asked where can he find the applications to install that are listed on the 7 page handout.  They can be downloaded from the Ubuntu Software Center, the icon is the orange suitcase with a big A on it.
  * A member updated his file transfer problem with Ubuntu.  His computer would suspend during the transfer after a certain time.  Apparently file transfer is not counted as activity on his computer.  He was advised to set his power management settings to “never” during the file transfer.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_9.jpg)
+![Clug Meeting 2022 11 22 1 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_1.jpg)
+![Clug Meeting 2022 11 22 2 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_2.jpg)
+![Clug Meeting 2022 11 22 3 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_3.jpg)
+![Clug Meeting 2022 11 22 4 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_4.jpg)
+![Clug Meeting 2022 11 22 5 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_5.jpg)
+![Clug Meeting 2022 11 22 6 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_6.jpg)
+![Clug Meeting 2022 11 22 7 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_7.jpg)
+![Clug Meeting 2022 11 22 8 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_8.jpg)
+![Clug Meeting 2022 11 22 9 group photo - CLUG Meeting 2022-11-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-11-22_9.jpg)
 

@@ -25,11 +25,11 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
 
 * Some of the group retired to Mod Pizza after the conclusion to enjoy some food and to critque the Installation Festival.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_modpizza_2019-11-02_1.jpg)
+![Sv Installfest 2019 11 02 1 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_1.jpg)
+![Sv Installfest 2019 11 02 2 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_2.jpg)
+![Sv Installfest 2019 11 02 3 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_3.jpg)
+![Sv Installfest 2019 11 02 4 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_4.jpg)
+![Sv Installfest 2019 11 02 5 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_5.jpg)
+![Sv Installfest 2019 11 02 7 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_7.jpg)
+![Sv Installfest 2019 11 02 6 - Installfest 2019-11-02 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-11-02_6.jpg)
+![Clug At Modpizza 2019 11 02 1 - Installfest 2019-11-02](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_modpizza_2019-11-02_1.jpg)

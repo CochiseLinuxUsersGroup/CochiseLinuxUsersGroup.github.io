@@ -23,10 +23,10 @@ categories: meeting
  * Discussed backup programs and why they really do no good if they are on the same hard drive as your operating system.  If the hard drive fails, the backup is gone as well.  The important thing is to back up your data to an external source and two external sources are better than one.
  * Discussed our new draft post installation activities checklist.  Additional changes were recommended and adopted.  The draft check list will be used on Saturday at our mini-installfest to test it.  Several members felt there was a need for additional links to be displayed automatically after boot to answer questions much as tips are displayed when LibreOffice is started unless the new owner disables that option.  Action:  None.  Waiting for future discussion.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_7.jpg)
+![Sierravistaubuntuhour 2021 04 08 1 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_1.jpg)
+![Sierravistaubuntuhour 2021 04 08 2 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_2.jpg)
+![Sierravistaubuntuhour 2021 04 08 3 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_3.jpg)
+![Sierravistaubuntuhour 2021 04 08 4 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_4.jpg)
+![Sierravistaubuntuhour 2021 04 08 5 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_5.jpg)
+![Sierravistaubuntuhour 2021 04 08 6 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_6.jpg)
+![Sierravistaubuntuhour 2021 04 08 7 - Ubuntu Hour 2021-04-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2021-04-08_7.jpg)

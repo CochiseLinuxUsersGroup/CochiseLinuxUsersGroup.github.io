@@ -28,8 +28,8 @@ categories: meeting
  * Discussed the relative pros and cons of doing an upgrade to a newly released version of Ubuntu or a fresh install.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_5.jpg)
+![Svubuntuhour 2019 04 11 1 - Ubuntu Hour 2019-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_1.jpg)
+![Svubuntuhour 2019 04 11 2 - Ubuntu Hour 2019-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_2.jpg)
+![Svubuntuhour 2019 04 11 3 - Ubuntu Hour 2019-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_3.jpg)
+![Svubuntuhour 2019 04 11 4 - Ubuntu Hour 2019-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_4.jpg)
+![Svubuntuhour 2019 04 11 5 - Ubuntu Hour 2019-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-04-11_5.jpg)

@@ -38,13 +38,13 @@ categories: meeting
 **Discussion/Problems/Questions:**
  * Raffle tickets were passed out to the guests eating at 143 Street Tacos.  The drawing was held at at 1400 and Annette was the lucky winner of a free renovated IBM R52 Thinkpad with a Linux OS installed
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerannette_2020-12-19_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerannette_2020-12-19_2.jpg)
+![Rafflewinnerannette 2020 12 19 1 - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerannette_2020-12-19_1.jpg)
+![Rafflewinnerannette 2020 12 19 2 - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerannette_2020-12-19_2.jpg)
 
  * Raffle tickets were then passed out to attending members and Ted was the lucky winner of a second IBM R52 Thinkpad.  He donated it to Mike for his project in Bisbee.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerted_2020-12-19.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_07.jpg)
+![Rafflewinnerted 2020 12 19 - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rafflewinnerted_2020-12-19.jpg)
+![Clug Meeting 2020 12 19 07 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_07.jpg)
 
  * Discussed Libre Office Writer vs Microsoft Word
  * Discussed hard drive backups and the need for them
@@ -52,11 +52,11 @@ categories: meeting
 **Aftermath:**
  * Members who had not eaten before or during the meeting stayed after the meeting to enjoy some of the excellent Street Taco cuisine
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_01.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_02.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_03.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_04.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_05.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_06.jpg) 
+![Clug Meeting 2020 12 19 01 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_01.jpg)
+![Clug Meeting 2020 12 19 02 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_02.jpg) 
+![Clug Meeting 2020 12 19 03 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_03.jpg) 
+![Clug Meeting 2020 12 19 04 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_04.jpg) 
+![Clug Meeting 2020 12 19 05 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_05.jpg) 
+![Clug Meeting 2020 12 19 06 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_06.jpg) 
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_08.jpg) 
+![Clug Meeting 2020 12 19 08 group photo - CLUG Meeting 2020-12-19](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-12-19_08.jpg) 

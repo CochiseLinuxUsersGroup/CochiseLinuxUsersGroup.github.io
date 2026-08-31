@@ -21,11 +21,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 133 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_mike_with_his_mac_mini.jpg)
+![Mike with his Mac Mini - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_mike_with_his_mac_mini.jpg)
 
 Mike L with his Mac-Mini
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_mark_faulkner_and_his_computer.jpg)
+![Mark Faulkner and his Computer - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_mark_faulkner_and_his_computer.jpg)
 
 Mark F with his computer
 
@@ -39,8 +39,8 @@ and conducted 207 installs on laptops and desktops.
  * Discussed the new and changed features of Ubuntu 24.04 that was released on 25 April.
  * Demonstrated some of those features on a laptop with the new version installed.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_5.jpg)
+![Sv Ubuntu Hour 2024 05 09 1 - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_1.jpg)
+![Sv Ubuntu Hour 2024 05 09 2 - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_2.jpg)
+![Sv Ubuntu Hour 2024 05 09 3 - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_3.jpg)
+![Sv Ubuntu Hour 2024 05 09 4 - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_4.jpg)
+![Sv Ubuntu Hour 2024 05 09 5 - Ubuntu Hour 2024-05-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-05-09_5.jpg)

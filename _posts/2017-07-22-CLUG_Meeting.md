@@ -48,11 +48,11 @@ categories: meeting
  * Cody wanted to know the procedure for Reverting Windows Vista back to the original manufacture’s configuration to be able to install Win10 on the computer.   
  * We adjourned to the Pizza Hut for some nourishment and continued conversation.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_2-400x400.JPG)  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_3-400x400.JPG)  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_4-400x400.JPG)  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_5-400x400.JPG)  
+![Clugmtg 2017 07 22 1 400x400 - CLUG Meeting 2017-07-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_1-400x400.JPG)
+![Clugmtg 2017 07 22 2 400x400 - CLUG Meeting 2017-07-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_2-400x400.JPG)  
+![Clugmtg 2017 07 22 3 400x400 - CLUG Meeting 2017-07-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_3-400x400.JPG)  
+![Clugmtg 2017 07 22 4 400x400 - CLUG Meeting 2017-07-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_4-400x400.JPG)  
+![Clugmtg 2017 07 22 5 400x400 - CLUG Meeting 2017-07-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-22_5-400x400.JPG)  
 
 
  

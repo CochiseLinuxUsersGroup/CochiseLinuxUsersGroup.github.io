@@ -29,4 +29,4 @@ categories: meeting
  * Discussed the pros and cons of using a Linux operating system over a Windows operating system.
  * Gave a demonstration of capabilities of Lubuntu for the new attendee.
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-01-26-400x400.JPG)
+ ![Sierravistaubuntuhour 2017 01 26 400x400 - Ubuntu Hour 2017-01-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-01-26-400x400.JPG)

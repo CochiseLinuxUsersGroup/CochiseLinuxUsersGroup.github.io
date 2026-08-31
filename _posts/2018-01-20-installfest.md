@@ -47,10 +47,10 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
  
  * Because of the lack of installs conducted our installers gradually left until we were down to only two at the very end of the event.  This could have been a problem if we had an influx of people at the end of the event.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_5-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_8-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_at_Vinnys_2018-01-20_1-400x400.jpg)
+![Sierravistainstallfest 2018 01 20 1 400x400 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_1-400x400.JPG)
+![Sierravistainstallfest 2018 01 20 2 400x400 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_2-400x400.JPG)
+![Sierravistainstallfest 2018 01 20 3 400x400 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_3-400x400.JPG)
+![Sierravistainstallfest 2018 01 20 4 400x400 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_4-400x400.JPG)
+![Sierravistainstallfest 2018 01 20 5 400x400 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_5-400x400.JPG)
+![Sierravistainstallfest 2018 01 20 8 400x400 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaInstallfest_2018-01-20_8-400x400.JPG)
+![Clug At Vinnys 2018 01 20 1 400x400 - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_at_Vinnys_2018-01-20_1-400x400.jpg)

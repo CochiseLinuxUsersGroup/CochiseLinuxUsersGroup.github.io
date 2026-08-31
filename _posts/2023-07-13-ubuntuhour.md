@@ -22,11 +22,11 @@ categories: meeting
  * We have 42 people on our mailing list and 37 members on our Facebook page.
  * We have 6 desktops ready for donation.
  * We made 3 additional computer donations.  This computer went to Harlan B.
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harlanbrianandhiscomputer.jpg)
+![Harlanbrianandhiscomputer - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harlanbrianandhiscomputer.jpg)
  * This computer went to Michelle M of the Warrior Healing Center
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_2_whc.jpg)
+![Caseworker 2 Whc - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_2_whc.jpg)
  * This computer went to the Warrior Healing Center case workers.
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_1_whc.jpg)
+![Caseworker 1 Whc - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_1_whc.jpg)
 
 **Discussion:**
  * Discussed the difference between sudo apt remove and sudo apt purge
@@ -34,8 +34,8 @@ categories: meeting
  * Discussed the pros and cons of different programs to burn/rip
  * Discussed desktop computers and what the attendees use them for
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_5.jpg)
+![Sv Ubuntuhour 2023 07 13 1 - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_1.jpg)
+![Sv Ubuntuhour 2023 07 13 2 - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_2.jpg)
+![Sv Ubuntuhour 2023 07 13 3 - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_3.jpg)
+![Sv Ubuntuhour 2023 07 13 4 - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_4.jpg)
+![Sv Ubuntuhour 2023 07 13 5 - Ubuntu Hour 2023-07-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-07-13_5.jpg)

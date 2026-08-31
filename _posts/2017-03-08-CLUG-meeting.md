@@ -38,4 +38,4 @@ There were 8 attendees
  * There will be a free lecture on “The Internet of Things” sponsored by the UA South on 31 March at Groth Hall, Public Meeting Room, 5-6 PM.  More information to follow as it becomes available.
  * The CLUG meeting scheduled for 27 May 2017 at the Sierra Vista public library conference room may be canceled since the library will be closed on that day.  We are searching for an alternate location.  More information to follow.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg2017-03-08-400x400.JPG)  
+![Clugmtg2017 03 08 400x400 - CLUG meeting 2017-03-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg2017-03-08-400x400.JPG)  

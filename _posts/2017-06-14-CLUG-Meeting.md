@@ -43,6 +43,6 @@ There were 9 attendees
  * Slide presentations that have been given to the Group can be download from GitHub. https://github.com/CochiseLinuxUsersGroup/Presentations
  * The post installation checklist was introduced and discussed.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-14_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-14_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-14_4-400x400.JPG)
+![Clugmtg 2017 06 14 2 400x400 - CLUG Meeting 2017-06-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-14_2-400x400.JPG)
+![Clugmtg 2017 06 14 3 400x400 - CLUG Meeting 2017-06-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-14_3-400x400.JPG)
+![Clugmtg 2017 06 14 4 400x400 - CLUG Meeting 2017-06-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-14_4-400x400.JPG)

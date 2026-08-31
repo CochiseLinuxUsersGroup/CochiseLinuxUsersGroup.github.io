@@ -21,15 +21,15 @@ categories: meeting
 **Announcements:**
  * To date we have donated 136 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_laptop_donation.jpg)
+![Laptop Donation - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_laptop_donation.jpg)
 
  * This one went to martha A.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_derek_m_with_his_computer.jpg)
+![Derek M with his Computer - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_derek_m_with_his_computer.jpg)
 
  * This one went to Derek M.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_teds_computer.jpg)
+![Teds Computer - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_teds_computer.jpg)
 
  * This one went to Ted J.
 
@@ -43,17 +43,17 @@ and conducted 224 installs on laptops and desktops.
  * Discussed possible solutions for Pat's black screen on a Mint 20.3.
  * Discussed the availability of free peaches that a member's friend has in his yard.  They are apparently small but very juicy and tasty.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_1.jpg)
+![Sv Ubuntu Hour 2024 06 13 1 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_1.jpg)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_2.jpg)
+![Sv Ubuntu Hour 2024 06 13 2 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_2.jpg)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_3.jpg)
+![Sv Ubuntu Hour 2024 06 13 3 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_3.jpg)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_4.jpg)
+![Sv Ubuntu Hour 2024 06 13 4 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_4.jpg)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_5.jpg)
+![Sv Ubuntu Hour 2024 06 13 5 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_5.jpg)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_6.jpg)
+![Sv Ubuntu Hour 2024 06 13 6 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_6.jpg)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_7.jpg)
+![Sv Ubuntu Hour 2024 06 13 7 - Ubuntu Hour 2024-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-06-13_7.jpg)
  

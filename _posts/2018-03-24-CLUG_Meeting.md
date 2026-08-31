@@ -58,10 +58,10 @@ sudo apt-get install ffmpeg
 
  * We retired to Native Grill and Wings where we enjoyed some good food and additional Linux and FOSS conversation.  After eating, several members and guests returned to Rex Bouwense’s apartment to work on the CLUG server which has been running for almost 3 months but still is not connected to the Internet.  In a very short time (comparatively) wmack and toddc were able to get it working correctly something that Rex has been unable to accomplish in the 3 months that he had it running.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_5-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_7-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/NativeGrill_2018-03-24-400x400.JPG)
+![Clug Mtg 2018 03 24 1 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_1-400x400.JPG)
+![Clug Mtg 2018 03 24 2 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_2-400x400.JPG)
+![Clug Mtg 2018 03 24 3 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_3-400x400.JPG)
+![Clug Mtg 2018 03 24 4 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_4-400x400.JPG)
+![Clug Mtg 2018 03 24 5 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_5-400x400.jpg)
+![Clug Mtg 2018 03 24 7 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_2018-03-24_7-400x400.jpg)
+![Nativegrill 2018 03 24 400x400 - CLUG Meeting 2018-03-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/NativeGrill_2018-03-24-400x400.JPG)

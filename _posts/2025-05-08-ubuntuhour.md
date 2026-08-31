@@ -30,8 +30,8 @@ categories: meeting
  * Conducted a one-on-one discussion with the new attendee about Linux in general and Ubuntu in particular.
  * Distributed information to the new attendee.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_5.jpg)
+![Sv Ubuntu Hour 2025 05 08 1 - Ubuntu Hour 2025-05-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_1.jpg)
+![Sv Ubuntu Hour 2025 05 08 2 - Ubuntu Hour 2025-05-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_2.jpg)
+![Sv Ubuntu Hour 2025 05 08 3 - Ubuntu Hour 2025-05-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_3.jpg)
+![Sv Ubuntu Hour 2025 05 08 4 - Ubuntu Hour 2025-05-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_4.jpg)
+![Sv Ubuntu Hour 2025 05 08 5 - Ubuntu Hour 2025-05-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-05-08_5.jpg)

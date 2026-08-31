@@ -26,8 +26,8 @@ categories: meeting
  * We have 2 laptop and 11 desktop computers ready for donation.
  * Thanks to Tommy and Rex the computer lab at the Warrior Healing Center now has a new set of Dell all-in-one computers
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_warriorhealingcentercomputerlab-1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_warriorhealingcentercomputerlab-2.jpg)
+![Warriorhealingcentercomputerlab 1 - Ubuntu Hour 2023-01-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_warriorhealingcentercomputerlab-1.jpg)
+![Warriorhealingcentercomputerlab 2 - Ubuntu Hour 2023-01-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_warriorhealingcentercomputerlab-2.jpg)
 
 **Discussion:**
  * Look at March/April time frame for our next Installfest.  Discussion will continue at the next meeting.
@@ -35,7 +35,7 @@ categories: meeting
  * Discussed the case where an SD card which was formerly mounted as read/write was now mounted as read only.  If the lock is not on and attempts to mount it all fail to mount it as read/write it is probably failing so any data on it should be backed up as soon as possible.
  * Discussed a large file transfer to a USB device failing in Ubuntu when the screen saver was activated.  Possible solutions may be found in the configuration of the power manager or the screen saver itself.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_4.jpg)
+![Sv Ubuntuhour 2023 01 12 1 - Ubuntu Hour 2023-01-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_1.jpg)
+![Sv Ubuntuhour 2023 01 12 2 - Ubuntu Hour 2023-01-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_2.jpg)
+![Sv Ubuntuhour 2023 01 12 3 - Ubuntu Hour 2023-01-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_3.jpg)
+![Sv Ubuntuhour 2023 01 12 4 - Ubuntu Hour 2023-01-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-01-12_4.jpg)

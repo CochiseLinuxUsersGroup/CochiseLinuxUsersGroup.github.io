@@ -41,10 +41,10 @@ categories: meeting
  * Since the great majority of those present had other commitments there was no restaurant chosen  to continue our discussion.
  * New attendees did learn that penguins can fly and do aerial twists.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_7.jpg)
+![Clug Meeting 2018 10 27 1 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_1.jpg)
+![Clug Meeting 2018 10 27 2 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_2.jpg)
+![Clug Meeting 2018 10 27 3 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_3.jpg)
+![Clug Meeting 2018 10 27 4 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_4.jpg)
+![Clug Meeting 2018 10 27 5 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_5.jpg)
+![Clug Meeting 2018 10 27 6 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_6.jpg)
+![Clug Meeting 2018 10 27 7 group photo - CLUG Meeting 2018-10-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-27_7.jpg)

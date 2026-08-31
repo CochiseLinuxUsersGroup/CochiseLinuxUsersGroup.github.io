@@ -39,9 +39,9 @@ categories: meeting
  * A member had a problem with running out of space on his 16 GB netbook.  While it recognized a USB flash drive he could not move his /home or any documents there.   Something was obviously taking up a great deal of space on his hard drive.  Since time was limited and it was a fresh install, we recommended a re-install of the OS. 
  * Mike wanted to invite all members to his grand opening in Naco on 04 June.  Details to follow via email.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_6.jpg)
+![Clug Mtg 2021 05 22 1 - CLUG Meeting 2021-05-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_1.jpg)
+![Clug Mtg 2021 05 22 2 - CLUG Meeting 2021-05-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_2.jpg)
+![Clug Mtg 2021 05 22 3 - CLUG Meeting 2021-05-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_3.jpg)
+![Clug Mtg 2021 05 22 4 - CLUG Meeting 2021-05-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_4.jpg)
+![Clug Mtg 2021 05 22 5 - CLUG Meeting 2021-05-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_5.jpg)
+![Clug Mtg 2021 05 22 6 - CLUG Meeting 2021-05-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-05-22_6.jpg)

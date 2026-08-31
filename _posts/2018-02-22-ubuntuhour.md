@@ -36,4 +36,4 @@ categories: meeting
  * I am still interested in conducting an Installfest or as a minimum an information presentation in Sunsites but we have not heard from the Lances who first brought up the idea so that project is on hold.
  * Discussed what is Linux with the new attendee and demonstrated what a Linux distro looked like and what it could do.  Also handed out a list FOSS equivalents for Windows programs.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2018-02-22-400x400.JPG) 
+![Sierravistaubuntuhour 2018 02 22 400x400 - Ubuntu Hour 2018-02-22 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2018-02-22-400x400.JPG) 

@@ -29,5 +29,5 @@ categories: meeting
  * Immediately following the Saturday meeting there is a a birthday party for one of our CLUG members at the Family Fun Center.  All are invited.
  * Discussed the up-coming Kali Challenge issued by one of our members.  The final results will hopefully be in on Saturday.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_2018-08-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_2018-08-23_2.jpg)
+![Sv Ubuntu Hour 2018 08 23 1 - Ubuntu Hour 2018-08-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_2018-08-23_1.jpg)
+![Sv Ubuntu Hour 2018 08 23 2 - Ubuntu Hour 2018-08-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_2018-08-23_2.jpg)

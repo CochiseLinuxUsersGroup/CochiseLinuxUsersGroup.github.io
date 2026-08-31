@@ -32,10 +32,10 @@ categories: meeting
  * A member had a problem with Chromium crashing his system.  Since he did not have his computer with him it was recommended that he use the software manager to install the browser after he uninstalled what he had currently installed.
  * Discussed whether it was a good idea to store passwords on Firefox.  If you create a Firefox account they can be synced with your account.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_7.jpg)
+![Sv Ubuntuhour 2020 11 12 1 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_1.jpg)
+![Sv Ubuntuhour 2020 11 12 2 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_2.jpg)
+![Sv Ubuntuhour 2020 11 12 3 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_3.jpg)
+![Sv Ubuntuhour 2020 11 12 4 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_4.jpg)
+![Sv Ubuntuhour 2020 11 12 5 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_5.jpg)
+![Sv Ubuntuhour 2020 11 12 6 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_6.jpg)
+![Sv Ubuntuhour 2020 11 12 7 - Ubuntu Hour 2020-11-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SV_UbuntuHour_2020-11-12_7.jpg)

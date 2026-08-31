@@ -36,6 +36,6 @@ categories: meeting
  * Hardware is on hand and tested
  * Personnel to man the install-fest.  We would like to have at least 3-4 installers on hand for each of the three 2 hour periods.  Please contact Rex or Greg to sign up.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-06-22_1-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-06-22_2-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-06-22_3-400x400.JPG) 
+![Ubuntuhour 2017 06 22 1 400x400 - Ubuntu Hour 2017-06-22 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-06-22_1-400x400.JPG) 
+![Ubuntuhour 2017 06 22 2 400x400 - Ubuntu Hour 2017-06-22 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-06-22_2-400x400.JPG) 
+![Ubuntuhour 2017 06 22 3 400x400 - Ubuntu Hour 2017-06-22 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2017-06-22_3-400x400.JPG) 

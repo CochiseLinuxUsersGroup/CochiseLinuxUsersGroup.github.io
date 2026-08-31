@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 119 computers to individuals or groups and conducted 186 installs on laptops and desktops.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_dale_snoddy_with_his_computer.jpg)
+![Dale Snoddy with his Computer - Ubuntu Hour 2023-12-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_dale_snoddy_with_his_computer.jpg)
 
 Dale S with his computer.
 
@@ -33,8 +33,8 @@ Dale S with his computer.
  * Discussed presentations for the upcoming year.
  * Discussed Canonical phasing of updates.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_5.jpg)
+![Sv Ubuntuhour 2023 12 14 1 - Ubuntu Hour 2023-12-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_1.jpg)
+![Sv Ubuntuhour 2023 12 14 2 - Ubuntu Hour 2023-12-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_2.jpg)
+![Sv Ubuntuhour 2023 12 14 3 - Ubuntu Hour 2023-12-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_3.jpg)
+![Sv Ubuntuhour 2023 12 14 4 - Ubuntu Hour 2023-12-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_4.jpg)
+![Sv Ubuntuhour 2023 12 14 5 - Ubuntu Hour 2023-12-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-12-14_5.jpg)

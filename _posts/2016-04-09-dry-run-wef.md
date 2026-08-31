@@ -17,9 +17,9 @@ After setup we all went to Culver's for a late lunch/early dinner.
 
 Here's some Pictures by Rose:
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%281%29.jpg "WEF Setup 1")
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%282%29.jpg "WEF Setup 2")
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%283%29.jpg "WEF Setup 3")
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%284%29.jpg "WEF Setup 4")
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%285%29.jpg "WEF Setup 5")
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%286%29.jpg "WEF Setup 6")
+![WEF Setup 1 - Dry run of setup for West End Fair - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%281%29.jpg "WEF Setup 1")
+![WEF Setup 2 - Dry run of setup for West End Fair - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%282%29.jpg "WEF Setup 2")
+![WEF Setup 3 - Dry run of setup for West End Fair - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%283%29.jpg "WEF Setup 3")
+![WEF Setup 4 - Dry run of setup for West End Fair - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%284%29.jpg "WEF Setup 4")
+![WEF Setup 5 - Dry run of setup for West End Fair - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%285%29.jpg "WEF Setup 5")
+![WEF Setup 6 - Dry run of setup for West End Fair - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_4-9-2016%20%286%29.jpg "WEF Setup 6")

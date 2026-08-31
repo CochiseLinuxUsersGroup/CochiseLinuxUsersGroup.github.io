@@ -1,44 +1,87 @@
 # Site settings
 title: Cochise Linux User Group - CLUG
-#email: your-email@domain.com
+tagline: Free Linux Help, Workshops & Community in Cochise County, Arizona
+email: cochiselinux@freelists.org
 description: > # this means to ignore newlines until "baseurl:"
-  We are a volunteer non-profit organization of Linux users from Cochise County,
-  Arizona. Our goals are to provide a platform for Linux users to talk with other
-  Linux users about their problems and questions, to host presentations from
-  members as well as outside individuals about Free and Open Source Software,
-  and to expand the use of Linux on personal computers through out the county.
+  Cochise Linux User Group (CLUG) is a volunteer non-profit in Sierra Vista
+  and Cochise County, Arizona. We host free monthly meetings, Ubuntu Hours,
+  Linux workshops and presentations on Free & Open Source Software, and provide
+  free troubleshooting and install help for Ubuntu, Linux Mint, LMDE and more.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cochiselinuxusergroup.org" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  CochiseLinuxUsersGroup
+lang: en
+locale: en_US
+author:
+  name: Cochise Linux User Group
+  email: cochiselinux@freelists.org
+logo: /images/CLUG-badge.png
+image: /images/CLUG-badge.png
+# Social / SEO
+github_username: CochiseLinuxUsersGroup
+twitter:
+  username: cochiselinux
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/groups/1059259857477393/
+social:
+  name: Cochise Linux User Group
+  links:
+    - https://github.com/CochiseLinuxUsersGroup
+    - https://www.facebook.com/groups/1059259857477393/
+    - https://www.freelists.org/archive/cochiselinux
+    - https://cochiselinuxusergroup.org
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-#permalink: /Blog/:title/
+permalink: /blog/:year/:month/:day/:title/
 timezone: America/Phoenix
 paginate: 5
+paginate_path: "/blog/page:num/"
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO defaults - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /images/CLUG-badge.png
+      author: Cochise Linux User Group
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Cochise Linux User Group
+      image: /images/CLUG-badge.png
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Collections & pagination handling
+feed:
+  path: /feed.xml
 
 
 
 exclude:
   - CNAME
   - Gemfile
-  - Rakefile
+  - Gemfile.lock
   - README.md
   - .gitignore
   - .sass-cache
-  - Gemfile.lock
   - vendor
   - clug.py
   - install.sh
   - tester.sh
-  - contact.html
-  - no-sidebar.html
-  - left-sidebar.html
-  - right-sidebar.html
-  - contact.html
+  - "*.gemspec"
+  - "*.gem"

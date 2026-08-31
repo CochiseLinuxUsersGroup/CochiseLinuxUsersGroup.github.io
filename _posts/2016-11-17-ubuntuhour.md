@@ -29,6 +29,6 @@ categories: meeting
  * Information about Ubuntu, the Ubuntu Arizona Local Community, and the Cochise Linux User Group was given to the new people.
  * Several install DVDs were also passed out to those who wanted to try or install Ubuntu at their home.
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_01_17-11-16-400x400.JPG)
+ ![Ubuntuhour 01 17 11 16 400x400 - Ubuntu Hour 2016-11-17 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_01_17-11-16-400x400.JPG)
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_02_17-11-16-400x400.JPG)
+ ![Ubuntuhour 02 17 11 16 400x400 - Ubuntu Hour 2016-11-17 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_02_17-11-16-400x400.JPG)

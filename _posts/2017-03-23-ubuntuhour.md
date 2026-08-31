@@ -30,8 +30,8 @@ categories: meeting
  * Discussed the possibility of instituting problem solving activities for future meetings. 
  * Rex Bouwense announced that the LoCo conference pack has arrived with material for the West End Fair.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_2-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_4-400x400.JPG)
+![Sierravistaubuntuhour 2017 03 23 1 400x400 - Ubuntu Hour 2017-03-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_1-400x400.JPG)
+![Sierravistaubuntuhour 2017 03 23 2 400x400 - Ubuntu Hour 2017-03-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_2-400x400.JPG) 
+![Sierravistaubuntuhour 2017 03 23 3 400x400 - Ubuntu Hour 2017-03-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_3-400x400.JPG)
+![Sierravistaubuntuhour 2017 03 23 4 400x400 - Ubuntu Hour 2017-03-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-03-23_4-400x400.JPG)
  

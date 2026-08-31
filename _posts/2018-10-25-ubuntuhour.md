@@ -26,13 +26,13 @@ categories: meeting
  * Discussed the search engine DuckDuckGo and the use of Privacy Badger in FireFox.
  * Discussed the Linux Mint Release note that required user action if the home directory is installed encrypted.  Swap is configured improperly.  See https://www.linuxmint.com/rel_tara_cinnamon.php.  This action is required in all three Linux Mint releases; Cinnamon, xfce, and Mate.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/LinuxMintReleaseNotes.png)
+![Linuxmintreleasenotes - Ubuntu Hour 2018-10-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/LinuxMintReleaseNotes.png)
 
  * Discussed a problem with a non-functional DVD burner on a Toshiba laptop.  Member was advised to bring the laptop to a function for further investigation.
  * Discussed BroadCom chip drivers and how to determine which one is required.
  * Distributed Ubuntu SWAG and Linux and FOSS information to the new attendee.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2018-10-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2018-10-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2018-10-25_3.jpg)
+![Sierravistaubuntuhour 2018 10 25 1 - Ubuntu Hour 2018-10-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2018-10-25_1.jpg)
+![Sierravistaubuntuhour 2018 10 25 2 - Ubuntu Hour 2018-10-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2018-10-25_2.jpg)
+![Sierravistaubuntuhour 2018 10 25 3 - Ubuntu Hour 2018-10-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sierravistaubuntuhour_2018-10-25_3.jpg)
  

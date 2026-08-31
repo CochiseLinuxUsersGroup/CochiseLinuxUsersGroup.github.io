@@ -44,6 +44,6 @@ categories: meeting
  * We are looking for a physical location for our meeting on 25 July.  Please contact Rex if you have a candidate.
  * We will be re-instating our 10 minute mini-presentations at our meetings.  If you have one to give please contact Rex.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug-mtg-2020-06-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug-mtg-2020-06-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug-mtg-2020-06-27_3.jpg)
+![Clug Mtg 2020 06 27 1 - CLUG Meeting 2020-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug-mtg-2020-06-27_1.jpg)
+![Clug Mtg 2020 06 27 2 - CLUG Meeting 2020-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug-mtg-2020-06-27_2.jpg)
+![Clug Mtg 2020 06 27 3 - CLUG Meeting 2020-06-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug-mtg-2020-06-27_3.jpg)

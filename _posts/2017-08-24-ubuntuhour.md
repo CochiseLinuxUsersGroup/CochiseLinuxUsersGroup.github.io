@@ -32,5 +32,5 @@ categories: meeting
  * Discussed why videos from a hand held camera would not copy to the computer.
  * Discussed ideas for future presentations at Ubuntu Hours and the Cochise LUG.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-08-24_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-08-24_2-400x400.JPG)
+![Sierravistaubuntuhour 2017 08 24 1 400x400 - Ubuntu Hour 2017-08-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-08-24_1-400x400.JPG)
+![Sierravistaubuntuhour 2017 08 24 2 400x400 - Ubuntu Hour 2017-08-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-08-24_2-400x400.JPG)

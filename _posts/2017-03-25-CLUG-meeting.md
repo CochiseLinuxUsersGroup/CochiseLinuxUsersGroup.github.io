@@ -52,10 +52,10 @@ There were 9 attendees.
  * Rex Bouwense gave those present a tour of the CLUG web site and the CLUG GitHub page and how to navigate around.
  * We adjourned to Vinny’s Pizza to enjoy some pizza and other Italian delicacies, participate in some additional Linux/FOSS light conversation, and to witness a demonstration in the parking lot of Roland Bockhorst’s drone which took off, flew, hovered, and landed quite successfully in probably a 20 mph wind.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-03-25_1-400x400.JPG) 
+![Clugmtg 2017 03 25 1 400x400 - CLUG meeting 2017-03-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-03-25_1-400x400.JPG) 
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-03-25_2-400x400.JPG)
+![Clugmtg 2017 03 25 2 400x400 - CLUG meeting 2017-03-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-03-25_2-400x400.JPG)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-03-25_3-400x400.JPG)
+![Clugmtg 2017 03 25 3 400x400 - CLUG meeting 2017-03-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-03-25_3-400x400.JPG)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Rolandandthedrone_2017-03-25-400x400.JPG) 
+![Rolandandthedrone 2017 03 25 400x400 - CLUG meeting 2017-03-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Rolandandthedrone_2017-03-25-400x400.JPG) 

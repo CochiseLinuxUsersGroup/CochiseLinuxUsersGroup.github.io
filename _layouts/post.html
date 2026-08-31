@@ -3,18 +3,30 @@ layout: default
 ---
 
 <article id="main">
+    <nav aria-label="Breadcrumb" class="container" style="padding: 1em 0 0 0;">
+      <ol style="list-style:none; display:flex; gap:0.5em; margin:0; padding:0; font-size:0.9em;">
+        <li><a href="/">Home</a> /</li>
+        <li><a href="/blog">Meeting Notes</a> /</li>
+        <li aria-current="page">{{ page.title }}</li>
+      </ol>
+    </nav>
     <header class="special container">
-        <h2 class="post-title"><strong>{{ page.title }}</strong></h2>
-        <p class="post-meta"><strong>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</strong></p>
+        <h1 class="post-title"><strong>{{ page.title }}</strong></h1>
+        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}"><strong>{{ page.date | date: "%b %-d, %Y" }}</strong></time>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        {% if page.categories %}<p class="post-categories" style="font-size:0.9em;">Category: {{ page.categories | join: ", " }}</p>{% endif %}
     </header>
 
     <section class="style4 wrapper container">
-        {{ content }}
+        {{ content | replace: '<img', '<img loading="lazy" decoding="async"' }}
     </section>
 
-    <footer>
+    <footer class="container" style="text-align:center; padding:2em 0;">
+        <nav aria-label="Post navigation">
         {% if page.previous %}
-        <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %} {% if page.next %}
-        <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
+        <a href="{{ page.previous.url }}" class="post-prev" rel="prev">&larr; Previous: {{ page.previous.title }}</a> {% endif %}
+        {% if page.next %}
+        <a href="{{ page.next.url }}" class="post-next" rel="next">Next: {{ page.next.title }} &rarr;</a> {% endif %}
+        </nav>
+        <p style="margin-top:1.5em;"><a href="/blog">← Back to all meeting notes</a> | <a href="/calendar">View calendar</a></p>
     </footer>
 </article>

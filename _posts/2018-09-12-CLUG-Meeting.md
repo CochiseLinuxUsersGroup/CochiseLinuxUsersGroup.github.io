@@ -36,9 +36,9 @@ categories: meeting
 
  * We reconvened at Peter Piper Pizza to enjoy some nourishment and continue discussing both Linux and non-Linux related topics.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_prayingmantis_at_clugmtg_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peterpiperpizza.jpg)
+![Clugmtg 2018 09 12 1 - CLUG Meeting 2018-09-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_1.jpg)
+![Clugmtg 2018 09 12 2 - CLUG Meeting 2018-09-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_2.jpg)
+![Clugmtg 2018 09 12 3 - CLUG Meeting 2018-09-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_3.jpg)
+![Clugmtg 2018 09 12 4 - CLUG Meeting 2018-09-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_2018-09-12_4.jpg)
+![Prayingmantis At Clugmtg 1 - CLUG Meeting 2018-09-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_prayingmantis_at_clugmtg_1.jpg)
+![Clug At Peterpiperpizza - CLUG Meeting 2018-09-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_at_peterpiperpizza.jpg)

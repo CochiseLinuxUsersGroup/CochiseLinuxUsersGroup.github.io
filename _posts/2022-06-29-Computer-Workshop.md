@@ -21,6 +21,6 @@ The Cochise Linux User Group, CLUG, conducted a Computer Workshop on Wednesday, 
  * One additional SATA hard drive was also donated.  It was taken out of one of the computers which had two hard drives installed.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_linuxworkshop_2022-06-29_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_linuxworkshop_2022-06-29_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_linuxworkshop_2022-06-29_4.jpg)
+![Linuxworkshop 2022 06 29 2 - Computer Workshop](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_linuxworkshop_2022-06-29_2.jpg)
+![Linuxworkshop 2022 06 29 3 - Computer Workshop](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_linuxworkshop_2022-06-29_3.jpg)
+![Linuxworkshop 2022 06 29 4 - Computer Workshop](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_linuxworkshop_2022-06-29_4.jpg)

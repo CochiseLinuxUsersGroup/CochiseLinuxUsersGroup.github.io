@@ -35,7 +35,7 @@ categories: meetings
  We adjourned and reconvened at Native Grill and Wings for some refreshments and additional Linux conversation.
  
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_28-05-16Library_1.JPG)
+![Clug Meeting 28 05 16library 1 group photo - Clug Meeting 2016-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_28-05-16Library_1.JPG)
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_28-05-16Library-2.JPG)
+![Clug Meeting 28 05 16library 2 group photo - Clug Meeting 2016-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_28-05-16Library-2.JPG)

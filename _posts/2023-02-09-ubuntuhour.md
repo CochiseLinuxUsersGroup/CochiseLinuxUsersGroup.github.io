@@ -27,8 +27,8 @@ categories: meeting
  * Discussed available spare hard drives that we have on hand for desktops and laptops as well as computers ready for donation
  * Discussed virtual machines and their use.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_5.jpg)
+![Sv Ubuntuhour 2023 02 09 1 - Ubuntu Hour 2023-02-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_1.jpg)
+![Sv Ubuntuhour 2023 02 09 2 - Ubuntu Hour 2023-02-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_2.jpg)
+![Sv Ubuntuhour 2023 02 09 3 - Ubuntu Hour 2023-02-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_3.jpg)
+![Sv Ubuntuhour 2023 02 09 4 - Ubuntu Hour 2023-02-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_4.jpg)
+![Sv Ubuntuhour 2023 02 09 5 - Ubuntu Hour 2023-02-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-02-09_5.jpg)

@@ -24,10 +24,10 @@ categories: meeting
  * Discussed activities at the Warrior Healing Center (Donated one additional desktop computer to a veteran.  Conducted one additional install on a Warrior Healing Center laptop.  Changed a lost sudo password on a Warrior Healing Center laptop.)
  * CLUG events have posted on our Facebook page and the Sierra Vista Herald/Review on line calendar through March 2022.  The posted events on our web page calendar are current through the end of next year.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_6.jpg)
+![Sv Ubuntuhour 2021 12 09 1 - Ubuntu Hour 2021-12-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_1.jpg)
+![Sv Ubuntuhour 2021 12 09 2 - Ubuntu Hour 2021-12-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_2.jpg)
+![Sv Ubuntuhour 2021 12 09 3 - Ubuntu Hour 2021-12-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_3.jpg)
+![Sv Ubuntuhour 2021 12 09 4 - Ubuntu Hour 2021-12-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_4.jpg)
+![Sv Ubuntuhour 2021 12 09 5 - Ubuntu Hour 2021-12-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_5.jpg)
+![Sv Ubuntuhour 2021 12 09 6 - Ubuntu Hour 2021-12-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-12-09_6.jpg)
 

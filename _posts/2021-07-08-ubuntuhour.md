@@ -26,6 +26,6 @@ categories: meeting
 **Discussion:**
  * We discussed exactly how much the Group should get involved with Mike’s project in Naco, AZ.  A decision on further donations was postponed until additional information was received.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-07-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-07-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-07-08_3.jpg)
+![Sv Ubuntuhour 2021 07 08 1 - Ubuntu Hour 2021-07-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-07-08_1.jpg)
+![Sv Ubuntuhour 2021 07 08 2 - Ubuntu Hour 2021-07-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-07-08_2.jpg)
+![Sv Ubuntuhour 2021 07 08 3 - Ubuntu Hour 2021-07-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-07-08_3.jpg)

@@ -41,9 +41,9 @@ LESSONS LEARNED:
 
 3.  Continue to conduct training for our members on installation and post installation procedures, dual boot, and whole disk install.  They are not complicated but will serve to ensure that the client understands how to use the operating  system that was installed on his/her computer.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_5-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_7-400x400.JPG)
+![Azloco Clug Installfest 2017 07 15 1 400x400 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_1-400x400.JPG)
+![Azloco Clug Installfest 2017 07 15 2 400x400 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_2-400x400.JPG)
+![Azloco Clug Installfest 2017 07 15 3 400x400 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_3-400x400.JPG)
+![Azloco Clug Installfest 2017 07 15 4 400x400 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_4-400x400.JPG)
+![Azloco Clug Installfest 2017 07 15 5 400x400 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_5-400x400.JPG)
+![Azloco Clug Installfest 2017 07 15 7 400x400 group photo - Sierra Vista Installfest](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/AZLOCO-CLUG_Installfest_2017-07-15_7-400x400.JPG)

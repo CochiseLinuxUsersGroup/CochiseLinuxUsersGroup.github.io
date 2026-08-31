@@ -28,10 +28,10 @@ categories: meeting
  * Discussed options for getting FireWire to work on a modern Linux operating system.
  * Discussed possible days for the next Installfest/Linux Workshop in May.  The day selected was 21 May.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_7.jpg)
+![Sv Ubuntuhour 2022 04 14 1 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_1.jpg)
+![Sv Ubuntuhour 2022 04 14 2 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_2.jpg)
+![Sv Ubuntuhour 2022 04 14 3 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_3.jpg)
+![Sv Ubuntuhour 2022 04 14 4 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_4.jpg)
+![Sv Ubuntuhour 2022 04 14 5 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_5.jpg)
+![Sv Ubuntuhour 2022 04 14 6 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_6.jpg)
+![Sv Ubuntuhour 2022 04 14 7 - Ubuntu Hour 2022-04-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-04-14_7.jpg)

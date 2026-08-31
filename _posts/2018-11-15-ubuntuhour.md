@@ -25,5 +25,5 @@ categories: meeting
  * Discussed obtaining a new “go to” light distribution to be installed at our Sierra Vista Installfests on old and under powered computers.  This is a result of Lubuntu moving to LXQT in an effort to “modernize” their distro which has also made it bloated and unusable on older and under powered machines. This was effective with the 18.10 release.  Lubuntu 18.04 is still supported until April 2020 so there is no hurry to choose a replacement.
  * Because some members and their family members are still using Google as their search engine, we once again touched on the value of using Duck Duck Go and the  web browser plug in Privacy Badger.  This led to a general discussion of security and some simple things that can be done to improve it.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-11-15_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-11-15_2.jpg)
+![Sv Ubuntuhour 2018 11 15 1 - Ubuntu Hour 2018-11-15 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-11-15_1.jpg)
+![Sv Ubuntuhour 2018 11 15 2 - Ubuntu Hour 2018-11-15 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2018-11-15_2.jpg)

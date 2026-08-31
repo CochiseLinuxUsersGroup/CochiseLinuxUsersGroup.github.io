@@ -24,8 +24,8 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
  * A one on one training session was held for an individual on the basics of operating a computer in a Linux environment.
  * A one on one training session was held for an individual on how to install using a thumb drive which had already been prepared, to include how to get into the BIOS and how to change the boot order.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_5.jpg)
+![Sv Installfest 2022 05 21 3 - LinuxWorkshop-Installfest 2022-05-21](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_3.jpg)
+![Sv Installfest 2022 05 21 1 - LinuxWorkshop-Installfest 2022-05-21](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_1.jpg)
+![Sv Installfest 2022 05 21 2 - LinuxWorkshop-Installfest 2022-05-21](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_2.jpg)
+![Sv Installfest 2022 05 21 4 - LinuxWorkshop-Installfest 2022-05-21](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_4.jpg)
+![Sv Installfest 2022 05 21 5 - LinuxWorkshop-Installfest 2022-05-21](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-05-21_5.jpg)

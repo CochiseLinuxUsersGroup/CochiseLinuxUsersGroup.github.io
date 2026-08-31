@@ -45,10 +45,10 @@ categories: meeting
 
  * Several of the members retired to 143 Street Tacos for some nourishment and some additional conversation on Linux and non-Linux topics.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_7.jpg)
+![Clug Meeting 2020 02 22 1 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_1.jpg)
+![Clug Meeting 2020 02 22 2 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_2.jpg)
+![Clug Meeting 2020 02 22 3 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_3.jpg)
+![Clug Meeting 2020 02 22 4 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_4.jpg)
+![Clug Meeting 2020 02 22 5 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_5.jpg)
+![Clug Meeting 2020 02 22 6 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_6.jpg)
+![Clug Meeting 2020 02 22 7 group photo - CLUG Meeting 2020-02-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2020-02-22_7.jpg)

@@ -23,14 +23,14 @@ categories: meeting
  * We have 1 laptop and 8 desktops ready for donation.
  * We made another computer donation.  This computer went to the Military Library of the Warrior Healing Center.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_militarylibrary_whc_1.jpg)
+![Militarylibrary Whc 1 - Ubuntu Hour 2023-06-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_militarylibrary_whc_1.jpg)
 
 **Discussion:**
  * Discussed the pros and cons of Ubuntu Pro.
  * Discussed installing Ubuntu "flavors" as opposed to Ubuntu
  * Discussed new movies and old movies and how and where to obtain them
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_4.jpg)
+![Sv Ubuntuhour 2023 06 08 1 - Ubuntu Hour 2023-06-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_1.jpg)
+![Sv Ubuntuhour 2023 06 08 2 - Ubuntu Hour 2023-06-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_2.jpg)
+![Sv Ubuntuhour 2023 06 08 3 - Ubuntu Hour 2023-06-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_3.jpg)
+![Sv Ubuntuhour 2023 06 08 4 - Ubuntu Hour 2023-06-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-06-08_4.jpg)

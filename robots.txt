@@ -1,0 +1,11 @@
+---
+layout: null
+---
+# robots.txt for Cochise Linux User Group
+# https://cochiselinuxusergroup.org
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: {{ site.url }}/sitemap.xml

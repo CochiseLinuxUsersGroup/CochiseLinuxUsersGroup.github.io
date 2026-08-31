@@ -27,6 +27,6 @@ categories: meeting
  * Discussed Peppermint 9 respin (which is based on Ubuntu 18.04 LTS and is supported until April 2023).  This is a candidate for our “go to” light distribution to be used at our installfests.  This discussion will continue at future meetings.
  * Myles had a problem with the brightness not working on his Debian 9 install on his ASUS laptop.  His kernel was updated but it did not solve the problem.  Unfortunately he had to leave so the proprietary driver was not installed but he was made aware of the procedure.  He later reported that the installation of the proprietary driver solved the problem.  (Devi scores another atta boy)
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_27-12-18_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_27-12-18_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_27-12-18_3.jpg) 
+![Sv Ubuntu Hour 27 12 18 2 - Ubuntu Hour 2018-12-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_27-12-18_2.jpg)
+![Sv Ubuntu Hour 27 12 18 1 - Ubuntu Hour 2018-12-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_27-12-18_1.jpg)
+![Sv Ubuntu Hour 27 12 18 3 - Ubuntu Hour 2018-12-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntu_hour_27-12-18_3.jpg) 

@@ -27,7 +27,7 @@ The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Work
  * We no longer feel the need exists for a repair workshop.  However, we should continue to attempt to repair as many of these computers as possible at our regular installfests.
  * While some of the acquired RAM was used, continue to look for Ram and AC adapters which some of the computers still need.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_4.jpg)
+![Sv Installfest 2019 09 07 1 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_1.jpg)
+![Sv Installfest 2019 09 07 2 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_2.jpg)
+![Sv Installfest 2019 09 07 3 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_3.jpg)
+![Sv Installfest 2019 09 07 4 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_installfest_2019-09-07_4.jpg)

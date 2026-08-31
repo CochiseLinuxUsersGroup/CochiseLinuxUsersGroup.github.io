@@ -38,6 +38,6 @@ categories: meeting
  * An additional page where individuals could post topics that they would like to see covered in a presentation was also discussed and desired by those present.
  * An attempted install of Linux Mint 20.3 was made in a dual boot mode with a previously installed Microsoft Windows 7.  It failed to install the EUFI boot loader.  After deleting the partitions, and showing the owner exactly what she must do to install, she was sent on her way with contacts should she run into problems.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-05-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-05-28_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-05-28_3.jpg)
+![Clug Meeting 2022 05 28 1 group photo - CLUG Meeting 2022-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-05-28_1.jpg)
+![Clug Meeting 2022 05 28 2 group photo - CLUG Meeting 2022-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-05-28_2.jpg)
+![Clug Meeting 2022 05 28 3 group photo - CLUG Meeting 2022-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-05-28_3.jpg)

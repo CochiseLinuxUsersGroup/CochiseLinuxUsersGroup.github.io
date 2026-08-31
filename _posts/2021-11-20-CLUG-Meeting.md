@@ -34,8 +34,8 @@ categories: meeting
  * Discussed the creation of a FAQ page for our website.  Please contact Rex or Devi to have questions placed on it.
  * We have the opportunity to have a presentation on AI.  Most of the attendees were interested.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_thetuxes-2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_4.jpg)
+![Thetuxes 2 - CLUG Meeting 2021-11-20](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_thetuxes-2.jpg)
+![Clug Mtg 2021 11 20 2 - CLUG Meeting 2021-11-20](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_2.jpg)
+![Clug Mtg 2021 11 20 3 - CLUG Meeting 2021-11-20](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_3.jpg)
+![Clug Mtg 2021 11 20 1 - CLUG Meeting 2021-11-20](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_1.jpg)
+![Clug Mtg 2021 11 20 4 - CLUG Meeting 2021-11-20](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-11-20_4.jpg)

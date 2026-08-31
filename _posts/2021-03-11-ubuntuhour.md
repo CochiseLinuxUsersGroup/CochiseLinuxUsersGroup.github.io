@@ -23,10 +23,10 @@ categories: meeting
  * Discussed the upcoming Linux Workshop to be held at the Warrior Healing Center main conference room on 10 April from 1000-1300
  * A member had a problem sending an email which kept on being bounced back.  Since he could send it if he typed the address, the contact address was probably corrupted.  To correct the problem, he was advised to delete the contact and then add it back to his address book.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_6.jpg)
+![Sv Ubuntuhour 2021 03 11 1 - Ubuntu Hour 2021-03-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_1.jpg)
+![Sv Ubuntuhour 2021 03 11 2 - Ubuntu Hour 2021-03-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_2.jpg)
+![Sv Ubuntuhour 2021 03 11 3 - Ubuntu Hour 2021-03-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_3.jpg)
+![Sv Ubuntuhour 2021 03 11 4 - Ubuntu Hour 2021-03-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_4.jpg)
+![Sv Ubuntuhour 2021 03 11 5 - Ubuntu Hour 2021-03-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_5.jpg)
+![Sv Ubuntuhour 2021 03 11 6 - Ubuntu Hour 2021-03-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-03-11_6.jpg)
 

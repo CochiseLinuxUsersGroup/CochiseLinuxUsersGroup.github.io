@@ -18,6 +18,6 @@ categories: meeting
  *  It was decided by those present to continue having these types of meetings quarterly at various restaurants around Sierra Vista.
  *  The next one is tentatively scheduled for 22 July at 1700 at Denny's, 2397 E. Fry Blvd, Sierra Vista, AZ.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_3.jpg)
+![Clug Mtg 2025 04 22 1 - CLUG Meeting 2025-04-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_1.jpg)
+![Clug Mtg 2025 04 22 2 - CLUG Meeting 2025-04-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_2.jpg)
+![Clug Mtg 2025 04 22 3 - CLUG Meeting 2025-04-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-04-22_3.jpg)

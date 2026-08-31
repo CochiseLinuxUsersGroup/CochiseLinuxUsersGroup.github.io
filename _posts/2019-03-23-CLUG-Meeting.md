@@ -41,10 +41,10 @@ categories: meeting
  * Some of the members went to Jersey Mike’s to enjoy an excellent sandwich and continue discussing Linux and non-Linux topics.
  * After eating several of the members made a successful attempt at putting together a trampoline.  Because we all use different distros, the job, which should have taken 30-40 minutes, stretched in a 3 hour marathon.  Had we been Microsoft Windows users it may have taken longer.  Never know.  Maybe that is why there are over 350 Linux distibutions.  People have their own way of doing things and occasionally they cannot agree.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_7.jpg)
+![Clug Mtg 2019 03 23 1 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_1.jpg)
+![Clug Mtg 2019 03 23 2 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_2.jpg)
+![Clug Mtg 2019 03 23 3 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_3.jpg)
+![Clug Mtg 2019 03 23 4 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_4.jpg)
+![Clug Mtg 2019 03 23 5 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_5.jpg)
+![Clug Mtg 2019 03 23 6 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_6.jpg)
+![Clug Mtg 2019 03 23 7 - CLUG Meeting 2019-03-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2019-03-23_7.jpg)

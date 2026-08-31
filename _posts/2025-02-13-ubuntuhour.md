@@ -20,15 +20,15 @@ categories: meeting
 **Announcements:**
  * To date we have donated 153 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_donated_Laptop.jpg)
+![Donated Laptop - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_donated_Laptop.jpg)
 
 This one went to Leah F
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_tablet_donated_to_mike-2.jpg)
+![Tablet Donated to Mike 2 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_tablet_donated_to_mike-2.jpg)
 
 This one went to Mike K
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_ted_with_computer.jpg)
+![Ted with Computer - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_ted_with_computer.jpg)
 
 This one went to Ted J
 
@@ -45,11 +45,11 @@ This one went to Ted J
  * David introduced us to https://puter.com.  Check it out.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_01.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_02.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_03.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_04.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_05.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_06.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_07.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_08.jpg)
+![Sv Ubuntuhour 2025 02 13 01 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_01.jpg)
+![Sv Ubuntuhour 2025 02 13 02 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_02.jpg)
+![Sv Ubuntuhour 2025 02 13 03 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_03.jpg)
+![Sv Ubuntuhour 2025 02 13 04 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_04.jpg)
+![Sv Ubuntuhour 2025 02 13 05 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_05.jpg)
+![Sv Ubuntuhour 2025 02 13 06 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_06.jpg)
+![Sv Ubuntuhour 2025 02 13 07 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_07.jpg)
+![Sv Ubuntuhour 2025 02 13 08 - Ubuntu Hour 2025-02-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-02-13_08.jpg)

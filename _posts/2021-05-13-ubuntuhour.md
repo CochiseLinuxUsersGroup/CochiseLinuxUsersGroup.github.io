@@ -28,11 +28,11 @@ categories: meeting
  * Discussed alternatives to Firefox browser, specifically Chromium and Brave
  * A question was raised about Ubuntu Updates.  Specifically should a person with a Linux Mint install be concerned with Ubuntu updates since Mint is based on Ubuntu.  Short answer is no.  Just make sure that the Linux Mint updates are installed.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_9.jpg)
+![Sv Ubuntuhour 13 05 2021 1 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_1.jpg)
+![Sv Ubuntuhour 13 05 2021 2 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_2.jpg)
+![Sv Ubuntuhour 13 05 2021 3 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_3.jpg)
+![Sv Ubuntuhour 13 05 2021 4 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_4.jpg)
+![Sv Ubuntuhour 13 05 2021 5 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_5.jpg)
+![Sv Ubuntuhour 13 05 2021 7 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_7.jpg)
+![Sv Ubuntuhour 13 05 2021 8 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_8.jpg)
+![Sv Ubuntuhour 13 05 2021 9 - Ubuntu Hour 2021-05-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_13-05-2021_9.jpg)

@@ -30,7 +30,7 @@ The Cochise Linux User Group, CLUG, conducted a Computer Repair and Install Work
  * There is no wired Internet capability in the Center’s computer lab.  Install a remote access point there and run Cat-5 cable to the desktops installed there to enable Internet access.
  * There was a shortage of RAM sticks available.  Attempt to obtain additional RAM (especially DDR3).
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_2.jpg)
+![Repair and Install Workshop 2019 08 03 3 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_3.jpg)
+![Repair and Install Workshop 2019 08 03 1 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_1.jpg)
+![Repair and Install Workshop 2019 08 03 4 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_4.jpg)
+![Repair and Install Workshop 2019 08 03 2 - Computer Repair Install Workshop - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_repair_and_install_workshop_2019-08-03_2.jpg)

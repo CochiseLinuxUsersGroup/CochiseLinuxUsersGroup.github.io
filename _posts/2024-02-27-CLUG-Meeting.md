@@ -24,11 +24,11 @@ categories: meeting
 
 **Announcements:**
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_hannah_w_with_her_computer.jpg)
+![Hannah W with her Computer - CLUG Meeting 2024-02-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_hannah_w_with_her_computer.jpg)
 
 Hannah W. with her computer
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_gloria_garcia_with_her_computer.jpg)
+![Gloria Garcia with her Computer - CLUG Meeting 2024-02-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_gloria_garcia_with_her_computer.jpg)
 
 Gloria G. with her computer
 
@@ -46,11 +46,11 @@ Gloria G. with her computer
  * If you are in need of old software that is no longer in your repositories, recommend that you go to Internet Archive at https://archive.org
  * A member brought up a problem he cannot share a printer with four computers on a wired LAN using a USB cable.  The printer is shared and enabled and the driver is in CUPS.  The printer is recognized by the other 3 computers but still will not print.  No solution was offered.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_5.jpg)
+![Clug Mtg 2024 02 27 1 - CLUG Meeting 2024-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_1.jpg)
+![Clug Mtg 2024 02 27 2 - CLUG Meeting 2024-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_2.jpg)
+![Clug Mtg 2024 02 27 3 - CLUG Meeting 2024-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_3.jpg)
+![Clug Mtg 2024 02 27 4 - CLUG Meeting 2024-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_4.jpg)
+![Clug Mtg 2024 02 27 5 - CLUG Meeting 2024-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-02-27_5.jpg)
 
 **Aftermath:**
  * Several of the members gathered at Carl's Jr. for some nourishment and some additional conversation.

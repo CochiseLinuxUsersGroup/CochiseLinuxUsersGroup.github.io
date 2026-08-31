@@ -22,8 +22,8 @@ categories: meeting
  * Talked about members who have azloco.com email addresses who must migrate any email that they wish to save before 31 May when we will lose those addresses.
  * The Group has donated 2 additional computers (one laptop and one desktop) to two vets at the Warrior Healing Center.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harlanwithhiscomputer.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_eviewithhercomputer.jpg)
+![Harlanwithhiscomputer - Ubuntu Hour 2022-05-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harlanwithhiscomputer.jpg)
+![Eviewithhercomputer - Ubuntu Hour 2022-05-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_eviewithhercomputer.jpg)
 
 **Discussion:**
  * Opened Big Blue Button and Zoom to see if members would attend via one of those applications in addition to those attending the physical meeting.  Advantages and disadvantages will be discussed at the next meeting.
@@ -32,7 +32,7 @@ categories: meeting
  * Discussed the possibility of creating a place where members can suggest a topic that they would like to learn more about.  (Perhaps somewhere on the website)
  * Discussed Ventoy. 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_4.jpg)
+![Sv Ubuntuhour 2022 05 12 1 - Ubuntu Hour 2022-05-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_1.jpg)
+![Sv Ubuntuhour 2022 05 12 2 - Ubuntu Hour 2022-05-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_2.jpg)
+![Sv Ubuntuhour 2022 05 12 3 - Ubuntu Hour 2022-05-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_3.jpg)
+![Sv Ubuntuhour 2022 05 12 4 - Ubuntu Hour 2022-05-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-05-12_4.jpg)

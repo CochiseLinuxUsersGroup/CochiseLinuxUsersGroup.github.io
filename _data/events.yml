@@ -1,0 +1,50 @@
+# Upcoming CLUG events - update this file to refresh homepage and structured data
+# Dates in ISO format with America/Phoenix timezone (Phoenix does not observe DST, always -07:00)
+- date: 2026-09-10
+  time: "18:00:00-07:00"
+  time_display: "6pm"
+  display: "Sep 10"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr., 2080 E Fry Blvd, Sierra Vista"
+- date: 2026-09-22
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "Sep 22"
+  title: "CLUG Linux Workshop"
+  location: "Warrior Healing Center, Sierra Vista"
+- date: 2026-10-08
+  time: "18:00:00-07:00"
+  time_display: "6pm"
+  display: "Oct 08"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr."
+- date: 2026-10-27
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "Oct 27"
+  title: "CLUG Supper Meeting"
+  location: "La Casita, 465 E Fry Blvd"
+- date: 2026-11-12
+  time: "18:00:00-07:00"
+  time_display: "6pm"
+  display: "Nov 12"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr."
+- date: 2026-11-24
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "Nov 24"
+  title: "CLUG Meeting"
+  location: "Warrior Healing Center"
+- date: 2026-12-10
+  time: "18:00:00-07:00"
+  time_display: "6pm"
+  display: "Dec 10"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr."
+- date: 2026-12-22
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "Dec 22"
+  title: "CLUG Linux Workshop"
+  location: "Warrior Healing Center"

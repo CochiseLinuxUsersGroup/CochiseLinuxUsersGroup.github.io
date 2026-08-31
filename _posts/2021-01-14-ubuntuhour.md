@@ -29,13 +29,13 @@ categories: meeting
  * Discussed the mailing list and how to get on it. Assisted 3 people in doing that.
  * A member asked for a keyboard, mouse, and an ac adapter for a Dell laptop from the Put and Take box.  Action Rex.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_2.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_4.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_5.jpg) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_6.jpg) 
+![Sv Ubuntuhour 2021 01 14 1 - Ubuntu Hour 2021-01-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_1.jpg)
+![Sv Ubuntuhour 2021 01 14 2 - Ubuntu Hour 2021-01-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_2.jpg) 
+![Sv Ubuntuhour 2021 01 14 3 - Ubuntu Hour 2021-01-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_3.jpg)
+![Sv Ubuntuhour 2021 01 14 4 - Ubuntu Hour 2021-01-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_4.jpg) 
+![Sv Ubuntuhour 2021 01 14 5 - Ubuntu Hour 2021-01-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_5.jpg) 
+![Sv Ubuntuhour 2021 01 14 6 - Ubuntu Hour 2021-01-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2021-01-14_6.jpg) 
 
 Another happy client after a successful Linux install at the Warrior Healing Center on 08 January.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rodpruess_afterlinuxinstall.jpg) 
+![Rodpruess Afterlinuxinstall - Ubuntu Hour 2021-01-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_rodpruess_afterlinuxinstall.jpg) 

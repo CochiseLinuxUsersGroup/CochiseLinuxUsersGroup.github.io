@@ -20,11 +20,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 192 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_john_oconnor.jpg)
+![Computer Donated to John Oconnor - Ubuntu Hour 2025-08-14 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_john_oconnor.jpg)
 
 This one went to JJ
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_jesus_cortex.jpg)
+![Computer Donated to Jesus Cortex - Ubuntu Hour 2025-08-14 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_jesus_cortex.jpg)
 
 This one went to Jesus C.
 
@@ -39,5 +39,5 @@ This one went to Jesus C.
  * Discussed a new format for the monthly meetings.  Since we have always had a good turnout at our workshops and we have not had one for a while, we will changing one of our meetings every quarter into a Linux Workshop.  So each quarter we will have a regular meeting, a dinner meeting (where spouses are cordially invited to attend), and a Linux workshop (where people can bring in their equipment and have problems solved). The first one of the workshops will take place in September at the Warrior Healing Center main conference room.
  * Since there were not sufficient people present the discussion on moving the Ubuntu Hour to a new location was tabled until the next meeting.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-08-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-08-14_2.jpg)
+![Sv Ubuntuhour 2025 08 14 1 - Ubuntu Hour 2025-08-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-08-14_1.jpg)
+![Sv Ubuntuhour 2025 08 14 2 - Ubuntu Hour 2025-08-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-08-14_2.jpg)

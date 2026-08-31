@@ -38,11 +38,11 @@ ACTION: Rex (Do a re-write of post installation activities to ensure that the cl
  * Larry also raised the possibility of another meeting or installfest in Bisbee to introduce the residents to Linux.  A presentation on why you should switch to Linux may be appropriate. Looking at late Summer or early Fall for this to happen.  Having several computers with different operating systems on them on hand for the clients to see and handle may also be appropriate.  Also handing out DVD’s that are prepared as install media may also be a good idea.  
 ACTION:  Larry (Coordinate for a location in Bisbee and publication of date and time when created).  Rex (Provide presentation and preloaded DVDs).
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_8.jpg)
+![Clug Mtg 2021 03 27 4 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_4.jpg)
+![Clug Mtg 2021 03 27 3 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_3.jpg)
+![Clug Mtg 2021 03 27 1 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_1.jpg)
+![Clug Mtg 2021 03 27 2 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_2.jpg)
+![Clug Mtg 2021 03 27 5 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_5.jpg)
+![Clug Mtg 2021 03 27 6 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_6.jpg)
+![Clug Mtg 2021 03 27 7 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_7.jpg)
+![Clug Mtg 2021 03 27 8 - CLUG Meeting 2021-03-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-03-27_8.jpg)

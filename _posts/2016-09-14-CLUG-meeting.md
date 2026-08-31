@@ -44,6 +44,6 @@ There were nine attendees
  * Presentation for high/middle school computer clubs.  Still looking for a project leader.  We have been asked to do a 10 minute talk about Linux to two Cyber Patriot teams that Dr John Delala is coaching in the October time frame.  Rex Bouwense will handle this.
  * Sierra Vista Christmas parade – Louis Garcia, project manager
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_14-09-16UASouth_1.JPG)
+![Clug Meeting 14 09 16uasouth 1 group photo - CLUG meeting 2016-09-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_meeting_14-09-16UASouth_1.JPG)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG-meeting_14-09-16UASouth_2.JPG)
+![Clug Meeting 14 09 16uasouth 2 group photo - CLUG meeting 2016-09-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG-meeting_14-09-16UASouth_2.JPG)

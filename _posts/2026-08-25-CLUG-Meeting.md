@@ -30,7 +30,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 255 computers to individuals or groups.  This year we have donated 34.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_steven_cote.jpg)
+![Computer Donated to Steven Cote - CLUG Meeting 2026-08-25 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_steven_cote.jpg)
 
  * This one went to Steven C.
  * To date we have conducted 419 installs on laptop and desktop computers.  This year we have conducted 78.
@@ -50,7 +50,7 @@ categories: meeting
 **Aftermath:**
  * Several of the attendees retired to Culver’s for some nourishment and some additional discussion of a few Linux topics.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting-2026-08-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2026-08-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2026-08-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2026-08-25_4.jpg)
+![Clug Meeting 2026 08 25 1 group photo - CLUG Meeting 2026-08-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting-2026-08-25_1.jpg)
+![Clug Meeting 2026 08 25 2 group photo - CLUG Meeting 2026-08-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2026-08-25_2.jpg)
+![Clug Meeting 2026 08 25 3 group photo - CLUG Meeting 2026-08-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2026-08-25_3.jpg)
+![Clug Meeting 2026 08 25 4 group photo - CLUG Meeting 2026-08-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2026-08-25_4.jpg)

@@ -28,6 +28,6 @@ categories: meeting
  * An attendee has a desktop computer with a case fan that is quite noisy and appears to be failing.  He will make arrangements next week to have it replaced.
  * The election of a new Local Community Council has taken place.  Perhaps we will now have some action and support from them.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2024-01-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2024-01-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2024-01-11_3.jpg)
+![Sierravistaubuntuhour 2024 01 11 1 - Ubuntu Hour 2024-01-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2024-01-11_1.jpg)
+![Sierravistaubuntuhour 2024 01 11 2 - Ubuntu Hour 2024-01-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2024-01-11_2.jpg)
+![Sierravistaubuntuhour 2024 01 11 3 - Ubuntu Hour 2024-01-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sierravistaubuntuhour_2024-01-11_3.jpg)

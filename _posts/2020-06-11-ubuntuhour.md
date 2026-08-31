@@ -37,7 +37,7 @@ Monthly meeting - 4th Saturday at the Sierra Vista library (when it re-opens), 1
   2. From a single build a snap (application) will run on all supported Linux distributions on Desktop, in the cloud, and IOT.
   3. Supported distributions include Ubuntu, Debian, Fedora, Arch Linux, Manjaro, and CentOS/RHEL.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_4.jpg)
+![Sv Ubuntuhour 2020 06 11 1 - Ubuntu Hour 2020-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_1.jpg)
+![Sv Ubuntuhour 2020 06 11 2 - Ubuntu Hour 2020-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_2.jpg)
+![Sv Ubuntuhour 2020 06 11 3 - Ubuntu Hour 2020-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_3.jpg)
+![Sv Ubuntuhour 2020 06 11 4 - Ubuntu Hour 2020-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-06-11_4.jpg)

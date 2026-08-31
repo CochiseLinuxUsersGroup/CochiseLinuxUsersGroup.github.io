@@ -39,8 +39,8 @@ categories: meeting
  * Did an install of Ventoy on a member’s external drive and on a USB flash drive.  (Rex needs to remember to bring his reading glasses so he can type the commands in correctly and read the screen in front of him)
  * Since we now have 2 desktop computers to be prepared for donation, Rex would appreciate assistance Wednesday from 0900-1200 at the Warrior healing Center.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_5.jpg)
+![Clug Mtg 2024 10 22 1 - CLUG Meeting 2024-10-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_1.jpg)
+![Clug Mtg 2024 10 22 2 - CLUG Meeting 2024-10-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_2.jpg)
+![Clug Mtg 2024 10 22 3 - CLUG Meeting 2024-10-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_3.jpg)
+![Clug Mtg 2024 10 22 4 - CLUG Meeting 2024-10-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_4.jpg)
+![Clug Mtg 2024 10 22 5 - CLUG Meeting 2024-10-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-10-22_5.jpg)

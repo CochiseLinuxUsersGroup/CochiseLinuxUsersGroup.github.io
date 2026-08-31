@@ -27,15 +27,15 @@ categories: meeting
 **Announcements:**
  * To date we have donated 206 computers to individuals or groups.  This year we have donated 57.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_mike_lopez.jpg)
+![Computer Donated to Mike Lopez - CLUG Meeting 2025-10-28 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_mike_lopez.jpg)
 
  This one went to Mike L
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris.jpg)
+![Computer Donated to Martha Harris - CLUG Meeting 2025-10-28 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris.jpg)
 
  This one went to Martha H
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_daniel_wallis.jpg)
+![Computer Donated to Daniel Wallis - CLUG Meeting 2025-10-28 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_daniel_wallis.jpg)
 
  This one went to Daniel W
 

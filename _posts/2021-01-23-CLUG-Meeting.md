@@ -36,7 +36,7 @@ categories: meeting
  * Update:  Our Facebook page now has 30 people.
  * Mike had no update on his project.  Two additional IBM R52 Thinkpads were donated to his project.  They had Lubuntu Extended Life Edition (LXLE) 18.04 installed on them.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-21_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-21_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-21_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-23_4.jpg)
+![Clug Mtg 23 01 21 1 - CLUG Meeting 2021-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-21_1.jpg)
+![Clug Mtg 23 01 21 2 - CLUG Meeting 2021-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-21_2.jpg)
+![Clug Mtg 23 01 21 3 - CLUG Meeting 2021-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-21_3.jpg)
+![Clug Mtg 23 01 23 4 - CLUG Meeting 2021-01-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_23-01-23_4.jpg)

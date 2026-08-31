@@ -24,11 +24,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 242 computers to individuals or groups.  This year alone we have donated 21.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Endeavor_computer.jpg)
+![Resizeplus Endeavor Computer - Ubuntu Hour 2026-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Endeavor_computer.jpg)
 
 This one went to Endeavor.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Jonah_Haines_with_his_computer.jpg)
+![Resizeplus Jonah Haines with his Computer - Ubuntu Hour 2026-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Jonah_Haines_with_his_computer.jpg)
 
 This one went to Jonah H.
 
@@ -39,7 +39,7 @@ This one went to Jonah H.
 **Discussion and Activities:**
  * Discussed minor problems after a Ubuntu 26.04 install
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_4.JPG)
+![Resizeplus Sv Ubuntu Hour 2026 06 11 1 - Ubuntu Hour 2026-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_1.JPG)
+![Resizeplus Sv Ubuntu Hour 2026 06 11 2 - Ubuntu Hour 2026-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_2.JPG)
+![Resizeplus Sv Ubuntu Hour 2026 06 11 3 - Ubuntu Hour 2026-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_3.JPG)
+![Resizeplus Sv Ubuntu Hour 2026 06 11 4 - Ubuntu Hour 2026-06-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-06-11_4.JPG)

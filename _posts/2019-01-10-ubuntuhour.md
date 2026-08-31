@@ -27,9 +27,9 @@ categories: meeting
  * A member raised a problem of not being able to connect to his router with his Ubuntu installed operating system.  He was given several options to successfully accomplish this.
  * Discussed the various search engines available.  Personal preferences are of course why one uses one or another.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_5.jpg)
+![Svubuntuhour 2019 01 10 6 - Ubuntu Hour 2019-01-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_6.jpg)
+![Svubuntuhour 2019 01 10 1 - Ubuntu Hour 2019-01-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_1.jpg)
+![Svubuntuhour 2019 01 10 2 - Ubuntu Hour 2019-01-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_2.jpg)
+![Svubuntuhour 2019 01 10 3 - Ubuntu Hour 2019-01-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_3.jpg)
+![Svubuntuhour 2019 01 10 4 - Ubuntu Hour 2019-01-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_4.jpg)
+![Svubuntuhour 2019 01 10 5 - Ubuntu Hour 2019-01-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svubuntuhour_2019-01-10_5.jpg)

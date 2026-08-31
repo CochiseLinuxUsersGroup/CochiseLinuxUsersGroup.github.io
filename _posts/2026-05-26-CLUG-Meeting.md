@@ -47,7 +47,7 @@ categories: meeting
 **Aftermath:**
  * Several members retired to Culver’s for some sustenance and additional conversation
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_4.JPG)
+![Resizeplus Clug Mtg 2026 05 26 1 - CLUG Meeting 2026-05-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_1.JPG)
+![Resizeplus Clug Mtg 2026 05 26 2 - CLUG Meeting 2026-05-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_2.JPG)
+![Resizeplus Clug Mtg 2026 05 26 3 - CLUG Meeting 2026-05-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_3.JPG)
+![Resizeplus Clug Mtg 2026 05 26 4 - CLUG Meeting 2026-05-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_CLUG_Mtg_2026-05-26_4.JPG)

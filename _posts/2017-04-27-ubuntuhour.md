@@ -27,7 +27,7 @@ categories: meeting
  * Final preparations for the information booth at the West End Fair were discussed.
  * Discussed the availability of install media for the up-coming installfest in July.  Everything appears to be on hand for the installation of any flavor of Ubuntu or Linux Mint in both 32 and 64 bit which are probably the two easiest Linux distros for a newbie to handle.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_4-400x400.JPG)
+![Sierravistaubuntuhour 2017 04 27 1 400x400 - Ubuntu Hour 2017-04-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_1-400x400.JPG)
+![Sierravistaubuntuhour 2017 04 27 2 400x400 - Ubuntu Hour 2017-04-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_2-400x400.JPG)
+![Sierravistaubuntuhour 2017 04 27 3 400x400 - Ubuntu Hour 2017-04-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_3-400x400.JPG)
+![Sierravistaubuntuhour 2017 04 27 4 400x400 - Ubuntu Hour 2017-04-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-04-27_4-400x400.JPG)

@@ -42,8 +42,8 @@ categories: meeting
  * Two members desired information on changing their password.  The information was provided via email so they would have it on hand.
  * A short discussion was held on the question of moving the meeting date and time and it was decided to keep the current time, 1300-1500, and date, 4th Saturday of each month.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_3.jpg)
+![Clug Mtg 2021 07 24 5 - CLUG Meeting 2021-07-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_5.jpg)
+![Clug Mtg 2021 07 24 4 - CLUG Meeting 2021-07-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_4.jpg)
+![Clug Mtg 2021 07 24 1 - CLUG Meeting 2021-07-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_1.jpg)
+![Clug Mtg 2021 07 24 2 - CLUG Meeting 2021-07-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_2.jpg)
+![Clug Mtg 2021 07 24 3 - CLUG Meeting 2021-07-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-07-24_3.jpg)

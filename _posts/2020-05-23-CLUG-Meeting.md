@@ -43,5 +43,5 @@ categories: meeting
  * A member wanted to install an older version of a program that he had installed.  He was advised that it may not have any security patches that updates may have installed.  He was advised how to do it with that warning.
  * Gene stated that he may have a possible source for the AC adapters for the donated computers.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-05-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-05-23_2.jpg)
+![Clug Mtg 2020 05 23 1 - CLUG Meeting 2020-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-05-23_1.jpg)
+![Clug Mtg 2020 05 23 2 - CLUG Meeting 2020-05-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-05-23_2.jpg)

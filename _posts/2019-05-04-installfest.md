@@ -26,8 +26,8 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
  * Continue to expand the publication of the event to attract more participants.  Look into the high schools and middle schools to see if we can expand in that area.  This was not done after the last installfest.
  * Because of the low attendance at previous Summer installfests, it was decided to cancel the 03 August installfest and to take a hard look at conducting only two a year (perhaps in the Fall and Spring).  A decision was not made on that and will be discussed at the next CLUG meeting.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_10.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_12.jpg)
+![Svinstallfest 2019 05 04 1 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_1.jpg)
+![Svinstallfest 2019 05 04 2 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_2.jpg)
+![Svinstallfest 2019 05 04 3 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_3.jpg)
+![Svinstallfest 2019 05 04 10 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_10.jpg)
+![Svinstallfest 2019 05 04 12 - Sierra Vista Installfest - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_svinstallfest_2019-05-04_12.jpg)

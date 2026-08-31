@@ -28,4 +28,4 @@ categories: meeting
  * Discussed hardware shortfalls for the upcoming Sierra Vista Installfest on 28 January 2017 and who can fill the shortfalls.
  * There was some light hearted discussion about the Xenia Xerus T-shirt and how the squirrel looks like an origami squirrel.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_27October2016.JPG)
+![Sierravistaubuntuhour 27october2016 - Ubuntu Hour 2016-10-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_27October2016.JPG)

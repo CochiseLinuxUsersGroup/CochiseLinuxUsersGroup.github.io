@@ -19,8 +19,8 @@ categories: meeting
  * Six people had registered for the class but only 4 of those attended.  An additional 2 walk-ins attended for a total of 6.
  * Areas covered were updates, firewall, viruses & malware, passwords, file security, back-ups, VPN, and common sense.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_5.jpg)
+![Whc Class Securityconsiderations 2023 01 16 1 - Security Considerations Class 2023-01-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_1.jpg)
+![Whc Class Securityconsiderations 2023 01 16 2 - Security Considerations Class 2023-01-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_2.jpg)
+![Whc Class Securityconsiderations 2023 01 16 3 - Security Considerations Class 2023-01-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_3.jpg)
+![Whc Class Securityconsiderations 2023 01 16 4 - Security Considerations Class 2023-01-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_4.jpg)
+![Whc Class Securityconsiderations 2023 01 16 5 - Security Considerations Class 2023-01-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_securityconsiderations_2023-01-16_5.jpg)

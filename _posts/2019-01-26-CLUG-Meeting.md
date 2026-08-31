@@ -39,7 +39,7 @@ categories: meeting
 **Aftermath:**
  * We retired to Street Tacos for some nourishment and additional conversation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_5.jpg)
+![Clugmeeting 2019 01 26 1 group photo - CLUG Meeting 2019-01-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_1.jpg)
+![Clugmeeting 2019 01 26 2 group photo - CLUG Meeting 2019-01-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_2.jpg)
+![Clugmeeting 2019 01 26 3 group photo - CLUG Meeting 2019-01-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_3.jpg)
+![Clugmeeting 2019 01 26 5 group photo - CLUG Meeting 2019-01-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmeeting_2019-01-26_5.jpg)

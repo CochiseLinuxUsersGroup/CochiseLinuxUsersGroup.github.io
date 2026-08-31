@@ -33,8 +33,8 @@ categories: meeting
  * Discussed a learning technique that may be used at the CLUG meetings:  Assign “homework” to be completed for the next meeting.  It was agreed that it has possibilities but requires further thought.
  * Discussed some basic differences between Linux and Microsoft Windows e.g. the file system and the UFW.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_5-400x400.JPG)
+![Sierravistaubuntuhour 2017 09 28 1 400x400 - Ubuntu Hour 2017-09-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_1-400x400.JPG)
+![Sierravistaubuntuhour 2017 09 28 2 400x400 - Ubuntu Hour 2017-09-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_2-400x400.JPG)
+![Sierravistaubuntuhour 2017 09 28 3 400x400 - Ubuntu Hour 2017-09-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_3-400x400.JPG)
+![Sierravistaubuntuhour 2017 09 28 4 400x400 - Ubuntu Hour 2017-09-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_4-400x400.JPG)
+![Sierravistaubuntuhour 2017 09 28 5 400x400 - Ubuntu Hour 2017-09-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-09-28_5-400x400.JPG)

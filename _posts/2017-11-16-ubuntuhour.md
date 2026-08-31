@@ -26,5 +26,5 @@ categories: meeting
  * Discussed the possible dates for the next Installfest in January and settled on the 20th.  Rex Bouwense will coordinate with the UA South for use of the Learning Resource Center on that date.
  * Please let Rex Bouwense know what size T-shirt that you want.  We will be ordering them shortly.  Greg Christ pointed out that we could also get hats with the Group name embroidered on them.  He will be checking the supplier and the cost and report back to the Group.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-11-16_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-11-16_2-400x400.JPG)
+![Sierravistaubuntuhour 2017 11 16 1 400x400 - Ubuntu Hour 2017-11-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-11-16_1-400x400.JPG)
+![Sierravistaubuntuhour 2017 11 16 2 400x400 - Ubuntu Hour 2017-11-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-11-16_2-400x400.JPG)

@@ -35,5 +35,5 @@ categories: meeting
 
  * Centered around Chris Braswell’s computer.  He had installed Ubuntu 16.04.3 using Legacy instead of UEFI and he was having some issues.  After a somewhat lengthy demonstration of the problems, it was suggested that he do a re-install using UEFI.  Since he had to back up some of his data, the re-install could not take place at the meeting.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-26_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-26_2-400x400.JPG)
+![Clugmtg 2017 08 26 1 400x400 - CLUG Meeting 2017-08-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-26_1-400x400.JPG)
+![Clugmtg 2017 08 26 2 400x400 - CLUG Meeting 2017-08-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-08-26_2-400x400.JPG)

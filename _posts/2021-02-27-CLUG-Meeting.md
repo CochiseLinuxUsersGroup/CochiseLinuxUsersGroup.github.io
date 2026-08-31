@@ -31,15 +31,15 @@ categories: meeting
  * Discussed the use of the Cochise Linux mailing list.
  * Donated another computer to a student, Chloe, who has also enlisted in the US Army and will be leaving for Basic Training (after graduation) on 28 June.  After a follow up she is perfectly satisfied with using a Linux operating system.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_chloeherdonatedcomputer.jpg)
+![Chloeherdonatedcomputer - CLUG Meeting 2021-02-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_chloeherdonatedcomputer.jpg)
 
  * Discussed the requirement or desire to add a new dynamic path to our mission for those Linux users who are or have progressed beyond the newbie stage.
  * A carload of computers have been donated to CLUG and are currently in the computer lab at the Warrior Healing Center.  Tommy and Greg volunteered to assist Rex in sorting through them on Monday at 1000.
  * Larry has a problem with a full hard drive on his small machine.  There were two recommendations enter:  sudo apt autoremove in the terminal and then use a flash drive or an SD card to increase the storage space.
  * Eli wanted to have Ubuntu as the default boot on his dual boot machine.  Changed the boot order in the BIOS, saved the changes, and success.  For some reason Grub Customizer was not working as it should have.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_5.jpg)
+![Clug Mtg 2021 02 27 1 - CLUG Meeting 2021-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_1.jpg)
+![Clug Mtg 2021 02 27 2 - CLUG Meeting 2021-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_2.jpg)
+![Clug Mtg 2021 02 27 3 - CLUG Meeting 2021-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_3.jpg)
+![Clug Mtg 2021 02 27 4 - CLUG Meeting 2021-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_4.jpg)
+![Clug Mtg 2021 02 27 5 - CLUG Meeting 2021-02-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2021-02-27_5.jpg)

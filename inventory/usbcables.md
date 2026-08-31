@@ -1,3 +1,12 @@
+---
+layout: default
+title: USB Cables Inventory Details | CLUG
+description: Complete list of USB cables in CLUG inventory - USB-2 and USB-3 variants, adapters and connectors
+image: /images/CLUG-badge.png
+---
+
+# USB Cables Inventory Details
+
 USB-2 A male to A male (5 each)  
 USB-2 A male to B male (23 each)   
 USB-2 A male to mini male (16 each)  

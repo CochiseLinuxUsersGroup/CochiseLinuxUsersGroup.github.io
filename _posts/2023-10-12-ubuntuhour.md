@@ -20,17 +20,17 @@ categories: meeting
 **Announcements:**
  * To date we have donated 118 computers to individuals or groups and conducted 182 installs on laptops and desktops.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_michael_zehr_and_his_computer.jpg)
+![Michael Zehr and his Computer - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_michael_zehr_and_his_computer.jpg)
 
 Michael Z's computer.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_lynn_roehsler_and_her_computer.jpg)
+![Lynn Roehsler and her Computer - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_lynn_roehsler_and_her_computer.jpg)
 
 Lynn R with her computer.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harris_rosenberg_with_his_computer.jpg)
+![Harris Rosenberg with his Computer - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_harris_rosenberg_with_his_computer.jpg)
 
 Harris R with his computer.
 
@@ -43,13 +43,13 @@ Harris R with his computer.
  * Discussed alternatives to using the latest version of OpenBox.
  * Discussed options for other dates and times for future meetings.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_01.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_02.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_03.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_04.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_05.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_06.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_08.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_09.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_10.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_11.jpg)
+![Sv Ubuntuhour 2023 10 12 01 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_01.jpg)
+![Sv Ubuntuhour 2023 10 12 02 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_02.jpg)
+![Sv Ubuntuhour 2023 10 12 03 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_03.jpg)
+![Sv Ubuntuhour 2023 10 12 04 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_04.jpg)
+![Sv Ubuntuhour 2023 10 12 05 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_05.jpg)
+![Sv Ubuntuhour 2023 10 12 06 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_06.jpg)
+![Sv Ubuntuhour 2023 10 12 08 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_08.jpg)
+![Sv Ubuntuhour 2023 10 12 09 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_09.jpg)
+![Sv Ubuntuhour 2023 10 12 10 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_10.jpg)
+![Sv Ubuntuhour 2023 10 12 11 - Ubuntu Hour 2023-10-12 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-10-12_11.jpg)

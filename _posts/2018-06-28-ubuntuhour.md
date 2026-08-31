@@ -27,6 +27,6 @@ categories: meeting
  * Since we have received the conference pack from Canonical we will have plenty of Ubuntu lanyards, pins, stickers to be distributed at the installfest.  However, the flash drives sent were the 16.04 variety.  We will be required to convert them to 18.04 to use them.  Ideally this should be completed within the first two weeks of July to allow them to be tested.
  * Installfest brochures have been emailed to the mailing list and will be posted around Sierra Vista and Fort Huachuca early in July.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SVUbuntuHour_2018-06-28_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SVUbuntuHour_2018-06-28_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SVUbuntuHour_2018-06-28_3.JPG)
+![Svubuntuhour 2018 06 28 1 - Ubuntu Hour 2018-06-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SVUbuntuHour_2018-06-28_1.JPG)
+![Svubuntuhour 2018 06 28 2 - Ubuntu Hour 2018-06-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SVUbuntuHour_2018-06-28_2.JPG)
+![Svubuntuhour 2018 06 28 3 - Ubuntu Hour 2018-06-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_SVUbuntuHour_2018-06-28_3.JPG)

@@ -24,4 +24,4 @@ There was no presentation scheduled so we adjourned to Denny's for something to 
 conversation.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG%20meeting%2001%2C%2014-09-16%20UA%20South%2C%20Sierra%20Vista%20AZ.JPG "4-13")
+![4-13 - CLUG meeting 2016-04-13 - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG%20meeting%2001%2C%2014-09-16%20UA%20South%2C%20Sierra%20Vista%20AZ.JPG "4-13")

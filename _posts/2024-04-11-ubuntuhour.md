@@ -21,7 +21,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 129 computers to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_lynea_and_her_computer-1.jpg)
+![Lynea and her Computer 1 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_lynea_and_her_computer-1.jpg)
 
 Lynea and her computer
  * and conducted 201 installs on laptops and desktops.
@@ -34,9 +34,9 @@ Lynea and her computer
  * A member asked if there was a video player that would play at different speeds (2x, 4x, 8x etc).  He was directed to MPlayer (which is in the Ubuntu repositories).
  * A member asked if anyone had contacted Buena HS STEM to see if they might want computers with Ubuntu already installed on them.  That has not been done but will be done in the future
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_6.jpg)
+![Sv Ubuntu Hour 2024 04 11 1 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_1.jpg)
+![Sv Ubuntu Hour 2024 04 11 2 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_2.jpg)
+![Sv Ubuntu Hour 2024 04 11 3 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_3.jpg)
+![Sv Ubuntu Hour 2024 04 11 4 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_4.jpg)
+![Sv Ubuntu Hour 2024 04 11 5 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_5.jpg)
+![Sv Ubuntu Hour 2024 04 11 6 - Ubuntu Hour 2024-04-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-04-11_6.jpg)

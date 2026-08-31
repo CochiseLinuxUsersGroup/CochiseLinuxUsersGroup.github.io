@@ -43,9 +43,9 @@ categories: meeting
  * Firewalls were discussed and how to enable them if not enabled by default.
  * Anti-virus software was discussed even there is no particular reason to have an anti-virus application installed on a Linux distro.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_6.jpg)
+![Clug Meeting 2021 10 23 1 group photo - CLUG Meeting 2021-10-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_1.jpg)
+![Clug Meeting 2021 10 23 2 group photo - CLUG Meeting 2021-10-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_2.jpg)
+![Clug Meeting 2021 10 23 3 group photo - CLUG Meeting 2021-10-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_3.jpg)
+![Clug Meeting 2021 10 23 4 group photo - CLUG Meeting 2021-10-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_4.jpg)
+![Clug Meeting 2021 10 23 5 group photo - CLUG Meeting 2021-10-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_5.jpg)
+![Clug Meeting 2021 10 23 6 group photo - CLUG Meeting 2021-10-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2021-10-23_6.jpg)

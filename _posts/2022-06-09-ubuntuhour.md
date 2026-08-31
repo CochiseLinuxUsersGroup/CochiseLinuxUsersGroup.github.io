@@ -24,6 +24,6 @@ categories: meeting
  * Discussed creating a place where we can talk to each other.  This cannot be done on our website because it is hosted on GitHub.  Facebook exists but not everyone is active on it.  The mailing list exists but it is often misused by some of our members.  The solution arrived at was to use Google Drive and create three separate files, Problems, Presentation Requests, and Forum.
  * Discussed our activities with the Warrior Healing Center and the Bisbee Science Lab.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-06-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-06-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-06-09_3.jpg)
+![Sv Ubuntuhour 2022 06 09 1 - Ubuntu Hour 2022-06-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-06-09_1.jpg)
+![Sv Ubuntuhour 2022 06 09 2 - Ubuntu Hour 2022-06-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-06-09_2.jpg)
+![Sv Ubuntuhour 2022 06 09 3 - Ubuntu Hour 2022-06-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-06-09_3.jpg)

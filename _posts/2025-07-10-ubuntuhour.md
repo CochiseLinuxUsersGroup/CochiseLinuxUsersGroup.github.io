@@ -28,8 +28,8 @@ categories: meeting
  * Discussed the classes that are being given by AZ STEAM and any assistance that we can provide.
  * Discussed AI and the possibility of providing a future presentation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_5.jpg)
+![Sv Ubuntu Hour 2025 07 10 1 - Ubuntu Hour 2025-07-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_1.jpg)
+![Sv Ubuntu Hour 2025 07 10 2 - Ubuntu Hour 2025-07-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_2.jpg)
+![Sv Ubuntu Hour 2025 07 10 3 - Ubuntu Hour 2025-07-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_3.jpg)
+![Sv Ubuntu Hour 2025 07 10 4 - Ubuntu Hour 2025-07-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_4.jpg)
+![Sv Ubuntu Hour 2025 07 10 5 - Ubuntu Hour 2025-07-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-07-10_5.jpg)

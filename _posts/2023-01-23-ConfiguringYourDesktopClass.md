@@ -19,10 +19,10 @@ categories: meeting
  * Six people had registered for the class but only 3 of those attended.  An additional 2 walk-ins attended for a total of 5.
  * Discussed how to configure the background, appearance, the power manager, the mouse and touch-pad, accessibility, and default applications.  Also discussed the different ways to update the computer.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-9.jpg)
+![Whc Class Configuring Your Desktop 1 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-1.jpg)
+![Whc Class Configuring Your Desktop 5 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-5.jpg)
+![Whc Class Configuring Your Desktop 3 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-3.jpg)
+![Whc Class Configuring Your Desktop 6 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-6.jpg)
+![Whc Class Configuring Your Desktop 7 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-7.jpg)
+![Whc Class Configuring Your Desktop 8 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-8.jpg)
+![Whc Class Configuring Your Desktop 9 - Configuring Your Desktop Class 2023-01-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_configuring_your_desktop-9.jpg)

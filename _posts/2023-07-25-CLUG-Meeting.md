@@ -29,11 +29,11 @@ categories: meeting
  * Three computers have been donated since our last event.
 
 This one went to the Warrior Healing Center for recording intake forms and is located in the Computer Lab
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_input_forms_whc.jpg)
+![Input Forms Whc - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_input_forms_whc.jpg)
 
 The next two went to caseworkers at the Warrior Healing Center
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_3whc.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_4whc.jpg)
+![Caseworker 3whc - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_3whc.jpg)
+![Caseworker 4whc - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_caseworker_4whc.jpg)
 
 **Future Presentations:**
  * Voyager by Greg Christ 22 August 2023
@@ -47,14 +47,14 @@ The next two went to caseworkers at the Warrior Healing Center
  * Discussed the Kiosk Project.  We have been asked to create a prototype computer that can be used in a Kiosk for the Warrior Healing Center.  They intend to 6-10 kiosks throughout Cochise County.  Any one will who is interested in volunteering to participate in the project will meet for coffee next week to discuss how we will proceed.  Date, time, and location will be sent via email later this week.
  * For the first time in a very long time there were no questions, computer problems, or comments from those members attending the meeting.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_01.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_10.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_02.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_03.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_04.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_05.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_06.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_07.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_08.jpg)
+![Clug Mtg 2023 07 25 01 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_01.jpg)
+![Clug Mtg 2023 07 25 10 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_10.jpg)
+![Clug Mtg 2023 07 25 02 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_02.jpg)
+![Clug Mtg 2023 07 25 03 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_03.jpg)
+![Clug Mtg 2023 07 25 04 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_04.jpg)
+![Clug Mtg 2023 07 25 05 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_05.jpg)
+![Clug Mtg 2023 07 25 06 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_06.jpg)
+![Clug Mtg 2023 07 25 07 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_07.jpg)
+![Clug Mtg 2023 07 25 08 - CLUG Meeting 2023-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2023-07-25_08.jpg)
 
 After the meeting several members retired to Carl's Jr to enjoy a sandwich and continue socializing.

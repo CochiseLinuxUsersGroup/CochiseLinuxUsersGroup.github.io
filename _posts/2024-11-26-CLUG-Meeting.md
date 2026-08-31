@@ -40,7 +40,7 @@ categories: meeting
  * A member asked if he could clone a hard drive and then put it in another computer.  Yes for Linux operating systems but not without an Apple account for Apple computers.
  * A member asked if Redshift will work in Ubuntu.  Short answer is no.  There are alternatives to Redshift.  They are; f.lux, Redshift GUI, Gammy, Iris Mini, and Qredshift.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_3.jpg)
+![Clug Mtg 2024 11 26 1 - CLUG Meeting 2024-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_1.jpg)
+![Clug Mtg 2024 11 26 4 - CLUG Meeting 2024-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_4.jpg)
+![Clug Mtg 2024 11 26 2 - CLUG Meeting 2024-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_2.jpg)
+![Clug Mtg 2024 11 26 3 - CLUG Meeting 2024-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-11-26_3.jpg)

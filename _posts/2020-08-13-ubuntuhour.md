@@ -28,9 +28,9 @@ categories: meeting
  * It was decided to create and maintain a list of trusted PPAs.  To be placed on the list a member must have used the PPA for a number of years without incident or problems.  We want this list to be trusted by us.
  * The Put & Take box was once again present at the event.  As a reminder only fully functional computer components are eligible to be placed in there.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_7.jpg)
+![Sv Ubuntuhour 2020 08 13 2 - Ubuntu Hour 2020-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_2.jpg)
+![Sv Ubuntuhour 2020 08 13 3 - Ubuntu Hour 2020-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_3.jpg)
+![Sv Ubuntuhour 2020 08 13 4 - Ubuntu Hour 2020-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_4.jpg)
+![Sv Ubuntuhour 2020 08 13 5 - Ubuntu Hour 2020-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_5.jpg)
+![Sv Ubuntuhour 2020 08 13 6 - Ubuntu Hour 2020-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_6.jpg)
+![Sv Ubuntuhour 2020 08 13 7 - Ubuntu Hour 2020-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-08-13_7.jpg)

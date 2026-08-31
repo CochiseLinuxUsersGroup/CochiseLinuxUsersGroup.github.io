@@ -19,11 +19,11 @@ categories: meeting
  * Six people had registered for the class but only 5 of those attended.
  * Discussed how to create email accounts on Thunderbird, configure the calendar, create and import contacts, and the Thunderbird settings.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_4.jpg)
+![Whc Class Using Thunderbird 1 - Using Thunderbird Class 2023-02-06 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_1.jpg)
+![Whc Class Using Thunderbird 2 - Using Thunderbird Class 2023-02-06 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_2.jpg)
+![Whc Class Using Thunderbird 3 - Using Thunderbird Class 2023-02-06 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_3.jpg)
+![Whc Class Using Thunderbird 4 - Using Thunderbird Class 2023-02-06 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_whc_class_using_thunderbird_4.jpg)
 
  * In addition a computer was donated to Monica, one of the attendees.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_monica_emmerson_with_donated_computer.jpg)
+![Monica Emmerson with Donated Computer - Using Thunderbird Class 2023-02-06 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_monica_emmerson_with_donated_computer.jpg)

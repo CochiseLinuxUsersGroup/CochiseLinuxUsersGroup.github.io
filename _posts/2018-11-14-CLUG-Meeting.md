@@ -43,7 +43,7 @@ categories: meeting
  * If you don’t know, ask for help.  Don’t try and muddle through, reaching an end result that may or may not be correct.  If asked for help gladly give it.
  * Take responsibility for your actions and statements.  Refrain from those that will cause undue harm or embarrassment.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_4.jpg)
+![Clug Mtg 2018 11 14 1 - CLUG Meeting 2018-11-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_1.jpg)
+![Clug Mtg 2018 11 14 2 - CLUG Meeting 2018-11-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_2.jpg)
+![Clug Mtg 2018 11 14 3 - CLUG Meeting 2018-11-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_3.jpg)
+![Clug Mtg 2018 11 14 4 - CLUG Meeting 2018-11-14](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2018-11-14_4.jpg)

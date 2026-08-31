@@ -50,4 +50,4 @@ categories: meeting
 **Vinny's:**
  * We adjourned to Vinny’s Pizza where we continued to discuss FOSS related subjects as well enjoyed some pizza and soft drinks
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-24_Pizza_At_Vinny's-400x400.JPG) 
+![Clugmtg 2017 06 24 Pizza At Vinny's 400x400 - CLUG Meeting 2017-06-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-06-24_Pizza_At_Vinny's-400x400.JPG) 

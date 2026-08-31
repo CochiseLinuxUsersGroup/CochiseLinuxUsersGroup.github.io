@@ -44,14 +44,14 @@ There were 10 attendees
  * Rex Bouwense gave a humorous presentation on the Linux kernel
  * Several problems were raised by attendees and answered by other members
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting01_26-11-16-400x400.JPG) 
+ ![Clugmeeting01 26 11 16 400x400 group photo - CLUG meeting 2016-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting01_26-11-16-400x400.JPG) 
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting02_11-26-16-400x400.JPG) 
+ ![Clugmeeting02 11 26 16 400x400 group photo - CLUG meeting 2016-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting02_11-26-16-400x400.JPG) 
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting03_26-11-16-400x400.JPG) 
+ ![Clugmeeting03 26 11 16 400x400 group photo - CLUG meeting 2016-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting03_26-11-16-400x400.JPG) 
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting04_26-11-16-400x400.JPG)
+ ![Clugmeeting04 26 11 16 400x400 group photo - CLUG meeting 2016-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting04_26-11-16-400x400.JPG)
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting05_26-11-16-400x400.JPG) 
+ ![Clugmeeting05 26 11 16 400x400 group photo - CLUG meeting 2016-11-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmeeting05_26-11-16-400x400.JPG) 
  
  

@@ -1,18 +1,19 @@
 ---
 layout: landing-page
+title: Cochise Linux User Group | Free Linux Support & Workshops in Sierra Vista, AZ
+description: Join Cochise Linux User Group (CLUG) in Sierra Vista, AZ for free monthly Linux meetings, Ubuntu Hours, hands-on workshops and friendly support for Ubuntu, Linux Mint & more. All skill levels welcome!
+image: /images/CLUG-badge.png
+keywords: [Linux User Group, CLUG, Cochise County, Sierra Vista, Ubuntu Hour, Linux workshop, Linux Mint, Ubuntu, open source, free Linux help]
 ---
 
     <!-- About Us -->
               <article id="main">
+              <h1 class="visually-hidden" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Cochise Linux User Group (CLUG) - Free Linux Support in Sierra Vista, Cochise County, Arizona</h1>
               <section class="wrapper style1 container special">
-              <div class="4u">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              </div>
-              <br>
               <div class="container">
               <h2>About Us</h2>
               <p class="text-center">We are a volunteer group of Linux enthusiasts based in Cochise County, Arizona. Our mission is to create a space where Linux users can connect with each other to share advice and troubleshoot issues, host presentations on Free and Open Source Software from both members and guest speakers, and promote the adoption of Linux operating systems on personal computers across the county.</p>
-              </div></div></section>
+              </div></section>
 
 
     <!-- Monthly Meetings -->
@@ -20,41 +21,38 @@ layout: landing-page
               <div class="row">
               <div class="4u">
               <header>
-              <h2><center>Monthly Meetings</center></h2>
+              <h2>Monthly Meetings</h2>
               </header>
-              We hold a monthly Ubuntu Hour and a group meeting where we give presentations and provide troubleshooting help for any Linux-related questions. All of our events are free and open to the public, welcoming people of all skill levels and tech backgrounds. Our presentations cover a range of topics, from beginner to advanced, and occasionally feature specialized sessions led by Linux professionals. Be sure to check our calendar for upcoming events!</p>
+              <p>We hold a monthly Ubuntu Hour and a group meeting where we give presentations and provide troubleshooting help for any Linux-related questions. All of our events are free and open to the public, welcoming people of all skill levels and tech backgrounds. Our presentations cover a range of topics, from beginner to advanced, and occasionally feature specialized sessions led by Linux professionals. Be sure to check our <a href="/calendar">calendar</a> for upcoming events!</p>
               </div>
 
     <!-- Blank Spacer -->
-              <div class="4u">
-              &nbsp;&nbsp;&nbsp;
-              &nbsp;&nbsp;
+              <div class="4u" aria-hidden="true">
+              &nbsp;
               </div>
 
-    <!-- Upcomming Events -->
+    <!-- Upcoming Events -->
               <div class="4u">
               <header>
               <h2>Upcoming Events</h2>
               </header>
-              <p text-align="left">
-              <b><i>09/10</b></i> 6pm Ubuntu Hour<br>
-              <b><i>09/22</b></i> 5pm CLUG Linux Workshop<br>
-              <b><i>10/08</b></i> 6pm Ubuntu Hour<br>
-              <b><i>10/27</b></i> 5pm CLUG Supper Meeting<br>
-              <b><i>11/12</b></i> 6pm Ubuntu Hour<br>
-              <b><i>11/24</b></i> 5pm CLUG Meeting<br>
-              <b><i>12/10</b></i> 6pm Ubuntu Hour<br>
-              <b><i>12/22</b></i> 5pm CLUG Linux Workshop<br>
-              </p>
+              <ul style="text-align:left; list-style:none; padding-left:0;">
+              {% for event in site.data.events limit:8 %}
+              <li><time datetime="{{ event.date }}T{{ event.time }}"><strong>{{ event.display }}</strong></time> {{ event.time_display }} {{ event.title }}</li>
+              {% endfor %}
+              </ul>
+              <p style="font-size:0.85em;"><a href="/calendar">View full calendar →</a> • <a href="/events">Meeting locations</a></p>
               </div></div>
 
-   <!-- Buttons Under Events -->
-              <ul id="hpmenu" align="center">
-              <li><a href="blog" class="button">Meeting Notes</a></li>
-              <li><a href="calendar" class="button">Calendar</a></li>
+    <!-- Buttons Under Events -->
+              <nav aria-label="Quick links">
+              <ul id="hpmenu" style="text-align:center; list-style:none;">
+              <li><a href="/blog" class="button">Meeting Notes</a></li>
+              <li><a href="/calendar" class="button">Calendar</a></li>
               <li><a href="/inventory" class="button">CLUG Inventory</a></li>
-              <li><a href="mailinglist" class="button">Mailing list</a></li>
-              </ul></section>
+              <li><a href="/mailinglist" class="button">Mailing list</a></li>
+              </ul>
+              </nav></section>
 
     <!-- Goals Section -->
               <section class="wrapper style1 container special">
@@ -85,10 +83,10 @@ layout: landing-page
               <p>We offer presentations on a wide range of Linux and FOSS topics. These sessions, along with the group itself, are entirely free and open to anyone who wants to join.</p>
               </section></div></section>
 
-    <!-- Footer -->
+    <!-- Footer spacer -->
               <footer class="major">
               </footer>
-              </div></section></article>
+              </article>
 
 
 

@@ -49,6 +49,6 @@ There were 9 attendees
  * We adjourned the meeting and computer parts and components were distributed in the UA South parking lot.
  * We reconvened at Native Grill and Wings where we all had a little nourishment and continued our discussions (admitting of course that not all topics were even remotely related to Linux or FOSS.)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-12-13_1-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-12-13_2-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-12-13_3-400x400.jpg)
+![Clug Mtg 2017 12 13 1 400x400 - CLUG Meeting 2017-12-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-12-13_1-400x400.jpg)
+![Clug Mtg 2017 12 13 2 400x400 - CLUG Meeting 2017-12-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-12-13_2-400x400.jpg)
+![Clug Mtg 2017 12 13 3 400x400 - CLUG Meeting 2017-12-13](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-12-13_3-400x400.jpg)

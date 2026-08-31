@@ -30,11 +30,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 201 computers (52 this year) to individuals or groups
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/computer_donated_to_marque_raitliff_2.jpg)
+![Computer Donated to Marque Raitliff 2 - CLUG Linux Workshop 2025-09-23 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/computer_donated_to_marque_raitliff_2.jpg)
 
 This one went to Marque R
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_gene_zastera.jpg)
+![Computer Donated to Gene Zastera - CLUG Linux Workshop 2025-09-23 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_gene_zastera.jpg)
 
 This one went to Gene Z
 
@@ -56,7 +56,7 @@ This one went to Gene Z
 **Aftermath:**
  * Several members retired to Culver’s for a meal and some additional Linux conversation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_4.JPG)
+![Clug Mtg 2025 09 23 1 - CLUG Linux Workshop 2025-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_1.JPG)
+![Clug Mtg 2025 09 23 2 - CLUG Linux Workshop 2025-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_2.JPG)
+![Clug Mtg 2025 09 23 3 - CLUG Linux Workshop 2025-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_3.JPG)
+![Clug Mtg 2025 09 23 4 - CLUG Linux Workshop 2025-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-09-23_4.JPG)

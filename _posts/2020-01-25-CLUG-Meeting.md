@@ -31,7 +31,7 @@ categories: meeting
  * Gene announced that this week he should have definite information on additional computers that might be donated to the Group.  When we have a definite date we will schedule a Linux Workshop to make them ready for repair/Linux installation/donation to individuals and or groups.
  * The Group has 5 computers ready to be donated (a Dell Latitude, 2 Gateways, a Toshiba,and an HP).  A sixth one has already been donated.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_computerdonation.jpg)
+![CLUG computer donation - CLUG Meeting 2020-01-25 - Cochise Linux User Group](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_computerdonation.jpg)
 
 **Presentation:**
 
@@ -45,14 +45,14 @@ categories: meeting
  
  * We adjourned to Street Tacos for some tacos and some additional conversation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_9.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_10.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_7.jpg)
+![Clug Mtg 2020 01 25 1 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_1.jpg)
+![Clug Mtg 2020 01 25 2 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_2.jpg)
+![Clug Mtg 2020 01 25 3 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_3.jpg)
+![Clug Mtg 2020 01 25 4 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_4.jpg)
+![Clug Mtg 2020 01 25 5 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_5.jpg)
+![Clug Mtg 2020 01 25 6 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_6.jpg)
+![Clug Mtg 2020 01 25 8 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_8.jpg)
+![Clug Mtg 2020 01 25 9 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_9.jpg)
+![Clug Mtg 2020 01 25 10 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_10.jpg)
+![Clug Mtg 2020 01 25 7 - CLUG Meeting 2020-01-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-01-25_7.jpg)
 

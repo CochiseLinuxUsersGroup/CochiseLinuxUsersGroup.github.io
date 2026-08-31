@@ -1,21 +1,157 @@
 <head>
-    <script src="/js/pase.min.js"></script>
-    <link rel="stylesheet" href="/css/pace.min.css">
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="{{ site.description }}">
-    <meta name="keywords" content="" />
-    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://maxcdn.bootstrapcdn.com" crossorigin>
+    <link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com">
+    <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
+    <link rel="dns-prefetch" href="https://raw.githubusercontent.com">
+
+    {% seo %}
+
+    <!-- Fallback author if seo tag not rendering fully (Jekyll without plugin locally) -->
+    <meta name="author" content="{{ page.author | default: site.author.name | default: site.title }}">
+    <meta name="theme-color" content="#3fb1a3">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+
+    <!-- Icons -->
+    <link rel="icon" href="/images/CLUG-badge.png" type="image/png">
+    <link rel="apple-touch-icon" href="/images/CLUG-badge.png">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/css/pace.min.css">
+    <link rel="stylesheet" href="/css/skel.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style-wide.css">
+    <link rel="stylesheet" href="/css/style-noscript.css">
+    <!-- Font Awesome - upgraded from 4.5.0 for security, loading optimized -->
+    <link rel="preload" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></noscript>
+
+    <!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->
     <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie/v9.css" /><![endif]-->
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="/css/skel.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/style-wide.css" />
-    <link rel="stylesheet" href="/css/style-noscript.css" />
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="icon" href="/images/CLUG-badge.png">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <script src="/js/pase.min.js" defer></script>
+
+    <!-- Structured Data: Organization / LocalBusiness + NonProfit -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["Organization", "NonProfit"],
+      "@id": "{{ site.url | absolute_url }}#organization",
+      "name": "Cochise Linux User Group",
+      "alternateName": "CLUG",
+      "url": "{{ site.url | absolute_url }}",
+      "logo": "{{ site.logo | absolute_url }}",
+      "image": "{{ site.image | absolute_url }}",
+      "description": {{ site.description | jsonify }},
+      "email": "{{ site.email }}",
+      "foundingDate": "2003",
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Cochise County, Arizona"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sierra Vista",
+        "addressRegion": "AZ",
+        "addressCountry": "US"
+      },
+      "sameAs": [
+        "https://github.com/CochiseLinuxUsersGroup",
+        "https://www.facebook.com/groups/1059259857477393/",
+        "https://www.freelists.org/archive/cochiselinux"
+      ],
+      "event": [
+        {
+          "@type": "Event",
+          "name": "CLUG Monthly Meeting",
+          "description": "Free monthly Linux User Group meeting with presentations and troubleshooting help",
+          "eventSchedule": {
+            "@type": "Schedule",
+            "byDay": "https://schema.org/Tuesday",
+            "byMonthWeek": 4,
+            "startTime": "17:00",
+            "endTime": "18:30",
+            "scheduleTimezone": "America/Phoenix"
+          },
+          "location": {
+            "@type": "Place",
+            "name": "Warrior Healing Center, main conference room",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1838 Paseo San Luis",
+              "addressLocality": "Sierra Vista",
+              "addressRegion": "AZ",
+              "postalCode": "85635",
+              "addressCountry": "US"
+            }
+          },
+          "organizer": { "@id": "{{ site.url | absolute_url }}#organization" },
+          "isAccessibleForFree": true,
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode"
+        },
+        {
+          "@type": "Event",
+          "name": "Ubuntu Hour",
+          "description": "Informal social gathering to chat about Ubuntu, Linux and FOSS",
+          "eventSchedule": {
+            "@type": "Schedule",
+            "byDay": "https://schema.org/Thursday",
+            "byMonthWeek": 2,
+            "startTime": "18:00",
+            "endTime": "19:00",
+            "scheduleTimezone": "America/Phoenix"
+          },
+          "location": {
+            "@type": "Place",
+            "name": "Carl's Jr.",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2080 E. Fry Blvd.",
+              "addressLocality": "Sierra Vista",
+              "addressRegion": "AZ",
+              "postalCode": "85635",
+              "addressCountry": "US"
+            }
+          },
+          "organizer": { "@id": "{{ site.url | absolute_url }}#organization" },
+          "isAccessibleForFree": true,
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode"
+        }
+      ]
+    }
+    </script>
+    {% if page.layout == "post" %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ page.title | jsonify }},
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.date | date_to_xmlschema }}",
+      "author": {
+        "@type": "Organization",
+        "name": "{{ page.author | default: site.author.name }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Cochise Linux User Group",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.logo | absolute_url }}"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "image": "{{ page.image | default: site.image | absolute_url }}",
+      "description": {{ page.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }}
+    }
+    </script>
+    {% endif %}
 </head>

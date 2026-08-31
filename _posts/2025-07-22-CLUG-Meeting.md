@@ -25,11 +25,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 187 computers to individuals or groups
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_david_garcia.jpg)
+ ![Computer Donated to David Garcia - CLUG Meeting 2025-07-22 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_david_garcia.jpg)
  This one went to David G
 
  
- ![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_miles_camp.jpg)
+ ![Computer Donated to Miles Camp - CLUG Meeting 2025-07-22 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_miles_camp.jpg)
  This one went to Miles C
  
  * and conducted 295 installs on laptop and desktop computers.
@@ -47,4 +47,4 @@ categories: meeting
  * Once again it was decided to continue to have such meetings by those present.
  * The next one is tentatively scheduled for 28 October at 1700 at La Casita, 465 E. Fry Blvd
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-07-22_1.jpg)
+![Clug Mtg 2025 07 22 1 - CLUG Meeting 2025-07-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2025-07-22_1.jpg)

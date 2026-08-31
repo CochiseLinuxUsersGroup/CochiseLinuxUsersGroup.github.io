@@ -29,11 +29,11 @@ The Cochise Linux User Group, CLUG, in conjunction with the Ubuntu Arizona Local
  * Two of the computers were deemed unusable.
  * One of our installers was guided through an installation of MX Linux so it was a learning experience for him as it was his first install of that distribution.   
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_7.jpeg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_8.jpeg)
+![Sv Installfest 2022 07 15 1 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_1.jpg)
+![Sv Installfest 2022 07 15 2 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_2.jpg)
+![Sv Installfest 2022 07 15 3 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_3.jpg)
+![Sv Installfest 2022 07 15 4 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_4.jpg)
+![Sv Installfest 2022 07 15 5 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_5.jpg)
+![Sv Installfest 2022 07 15 6 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_6.jpg)
+![Sv Installfest 2022 07 15 7 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_7.jpeg)
+![Sv Installfest 2022 07 15 8 - Installfest 2022-07-16 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_installfest_2022-07-15_8.jpeg)

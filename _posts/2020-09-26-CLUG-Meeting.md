@@ -36,10 +36,10 @@ categories: meeting
 **Aftermath:**
  * Some of the members retired to Vinney’s (where we were met by Lilith and Ruby) for some pizza and additional conversation.  Our unofficial leader was also soundly chastised for attempting to move tables and benches so we could all sit as a group.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_eating_pizza_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_eating_pizza_2.jpg)
+![Clug Mtg 26 09 20 1 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_1.jpg)
+![Clug Mtg 26 09 20 2 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_2.jpg)
+![Clug Mtg 26 09 20 3 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_3.jpg)
+![Clug Mtg 26 09 20 4 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_4.jpg)
+![Clug Mtg 26 09 20 5 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_26-09-20_5.jpg)
+![Clug Eating Pizza 1 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_eating_pizza_1.jpg)
+![Clug Eating Pizza 2 - CLUG Meeting 2020-09-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_eating_pizza_2.jpg)

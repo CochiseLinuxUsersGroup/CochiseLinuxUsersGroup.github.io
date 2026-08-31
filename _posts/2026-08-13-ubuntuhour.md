@@ -23,15 +23,15 @@ categories: meeting
 **Announcements:**
  * To date we have donated 254 computers to individuals or groups.  This year alone we have donated 33.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_les_plieninger.jpg)
+![Computer Donated to Les Plieninger - Ubuntu Hour 2026-08-13 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_les_plieninger.jpg)
 
 This one went to Les P
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_rodney_a.jpg)
+![Computer Donated to Rodney a - Ubuntu Hour 2026-08-13 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_rodney_a.jpg)
 
 This one went to Rodney A
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_sam_l.jpg)
+![Computer Donated to Sam L - Ubuntu Hour 2026-08-13 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_sam_l.jpg)
 
 This one went to Sam L
 
@@ -45,6 +45,6 @@ This one went to Sam L
  * Discussed the new location for the Ubuntu Hours.  Everyone seemed satisfied with it and the food provided there.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_SV_Ubuntu_Hour_2026-08-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_SV_Ubuntu_Hour_2026-08-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_SV_Ubuntu_Hour_2026-08-13_3.jpg)
+![Sv Ubuntu Hour 2026 08 13 1 - Ubuntu Hour 2026-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_SV_Ubuntu_Hour_2026-08-13_1.jpg)
+![Sv Ubuntu Hour 2026 08 13 2 - Ubuntu Hour 2026-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_SV_Ubuntu_Hour_2026-08-13_2.jpg)
+![Sv Ubuntu Hour 2026 08 13 3 - Ubuntu Hour 2026-08-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_SV_Ubuntu_Hour_2026-08-13_3.jpg)

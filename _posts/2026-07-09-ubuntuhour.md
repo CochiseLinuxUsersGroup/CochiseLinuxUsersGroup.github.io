@@ -29,7 +29,7 @@ categories: meeting
 **Discussion and Activities:**
  * We received a donation of 10 laptop computers and one desktop (all-in-one) computer today.  We intend to start work on them tomorrow at the Warrior healing Center at 0900.  Any and all assistance would be greatly appreciated.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_4.jpg)
+![Sv Ubuntu Hour 2026 07 09 1 - Ubuntu Hour 2026-07-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_1.jpg)
+![Sv Ubuntu Hour 2026 07 09 2 - Ubuntu Hour 2026-07-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_2.jpg)
+![Sv Ubuntu Hour 2026 07 09 3 - Ubuntu Hour 2026-07-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_3.jpg)
+![Sv Ubuntu Hour 2026 07 09 4 - Ubuntu Hour 2026-07-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2026-07-09_4.jpg)

@@ -20,11 +20,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 214 computers to individuals or groups.  This year alone we have donated 65.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_ted_janecki.jpg)
+![Computer Donated to Ted Janecki - Ubuntu Hour 2025-12-11 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_ted_janecki.jpg)
 
 This one went to Ted J
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_steven_vowell.jpg)
+![Computer Donated to Steven Vowell - Ubuntu Hour 2025-12-11 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_steven_vowell.jpg)
 
 This one went to Steven V
 
@@ -38,11 +38,11 @@ This one went to Steven V
  * Asked for volunteers to take a more active role in the administration of the group
  * Received an update on the progress of the mini-workshops. 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_4.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_5.JPG)
+![Sv Ubuntu Hour 2025 12 11 1 - Ubuntu Hour 2025-12-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_1.JPG)
+![Sv Ubuntu Hour 2025 12 11 2 - Ubuntu Hour 2025-12-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_2.JPG)
+![Sv Ubuntu Hour 2025 12 11 3 - Ubuntu Hour 2025-12-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_3.JPG)
+![Sv Ubuntu Hour 2025 12 11 4 - Ubuntu Hour 2025-12-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_4.JPG)
+![Sv Ubuntu Hour 2025 12 11 5 - Ubuntu Hour 2025-12-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-12-11_5.JPG)
 
 
 

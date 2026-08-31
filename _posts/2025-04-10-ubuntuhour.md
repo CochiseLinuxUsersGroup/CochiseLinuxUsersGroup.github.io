@@ -26,5 +26,5 @@ categories: meeting
  * Discussed the closing of the native grill and Wings where the next meeting was to be held. There will be an announcement changing the location to Vinny’s.
  * Assisted a member in retrieving data from a computer that would not boot after an unsuccessful update.  Merely booted the computer from a live flash drive, mounted the hard drive in question, and copied the data successfully to a second USB mounted hard drive.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-04-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-04-10_3.jpg)
+![Sv Ubuntu Hour 2025 04 10 2 - Ubuntu Hour 2025-04-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-04-10_2.jpg)
+![Sv Ubuntu Hour 2025 04 10 3 - Ubuntu Hour 2025-04-10 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2025-04-10_3.jpg)

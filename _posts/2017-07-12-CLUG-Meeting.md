@@ -39,8 +39,8 @@ There were 13 attendees
  * Conducted some training on installation procedures.
  * Installed Lubuntu on a client’s laptop.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_2-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_3-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_4-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_5-400x400.JPG) 
+![Clugmtg 2017 07 12 1 400x400 - CLUG Meeting 2017-07-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_1-400x400.JPG)
+![Clugmtg 2017 07 12 2 400x400 - CLUG Meeting 2017-07-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_2-400x400.JPG) 
+![Clugmtg 2017 07 12 3 400x400 - CLUG Meeting 2017-07-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_3-400x400.JPG) 
+![Clugmtg 2017 07 12 4 400x400 - CLUG Meeting 2017-07-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_4-400x400.JPG) 
+![Clugmtg 2017 07 12 5 400x400 - CLUG Meeting 2017-07-12](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-07-12_5-400x400.JPG) 

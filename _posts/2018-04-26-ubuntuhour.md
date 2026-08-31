@@ -27,13 +27,13 @@ categories: meeting
  * Discussed the upcoming CLUG/AZLOCO Installfest scheduled for this Saturday at the Sierra Vista Public Library, Mona Bishop room, 2600 E. Tacoma St. from 1100-1500.  All preparations are on track.  We may be a bit short on installers but we will make due.  Remember we will be using Ubuntu 16.04.4 for installations.
  * Rex gave a report on the the AZLOCO Ubuntu 18.04 LTS Bionic Beaver Release Party in Chandler AZ.  He and Rose were the only ones from Sierra Vista that attened.  There was more food than could be eaten at two release parties and everyone had a great time.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_01-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_02-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_03-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_04-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_05-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_06-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_07-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_08-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_09-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_10-400x400.JPG)
+![Ubuntuhour 2018 04 26 01 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_01-400x400.JPG)
+![Ubuntuhour 2018 04 26 02 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_02-400x400.JPG)
+![Ubuntuhour 2018 04 26 03 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_03-400x400.JPG)
+![Ubuntuhour 2018 04 26 04 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_04-400x400.JPG)
+![Ubuntuhour 2018 04 26 05 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_05-400x400.JPG)
+![Ubuntuhour 2018 04 26 06 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_06-400x400.JPG)
+![Ubuntuhour 2018 04 26 07 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_07-400x400.JPG)
+![Ubuntuhour 2018 04 26 08 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_08-400x400.JPG)
+![Ubuntuhour 2018 04 26 09 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_09-400x400.JPG)
+![Ubuntuhour 2018 04 26 10 400x400 - Ubuntu Hour 2018-04-26 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/UbuntuHour_2018-04-26_10-400x400.JPG)

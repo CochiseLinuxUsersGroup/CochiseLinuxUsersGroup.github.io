@@ -26,6 +26,6 @@ categories: meeting
  * Discussed installing a Linux operating system on an ACER Chromebook.  Decided that it might be a good demonstration for a future meeting.
  * Briefly discussed Bluefin as an OS for newbies.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-01-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-01-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-01-09_3.jpg)
+![Sv Ubuntuhour 2025 01 09 1 - Ubuntu Hour 2025-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-01-09_1.jpg)
+![Sv Ubuntuhour 2025 01 09 2 - Ubuntu Hour 2025-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-01-09_2.jpg)
+![Sv Ubuntuhour 2025 01 09 3 - Ubuntu Hour 2025-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2025-01-09_3.jpg)

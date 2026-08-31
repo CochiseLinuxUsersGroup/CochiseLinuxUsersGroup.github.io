@@ -39,11 +39,11 @@ categories: meeting
  * We introduced the Put and Take Box which will be available at all of our events for members to take any accessory that they need and to put any that they no longer have a need for.  As of this time there are power cords, USB cords, converters, RAM chips, keyboards, mice, USB hubs, a bluetooth keyboard, VGA cords, DVI cords, HDMI cords, and a host of other items.  Not in the box but still available are 15 laptop AC adapters with power cords. The concept was introduced by Devi and he gets all the credit for its introduction.  Hats off to our Segundo.
  * The new attendees were provided with information on the CLUG and a list of Linux equivalent programs to Windows programs currently in use as well as some Ubuntu SWAG.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_7.jpg)
+![Clug Mtg 2020 07 25 5 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_5.jpg)
+![Clug Mtg 2020 07 25 1 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_1.jpg)
+![Clug Mtg 2020 07 25 2 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_2.jpg)
+![Clug Mtg 2020 07 25 3 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_3.jpg)
+![Clug Mtg 2020 07 25 4 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_4.jpg)
+![Clug Mtg 2020 07 25 6 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_6.jpg)
+![Clug Mtg 2020 07 25 7 - CLUG Meeting 2020-07-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_mtg_2020-07-25_7.jpg)
 

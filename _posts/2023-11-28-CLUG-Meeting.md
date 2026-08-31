@@ -47,8 +47,8 @@ categories: meeting
 **Aftermath:**
  * Some of the members retired to Culver’s to enjoy some food and additional conversation. All of which was not necessarily Linux related.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_5.jpg)
+![Clug Meeting 2023 11 28 1 group photo - CLUG Meeting 2023-11-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_1.jpg)
+![Clug Meeting 2023 11 28 2 group photo - CLUG Meeting 2023-11-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_2.jpg)
+![Clug Meeting 2023 11 28 3 group photo - CLUG Meeting 2023-11-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_3.jpg)
+![Clug Meeting 2023 11 28 4 group photo - CLUG Meeting 2023-11-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_4.jpg)
+![Clug Meeting 2023 11 28 5 group photo - CLUG Meeting 2023-11-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-11-28_5.jpg)

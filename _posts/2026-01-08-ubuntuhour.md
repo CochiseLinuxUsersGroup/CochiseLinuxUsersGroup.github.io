@@ -27,8 +27,8 @@ categories: meeting
  * Discussed libre Office Calc.
  * Received an update on the 28 computers that we received from the American Southwest Credit Union.  Only two remain to be cleaned and have Ubuntu installed on them.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_5.jpg)
+![Sv Ubuntuhour 2026 01 08 1 - Ubuntu Hour 2026-01-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_1.jpg)
+![Sv Ubuntuhour 2026 01 08 2 - Ubuntu Hour 2026-01-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_2.jpg)
+![Sv Ubuntuhour 2026 01 08 3 - Ubuntu Hour 2026-01-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_3.jpg)
+![Sv Ubuntuhour 2026 01 08 4 - Ubuntu Hour 2026-01-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_4.jpg)
+![Sv Ubuntuhour 2026 01 08 5 - Ubuntu Hour 2026-01-08 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2026-01-08_5.jpg)

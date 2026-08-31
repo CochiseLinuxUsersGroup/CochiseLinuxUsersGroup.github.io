@@ -47,9 +47,9 @@ categories: meeting
 
  * We adjourned to Native Grill for some food and additional discussion as well as a mindless game. 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_1-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_2-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_3-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_4-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_at_NativeGrill_2018-04-11_1-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_at_NativeGrill_2018-04-11_2-400x400.jpg)
+![Clug Meeting 2018 04 11 1 400x400 group photo - CLUG Meeting 2018-04-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_1-400x400.jpg)
+![Clug Meeting 2018 04 11 2 400x400 group photo - CLUG Meeting 2018-04-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_2-400x400.jpg)
+![Clug Meeting 2018 04 11 3 400x400 group photo - CLUG Meeting 2018-04-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_3-400x400.jpg)
+![Clug Meeting 2018 04 11 4 400x400 group photo - CLUG Meeting 2018-04-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-04-11_4-400x400.jpg)
+![Clug At Nativegrill 2018 04 11 1 400x400 - CLUG Meeting 2018-04-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_at_NativeGrill_2018-04-11_1-400x400.jpg)
+![Clug At Nativegrill 2018 04 11 2 400x400 - CLUG Meeting 2018-04-11](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_at_NativeGrill_2018-04-11_2-400x400.jpg)

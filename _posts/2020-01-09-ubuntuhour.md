@@ -25,7 +25,7 @@ categories: meeting
  * A question was raised concerning how to create multiple launchers for Firefox that would go to specific URLs when launched. The easiest way is to launch FireFox and select Edit and then Preferences from the drop down menu.  Under Home select Custom URLs under Home Page and New Windows.  Then place the desired URLs in the blank.  That way when ever FireFox is launched those URLs will open up in a separate Tab or Window. 
  * An individual who had purchased a computer with Ubuntu installed asked for assistance in how to do some simple tasks in Linux.  We discussed that at length.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_5.jpg)
+![Sv Ubuntuhour 2020 01 09 1 - Ubuntu Hour 2020-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_1.jpg)
+![Sv Ubuntuhour 2020 01 09 2 - Ubuntu Hour 2020-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_2.jpg)
+![Sv Ubuntuhour 2020 01 09 3 - Ubuntu Hour 2020-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_3.jpg)
+![Sv Ubuntuhour 2020 01 09 5 - Ubuntu Hour 2020-01-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2020-01-09_5.jpg)

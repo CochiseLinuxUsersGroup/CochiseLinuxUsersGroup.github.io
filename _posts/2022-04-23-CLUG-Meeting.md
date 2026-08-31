@@ -27,8 +27,8 @@ categories: meeting
 **Announcements:**
  * The Group has donated 2 desktop computers to two vets at the Warrior Healing Center.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_peterandhiscomputer.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_jessicaandhercomputer.jpg)
+![Peterandhiscomputer - CLUG Meeting 2022-04-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_peterandhiscomputer.jpg)
+![Jessicaandhercomputer - CLUG Meeting 2022-04-23 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_jessicaandhercomputer.jpg)
  * There is a new repair shop in town, Asurion.  It is located next to Food City.  I have met the manager, Phillip Vance, who dabbles in Linux and he has given me discount tickets and they are available to the members.
  * Update on the preparations for the Installfest. (Brochures are printed and distributed, new ISOs for Ubuntu have been downloaded, installed to flash drives, and tested,  the conference room at the Warrior Healing Center has been reserved, installer training was conducted at this meeting.)
 
@@ -46,8 +46,8 @@ categories: meeting
  * Bruce asked why we are not installing Ubuntu restricted add-ons in addition to the Ubuntu restricted extras.  No clear answer was given.
  * John, who is also new to Ubuntu and Linux, gave a brief description of what the Bisbee Science lab is doing and what they are trying to do.  He was told to ask if he needed assistance from the CLUG in any of their projects and we would help where we could.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_5.jpg)
+![Clug Meeting 2022 04 23 1 group photo - CLUG Meeting 2022-04-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_1.jpg)
+![Clug Meeting 2022 04 23 2 group photo - CLUG Meeting 2022-04-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_2.jpg)
+![Clug Meeting 2022 04 23 3 group photo - CLUG Meeting 2022-04-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_3.jpg)
+![Clug Meeting 2022 04 23 4 group photo - CLUG Meeting 2022-04-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_4.jpg)
+![Clug Meeting 2022 04 23 5 group photo - CLUG Meeting 2022-04-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-04-23_5.jpg)

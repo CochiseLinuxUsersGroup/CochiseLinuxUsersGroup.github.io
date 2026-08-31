@@ -20,11 +20,11 @@ categories: meeting
 **Announcements:**
  * To date we have donated 203 computers to individuals or groups.  This year alone we have donated 54.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_norma_zimmerman.jpg)
+![Computer Donated to Norma Zimmerman - Ubuntu Hour 2025-10-09 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_norma_zimmerman.jpg)
 
 This one went to Norma Z
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_tommy_worthey.jpg)
+![Computer Donated to Tommy Worthey - Ubuntu Hour 2025-10-09 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_tommy_worthey.jpg)
 
 This one went to Tommy W
 
@@ -36,5 +36,5 @@ This one went to Tommy W
  * Discussed Ventoy and its capability to store files in addition to the ISO’s
  * A member had a problem with trying to get his documents off a dual boot computer (Ubuntu and Linux Mint) that he had not backed up.  Recommended that he first boot into one of the distros and copy the files to a flash drive and then boot to the second distro and copy the files to the same flash drive.  The documents can then be transferred to a newer computer.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_UbuntuHour_2025-10-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_UbuntuHour_2025-10-09_2.jpg)
+![Sv Ubuntuhour 2025 10 09 1 - Ubuntu Hour 2025-10-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_UbuntuHour_2025-10-09_1.jpg)
+![Sv Ubuntuhour 2025 10 09 2 - Ubuntu Hour 2025-10-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_UbuntuHour_2025-10-09_2.jpg)

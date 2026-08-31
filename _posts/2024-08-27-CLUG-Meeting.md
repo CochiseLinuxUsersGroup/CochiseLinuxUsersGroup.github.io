@@ -25,7 +25,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 141 computers to individuals and groups and conducted 236 installs on desktops and laptops.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_martin_and_new_computer.jpg)
+![Martin and New Computer - CLUG Meeting 2024-08-27 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_martin_and_new_computer.jpg)
 
 This one went to Martin B.
 
@@ -43,6 +43,6 @@ This one went to Martin B.
  * Conducted a password recovery for an attendee.
  * Installed Linux Mint 22 on a laptop for an attendee.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-08-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-08-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-08-27_3.jpg)
+![Clug Mtg 2024 08 27 1 - CLUG Meeting 2024-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-08-27_1.jpg)
+![Clug Mtg 2024 08 27 2 - CLUG Meeting 2024-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-08-27_2.jpg)
+![Clug Mtg 2024 08 27 3 - CLUG Meeting 2024-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-08-27_3.jpg)

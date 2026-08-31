@@ -28,9 +28,9 @@ categories: meeting
  * Discussed how to find out what is installed on your computer (apt list --installed, dnf list installed, or dkpg -l)  Can also use Synaptic Package Manager.  To find out what snap packages are installed (snap list).  To find out what Flatpak packages are installed (flatpak list).
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_6.jpg)
+![Sv Ubuntuhour 2023 04 13 1 - Ubuntu Hour 2023-04-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_1.jpg)
+![Sv Ubuntuhour 2023 04 13 2 - Ubuntu Hour 2023-04-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_2.jpg)
+![Sv Ubuntuhour 2023 04 13 3 - Ubuntu Hour 2023-04-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_3.jpg)
+![Sv Ubuntuhour 2023 04 13 4 - Ubuntu Hour 2023-04-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_4.jpg)
+![Sv Ubuntuhour 2023 04 13 5 - Ubuntu Hour 2023-04-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_5.jpg)
+![Sv Ubuntuhour 2023 04 13 6 - Ubuntu Hour 2023-04-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2023-04-13_6.jpg)

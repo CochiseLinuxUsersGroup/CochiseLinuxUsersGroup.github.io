@@ -26,7 +26,7 @@ categories: meeting
  * Information on Ubuntu was distributed to the new individuals.
  * Discussed the relative requirements to install Xubuntu and Lubuntu on an older computer.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_4-400x400.JPG)
+![Svubuntuhour 2018 05 24 1 400x400 - Ubuntu Hour 2018-05-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_1-400x400.JPG)
+![Svubuntuhour 2018 05 24 2 400x400 - Ubuntu Hour 2018-05-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_2-400x400.JPG)
+![Svubuntuhour 2018 05 24 3 400x400 - Ubuntu Hour 2018-05-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_3-400x400.JPG)
+![Svubuntuhour 2018 05 24 4 400x400 - Ubuntu Hour 2018-05-24 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SVUbuntuHour_2018-05-24_4-400x400.JPG)

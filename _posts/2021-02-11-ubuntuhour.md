@@ -28,9 +28,9 @@ categories: meeting
  * Mike gave an update on his Bisbee project.  His grant has been approved locally, however our install on his computers is still on hold.
  * Valentine gifts were passed out to all of those in attendance.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_6.jpg)
+![Sv Ubuntuhour2021 02 11 1 - Ubuntu Hour 2021-02-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_1.jpg)
+![Sv Ubuntuhour2021 02 11 2 - Ubuntu Hour 2021-02-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_2.jpg)
+![Sv Ubuntuhour2021 02 11 3 - Ubuntu Hour 2021-02-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_3.jpg)
+![Sv Ubuntuhour2021 02 11 4 - Ubuntu Hour 2021-02-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_4.jpg)
+![Sv Ubuntuhour2021 02 11 5 - Ubuntu Hour 2021-02-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_5.jpg)
+![Sv Ubuntuhour2021 02 11 6 - Ubuntu Hour 2021-02-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour2021-02-11_6.jpg)

@@ -39,6 +39,6 @@ categories: meeting
  
 We adjourned the meeting and re-convened at Vinny's for pizza and addition Linux/FOSS  conversation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-23_1-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-23_2-400x400.JPG) 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-23_3-400x400.JPG) 
+![Clugmtg 2017 09 23 1 400x400 - CLUG Meeting 2017-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-23_1-400x400.JPG) 
+![Clugmtg 2017 09 23 2 400x400 - CLUG Meeting 2017-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-23_2-400x400.JPG) 
+![Clugmtg 2017 09 23 3 400x400 - CLUG Meeting 2017-09-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUGmtg_2017-09-23_3-400x400.JPG) 

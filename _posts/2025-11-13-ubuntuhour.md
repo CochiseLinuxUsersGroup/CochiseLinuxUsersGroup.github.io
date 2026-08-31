@@ -20,7 +20,7 @@ categories: meeting
 **Announcements:**
  * To date we have donated 208 computers to individuals or groups.  This year alone we have donated 59.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris_2.jpg)
+![Computer Donated to Martha Harris 2 - Ubuntu Hour 2025-11-13 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_computer_donated_to_martha_harris_2.jpg)
 
 This one went to Martha H
 
@@ -33,7 +33,7 @@ This one went to Martha H
  * Discussed the creation of new Mini Linux Workshops at the Warrior Healing Center, 1838 Paseo San Luis, from 0900-1200 every Monday, Wednesday, and Friday in the Computer Lab.  If you have a problem or a question and do not want to use the mailing list, you can stop by and hopefully have it solved or answered.
  * Discussed the up coming presentation on Artificial Intelligence.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_4.jpg)
+![Sv Ubuntu Hour 2025 11 13 1 - Ubuntu Hour 2025-11-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_1.jpg)
+![Sv Ubuntu Hour 2025 11 13 2 - Ubuntu Hour 2025-11-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_2.jpg)
+![Sv Ubuntu Hour 2025 11 13 3 - Ubuntu Hour 2025-11-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_3.jpg)
+![Sv Ubuntu Hour 2025 11 13 4 - Ubuntu Hour 2025-11-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_SV_Ubuntu_Hour_2025-11-13_4.jpg)

@@ -42,13 +42,13 @@ categories: meeting
 
  * Six members retired to Peter Piper Pizza where conversation on Linux and non-Linux topics continued.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugatpeterpiper_04-27-2019_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugatpeterpiper_04-27-2019_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugatpeterpiper_04-27-2019_3.jpg)
+![Clugmtg 04 27 2019 1 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_1.jpg)
+![Clugmtg 04 27 2019 2 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_2.jpg)
+![Clugmtg 04 27 2019 3 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_3.jpg)
+![Clugmtg 04 27 2019 4 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_4.jpg)
+![Clugmtg 04 27 2019 5 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_5.jpg)
+![Clugmtg 04 27 2019 6 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_6.jpg)
+![Clugmtg 04 27 2019 7 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugmtg_04-27-2019_7.jpg)
+![Clugatpeterpiper 04 27 2019 1 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugatpeterpiper_04-27-2019_1.jpg)
+![Clugatpeterpiper 04 27 2019 2 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugatpeterpiper_04-27-2019_2.jpg)
+![Clugatpeterpiper 04 27 2019 3 - CLUG Meeting 2019-04-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clugatpeterpiper_04-27-2019_3.jpg)

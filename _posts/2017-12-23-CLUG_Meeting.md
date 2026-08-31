@@ -46,9 +46,9 @@ categories: meeting
 
  * We adjourned to Vinny’s for some excellent pizza and additional discussion.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_5-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_6-400x400.JPG)
+![Clug Mtg 12 23 17 1 400x400 - CLUG Meeting 2017-12-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_1-400x400.JPG)
+![Clug Mtg 12 23 17 2 400x400 - CLUG Meeting 2017-12-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_2-400x400.JPG)
+![Clug Mtg 12 23 17 3 400x400 - CLUG Meeting 2017-12-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_3-400x400.JPG)
+![Clug Mtg 12 23 17 4 400x400 - CLUG Meeting 2017-12-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_4-400x400.JPG)
+![Clug Mtg 12 23 17 5 400x400 - CLUG Meeting 2017-12-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_5-400x400.JPG)
+![Clug Mtg 12 23 17 6 400x400 - CLUG Meeting 2017-12-23](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Mtg_12-23-17_6-400x400.JPG)

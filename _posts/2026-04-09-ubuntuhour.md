@@ -23,15 +23,15 @@ categories: meeting
 **Announcements:**
  * To date we have donated 233 computers to individuals or groups.  This year alone we have donated 12.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Anyssa_Cowart_and_her_computer.jpg)
+![Resizeplus Anyssa Cowart and her Computer - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Anyssa_Cowart_and_her_computer.jpg)
 
 This one went to Anyssa C.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Nelson_and_his_computer.jpg)
+![Resizeplus Nelson and his Computer - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Nelson_and_his_computer.jpg)
 
 This one went to Nelson H.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Lance_Ward_and_his_computer.jpg)
+![Resizeplus Lance Ward and his Computer - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_Lance_Ward_and_his_computer.jpg)
 
 This one went to Lance W.
 
@@ -43,7 +43,7 @@ This one went to Lance W.
  * Discussed the scheduled release of Ubuntu 26.04 and some of the new features and installing or upgrading from 24.04.4.
  * Discussed a problem that a member had booting to the grub menu and the possible solutions.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_4.jpg)
+![Resizeplus Sv Ubuntu Hour 2026 04 09 1 - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_1.jpg)
+![Resizeplus Sv Ubuntu Hour 2026 04 09 2 - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_2.jpg)
+![Resizeplus Sv Ubuntu Hour 2026 04 09 3 - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_3.jpg)
+![Resizeplus Sv Ubuntu Hour 2026 04 09 4 - Ubuntu Hour 2026-04-09 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizeplus_SV_Ubuntu_Hour_2026-04-09_4.jpg)

@@ -26,8 +26,8 @@ categories: meeting
  * Discussed the options open to an individual who has forgotten his log on password in a Microsoft Windows environment as opposed to a Linux environment.
  * Discussed using the option of a raffle as a gimmick to attract additional attendees at events.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_5.jpg)
+![Sv Ubuntuhour 2022 08 11 1 - Ubuntu Hour 2022-08-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_1.jpg)
+![Sv Ubuntuhour 2022 08 11 2 - Ubuntu Hour 2022-08-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_2.jpg)
+![Sv Ubuntuhour 2022 08 11 3 - Ubuntu Hour 2022-08-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_3.jpg)
+![Sv Ubuntuhour 2022 08 11 4 - Ubuntu Hour 2022-08-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_4.jpg)
+![Sv Ubuntuhour 2022 08 11 5 - Ubuntu Hour 2022-08-11 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntuhour_2022-08-11_5.jpg)

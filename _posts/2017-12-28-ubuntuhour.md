@@ -34,6 +34,6 @@ categories: meeting
  * Discussed a problem that an individual had with getting an Epson printer to function correctly.  Two solutions were offered.
  * Made arrangements to do a re-install of Ubuntu 16.04 for an individual.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-12-28_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-12-28_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-12-28_3-400x400.JPG)
+![Sierravistaubuntuhour 2017 12 28 1 400x400 - Ubuntu Hour 2017-12-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-12-28_1-400x400.JPG)
+![Sierravistaubuntuhour 2017 12 28 2 400x400 - Ubuntu Hour 2017-12-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-12-28_2-400x400.JPG)
+![Sierravistaubuntuhour 2017 12 28 3 400x400 - Ubuntu Hour 2017-12-28 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2017-12-28_3-400x400.JPG)

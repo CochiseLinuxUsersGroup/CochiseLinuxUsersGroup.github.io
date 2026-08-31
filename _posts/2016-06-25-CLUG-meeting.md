@@ -35,9 +35,9 @@ categories: meeting
 
  * A presentation was given to the group by Bruce Adamson on terminal commands.  It was well received because the attendees were actually inputing the information into their computers and could see the result.  Consensus was that we would like Bruce to continue this presentation and schedule a part II.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_1.JPG)
+![Post Clug Meeting 25 06 16pizzahut 1 group photo - CLUG meeting 2016-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_1.JPG)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_2.JPG)
+![Post Clug Meeting 25 06 16pizzahut 2 group photo - CLUG meeting 2016-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_2.JPG)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_3.JPG)
+![Post Clug Meeting 25 06 16pizzahut 3 group photo - CLUG meeting 2016-06-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/Post_CLUG_Meeting_25-06-16PizzaHut_3.JPG)
   

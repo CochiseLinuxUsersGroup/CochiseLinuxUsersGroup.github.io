@@ -47,9 +47,9 @@ categories: meeting
 **Aftermath:**
  * Several of the members retired to Culver’s for a hamburger and fries and some additional Linux conversation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_1.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_2.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_3.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_4.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_5.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_6.JPG)
+![Clug Mtg 2025 11 25 1 - CLUG Meeting 2025-11-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_1.JPG)
+![Clug Mtg 2025 11 25 2 - CLUG Meeting 2025-11-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_2.JPG)
+![Clug Mtg 2025 11 25 3 - CLUG Meeting 2025-11-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_3.JPG)
+![Clug Mtg 2025 11 25 4 - CLUG Meeting 2025-11-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_4.JPG)
+![Clug Mtg 2025 11 25 5 - CLUG Meeting 2025-11-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_5.JPG)
+![Clug Mtg 2025 11 25 6 - CLUG Meeting 2025-11-25](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/resizecom_CLUG_Mtg_2025-11-25_6.JPG)

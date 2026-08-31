@@ -41,7 +41,7 @@ categories: meeting
 **Discussion:**
  * David M asked again about his computer over-charging and ruining the installed batteries.  With the older computers and batteries there were no smart batteries to quit charging after a certain percentage was reached.  With his computer is best to uninstall the battery and just operate it on AC power.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_4.jpg)
+![Clug Mtg 2024 05 28 1 - CLUG Meeting 2024-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_1.jpg)
+![Clug Mtg 2024 05 28 2 - CLUG Meeting 2024-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_2.jpg)
+![Clug Mtg 2024 05 28 3 - CLUG Meeting 2024-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_3.jpg)
+![Clug Mtg 2024 05 28 4 - CLUG Meeting 2024-05-28](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2024-05-28_4.jpg)

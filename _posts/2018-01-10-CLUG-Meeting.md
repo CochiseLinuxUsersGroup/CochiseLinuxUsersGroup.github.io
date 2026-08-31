@@ -34,6 +34,6 @@ There were 9 attendees
  * Information on the Cochise Linux User Group was provided the new attendee along with an explanation of what we do and what we are trying to accomplish in the county.
  * The new CLUG T-shirts were worn to the meeting by the members and we finally look like an organized group.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-01-10_1-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-01-10_2-400x400.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-01-10_3-400x400.jpg)
+![Clug Meeting 2018 01 10 1 400x400 group photo - CLUG Meeting 2018-01-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-01-10_1-400x400.jpg)
+![Clug Meeting 2018 01 10 2 400x400 group photo - CLUG Meeting 2018-01-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-01-10_2-400x400.jpg)
+![Clug Meeting 2018 01 10 3 400x400 group photo - CLUG Meeting 2018-01-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_Meeting_2018-01-10_3-400x400.jpg)

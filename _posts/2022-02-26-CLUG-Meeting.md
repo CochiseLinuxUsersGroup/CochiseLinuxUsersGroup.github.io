@@ -46,8 +46,8 @@ categories: meeting
  * Discussed how to import bookmarks from one computer to another.
  * Discussed the operation of the Mountain View Computer User Group.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_5.jpg)
+![Clug Meeting 2022 02 26 1 group photo - CLUG Meeting 2022-02-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_1.jpg)
+![Clug Meeting 2022 02 26 2 group photo - CLUG Meeting 2022-02-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_2.jpg)
+![Clug Meeting 2022 02 26 3 group photo - CLUG Meeting 2022-02-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_3.jpg)
+![Clug Meeting 2022 02 26 4 group photo - CLUG Meeting 2022-02-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_4.jpg)
+![Clug Meeting 2022 02 26 5 group photo - CLUG Meeting 2022-02-26](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2022-02-26_5.jpg)

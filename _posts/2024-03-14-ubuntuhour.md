@@ -19,7 +19,7 @@ categories: meeting
 
 **Announcements:**
  * To date we have donated 126 computers to individuals or groups
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_rose_and_her_surface_pro.jpg)
+![Rose and her Surface Pro - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_rose_and_her_surface_pro.jpg)
 
 Rose and her Surface Pro
  * and conducted 197 installs on laptops and desktops.
@@ -40,14 +40,14 @@ pkill snap-store
 ```
  * Discussed the use and misuse of the mailing list.  If you want to ask a question or you have a problem, do not reply to an unrelated email.  Instead send your email with the problem in the subject line to cochiselinux@freelists.org and it will go to everyone on the mailing list.  That way the question can be searched in the archives as well as the responses and it can perhaps help someone else.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_5.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_6.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_8.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_9.jpg)
+![Sv Ubuntu Hour 2024 03 14 1 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_1.jpg)
+![Sv Ubuntu Hour 2024 03 14 2 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_2.jpg)
+![Sv Ubuntu Hour 2024 03 14 3 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_3.jpg)
+![Sv Ubuntu Hour 2024 03 14 4 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_4.jpg)
+![Sv Ubuntu Hour 2024 03 14 5 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_5.jpg)
+![Sv Ubuntu Hour 2024 03 14 6 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_6.jpg)
+![Sv Ubuntu Hour 2024 03 14 7 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_7.jpg)
+![Sv Ubuntu Hour 2024 03 14 8 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_8.jpg)
+![Sv Ubuntu Hour 2024 03 14 9 - Ubuntu Hour 2024-03-14 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_sv_ubuntu_hour_2024-03-14_9.jpg)
 
 

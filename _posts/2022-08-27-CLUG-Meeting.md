@@ -38,8 +38,8 @@ categories: meeting
  * A member revealed another way to reset an admin password on a Dell Opti-Plex that was lost or forgotten by simply removing the jumper and starting the machine up.  After shutting it down, replace the jumper and re-set your admin password.
  * One of our members, Jaidon, has moved to Tennessee and is doing well according to all reports.  We wish him well.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_5.jpg)
+![Clug Meeting 2022 08 27 1 group photo - CLUG Meeting 2022-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_1.jpg)
+![Clug Meeting 2022 08 27 2 group photo - CLUG Meeting 2022-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_2.jpg)
+![Clug Meeting 2022 08 27 3 group photo - CLUG Meeting 2022-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_3.jpg)
+![Clug Meeting 2022 08 27 4 group photo - CLUG Meeting 2022-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_4.jpg)
+![Clug Meeting 2022 08 27 5 group photo - CLUG Meeting 2022-08-27](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2022-08-27_5.jpg)

@@ -48,9 +48,9 @@ There were 10 attendees
  
  * Finished with all of the activities at 2200 and reconvened at Denny’s for some badly needed food.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_2-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_3-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_4-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_5-400x400.JPG)
+![Clug Mtg 2017 11 08 1 400x400 - CLUG Meeting 2017-11-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_1-400x400.JPG)
+![Clug Mtg 2017 11 08 2 400x400 - CLUG Meeting 2017-11-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_2-400x400.JPG)
+![Clug Mtg 2017 11 08 3 400x400 - CLUG Meeting 2017-11-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_3-400x400.JPG)
+![Clug Mtg 2017 11 08 4 400x400 - CLUG Meeting 2017-11-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_4-400x400.JPG)
+![Clug Mtg 2017 11 08 5 400x400 - CLUG Meeting 2017-11-08](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/CLUG_mtg_2017-11-08_5-400x400.JPG)
 

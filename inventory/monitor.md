@@ -1,3 +1,12 @@
+---
+layout: default
+title: Monitor Cables & Connectors Details | CLUG Inventory
+description: Detailed list of monitor cables and video connectors in CLUG inventory - DVI, HDMI, VGA, DisplayPort and adapters
+image: /images/CLUG-badge.png
+---
+
+# Monitor Cables & Connectors Details
+
 DVI (9 each)  
 DVI splitter (2 each)        
 DVI-D connector (1 each)    

@@ -24,8 +24,8 @@ categories: meeting
  * Announced the scheduled release of the next version of Ubuntu (19.10, Eoan Ermine) on 17 October 2019.
  * Discussed the advantages of a Linux operating system over a Microsoft Windows system with the new attendee and distributed information on Linux and Ubuntu to him.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_5.jpg)
+![Sv Ubuntuhour 2019 06 13 1 - Ubuntu Hour 2019-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_1.jpg)
+![Sv Ubuntuhour 2019 06 13 2 - Ubuntu Hour 2019-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_2.jpg)
+![Sv Ubuntuhour 2019 06 13 3 - Ubuntu Hour 2019-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_3.jpg)
+![Sv Ubuntuhour 2019 06 13 4 - Ubuntu Hour 2019-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_4.jpg)
+![Sv Ubuntuhour 2019 06 13 5 - Ubuntu Hour 2019-06-13 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_sv_ubuntuhour_2019-06-13_5.jpg)

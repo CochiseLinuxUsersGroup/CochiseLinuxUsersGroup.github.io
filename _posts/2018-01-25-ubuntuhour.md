@@ -30,5 +30,5 @@ categories: meeting
  * Discussed the recent kernel releases that were patch releases for Meltdown.  The Spectre fixes are still forthcoming.
  * Discussed shortening the next AZLOCO/CLUG Installfest to four hours in lieu of six, starting at 1100 and ending at 1500.
  
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2018-01-25_1-400x400.JPG)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2018-01-25_2-400x400.JPG) 
+![Sierravistaubuntuhour 2018 01 25 1 400x400 - Ubuntu Hour 2018-01-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2018-01-25_1-400x400.JPG)
+![Sierravistaubuntuhour 2018 01 25 2 400x400 - Ubuntu Hour 2018-01-25 - CLUG](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/SierraVistaUbuntuHour_2018-01-25_2-400x400.JPG) 

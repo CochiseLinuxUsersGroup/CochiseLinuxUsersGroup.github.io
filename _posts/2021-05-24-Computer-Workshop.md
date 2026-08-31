@@ -28,6 +28,6 @@ The Cochise Linux User Group, CLUG, conducted a Computer Workshop on Monday, 24 
  * In addition we now have six switches all of which are fully functional.
 
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_workshop_2021-05-24_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_workshop_2021-05-24_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_workshop_2021-05-24_3.jpg)
+![Clug Workshop 2021 05 24 1 group photo - Computer Workshop](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_workshop_2021-05-24_1.jpg)
+![Clug Workshop 2021 05 24 2 group photo - Computer Workshop](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_workshop_2021-05-24_2.jpg)
+![Clug Workshop 2021 05 24 3 group photo - Computer Workshop](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_workshop_2021-05-24_3.jpg)

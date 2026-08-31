@@ -33,10 +33,10 @@ categories: meeting
 
  * We reconvened at Denny's for some nourishment and additional conversation.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_5.jpg)
+![Clug Meeting 2018 10 10 1 group photo - CLUG Meeting 2018-10-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_1.jpg)
+![Clug Meeting 2018 10 10 2 group photo - CLUG Meeting 2018-10-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_2.jpg)
+![Clug Meeting 2018 10 10 3 group photo - CLUG Meeting 2018-10-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_3.jpg)
+![Clug Meeting 2018 10 10 4 group photo - CLUG Meeting 2018-10-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_4.jpg)
+![Clug Meeting 2018 10 10 5 group photo - CLUG Meeting 2018-10-10](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images/rsz_clug_meeting_2018-10-10_5.jpg)
 
 

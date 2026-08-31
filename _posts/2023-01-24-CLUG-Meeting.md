@@ -28,7 +28,7 @@ categories: meeting
  * MX Linux 21.3 was released on 15 January 2023.
  * Two additional computers have been donated this last month.
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_6.jpg)
+![Clug Meeting 2023 01 23 6 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_6.jpg)
 
  * To date the CLUG has donated 91 computers to individuals and groups and conducted 161 installs.
  * We still have 1 netbook, and 10 desktop computers that are ready to be donated.
@@ -43,9 +43,9 @@ categories: meeting
 **Discussion/Problems/Questions:**
  * Discussed the different ways to install an application, specifically VLC.  (Software Center/Store, VLC website, Command Line, and perhaps Synaptic Package Manager)
 
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_1.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_7.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_2.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_3.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_4.jpg)
-![alt text](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_5.jpg)
+![Clug Meeting 2023 01 23 1 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_1.jpg)
+![Clug Meeting 2023 01 23 7 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_7.jpg)
+![Clug Meeting 2023 01 23 2 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_2.jpg)
+![Clug Meeting 2023 01 23 3 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_3.jpg)
+![Clug Meeting 2023 01 23 4 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_4.jpg)
+![Clug Meeting 2023 01 23 5 group photo - CLUG Meeting 2023-01-24](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_meeting_2023-01-23_5.jpg)
