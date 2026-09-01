@@ -43,6 +43,21 @@ HOW TO EDIT:
     <!-- Font Awesome - 4.7 (was 4.5.0) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <!-- CLUG: fix fixed-header overlap on anchor/detail pages -->
+    <style>
+      html { scroll-padding-top: 90px; }
+      #main { scroll-margin-top: 90px; padding-top: 2em; }
+      #main > header:first-child { padding-top: 1.5em; }
+      h1[id], h2[id], h3[id] { scroll-margin-top: 90px; }
+      /* Detail pages like /inventory/charger/ have h1 at very top — ensure not hidden under fixed header */
+      .page-content > h1:first-child, .page-content > h1 { margin-top: 1.5em; scroll-margin-top: 90px; }
+      @media screen and (max-width: 736px) {
+        html { scroll-padding-top: 70px; }
+        h1[id], h2[id], h3[id] { scroll-margin-top: 70px; }
+        #main { padding-top: 1.5em; }
+      }
+    </style>
+
     <!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->
     <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie/v9.css" /><![endif]-->
