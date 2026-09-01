@@ -12,6 +12,8 @@ FILE: inventory/usbcables.md — /inventory/usbcables/
 HOW: One line per cable type:  USB-2 A male to B male (23 each)
 - Edit count, add/remove lines. Keep two spaces at line end.
 {% endcomment %}
+<div style="height:60px;" aria-hidden="true"></div>
+
 # USB Cables Inventory Details
 
 USB-2 A male to A male (5 each)  

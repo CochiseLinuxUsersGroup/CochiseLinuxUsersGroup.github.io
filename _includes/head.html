@@ -45,16 +45,18 @@ HOW TO EDIT:
 
     <!-- CLUG: fix fixed-header overlap on anchor/detail pages -->
     <style>
-      html { scroll-padding-top: 90px; }
-      #main { scroll-margin-top: 90px; padding-top: 2em; }
-      #main > header:first-child { padding-top: 1.5em; }
-      h1[id], h2[id], h3[id] { scroll-margin-top: 90px; }
-      /* Detail pages like /inventory/charger/ have h1 at very top — ensure not hidden under fixed header */
-      .page-content > h1:first-child, .page-content > h1 { margin-top: 1.5em; scroll-margin-top: 90px; }
+      html { scroll-padding-top: 120px; }
+      #main { scroll-margin-top: 120px; padding-top: 3.5em; }
+      #main > header:first-child { padding-top: 2.5em; }
+      h1[id], h2[id], h3[id] { scroll-margin-top: 120px; }
+      /* Detail pages like /inventory/charger/ have h1 at very top — huge gap from old no-format md, now via CSS + spacer */
+      .page-content { padding-top: 1.5em; }
+      .page-content > h1:first-child, .page-content > h1 { margin-top: 2.5em; padding-top: 0.5em; scroll-margin-top: 120px; }
       @media screen and (max-width: 736px) {
-        html { scroll-padding-top: 70px; }
-        h1[id], h2[id], h3[id] { scroll-margin-top: 70px; }
-        #main { padding-top: 1.5em; }
+        html { scroll-padding-top: 90px; }
+        h1[id], h2[id], h3[id] { scroll-margin-top: 90px; }
+        #main { padding-top: 2.5em; }
+        .page-content > h1:first-child { margin-top: 2em; }
       }
     </style>
 

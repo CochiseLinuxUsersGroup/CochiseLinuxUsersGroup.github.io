@@ -12,6 +12,8 @@ FILE: inventory/monitor.md — /inventory/monitor/
 HOW: One line per item:  DVI (9 each)
 - Edit number in (X each), add/remove lines
 {% endcomment %}
+<div style="height:60px;" aria-hidden="true"></div>
+
 # Monitor Cables & Connectors Details
 
 DVI (9 each)  
