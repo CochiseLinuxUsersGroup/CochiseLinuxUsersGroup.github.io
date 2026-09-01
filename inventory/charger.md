@@ -15,7 +15,7 @@ HOW: Each line = one charger:  Dell (output 19.5 volts 3.34 amps) (4 each)
 - Remove: delete line
 - Keep format: Brand (output ... ) (N each) — one per line, two spaces at end for line break
 {% endcomment %}
-<div style="height:60px;" aria-hidden="true"></div>
+<div style="height:90px;" aria-hidden="true"></div>
 
 # Laptop AC Adapter Details
 
