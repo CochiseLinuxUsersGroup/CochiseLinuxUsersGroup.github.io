@@ -6,7 +6,7 @@ image: /images/CLUG-badge.png
 keywords: [free computers, CLUG inventory, Sierra Vista, Linux hardware, donated computers]
 ---
 
-<!--
+{% comment %}
 ============================================================================
 EDIT GUIDE — INVENTORY PAGE (for anyone, no HTML knowledge needed)
 FILE: inventory/index.html  — This is the ONLY file to edit for inventory.
@@ -25,7 +25,8 @@ HOW TO ADD A NEW COMPUTER:
 HOW TO ADD A NEW CATEGORY:
 1. Copy a whole <section id="..."> block (e.g. Routers)
 2. Paste above </section> near bottom, change h2/h3 title and pills
-3. Also add a link to the anchor nav at top (see <!-- ANCHOR NAV -->)
+3. Also add a link to the anchor nav at top (see <!-- ANCHOR NAV
+{% endcomment %})
 
 STYLE: Pills = responsive badges (no tables = mobile-friendly). Don't change style="..." unless you know CSS.
 CHILD PAGES: Detailed lists live in inventory/charger.md, monitor.md, usbcables.md — each has own EDIT GUIDE at top.

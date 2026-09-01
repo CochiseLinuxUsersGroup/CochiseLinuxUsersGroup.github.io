@@ -5,13 +5,13 @@ description: Complete list of USB cables in CLUG inventory - USB-2 and USB-3 var
 image: /images/CLUG-badge.png
 ---
 
-<!--
+{% comment %}
 EDIT GUIDE — USB CABLES DETAILS
 FILE: inventory/usbcables.md — /inventory/usbcables.html
 
 HOW: One line per cable type:  USB-2 A male to B male (23 each)
 - Edit count, add/remove lines. Keep two spaces at line end.
--->
+{% endcomment %}
 # USB Cables Inventory Details
 
 USB-2 A male to A male (5 each)  

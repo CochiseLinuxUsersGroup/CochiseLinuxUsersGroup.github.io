@@ -5,13 +5,13 @@ description: Detailed list of monitor cables and video connectors in CLUG invent
 image: /images/CLUG-badge.png
 ---
 
-<!--
+{% comment %}
 EDIT GUIDE — MONITOR CABLES DETAILS
 FILE: inventory/monitor.md — /inventory/monitor.html
 
 HOW: One line per item:  DVI (9 each)
 - Edit number in (X each), add/remove lines
--->
+{% endcomment %}
 # Monitor Cables & Connectors Details
 
 DVI (9 each)  
