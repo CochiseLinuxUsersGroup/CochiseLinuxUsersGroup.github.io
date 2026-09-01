@@ -65,7 +65,7 @@ HOW IT WORKS:
             </li>
           {% endfor %}
         </ul>
-        <!-- Pagination — older style + Go to page select -->
+        <!-- Pagination — older style -->
         {% if paginator and paginator.total_pages > 1 %}
         <nav class="pagination" aria-label="Blog pagination" style="text-align:center; margin:2em 0;">
           {% if paginator.previous_page %}
@@ -76,22 +76,6 @@ HOW IT WORKS:
             <a href="{{ paginator.next_page_path | relative_url }}" class="button small" rel="next">Older Posts →</a>
           {% endif %}
         </nav>
-
-        <!-- Go to page select — quick jump for 67 pages (kept) -->
-        <div style="text-align:center; margin:1em 0;">
-          <label for="page-select" style="font-size:0.9em; margin-right:0.5em;">Go to page:</label>
-          <select id="page-select" onchange="if(this.value) window.location.href=this.value;" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5;">
-            {% for i in (1..paginator.total_pages) %}
-              {% if i == 1 %}
-                {% assign page_url = '/blog/' | relative_url %}
-              {% else %}
-                {% assign page_url = site.paginate_path | replace: ':num', i | relative_url %}
-              {% endif %}
-              <option value="{{ page_url }}" {% if i == paginator.page %}selected{% endif %}>Page {{ i }} of {{ paginator.total_pages }}</option>
-            {% endfor %}
-          </select>
-          <noscript><p style="font-size:0.85em;">Enable JS for quick jump, or use Older/Newer.</p></noscript>
-        </div>
 
         <p style="text-align:center; margin-top:1em;"><em>Showing {{ paginator.posts.size }} of {{ paginator.total_posts }} meeting notes. <a href="/feed.xml">Subscribe via RSS</a></em></p>
         {% else %}
