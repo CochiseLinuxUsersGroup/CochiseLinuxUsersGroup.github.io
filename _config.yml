@@ -16,7 +16,7 @@ description: > # this means to ignore newlines until "baseurl:" — Keep 150-160
   Cochise Linux User Group (CLUG) is a volunteer non-profit in Sierra Vista
   and Cochise County, Arizona. We host free monthly meetings, Ubuntu Hours,
   Linux workshops and presentations on Free & Open Source Software, and provide
-  free troubleshooting and install help for Ubuntu, Linux Mint, LMDE and more.
+  free troubleshooting and install help for Ubuntu, Linux Mint, LMDE, Arch Linux and more.
 baseurl: "" # LEAVE BLANK — subpath if site was /blog/ (not needed here)
 url: "https://cochiselinuxusergroup.org" # LEAVE AS HTTPS — base hostname for SEO/canonical
 lang: en  # html lang attribute (en = English)
