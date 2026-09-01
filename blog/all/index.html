@@ -1,0 +1,217 @@
+---
+layout: default
+title: All Meeting Notes | Cochise Linux User Group
+description: Browse all meeting notes and past events from Cochise Linux User Group — 300+ entries from Sierra Vista, filterable and searchable.
+image: /images/CLUG-badge.png
+sitemap: true
+---
+
+{% comment %}
+============================================================================
+EDIT GUIDE — BLOG ALL VIEW
+FILE: blog/all/index.html — /blog/all/ — shows ALL posts without pagination
+
+HOW IT WORKS:
+- Loops site.posts (all 300+), JS controls per-page display via #per-page-select
+- To change default per-page, edit <option selected> below
+- Pagination is client-side: Go to page + per-page both work via JS, no rebuild needed
+============================================================================
+{% endcomment %}
+<article id="main">
+    <header class="special style2 container">
+        <h1>All Meeting Notes</h1>
+        <p>Every CLUG meeting, Ubuntu Hour & workshop — newest first. Use filters below.</p>
+        <p style="font-size:0.9em;"><a href="/blog/">← Paginated view (5 per page)</a> • <a href="/feed.xml">RSS</a></p>
+    </header>
+    <section class="wrapper style1 container">
+        <!-- Controls: per-page + go to page + search -->
+        <div style="display:flex; flex-wrap:wrap; gap:1em; justify-content:center; align-items:center; margin-bottom:1.5em; padding:1em; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
+            <label for="per-page-select" style="font-weight:bold;">Posts per page:</label>
+            <select id="per-page-select" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5;">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+                <option value="all" selected>All (333)</option>
+            </select>
+            <label for="page-select-all" style="font-weight:bold; margin-left:1em;">Go to page:</label>
+            <select id="page-select-all" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5; min-width:140px;">
+                <!-- filled by JS -->
+            </select>
+            <input type="search" id="blog-search" placeholder="Filter by title..." style="padding:0.4em; border:1px solid #e5e5e5; border-radius:4px; flex:1 1 200px; max-width:300px;">
+        </div>
+        <p id="blog-stats" style="text-align:center; font-size:0.9em; color:#666;"></p>
+
+        <ul class="posts" id="all-posts-list">
+          {% for post in site.posts %}
+            <li class="post-item wrapper style2" data-title="{{ post.title | downcase | escape }}" data-index="{{ forloop.index0 }}">
+              <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.categories %} • {{ post.categories | join: ", " }}{% endif %}</p>
+                {{ post.excerpt }}
+                <section class="special">
+                    <ul class="buttons">
+                        <li><a href="{{ post.url | relative_url }}" class="button">Read more</a></li>
+                    </ul></section>
+            </li>
+          {% endfor %}
+        </ul>
+
+        <nav id="all-pagination" class="pagination" aria-label="Blog pagination" style="text-align:center; margin:2em 0; display:flex; flex-wrap:wrap; gap:0.5em; justify-content:center; align-items:center;">
+            <!-- filled by JS -->
+        </nav>
+
+        <p style="text-align:center; margin-top:1em;"><em>Showing <span id="showing-count"></span> of {{ site.posts.size }} meeting notes.</em></p>
+    </section>
+</article>
+
+<script>
+(function() {
+  const perPageSelect = document.getElementById('per-page-select');
+  const pageSelect = document.getElementById('page-select-all');
+  const searchInput = document.getElementById('blog-search');
+  const posts = Array.from(document.querySelectorAll('#all-posts-list .post-item'));
+  const paginationNav = document.getElementById('all-pagination');
+  const stats = document.getElementById('blog-stats');
+  const showingCount = document.getElementById('showing-count');
+
+  function getPerPage() {
+    const v = perPageSelect.value;
+    if (v === 'all') return posts.length;
+    return parseInt(v, 10) || 5;
+  }
+
+  let currentPage = 1;
+  let filtered = posts.slice();
+
+  function applySearch() {
+    const q = (searchInput.value || '').toLowerCase().trim();
+    if (!q) {
+      filtered = posts.slice();
+    } else {
+      filtered = posts.filter(li => li.getAttribute('data-title').indexOf(q) !== -1);
+    }
+    currentPage = 1;
+    render();
+  }
+
+  function renderPagination(perPage, totalPages) {
+    paginationNav.innerHTML = '';
+    pageSelect.innerHTML = '';
+
+    if (totalPages <= 1) return;
+
+    // Prev
+    if (currentPage > 1) {
+      const a = document.createElement('a');
+      a.href = '#';
+      a.className = 'button small';
+      a.textContent = '← Newer';
+      a.onclick = (e) => { e.preventDefault(); currentPage--; render(); window.scrollTo(0,0); };
+      paginationNav.appendChild(a);
+    }
+
+    // Windowed numbers (like blog/index.html)
+    const windowSize = 2;
+    const left = Math.max(1, currentPage - windowSize);
+    const right = Math.min(totalPages, currentPage + windowSize);
+
+    function addPageBtn(i) {
+      if (i === currentPage) {
+        const s = document.createElement('span');
+        s.className = 'button small';
+        s.style.background = '#3fb1a3';
+        s.style.color = '#fff';
+        s.style.borderColor = '#3fb1a3';
+        s.textContent = i;
+        s.setAttribute('aria-current','page');
+        paginationNav.appendChild(s);
+      } else {
+        const a = document.createElement('a');
+        a.href = '#';
+        a.className = 'button small';
+        a.textContent = i;
+        a.onclick = (e) => { e.preventDefault(); currentPage = i; render(); window.scrollTo(0,0); };
+        paginationNav.appendChild(a);
+      }
+    }
+
+    for (let i=1; i<=totalPages; i++) {
+      if (i===1 || i===totalPages || (i>=left && i<=right)) {
+        addPageBtn(i);
+      } else if (i===left-1 || i===right+1) {
+        const s = document.createElement('span');
+        s.textContent = '…';
+        s.style.margin = '0 0.3em';
+        paginationNav.appendChild(s);
+      }
+    }
+
+    if (currentPage < totalPages) {
+      const a = document.createElement('a');
+      a.href = '#';
+      a.className = 'button small';
+      a.textContent = 'Older →';
+      a.onclick = (e) => { e.preventDefault(); currentPage++; render(); window.scrollTo(0,0); };
+      paginationNav.appendChild(a);
+    }
+
+    // Populate Go to page select
+    for (let i=1; i<=totalPages; i++) {
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = 'Page ' + i + ' of ' + totalPages;
+      if (i===currentPage) opt.selected = true;
+      pageSelect.appendChild(opt);
+    }
+  }
+
+  function render() {
+    const perPage = getPerPage();
+    const total = filtered.length;
+    const totalPages = Math.max(1, Math.ceil(total / perPage));
+
+    if (currentPage > totalPages) currentPage = totalPages;
+
+    // Hide all, show slice
+    posts.forEach(li => li.style.display = 'none');
+    filtered.forEach(li => li.style.display = 'none');
+
+    const start = (currentPage-1)*perPage;
+    const end = Math.min(start+perPage, total);
+    for (let i=start; i<end; i++) {
+      if (filtered[i]) filtered[i].style.display = '';
+    }
+
+    renderPagination(perPage, totalPages);
+
+    const showing = Math.min(end-start, total);
+    // stats
+    if (perPageSelect.value === 'all') {
+      stats.textContent = total + ' posts (filtered ' + total + ' shown) — use Posts per page to paginate';
+    } else {
+      stats.textContent = 'Page ' + currentPage + ' of ' + totalPages + ' — showing ' + (start+1) + '–' + end + ' of ' + total + (searchInput.value ? ' (filtered)' : '');
+    }
+    showingCount.textContent = showing + ' of ' + total;
+
+    // Update URL without reload for shareable state
+    const url = new URL(window.location);
+    url.searchParams.set('per_page', perPageSelect.value);
+    url.searchParams.set('page', currentPage);
+    if (searchInput.value) url.searchParams.set('q', searchInput.value); else url.searchParams.delete('q');
+    history.replaceState(null,'',url);
+  }
+
+  // Init from URL
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('per_page')) perPageSelect.value = params.get('per_page');
+  if (params.get('page')) currentPage = parseInt(params.get('page'),10) || 1;
+  if (params.get('q')) searchInput.value = params.get('q');
+
+  perPageSelect.addEventListener('change', () => { currentPage=1; render(); });
+  pageSelect.addEventListener('change', (e) => { currentPage = parseInt(e.target.value,10); render(); window.scrollTo(0,0); });
+  searchInput.addEventListener('input', () => { applySearch(); });
+  // Also support ?per_page from blog/index.html selector
+  render();
+})();
+</script>
