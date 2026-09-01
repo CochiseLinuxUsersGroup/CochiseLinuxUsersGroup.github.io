@@ -43,41 +43,19 @@ HOW IT WORKS:
             </li>
           {% endfor %}
         </ul>
-        <!-- Pagination — windowed numbers + Go to page select for 67 pages -->
+        <!-- Pagination — older style + Go to page select -->
         {% if paginator and paginator.total_pages > 1 %}
         <nav class="pagination" aria-label="Blog pagination" style="text-align:center; margin:2em 0;">
           {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="button small" rel="prev">← Newer</a>
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="button small" rel="prev">← Newer Posts</a>
           {% endif %}
-
-          <!-- Numbered links: show 1, last, and 2 around current with … -->
-          {% assign window = 2 %}
-          {% assign left = paginator.page | minus: window %}
-          {% assign right = paginator.page | plus: window %}
-          {% assign left_minus_one = left | minus: 1 %}
-          {% assign right_plus_one = right | plus: 1 %}
-          {% for i in (1..paginator.total_pages) %}
-            {% if i == 1 or i == paginator.total_pages or i >= left and i <= right %}
-              {% if i == paginator.page %}
-                <span class="button small" style="background:#3fb1a3; color:#fff; border-color:#3fb1a3;" aria-current="page">{{ i }}</span>
-              {% else %}
-                {% if i == 1 %}
-                  <a href="{{ '/blog/' | relative_url }}" class="button small">{{ i }}</a>
-                {% else %}
-                  <a href="{{ site.paginate_path | replace: ':num', i | relative_url }}" class="button small">{{ i }}</a>
-                {% endif %}
-              {% endif %}
-            {% elsif i == left_minus_one or i == right_plus_one %}
-              <span style="margin:0 0.3em;">…</span>
-            {% endif %}
-          {% endfor %}
-
+          <span style="margin:0 1em;">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | relative_url }}" class="button small" rel="next">Older →</a>
+            <a href="{{ paginator.next_page_path | relative_url }}" class="button small" rel="next">Older Posts →</a>
           {% endif %}
         </nav>
 
-        <!-- Go to page select — quick jump for 67 pages -->
+        <!-- Go to page select — quick jump for 67 pages (kept) -->
         <div style="text-align:center; margin:1em 0;">
           <label for="page-select" style="font-size:0.9em; margin-right:0.5em;">Go to page:</label>
           <select id="page-select" onchange="if(this.value) window.location.href=this.value;" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5;">
