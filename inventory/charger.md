@@ -7,7 +7,7 @@ image: /images/CLUG-badge.png
 
 {% comment %}
 EDIT GUIDE — CHARGER DETAILS (detailed list linked from inventory)
-FILE: inventory/charger.md — shown at /inventory/charger.html
+FILE: inventory/charger.md — shown at /inventory/charger/
 
 HOW: Each line = one charger:  Dell (output 19.5 volts 3.34 amps) (4 each)
 - Change number in (X each) to update count

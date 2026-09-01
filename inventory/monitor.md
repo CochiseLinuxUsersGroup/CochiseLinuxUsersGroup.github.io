@@ -7,7 +7,7 @@ image: /images/CLUG-badge.png
 
 {% comment %}
 EDIT GUIDE — MONITOR CABLES DETAILS
-FILE: inventory/monitor.md — /inventory/monitor.html
+FILE: inventory/monitor.md — /inventory/monitor/
 
 HOW: One line per item:  DVI (9 each)
 - Edit number in (X each), add/remove lines
