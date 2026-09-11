@@ -68,3 +68,15 @@
   display: "Jan 26"
   title: "CLUG Supper Meeting"
   location: "Chili's, 4001 E Hwy 90"
+- date: 2027-02-11
+  time: "18:00:00-07:00"
+  time_display: "6pm"
+  display: "Feb 11"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr., 2080 E Fry Blvd, Sierra Vista"
+- date: 2027-02-23
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "Jan 26"
+  title: "CLUG Meeting"
+  location: "Warrior Healing Center"
