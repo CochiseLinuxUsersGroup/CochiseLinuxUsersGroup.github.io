@@ -1,0 +1,136 @@
+---
+layout: default
+title: Re: [article] The Home Directory Will be Private in Ubuntu 21.04, What Does it Mean? | CLUG Mailing List Archive
+description: Re: [article] The Home Directory Will be Private in Ubuntu 21.04, What Does it Mean? — 1 message &middot; started by Rex Bouwense on Jan 15, 2021 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: [article] The Home Directory Will be Private in Ubuntu 21.04, What Does it Mean?</h1>
+    <p>1 message &middot; started by Rex Bouwense on Jan 15, 2021</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: [article] The Home Directory Will be Private in Ubuntu 21.04, What Does it Mean?</h3>
+    <p style="font-size:0.85em;"><em>From Rex Bouwense &middot; Jan 15, 2021</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+    For those of you that are the sole user on your
+      computer, this will have no effect.  This only will apply to a
+      computer with multiple users and will be the default setting.  If
+      you are using Ubuntu 20.04, there will be no change until the new
+      LTS version which will be 22.04.  Of course you can always modify
+      the permissions.  Version 21.04 is merely an interim version like
+      19.04, 19.10, or 20.10 and is only supported for 9 months.  This
+      change will be tested for a year before it is included in the next
+      LTS version.<br>
+      Rex <br>
+    <br>
+    <div>On 1/15/21 12:52 PM, Devi Garcia wrote:<br>
+    </div>
+    
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(45 lines)</span>
+    </span>
+  
+  <div>      <br>
+      <br>
+         Private home</div>
+  <div>
+    <blockquote>
+      
+      <div>
+         Private home
+          directories? What does it mean? 
+        <p>I hope you are aware of
+          file permissions. If not, I have written a <a href="https://linuxhandbook.com/linux-file-permissions/">detailed and easy to understand guide
+            to Linux file permission</a> and I suggest you read that.</p>
+        <p>Most people probably
+          never noticed it but the home directory in Ubuntu has the
+          permission 755 i.e. rwxr-xr-x.</p>
+        <div><span><span></span></span></div>
+        <p>What it means is that if
+          there are multiple users on the same Ubuntu system, they can
+          enter home directory of other users and read the files stored
+          in it. They cannot modify these files or execute them,
+          however.</p>
+        <p>I think this is the
+          common practice in many Linux distributions as this allows to
+          easily share files between users on the same Linux system,
+          specially in a server environment.</p>
+        <p>If this was the usual
+          practice so far, why change it now?</p>
+         Making home directory
+          private adds a security layer 
+        <p>As Alex Murray of
+          Canonical points in the <a href="https://discourse.ubuntu.com/t/private-home-directories-for-ubuntu-21-04-onwards/19533">announcement</a>, in the cloud and
+          server environment, usually, there is one admin account and
+          several worker accounts.</p>
+        <p>In a rare case, if the
+          worker account is compromised, the attacker can easily access
+          sensitive data from the home directories of other users and
+          the admin accounts.</p>
+        <p>This is the reason why
+          the home directories in Ubuntu 21.04 will have permission 750
+          instead of 755.</p>
+        <p>This means that other
+          users on the same system cannot enter the home directories of
+          other users or access and read their files. In cases, where a
+          set of users were created as part of the same default group,
+          they can still access home directories. By default, in Ubuntu,
+          each user has its own default group with the same name as the
+          username.</p>
+        <p>read more: <a href="https://news.itsfoss.com/private-home-directory-ubuntu-21-04/">https://news.itsfoss.com/private-home-directory-ubuntu-21-04/</a></p>
+      </div>
+    </blockquote>
+  </div>
+
+
+    <br>
+  
+
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/article-The-Home-Directory-Will-be-Private-in-Ubuntu-2104-What-Does-it-Mean,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to January 2021</a>
+    </p>
+</section>

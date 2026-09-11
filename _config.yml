@@ -93,5 +93,6 @@ exclude:
   - clug.py
   - install.sh
   - tester.sh
+  - tools
   - "*.gemspec"
   - "*.gem"

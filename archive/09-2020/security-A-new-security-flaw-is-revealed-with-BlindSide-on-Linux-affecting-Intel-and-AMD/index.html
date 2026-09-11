@@ -1,0 +1,94 @@
+---
+layout: default
+title: [security] A new security flaw is revealed with &amp;#x27;BlindSide&amp;#x27; on Linux affecting Intel and AMD | CLUG Mailing List Archive
+description: [security] A new security flaw is revealed with &amp;#x27;BlindSide&amp;#x27; on Linux affecting Intel and AMD — 1 message &middot; started by Devi Garcia on Sep 12, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[security] A new security flaw is revealed with &amp;#x27;BlindSide&amp;#x27; on Linux affecting Intel and AMD</h1>
+    <p>1 message &middot; started by Devi Garcia on Sep 12, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [security] A new security flaw is revealed with &amp;#x27;BlindSide&amp;#x27; on Linux affecting Intel and AMD</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Sep 12, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<p>VUSec have <a href="https://www.vusec.net/projects/blindside/">published</a> and shown an example of a newly discovered flaw present with both Intel and AMD processors when used with Linux.</p>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(6 lines)</span>
+    </span>
+  
+  <div>BlindSide allows attackers to “hack blind” in the Spectre era. That <br>
+is, given a simple buffer overflow in the kernel and no additional info <br>
+leak vulnerability, BlindSide can mount BROP-style attacks in</div>
+  <div>
+    <blockquote>
+<p>BlindSide allows attackers to “hack blind” in the Spectre era. That 
+is, given a simple buffer overflow in the kernel and no additional info 
+leak vulnerability, BlindSide can mount <a href="https://www.scs.stanford.edu/brop/bittau-brop.pdf">BROP-style attacks</a> in
+ the speculative execution domain to repeatedly probe and derandomize 
+the kernel address space, craft arbitrary memory read gadgets, and 
+enable reliable exploitation. </p>
+</blockquote>
+  </div>
+
+
+<p>It&#x27;s quite a wide-reaching security issue too which they mentioned 
+testing being successful across Intel Skylake, Kaby Lake and Coffee Lake
+ microarchitectures and additionally AMD Zen+ and 
+Zen2 microarchitectures with their testing overcoming the latest 
+mitigations too.</p>
+<p>Going by what they said in the full paper, the issue is present in 
+the Linux Kernel from v3.19 up to v5.8 so that&#x27;s potentially a lot of 
+systems. They said it means that &quot;an attacker armed with a write 
+vulnerability can perform BlindSide attacks on a wide range of recent 
+production Linux kernel versions even when blind to the particular 
+kernel version&quot;.</p>
+<p>read more:</p>
+<p><a href="https://www.gamingonlinux.com/2020/09/a-new-security-flaw-is-revealed-with-blindside-on-linux-affecting-intel-and-amd">https://www.gamingonlinux.com/2020/09/a-new-security-flaw-is-revealed-with-blindside-on-linux-affecting-intel-and-amd</a></p>
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/security-A-new-security-flaw-is-revealed-with-BlindSide-on-Linux-affecting-Intel-and-AMD" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to September 2020</a>
+    </p>
+</section>

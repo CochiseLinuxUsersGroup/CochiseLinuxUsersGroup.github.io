@@ -1,0 +1,275 @@
+---
+layout: default
+title: Re: Update | CLUG Mailing List Archive
+description: Re: Update — 1 message &middot; started by Joseph Meditz on Nov 20, 2017 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: Update</h1>
+    <p>1 message &middot; started by Joseph Meditz on Nov 20, 2017</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: Update</h3>
+    <p style="font-size:0.85em;"><em>From Joseph Meditz &middot; Nov 20, 2017</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<div>Hi Charles,<br>
+</div>
+<div>I am no Linux expert.  All I can offer is what I would do.</div>
+<div><br></div>
+<div>First:</div>
+<div>I would check to see what is on your unreadable drive.  To do this you will need a SATA to USB adapter.  </div>
+<div><br></div>
+<div><a href="https://www.amazon.com/SATA-Adapter-Cable-Power-Cord/dp/B001OOT804">https://www.amazon.com/SATA-Adapter-Cable-Power-Cord/dp/B001OOT804</a></div>
+<div><br></div>
+<div>Open your PC.  Disconnect the two plugs on the HD.  Plug in the adapter plugs in their place. Bring over your Ubuntu laptop, and plug the USB end into the laptop.  You should be able to see all of your data directories.  You can even open a text file you saved at some point and read it on your laptop.  If all this is OK, go to the second step.</div>
+<div><br></div>
+<div>Second:</div>
+<div>&quot;Ubuntu 16. anybody have a way to fix this without reformatting the disc and loosing all the data on the drive?  Thanks, charles&quot;</div>
+<div><br></div>
+<div>Yes, get hold of another drive.  Unplug the adapter and then plug the SATA and power plugs from you mother board into this new drive.  (There is no need to unscrew the old one.  Leave all the mechanical stuff in place for now. )  Then do a fresh install on the new drive. (This is a good time to get a Solid State drive.)  You should be able to boot OK.</div>
+<div><br></div>
+<div>Third:</div>
+<div>Now you can remove the old drive, and put the new one in its place connecting it to wires from the motherboard that used to go to the old drive.  Then do one of the following:</div>
+<div><br></div>
+<div>a) Connect the adapter to the old drive and plug it into a USB board on your PC with the new Ubuntu installation, and copy your data directories to the new drive.  You can save the old drive in a box in a closet, which you will never look at again.</div>
+<div>b) You can keep the old drive in place, but change the boot order, or you swap the positions of the old and new drive and leave the boot order alone. This will obviate the need to copy all your data files.  But I&#x27;ll leave this for one of the CLUG&#x27;s Linux mavens to walk you through it.</div>
+<div><br></div>
+<div>You mentioned different versions of Ubuntu as well as Mint partitions your email.  That being the case, it is hard for folks to fix the problem at a distance over email.  </div>
+<div><br></div>
+<div>Cheers,</div>
+<div>Joe</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+</div><div>
+<br><div>On Mon, Nov 20, 2017 at 9:06 AM, Charles Breaux <span>&lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt;</span> wrote:<br>
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(71 lines)</span>
+    </span>
+  
+  <div><pre>Thanks Bruce, but I don&#x27;t know enough to venture into your suggestions.
+I
+have found numerous fixes for the the grub rescue, they are all</pre></div>
+  <div>
+    
+    <blockquote>
+<div><div>Thanks Bruce, but I don&#x27;t know enough to venture into your suggestions. 
+
+
+	
+	
+	
+	
+
+
+<p>I
+have found numerous fixes for the the grub rescue, they are all
+different and some rather involved. I have attached some of these, do
+you have an opinion on which of these would be advisable?  
+</p>
+<p>And,
+worst case scenario:  I have a time shift back up on the HD
+which I assume I could access using a live DVD. Do you know where I
+can find that back up file, and could I use it that file to reinstall
+16.04 after I reformat the drive. How would I install that file?</p>
+<p>Thanks, another nuked nubie...<br></p>
+<p><br><br>
+</p>
+
+</div></div>
+<div>
+<br><div>On Sun, Nov 19, 2017 at 1:40 PM, HateNo Hama <span>&lt;<a href="mailto:hateno.hama@gmail.com">hateno.hama@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div>Hi Charles.  Yeah, working with live partitions can be adventurous.  I&#x27;ll try to give you the solution I would use, but I don&#x27;t remember the exact commands or file names and locations, so some of this will be up to you.<div><br></div>
+<div>Step 1 is to boot the live DVD, but don&#x27;t install. Just get to a desktop. </div>
+<div><br></div>
+<div>Step 2 is to mount your root partition.  In the unlikely event you have made a separate /boot partition, you will need to mount that too.  I would open a terminal window to do this, but whatever tool works for you.  The commands to mount your root partition will likely be something like:</div>
+<div><br></div>
+<div>&quot;mkdir /mnt/myroot&quot; </div>
+<div>&quot;mount -t auto /dev/sda1 /mnt/myroot&quot; </div>
+<div><br></div>
+<div>Step 3 is to edit your grub conf or grub boot file.  This is either in something like </div>
+<div>/mnt/myroot/boot/grub </div>
+<div>or a symlink in </div>
+<div>/mnt/myroot/etc/default </div>
+<div>or /mnt/myroot/etc/grub, </div>
+<div>something like that.  </div>
+<div>Look for grub.conf, grub.boot, boot.grub, you get the idea.  </div>
+<div><br></div>
+<div>Find the stanza with the partition you want to boot into, and change the number to either 1 or 0, depending on the grub you use.  It is probably 1, though, for the newer grub versions. You should not need to run update-grub, as you would need to be chrooted to myroot.  You should not need to edit grub chrooted to myroot.  </div>
+<div><br></div>
+<div>Step 4 is to reboot and cross your fingers.  If it still doesn&#x27;t boot, repeat these steps and double check your grub stanzas. </div>
+<div><br></div>
+<div>I think this will get you across the finish line.  Your stuff is still there, grub just needs to know where it is.</div>
+<div><br></div>
+<div>Bruce</div>
+<div> </div>
+</div>
+<div>
+<br><div>On Nov 20, 2017 1:21 AM, &quot;Charles Breaux&quot; &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br><blockquote>
+<div><div>
+
+
+	
+	
+	
+	
+
+
+<p>HELP,
+I got a big problem!  I had 3 partitions, I deleted the one with
+Mint, and now my ubuntu 16.04 wont&#x27; boot. get this error: no such
+partition. entering rescue mode...grub rescue&gt;</p>
+<p><br>
+</p>
+<p>I
+researched online but, man this is way over my head. This is one
+thing I found but I&#x27;ve learned the hard way not to do commands when
+you don&#x27;t understand what you&#x27;re doing....like the post I followed to
+delete a partition—which never mentioned loosing the boot info!!!</p>
+<p><br>
+</p>
+<p>Working
+off boot DVD, I used gpart to delete the Mint partition, then resized
+the ubuntu 16.04 to include that partition, but got a message that to
+complete the resize might injure the boot info, so I clicked on undue
+the resize. But, when I tried to boot got the grub rescue prompt.</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<p>anyway,
+there seems to be a lot
+of different ways to do this according to the posts I have
+researched, all kinds of complicated commands etc that I have no
+understanding of. I also will want to either delete or downsize the
+partition with ubuntu 14 on it. I think part of the problem might be
+that 16.04 was the last partition i added. On the gpart menu it is on
+the right of the box/graph that shows the relative size of the
+partition....</p>
+<p><br>
+</p>
+<p>Can
+anyone walk me through this? I really need my computer back! Sure
+would hate to have to reformat the HD and reinstall everything! 
+</p>
+<p><br>
+</p>
+<p>Thanks,
+
+</p>
+
+</div></div>
+<div>
+<br><div>On Sat, Nov 18, 2017 at 11:36 AM, Charles Breaux <span>&lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div><div>Thanks, I did figure out...<br>
+</div></div>
+<div><div>
+<div>
+<br><div>On Sat, Nov 18, 2017 at 11:31 AM, Devi Garcia <span>&lt;<a href="mailto:asphyxiated.god@gmail.com">asphyxiated.god@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div>Looks like the exfat module or drivers were uninstalled just reinstall em and should work </div>
+<span><div><div>
+<div>
+<br><div>On Nov 18, 2017 11:24 AM, &quot;Charles Breaux&quot; &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br><blockquote>
+<div>
+<div></div>
+<div>Got this error message when I plugged in my ext back up drive. I&#x27;ve been using this drive with Ubuntu for several years, never had this problem before. Other drives with exfat still mount.</div>
+<div>Ubuntu 16. anybody have a way to fix this without reformatting the disc and loosing all the data on the drive?  Thanks, charles<br>
+</div>
+</div>
+<div>
+<br><div>On Fri, Nov 17, 2017 at 2:55 PM, Rex Bouwense <span>&lt;<a href="mailto:majb@azloco.com">majb@azloco.com</a>&gt;</span> wrote:<br><blockquote>The next CLUG sponsored installfest will be on 20 January 2018, 10-4pm at the University of Arizona South Learning Resource Center, <a href="https://maps.google.com/?q=1140+N.+Colombo+Avenue,+Sierra+Vista&amp;entry=gmail&amp;source=g">1140 N. Colombo Avenue, Sierra Vista</a>.  Make plans now to attend and assist others in installing and enjoying a Linux operating system.<br>
+<br>
+We were able to reserve the Sierra Vista public library conference room for our Saturday meetings in 2018.  Therefore we will meet there on every 4th Saturday of each month in the calendar year 2018, 1:00-3:30pm.  Put the dates on your calendar and plan to attend.<span><br>
+<br>
+Rex Bouwense<br>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - <a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br>
+For more information:  <a href="http://www.cochiselinux.com">http://www.cochiselinux.com</a><br>
+To unsubscribe: <a href="https://www.freelists.org/list/cochiselinux">http://www.freelists.org/list/cochiselinux</a><br>
+</span>
+</blockquote>
+  
+
+</div>
+<br>
+</div>
+</blockquote>
+</div>
+</div>
+</div></div></span>
+</blockquote>
+</div>
+<br>
+</div>
+</div></div>
+</blockquote>
+</div>
+<br>
+</div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+</div>
+<br>
+</div>
+</blockquote>
+  </div>
+
+
+</div>
+<br>
+</div>
+
+<p><img alt="Screenshot from 2017-11-18 11-18-43.png" src="https://cdn.freelists.org/attachments/cochiselinux/75/757396b111c632172f93b738daa613e0352ef12770b5b244e5283bb7d32d0619.png"></p>
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Update,1699" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to November 2017</a>
+    </p>
+</section>

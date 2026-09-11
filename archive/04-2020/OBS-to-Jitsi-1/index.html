@@ -1,0 +1,90 @@
+---
+layout: default
+title: Re: OBS to Jitsi | CLUG Mailing List Archive
+description: Re: OBS to Jitsi — 1 message &middot; started by David Garcia on Apr 15, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: OBS to Jitsi</h1>
+    <p>1 message &middot; started by David Garcia on Apr 15, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: OBS to Jitsi</h3>
+    <p style="font-size:0.85em;"><em>From David Garcia &middot; Apr 15, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<p>Most people who use OBS and any type of this setup in general.. are gamers/streamers etc.. and every one of their setups has one thing in common yours is lacking… they have dedicated audio DACs.. for their MICs to be inputed into and then feed those into a usb port.. if your just trying to “remake” or “cut” some video.. you may be better off just doing some video editing before hand.. rather than trying to stream it all live… because those streamer setups.. aren’t cheap… and that’s where your going to have to look to start seeing what equipment you may need… </p>
+<p> </p>
+<div><p><b>From: </b><a href="mailto:eliterdaboss@gmail.com">Eliter Awesomeness</a><br><b>Sent: </b>Tuesday, April 14, 2020 10:40 PM<br><b>To: </b><a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br><b>Subject: </b>[cochiselinux] OBS to Jitsi</p></div>
+<p> </p>
+<div>
+<p>Hello,</p>
+<div><p> (this is a software question) So as you know, I sell knives. I do virtual demos, which I do a video conference to sell the knives, and am using Jitsi (a video conferencing software that I self-host), and am doing it using Chromium web browser. Firefox works too, so I guess it doesn&#x27;t matter.</p></div>
+<div><p> OBS (Open Broadcast Software - <a href="https://obsproject.com/">https://obsproject.com/</a>) is a really cool piece of software that allows you to stream and record video/audio. It also allows you to put scenes together, and switch scenes (e.g. video-on-video, switch windows, show &quot;technical difficulties&quot; scene).</p></div>
+<div><p> However, Jitsi does not accept streams from OBS, so I have to work around it. I found a modification for OBS, called obs-v4l2sink ( <a href="https://github.com/CatxFish/obs-v4l2sink">https://github.com/CatxFish/obs-v4l2sink</a> ), which basically creates a fake video device and outputs the OBS video to the fake video device.</p></div>
+<div><p> Since Jitsi displays garbage quality for the video device, and also cuts it out, I had to use the &quot;share screen&quot; feature in Chromium/Firerfox, and have VLC play the video from the fake video device, and have the &quot;share screen&quot; share the window of the VLC player.</p></div>
+<div><p> </p></div>
+<div><p>Here are commands to get OBS and the mod installed:</p></div>
+<div><p>sudo apt-get update<br>sudo apt-get install ffmpeg git make cmake build-essential<br>sudo add-apt-repository ppa:obsproject/obs-studio<br>sudo apt-get update<br>sudo apt-get install obs-studio<br>sudo apt install qtbase5-dev<br>git clone --recursive <a href="https://github.com/obsproject/obs-studio.git">https://github.com/obsproject/obs-studio.git</a><br>git clone <a href="https://github.com/CatxFish/obs-v4l2sink.git">https://github.com/CatxFish/obs-v4l2sink.git</a><br>cd obs-v4l2sink<br>mkdir build &amp;&amp; cd build<br>cmake -DLIBOBS_INCLUDE_DIR=&quot;../../obs-studio/libobs&quot; -DCMAKE_INSTALL_PREFIX=/usr ..<br>make -j4<br>sudo make install<br>sudo modprobe v4l2loopback<br>sudo modprobe v4l2loopback devices=1<br>sudo modprobe v4l2loopback exclusive_caps=1</p></div>
+<div>
+<div><p> </p></div>
+<div><p>Then, I open up OBS, and create a scene. You can create a scene by right-clicking the box under &quot;Scenes&quot;, and creating a scene. To add your desktop to the scene, click on a scene, and add a source (right-click on the box under &quot;Sources&quot;), click &quot;Screen Capture&quot;, click &quot;OK&quot; select your screen, then click &quot;OK&quot;. You should now see your desktop on preview.</p></div>
+<div><p> </p></div>
+<div><p>Then, to output to the fake video device from OBS, on the top of the window, go to &quot;Tools&quot; -&gt; &quot;V4L2 Video Output&quot; select the video device (in my case, &quot;/dev/video0&quot; -- see explanation below on video device numbers), for Video Format, I find that YUY2 is the only one that works. Then, hit &quot;Start&quot;, then exit the &quot;V4l2sinkProperties&quot; window.</p></div>
+<div><p> </p></div>
+<div><p>Of course, you will have to install VLC as well. What I did was open the virtual video device via VLC using this: &quot;vlc --intf dummy v4l2:///dev/video0&quot; in command line. This will open VLC, using an interface that won&#x27;t add unnecessary stuff we don&#x27;t need. Of course, on this computer, I didn&#x27;t have any real video devices, so the device number was 0. If you have 1 video device, this would be &quot;video1&quot;, if you have 2 video devices, &quot;video2&quot;, and so on. Linux starts with &quot;video0&quot; and works its way up (programmers like counting up from 0). You can check what video devices you have by using this: &quot;ls -lah /dev/ |grep video&quot;.</p></div>
+<div><p> </p></div>
+<div><p>Then, once you have VLC running, you go to your web browser, making VLC stays not minimized or closed, go to video conferencing software (such as Zoom, Hangouts would probably work too), and select the fake video device (it might be called &quot;Dummy&quot; or something like that). It should work.</p></div>
+<div><p> </p></div>
+<div><p>So the problem is, how do I get audio in this? How do I get OBS to output audio into the video conference? I could try creating a fake microphone, and have OBS output to that, and have Chromium/Firefox but I don&#x27;t know how I would do that. I have been searching for hours online for solutions! My other concern, is that if I do get it working, the video will be out-of-sync with the audio, which is ABSOLUTELY annoying to people to see/hear that.</p></div>
+<div><p> </p></div>
+<div><p>Thanks,</p></div>
+</div>
+</div>
+<p>Eli D.</p>
+<p> </p>
+</div>
+--------------------------------------------------------------------
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org
+For more information:  https://cochiselinuxusergroup.org/
+Mailing List Archive: https://www.freelists.org/archive/cochiselinux
+To unsubscribe: //www.freelists.org/list/cochiselinux
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/OBS-to-Jitsi,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to April 2020</a>
+    </p>
+</section>

@@ -1,0 +1,81 @@
+---
+layout: default
+title: downloading remote files using scp | CLUG Mailing List Archive
+description: downloading remote files using scp — 1 message &middot; started by George Praggastis on Jan 27, 2023 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>downloading remote files using scp</h1>
+    <p>1 message &middot; started by George Praggastis on Jan 27, 2023</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> downloading remote files using scp</h3>
+    <p style="font-size:0.85em;"><em>From George Praggastis &middot; Jan 27, 2023</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<div>i am trying to copy contents of aTestDirectory on one machine (remote machine) to another machine (local machine) by issuing a local scp command:</div>
+<div><br></div>
+<div>  scp georgep@georgep-Latitude-E5500:/home/georgep/TestDirectory/*.* /home/georgep   (space between last * and /home/georgep)</div>
+<div><br></div>
+<div>i get response on local machine:</div>
+<div><br></div>
+<div>  ssh: Could not resolve hostname georgep@georgep-latitude-e5500: Temporary failure in name resolution  (notice that &quot;l&quot; and last &quot;e&quot; are not in caps?)<br>
+</div>
+<div><br></div>
+<div>anyone know why this scp cmd failed and/or anything about the mixed case business?<br>
+</div>
+<div><br></div>
+<div>PS  when i do a pwd on remote i get:</div>
+<div>  georgep@georgep-Latitude-E5500:~$ pwd<br>
+</div>
+<div>  /home/georgep</div>
+<div><br></div>
+<div>pwd on local returns:</div>
+<div>localusernam/localmachinename:/home/georgep  (i previously created georgep sub directory under /home on local) <br>
+</div>
+<div>the user name issuing the scp cmd on local is &quot;clug&quot; and has his own directory under home i.e. /home/clug but this is not relevant to problem<br>
+</div>
+<div><br></div>
+<div><br></div>
+<div>
+<br>-- <br><div><div><div><div>Have a good day...George<br>
+</div></div></div></div>
+</div>
+</div>
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/downloading-remote-files-using-scp" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to January 2023</a>
+    </p>
+</section>

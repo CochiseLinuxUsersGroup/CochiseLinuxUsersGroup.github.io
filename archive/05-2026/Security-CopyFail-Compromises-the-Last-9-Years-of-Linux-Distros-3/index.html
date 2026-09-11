@@ -1,0 +1,128 @@
+---
+layout: default
+title: Re: [Security] CopyFail Compromises the Last 9 Years of Linux Distros | CLUG Mailing List Archive
+description: Re: [Security] CopyFail Compromises the Last 9 Years of Linux Distros — 1 message &middot; started by George Praggastis on May 04, 2026 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: [Security] CopyFail Compromises the Last 9 Years of Linux Distros</h1>
+    <p>1 message &middot; started by George Praggastis on May 04, 2026</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: [Security] CopyFail Compromises the Last 9 Years of Linux Distros</h3>
+    <p style="font-size:0.85em;"><em>From George Praggastis &middot; May 04, 2026</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<div>Also is there a space or hyphen after the word install?</div>
+<div><br></div>
+<div><div><div><div>Have a good day...George<br>
+</div></div></div></div>
+</div><br><div>
+<div>On Mon, May 4, 2026, 5:53 AM George Praggastis &lt;<a href="mailto:praggastisgeorge@gmail.com">praggastisgeorge@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(16 lines)</span>
+    </span>
+  
+  <div><pre>Just checking, the cmd seems to install Kernel module algif_aead but removes module algif_aead2.   Is that correct?
+Have a good day...George
+On Thu, Apr 30, 2026, 2:53 PM s B &lt; dmarc-noreply@freelists.org &gt; wrote:</pre></div>
+  <div>
+    
+    <blockquote>
+<div>
+<div>Just checking, the cmd seems to install Kernel module algif_aead but removes module algif_aead2.   Is that correct?</div>
+<div><br></div>
+<div><div><div><div>Have a good day...George<br>
+</div></div></div></div>
+</div>
+<br><div>
+<div>On Thu, Apr 30, 2026, 2:53 PM s B &lt;<a href="mailto:dmarc-noreply@freelists.org">dmarc-noreply@freelists.org</a>&gt; wrote:<br>
+</div>
+<blockquote>
+<div><div>
+<p>You’re writing to a root-owned system file without elevated privileges.</p>
+<p><strong>Fix (run exactly this):</strong></p>
+<pre>&lt;div&gt;&lt;div&gt;&lt;div&gt;
+&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;
+&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;echo&lt;/span&gt; &lt;span&gt;&quot;install algif_aead /bin/false&quot;&lt;/span&gt; | &lt;span&gt;sudo&lt;/span&gt; &lt;span&gt;tee&lt;/span&gt; /etc/modprobe.d/disable-algif-aead.conf</pre></div></div></div></div></div>
+</div></div></div></div>
+<div><div></div></div>
+</div></div></div></pre>
+<p>Then remove the module:</p>
+<pre>&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;
+&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;sudo&lt;/span&gt; rmmod algif_aead &lt;span&gt;2&lt;/span&gt;&gt;/dev/null</pre></div></div></div></div></div>
+</div></div></div></div></div></div></div></pre>
+</div></div>
+<br><div>
+<div>On Thu, Apr 30, 2026 at 1:54 PM Devi Garcia &lt;<a href="mailto:dmarc-noreply@freelists.org">dmarc-noreply@freelists.org</a>&gt; wrote:<br>
+</div>
+<blockquote>
+<div>
+<div>
+<a href="https://jceehbg.r.af.d.sendibt2.com/tr/cl/mPlOLzJOsRamlC92lEH3mZS_jXbnZrltRcYIolxOh5Yxuff8CXT53JUroCOvP860I8Y3MwYxSuHRacZmXNgIO-BfkaeiOPG4poGntO62B5g4tvcm1-DXepFUHICrvZyE_3gTKwI7NLveQPhPpPy-2A8aaGu0hhN51-mrsZzGKs4qbu-IKqYujeTyFJsXa33c9kYMSHIeRQVD879MVmIuYi2f-54zlaBKufNFiqW7ETcr4_xfamK8iE27Lca_8TFWjgjElvQxsEDEW4Fjrgq_hCOTjPlHMycYPXwdv1FJWB9JVl1iOv6QmA4">https://www.youtube.com/watch?v=PFLpDc909yY</a><div><br></div>
+<div><br></div>
+<div>Fix:</div>
+<div><pre>&lt;span&gt;echo&lt;/span&gt; &lt;span&gt;&quot;install algif_aead /bin/false&quot;&lt;/span&gt; &gt; /etc/modprobe.d/disable-algif-aead.conf
+rmmod algif_aead 2&gt;/dev/null</pre></div>
+<div><br></div>
+<div>Info:</div>
+<div><a href="https://jceehbg.r.af.d.sendibt2.com/tr/cl/xILqXf-bU_SWPswB5nUj_2ravs785YjQAs_kugYGtJldP3wE5YEb6eNtSsuNptQVOr574tx2_DRgweYxiLIDRsZ18iibTr0whAWtktjkZuLblacxZRc_zOExQ5FUUAlouFEi37yW1CdgTwvvsJQ02wpPHxNAp4LbUxDoMhZOo7tB95DYtxA8A0PD4e4wGis1Y0Aa9_pb3i9Am1BAxtfEdovkH_2U19M8LerR-TOmoy0aYmmLEeHSwH4Vtz-Zsx5Mmx5vUIXbTy2QX3jg">https://copy.fail/</a></div>
+<div><a href="https://jceehbg.r.af.d.sendibt2.com/tr/cl/wVw_OWQfgZtov1uO4_kx34FxW8bg0fsuufkSlEspmP1xuQqFvKgZis4P_WFXnjSdxmOh5KqC8wrux_pRCJ2-imP-x1waxJGgXFCqkYsYuyUiomseqSrv4xkGdg3dcpt59vf1-yRZkOjJ3BzFGzWKp0J3OVKZ5P9c2KB4gaKIJ11-RpteRbubtzQs2YW3kwWfYk_D9UrzSQFhf22EWHEf37GEeHjmfk27D1-3tZjupNwBBdq0cZsKZF1f3ZizvH2oti6fOfR2ULpyMi2gtRLZeFKXBB3YCwqiJsFdHlOx6ucQriLg3lKvTo358aTobA">https://xint.io/blog/copy-fail-linux-distributions</a></div>
+</div>
+</div>
+</blockquote>
+  
+
+</div>
+</blockquote>
+</div>
+</blockquote>
+  </div>
+
+
+</div>
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Security-CopyFail-Compromises-the-Last-9-Years-of-Linux-Distros,3" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to May 2026</a>
+    </p>
+</section>

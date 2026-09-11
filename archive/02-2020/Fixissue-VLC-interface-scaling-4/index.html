@@ -1,0 +1,128 @@
+---
+layout: default
+title: Re: (Fix/issue) VLC interface scaling | CLUG Mailing List Archive
+description: Re: (Fix/issue) VLC interface scaling — 1 message &middot; started by Charles Breaux on Feb 20, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: (Fix/issue) VLC interface scaling</h1>
+    <p>1 message &middot; started by Charles Breaux on Feb 20, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: (Fix/issue) VLC interface scaling</h3>
+    <p style="font-size:0.85em;"><em>From Charles Breaux &middot; Feb 20, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div><div>I installed the text editor that comes with the software. But, it would only save the file as an rtf. I did the rest of the protocol with the rtf file. Won&#x27;t know if it worked until tomorrow morning.<br>
+</div></div><br><div>
+<div>On Thu, Feb 20, 2020 at 4:50 PM Charles Breaux &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(30 lines)</span>
+    </span>
+  
+  <div><pre>Well, Devi, attached is the screen shot of how far i got. Never used the text editor before. I tried to find out how to use it online, but didn&#x27;t get far...
+are you going to be at the meeting this saturday? Or can you get me over this hump:
+4. Open the text editor and type the following: (HOW?)   export QT_AUTO_SCREEN_SCALE_FACTOR=0    Now save the file to the desktop as gnome-qt.sh  Close the text editor.</pre></div>
+  <div>
+    
+    <blockquote>
+<div>
+<div>Well, Devi, attached is the screen shot of how far i got. Never used the text editor before. I tried to find out how to use it online, but didn&#x27;t get far...</div>
+<div>are you going to be at the meeting this saturday? Or can you get me over this hump:</div>
+<div> 4. Open the text editor and type the following: (HOW?)<br><i><span>export QT_AUTO_SCREEN_SCALE_FACTOR=0<br><br></span></i>Now save the file to the desktop as gnome-qt.sh <br>Close the text editor. <br>
+</div>
+<div>Thanks again, Charles<br>
+</div>
+</div>
+<br><div>
+<div>On Sun, Feb 16, 2020 at 11:49 AM David Garcia &lt;<a href="mailto:asphyxiated.god@gmail.com">asphyxiated.god@gmail.com</a>&gt; wrote:<br>
+</div>
+<blockquote>
+<div><div>
+<p>1. open a terminal and type: <br>sudo -H /bin/bash<br><br>2. Type your password. <br><br>3. navigate to the etc/profile.d folder by typing: <br>cd /etc/profile.d<br><br>4. Open the text editor and type the following: <br><i><span>export QT_AUTO_SCREEN_SCALE_FACTOR=0<br><br></span></i>Now save the file to the desktop as gnome-qt.sh <br>Close the text editor. <br><br>5. Back in the terminal type the following, where USER is your own user name. Press enter when done. <br><span><br></span>sudo cp &#x27;/home/USER/Desktop/gnome-qt.sh&#x27; /etc/profile.d<br>You can even drag the file into the terminal after sudo cp .<br><br>What this will do is copy your file from the desktop into the profile.d folder. <br><br>6. Now you can close the terminal. Delete the desktop file if you want. <br><br>7. Restart the computer and VLC should look normal.</p>
+<p><u></u> <u></u></p>
+<div><p><b>From: </b><a href="mailto:chazbreaux@gmail.com">Charles Breaux</a><br><b>Sent: </b>Sunday, February 16, 2020 11:28 AM<br><b>To: </b><a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br><b>Subject: </b>[cochiselinux] Re: (Fix/issue) VLC interface scaling</p></div>
+<p><u></u> <u></u></p>
+<div>
+<div><p><span>thanks Devi, but. I&#x27;m a linux dummy. could you spell it out for me: I assume by adding a file you mean  doing these things via the terminal.<u></u><u></u></span></p></div>
+<div><p><span>1.what are the actual codes to write into the terminal?<u></u><u></u></span></p></div>
+<div><p><span>2. do I have to change directories, ? etc.<u></u><u></u></span></p></div>
+<div><p><span>Thanks chaz<u></u><u></u></span></p></div>
+</div>
+<p><u></u> <u></u></p>
+<div>
+<div><p>On Sat, Feb 15, 2020 at 11:37 AM Devi Garcia &lt;<a href="mailto:asphyxiated.god@gmail.com">asphyxiated.god@gmail.com</a>&gt; wrote:</p></div>
+<blockquote><div>
+<p><span>Fixed by adding a file called gnome-qt.sh in /etc/profile.d</span><span><br><br></span><span>with this inside.</span><span><br><br></span><span>export QT_AUTO_SCREEN_SCALE_FACTOR=0</span></p>
+<div><p><u></u> <u></u></p></div>
+<div><p><u></u> <u></u></p></div>
+<div><p><span>Or</span></p></div>
+<div><p><u></u> <u></u></p></div>
+<div><p><u></u> <u></u></p></div>
+<div>
+<p><u></u><span><span>1.<span>      </span></span></span><u></u><span>Edit </span><span>/etc/environment</span><span> with administrator rights.<u></u><u></u></span></p>
+<p><u></u><span><span>2.<span>      </span></span></span><u></u><span>Add the following line: </span><span>QT_AUTO_SCREEN_SCALE_FACTOR=0</span><span><u></u><u></u></span></p>
+</div>
+</div></blockquote>
+  
+
+</div>
+<p><u></u><span><span>3.<span>      </span></span></span><u></u><span>Reboot your PC.<u></u><u></u></span></p>
+<p><u></u> <u></u></p>
+</div></div>
+--------------------------------------------------------------------
+Cochise Linux Users Group Mailing List - <a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a>
+To unsubscribe: //<a href="https://www.freelists.org/list/cochiselinux">www.freelists.org/list/cochiselinux</a>
+</blockquote>
+</div>
+</blockquote>
+  </div>
+
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Fixissue-VLC-interface-scaling,4" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to February 2020</a>
+    </p>
+</section>

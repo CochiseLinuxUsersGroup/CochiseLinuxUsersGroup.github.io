@@ -1,0 +1,194 @@
+---
+layout: default
+title: Troubleshooting an install on a Dell laptop | CLUG Mailing List Archive
+description: Troubleshooting an install on a Dell laptop — 2 messages &middot; started by Zach B on Sep 04, 2026 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Troubleshooting an install on a Dell laptop</h1>
+    <p>2 messages &middot; started by Zach B on Sep 04, 2026</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Troubleshooting an install on a Dell laptop</h3>
+    <p style="font-size:0.85em;"><em>From Zach B &middot; Sep 04, 2026</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<div>Hey everyone, I&#x27;m attempting to install linux on a Dell Precision 7710. When I tried to install MX Linux, the &quot;Regular install using entire disk&quot; option in the installation window was entirely greyed out. I then tried Linux Mint and the install window said to disable RST.Looking in the BIOS settings, I was not able to find this setting anywhere. </div>
+<div><br></div>
+<div>Any advice is greatly appreciated!</div>
+</div>
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Troubleshooting-an-install-on-a-Dell-laptop" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: Troubleshooting an install on a Dell laptop</h3>
+    <p style="font-size:0.85em;"><em>From George Self &middot; Sep 04, 2026</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+    <p>I posted your question to my Claude AI tool and got this
+      response. You may want to try this. I hope it helps.</p>
+    <p>*****</p>
+    <p>That&#x27;s a classic Dell gotcha, and I ran down the specifics so you
+      can point the original poster in the right direction.</p>
+    <p><strong>What&#x27;s going on:</strong> RST (Intel Rapid Storage
+      Technology) is a translator that sits between the hard drive and
+      the operating system. Dell turns it on by default on many laptops
+      so Windows gets a speed boost. The catch is that Linux doesn&#x27;t
+      speak that particular dialect. MX Linux&#x27;s installer notices the
+      disk looks like it belongs to this translator setup and simply
+      refuses to touch the whole thing (hence the greyed-out button),
+      while Linux Mint is a bit more polite about it and just tells you
+      straight out to turn RST off.</p>
+    <p><strong>Finding the setting on a Precision 7710:</strong> This
+      model uses Dell&#x27;s older-style setup screen, and Dell&#x27;s own support
+      documentation confirms the location for machines of this vintage.</p>
+    <ol>
+      <li>Restart the laptop and tap F2 repeatedly right when the Dell
+        logo appears (not F12, that opens a different one-time boot menu
+        and won&#x27;t have this option).</li>
+      <li>Once in System Setup, look at the list of tabs down the left
+        side and click &quot;System Configuration.&quot; It&#x27;s easy to skim past
+        this one while hunting through &quot;General&quot; or &quot;Security&quot; instead.</li>
+      <li>Inside that tab, scroll down to &quot;SATA Operation.&quot; It&#x27;s most
+        likely set to &quot;RAID On.&quot;</li>
+      <li>Change it to &quot;AHCI.&quot;</li>
+      <li>Save and exit (usually F10, or a button at the bottom of the
+        screen).</li>
+    </ol>
+    <p>If the BIOS has been updated recently, Dell has moved this on
+      some newer firmware to a tab simply called &quot;Storage,&quot; under an
+      option named &quot;SATA/NVMe Operation,&quot; so it&#x27;s worth checking there
+      too if &quot;System Configuration&quot; comes up empty.</p>
+    <p>One thing worth mentioning to the poster: if there&#x27;s still a
+      working Windows installation on that same drive, flipping to AHCI
+      can make Windows refuse to boot afterward, since it loaded
+      RAID-specific drivers at install time. Since they&#x27;re planning to
+      wipe the disk for Mint or MX Linux anyway, that&#x27;s probably a
+      non-issue, but worth a heads-up in case anyone reading the thread
+      wants to keep dual boot alive.</p>
+    <p>Once AHCI is selected, both installers should stop treating the
+      disk like a mysterious RAID array being guarded by an overly
+      cautious tour guide, and the &quot;entire disk&quot; option should light
+      back up.</p>
+    <p>Sources:</p>
+    <ul>
+      <li><a href="https://www.dell.com/support/kbdoc/en-td/000123462/recommended-bios-settings-for-your-linux-system">Dell:
+          Recommended BIOS Settings for your Linux System</a></li>
+      <li><a href="https://www.dell.com/support/kbdoc/en-us/000183948/latitude-systems-shipped-with-default-raid-on-mode-from-the-factory">Dell:
+          Latitude Systems Shipped with Default RAID On Mode from the
+          Factory</a></li>
+    </ul>
+    <p><br>
+      <br>
+    </p>
+    <div>
+      
+      <div>
+        <div>George
+          Self</div>
+        <div>Tour
+          Guide &amp; Educator</div>
+        <div>
+          <div>(520)
+            678-7788</div>
+          <div><a href="https://tombstonesilver.com">tombstonesilver.com</a></div>
+        </div>
+      </div>
+      <p> </p>
+    </div>
+    <div>On 9/4/26 7:30 AM, Zach B wrote:<br>
+    </div>
+    
+
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(15 lines)</span>
+    </span>
+  
+  <div>      <br>
+      <br>
+        Hey</div>
+  <div>
+    <blockquote>
+      
+      <div>
+        <div>Hey
+          everyone, I&#x27;m attempting to install linux on a Dell Precision
+          7710. When I tried to install MX Linux, the &quot;Regular install
+          using entire disk&quot; option in the installation window was
+          entirely greyed out. I then tried Linux Mint and the install
+          window said to disable RST.Looking in the BIOS settings, I was
+          not able to find this setting anywhere. </div>
+        <div>
+<br>
+        </div>
+        <div>Any advice
+          is greatly appreciated!</div>
+      </div>
+    </blockquote>
+  </div>
+
+
+  
+
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Troubleshooting-an-install-on-a-Dell-laptop,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to September 2026</a>
+    </p>
+</section>

@@ -1,0 +1,34 @@
+name: Update Mailing List Archive
+
+on:
+  schedule:
+    - cron: "23 4 1 * *"   # 1st of every month at 04:23 UTC
+  workflow_dispatch: {}    # allows a manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Run archive scraper
+        run: python3 tools/fetch_archive.py
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/ tools/archive_state.json
+          if git diff --cached --quiet; then
+            echo "No archive changes; nothing to commit."
+            exit 0
+          fi
+          git commit -m "Update mailing list archive (weekly sync)"
+          git push origin master

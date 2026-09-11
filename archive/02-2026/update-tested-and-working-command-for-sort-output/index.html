@@ -1,0 +1,61 @@
+---
+layout: default
+title: [update] tested and working command for sort &amp; output | CLUG Mailing List Archive
+description: [update] tested and working command for sort &amp; output — 1 message &middot; started by Devi Garcia on Feb 13, 2026 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[update] tested and working command for sort &amp; output</h1>
+    <p>1 message &middot; started by Devi Garcia on Feb 13, 2026</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [update] tested and working command for sort &amp; output</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Feb 13, 2026</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Last command errors out on making the output.txt<div><br></div>
+<div>find /path/to/directory -type f -printf &quot;%f\n&quot; |</div>
+<div>awk -F. &#x27;NF&gt;1{print tolower($NF), $0} NF==1{print &quot;noext&quot;, $0}&#x27; |</div>
+<div>sort -k1,1 -k2,2 |</div>
+<div>cut -d&#x27; &#x27; -f2- |</div>
+<div>column -c 120 &gt; output.txt</div>
+<div><br></div>
+<div>This one sorts by ext and outputs to said file.. confirmed working on a Ubuntu system at the WHC</div>
+</div>
+
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/update-tested-and-working-command-for-sort-output" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to February 2026</a>
+    </p>
+</section>

@@ -1,0 +1,217 @@
+---
+layout: default
+title: [cochiselinux] | CLUG Mailing List Archive
+description: [cochiselinux] — 1 message &middot; started by Charles Breaux on Feb 03, 2023 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[cochiselinux]</h1>
+    <p>1 message &middot; started by Charles Breaux on Feb 03, 2023</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> </h3>
+    <p style="font-size:0.85em;"><em>From Charles Breaux &middot; Feb 03, 2023</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<div><div>
+
+
+	
+	<span></span>
+	
+	
+
+<p>
+<br>
+Please help. Fot some reason my mac won’t recognize any of
+the DVD-r that I use trying to burn a DVD with Toast. I want to
+convert an iso file to dmg so I can burn a bootable ubuntu install usb. 
+</p>
+<p>And as usual all of
+the sources that show how to do convert with hdiutil either give
+different ways, and or, tell you what to do but now how to do it. I
+realize that any linux nerd would know what they are talking about,
+but I am confused and do not understand the basic command principles
+to write commands, file paths etc.  Below there are some of the
+suggestions. 
+</p>
+<p><br>
+
+</p>
+<p>So on my Mac, the
+ubuntu iso is on my desktop. And that is where I would like the dmg to be
+placed.</p>
+<p>Thank you. P.S. Deva, the battery on the macbook seems to have healed itself...<br>
+
+</p>
+<p>Would someone please
+just type out the exact commands I need to put in the terminal to
+convert the iso to dmg. I can create the bootable usb with the etcher
+app….and then get the apple laptop running on ubuntu, yeah</p>
+<p><br>
+
+</p>
+<p><b>hdiutil convert
+</b><i><b>/folder/folder/file.iso</b></i><b> -format UDRW -o
+</b><i><b>/folder/folder/file.dmg</b></i><br>
+<br>
+Make sure to
+replace <i>/folder/folder/file.iso</i> with the full filepath of the
+.iso file. To ensure correct filepath, simply drag the iso file into
+the terminal window at the point where you&#x27;d normally type the
+filepath.<br>
+<br>
+
+</p>
+<p><b>Step</b></p>
+<p>Open
+a Terminal window from the Utilities folder.</p>
+<p><b>Step</b></p>
+<p>Navigate
+to the folder containing the ISO image. For example, type <b>cd
+Desktop</b>
+and then press <b>Return</b>.</p>
+<p><b>Step</b></p>
+<p>Type
+<b>hdiutil
+convert source.iso -format UDRW -o destination.img</b>
+and then press <b>Return</b>.
+Replace &quot;source&quot; and &quot;destination&quot; with their
+actual values.</p>
+<ul>
+<li>
+<p></p>
+	<br>
+</li>
+<li>
+<p></p>
+	<br>
+</li>
+<li>
+<p><a></a><a></a>
+	Download the desired file 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>Open the Terminal
+	(in /Applications/Utilities/ or query
+	Terminal in Spotlight) 
+	</p>
+	</li>
+<li>
+<p><a></a>Convert the .iso
+	file to .img using the convert
+	option of hdiutil (e.g.,
+	hdiutil convert -format UDRW -o ~/path/to/target.img ~/path/to/ubuntu.iso)
+		</p>
+</li>
+</ul>
+<p><a></a><a></a>Note: OS X tends to
+put the .dmg ending on the output file
+automatically. 
+</p>
+<ul>
+<li>
+<p><a></a><a></a>Run diskutil list
+	to get the current list of devices 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>
+	Insert your flash media 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>Run diskutil list
+	again and determine the device node assigned to your flash media
+	(e.g., /dev/disk2) 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>Run
+	diskutil unmountDisk /dev/diskN
+	(replace N with the disk number from the
+	last command; in the previous example, N
+	would be 2) 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>Execute
+	sudo dd if=/path/to/downloaded.img of=/dev/rdiskN bs=1m
+	(replace /path/to/downloaded.img with the
+	path where the image file is located; for example, ./ubuntu.img
+	or ./ubuntu.dmg). 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>Using /dev/rdisk
+	instead of /dev/disk may be faster. 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>If you see the
+	error dd: Invalid number &#x27;1m&#x27;,
+	you are using GNU dd. Use the same command but replace bs=1m
+	with bs=1M. 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>If you see the
+	error dd: /dev/diskN: Resource busy,
+	make sure the disk is not in use. Start the &#x27;Disk Utility.app&#x27; and
+	unmount (don&#x27;t eject) the drive. 
+	</p>
+	</li>
+<li>
+<p><a></a><a></a>Run
+	diskutil eject /dev/diskN and
+	remove your flash media when the command completes 
+	</p>
+	</li>
+<li>
+<p>Restart your Mac and press Alt while the Mac is restarting to
+	choose the USB-Stick 
+	</p>
+</li>
+</ul>
+<p><br>
+
+</p>
+
+</div></div>
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/no-subject,105148" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to February 2023</a>
+    </p>
+</section>

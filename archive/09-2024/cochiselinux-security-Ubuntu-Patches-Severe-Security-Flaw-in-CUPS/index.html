@@ -1,0 +1,108 @@
+---
+layout: default
+title: Re: [cochiselinux] [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS | CLUG Mailing List Archive
+description: Re: [cochiselinux] [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS — 1 message &middot; started by Rex Bouwense on Sep 27, 2024 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: [cochiselinux] [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS</h1>
+    <p>1 message &middot; started by Rex Bouwense on Sep 27, 2024</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: [cochiselinux] [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS</h3>
+    <p style="font-size:0.85em;"><em>From Rex Bouwense &middot; Sep 27, 2024</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+If you are using Ubuntu or one of its &quot;flavors&quot; that CUPS Security <br>
+Vulnerability has already been patched, providing you keep your system <br>
+updated.
+<p></p>
+Rex
+<p></p>
+On 9/26/24 19:15, Devi Garcia wrote:<br>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(34 lines)</span>
+    </span>
+  
+  <div><pre>The CUPS Security Vulnerability
+Canonical explains in its security blog: “At its core, the 
+vulnerability is exploited by tricking CUPS into generating an </pre></div>
+  <div>
+    <blockquote><pre>The CUPS Security Vulnerability
+Canonical explains in its security blog: “At its core, the 
+vulnerability is exploited by tricking CUPS into generating an 
+attacker-controlled PPD (PostScript Printer Description) file for a 
+printer containing an arbitrary command.”
+
+“Whenever the next print job is sent to the printer in question, the 
+command will be executed as the lp user (this is the user that the 
+CUPS daemon runs as and, barring other exploitable vulnerabilities, 
+would not have escalated privileges).”
+
+Many headline-grabbing security vulnerabilities often affect specific 
+hardware or configurations, or require a ne’er-do-well to have 
+physical access to your machine to work.
+
+You might think, “No worries! No one will trick a printing service on 
+my computer into doing things without I don’t know about.”
+
+But Simone Margaritelli, who uncovered the flaw and had to battle to 
+get it taken as seriously as he felt it was, explains in a detailed 
+write up on his blog that this can be done silently, remotely, and 
+without authentication.
+
+On the internet “a remote attacker sends an UDP packet to port 631. No 
+authentication whatsoever,” or on a LAN, “spoofs zeroconf / mDNS / 
+DNS-SD advertisements”.
+
+read article:
+https://www.omgubuntu.co.uk/2024/09/ubuntu-secuity-fix-cups-vulnerability
+--------------------------------------------------------------------
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org
+For more information:  https://cochiselinuxusergroup.org/
+Mailing List Archive: https://www.freelists.org/archive/cochiselinux
+To unsubscribe: //www.freelists.org/list/cochiselinux
+</pre></blockquote>
+  </div>
+
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/cochiselinux-security-Ubuntu-Patches-Severe-Security-Flaw-in-CUPS" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to September 2024</a>
+    </p>
+</section>

@@ -1,0 +1,219 @@
+---
+layout: default
+title: Re: Update | CLUG Mailing List Archive
+description: Re: Update — 1 message &middot; started by HateNo Hama on Nov 24, 2017 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: Update</h1>
+    <p>1 message &middot; started by HateNo Hama on Nov 24, 2017</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: Update</h3>
+    <p style="font-size:0.85em;"><em>From HateNo Hama &middot; Nov 24, 2017</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Charles, I&#x27;m very happy you found a solution!<div><br></div>
+<div>Happy Thanksgiving! <br><div><br></div>
+<div>Bruce </div>
+</div>
+</div><div>
+<br><div>On Nov 24, 2017 1:03 AM, &quot;Charles Breaux&quot; &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br>
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(57 lines)</span>
+    </span>
+  
+  <div><pre>Thanks for your input Laco, but didn&#x27;t work for me,
+this is what worked:
+Do you have a live DVD or flash drive? </pre></div>
+  <div>
+    
+    <blockquote>
+<div>
+<div>Thanks for your input Laco, but didn&#x27;t work for me,</div>
+<div>this is what worked:</div>
+<div>Do you have a live DVD or flash drive? 
+ If you do, boot from it and choose try Ubuntu.  Then open a terminal 
+and type:<br>
+<br>
+sudo add-apt-repository ppa:yannubuntu/boot-repair<br>
+sudo apt-get update<br>
+sudo apt-get install -y boot-repair &amp;&amp; (boot-repair &amp;)<br>
+<br>
+Press enter after each line. This will install Boot Repair. Launch it from the menu and then select Recommended Repair<br>
+<a href="https://sourceforge.net/p/boot-repair/home/Home/">https://sourceforge.net/p/boot-repair/home/Home/</a><br>
+Instructions are at that web site.  See Use Boot Repair.<div><div></div></div>
+</div>
+</div>
+<div>
+<br><div>On Mon, Nov 20, 2017 at 3:19 PM, Laco K <span>&lt;<a href="mailto:laco.kuchar1@gmail.com">laco.kuchar1@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div>
+<div>
+<div>I have the same issue. Somehow I messed up my loader and I always end up on the entering rescue mode...grub rescue line. This has been happening for some time now. <br><br>
+</div>So to get around it when the motherboard splash screen comes up I hit F11 (or whatever other key gets you to the loader selection list) and select which partition you want to boot from. Works every time. Obviously, this is not a solution, it&#x27;s a work-around but this way you can get back in the computer assuming that your root and/or the home partitions are intact.<span><br><br></span>
+</div>
+<span>Laco <br></span>
+</div>
+<div><div>
+<div>
+<br><div>On Sun, Nov 19, 2017 at 9:21 AM, Charles Breaux <span>&lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div><div>
+
+
+	
+	
+	
+	
+
+
+<p>HELP,
+I got a big problem!  I had 3 partitions, I deleted the one with
+Mint, and now my ubuntu 16.04 wont&#x27; boot. get this error: no such
+partition. entering rescue mode...grub rescue&gt;</p>
+<p><br>
+</p>
+<p>I
+researched online but, man this is way over my head. This is one
+thing I found but I&#x27;ve learned the hard way not to do commands when
+you don&#x27;t understand what you&#x27;re doing....like the post I followed to
+delete a partition—which never mentioned loosing the boot info!!!</p>
+<p><br>
+</p>
+<p>Working
+off boot DVD, I used gpart to delete the Mint partition, then resized
+the ubuntu 16.04 to include that partition, but got a message that to
+complete the resize might injure the boot info, so I clicked on undue
+the resize. But, when I tried to boot got the grub rescue prompt.</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<p>anyway,
+there seems to be a lot
+of different ways to do this according to the posts I have
+researched, all kinds of complicated commands etc that I have no
+understanding of. I also will want to either delete or downsize the
+partition with ubuntu 14 on it. I think part of the problem might be
+that 16.04 was the last partition i added. On the gpart menu it is on
+the right of the box/graph that shows the relative size of the
+partition....</p>
+<p><br>
+</p>
+<p>Can
+anyone walk me through this? I really need my computer back! Sure
+would hate to have to reformat the HD and reinstall everything! 
+</p>
+<p><br>
+</p>
+<p>Thanks,
+
+</p>
+
+</div></div>
+<div><div>
+<div>
+<br><div>On Sat, Nov 18, 2017 at 11:36 AM, Charles Breaux <span>&lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div><div>Thanks, I did figure out...<br>
+</div></div>
+<div><div>
+<div>
+<br><div>On Sat, Nov 18, 2017 at 11:31 AM, Devi Garcia <span>&lt;<a href="mailto:asphyxiated.god@gmail.com">asphyxiated.god@gmail.com</a>&gt;</span> wrote:<br><blockquote>
+<div>Looks like the exfat module or drivers were uninstalled just reinstall em and should work </div>
+<div><div>
+<div>
+<br><div>On Nov 18, 2017 11:24 AM, &quot;Charles Breaux&quot; &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br><blockquote>
+<div>
+<div></div>
+<div>Got this error message when I plugged in my ext back up drive. I&#x27;ve been using this drive with Ubuntu for several years, never had this problem before. Other drives with exfat still mount.</div>
+<div>Ubuntu 16. anybody have a way to fix this without reformatting the disc and loosing all the data on the drive?  Thanks, charles<br>
+</div>
+</div>
+<div>
+<br><div>On Fri, Nov 17, 2017 at 2:55 PM, Rex Bouwense <span>&lt;<a href="mailto:majb@azloco.com">majb@azloco.com</a>&gt;</span> wrote:<br><blockquote>The next CLUG sponsored installfest will be on 20 January 2018, 10-4pm at the University of Arizona South Learning Resource Center, <a href="https://maps.google.com/?q=1140+N.+Colombo+Avenue,+Sierra+Vista&amp;entry=gmail&amp;source=g">1140 N. Colombo Avenue, Sierra Vista</a>.  Make plans now to attend and assist others in installing and enjoying a Linux operating system.<br>
+<br>
+We were able to reserve the Sierra Vista public library conference room for our Saturday meetings in 2018.  Therefore we will meet there on every 4th Saturday of each month in the calendar year 2018, 1:00-3:30pm.  Put the dates on your calendar and plan to attend.<span><br>
+<br>
+Rex Bouwense<br>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - <a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br>
+For more information:  <a href="http://www.cochiselinux.com">http://www.cochiselinux.com</a><br>
+To unsubscribe: <a href="https://www.freelists.org/list/cochiselinux">http://www.freelists.org/list/cochiselinux</a><br>
+</span>
+</blockquote>
+  
+
+</div>
+<br>
+</div>
+</blockquote>
+</div>
+</div>
+</div></div>
+</blockquote>
+</div>
+<br>
+</div>
+</div></div>
+</blockquote>
+</div>
+<br>
+</div>
+</div></div>
+</blockquote>
+</div>
+<br>
+</div>
+</div></div>
+</blockquote>
+</div>
+<br>
+</div>
+</blockquote>
+  </div>
+
+
+</div>
+</div>
+
+<p><img alt="Screenshot from 2017-11-18 11-18-43.png" src="https://cdn.freelists.org/attachments/cochiselinux/75/757396b111c632172f93b738daa613e0352ef12770b5b244e5283bb7d32d0619.png"></p>
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Update,1702" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to November 2017</a>
+    </p>
+</section>

@@ -7,3 +7,5 @@ Gemfile.lock
 vendor
 .stfolder
 .stversions/
+__pycache__/
+*.pyc

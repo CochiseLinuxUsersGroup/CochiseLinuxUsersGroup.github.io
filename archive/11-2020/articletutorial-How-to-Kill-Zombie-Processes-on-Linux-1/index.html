@@ -1,0 +1,123 @@
+---
+layout: default
+title: Re: [article/tutorial] How to Kill Zombie Processes on Linux | CLUG Mailing List Archive
+description: Re: [article/tutorial] How to Kill Zombie Processes on Linux — 1 message &middot; started by George Praggastis on Nov 28, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: [article/tutorial] How to Kill Zombie Processes on Linux</h1>
+    <p>1 message &middot; started by George Praggastis on Nov 28, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: [article/tutorial] How to Kill Zombie Processes on Linux</h3>
+    <p style="font-size:0.85em;"><em>From George Praggastis &middot; Nov 28, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>thks david very interesting...seems ps can do everything regarding processes except cook breakfast.<br>
+</div><br><div>
+<div>On Thu, Nov 26, 2020 at 10:25 AM Devi Garcia &lt;<a href="mailto:asphyxiated.god@gmail.com">asphyxiated.god@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(21 lines)</span>
+    </span>
+  
+  <div><pre>Programs that are poorly written or performing badly can leave  zombie processes  lurking inside your Linux computer. Find out how zombies are created, and how you can finally lay them to rest.
+How Process States Work on Linux
+Linux, of course, has to keep track of all the applications and daemons running on your computer. One of the ways it does this is by maintaining the process table. This is a list of structures in kernel memory. Each process has an entry in this list that contains some information about it.</pre></div>
+  <div>
+    
+    <blockquote>
+<div>
+<p>Programs that are poorly written or performing badly can leave <a href="https://www.howtogeek.com/119815/htg-explains-what-is-a-zombie-process-on-linux/">zombie processes</a> lurking inside your Linux computer. Find out how zombies are created, and how you can finally lay them to rest.</p>
+<p><span>How Process States Work on Linux</span></p>
+<div></div>
+<p>Linux, of course, has to keep track of all the applications and daemons running on your computer. One of the ways it does this is by maintaining the process table. This is a list of structures in kernel memory. Each process has an entry in this list that contains some information about it.</p>
+<p>There isn’t a great deal in each of the process table structures. They hold the <a href="https://en.wikipedia.org/wiki/Process_identifier">process ID</a>, a few other data items, and a pointer to the process control block (PCB) for that process.</p>
+<p>It’s the PCB that holds the many details Linux needs to look up or set for each process. The PCB is also updated as a process is created, given processing time, and finally destroyed.</p>
+<p>The Linux PCB contains over 95 fields. <a href="https://github.com/torvalds/linux/blob/master/include/linux/sched.h">It’s defined</a> as a structure called task_struct.h, and it’s over 700 lines long. The PCB contains the following types of information:</p>
+<ul>
+<li>
+<span>Process State</span>: The states are described below.</li>
+<li>
+<span>Process Number</span>: Its unique identifier within the operating system.</li>
+<li>
+<span>Program Counter</span>: When this process is next given access to the CPU, the system will use this address to find the next instruction of the process that should be executed.</li>
+<li>
+<span>Registers</span>: The list of CPU registers used by this process. The list might contain accumulators, index registers, and stack pointers.</li>
+<li>
+<span>Open File List</span>: Files associated with this process.</li>
+<li>
+<span>CPU Scheduling Information</span>: Used to determine how frequently, and for how long, CPU processing time is awarded to this process. The priority of the process, pointers to scheduling queues, and other scheduling parameters have to be recorded in the PCB.</li>
+<li>
+<span>Memory Management Information</span>: Details about the memory this process is using, such as the start and end addresses of the process memory, and pointers to the memory pages.</li>
+<li>
+<span>I/O Status Information</span>: Any in- or output devices used by the process.</li>
+</ul>
+<p>The “Process State” can be any of the following:</p>
+<ul>
+<li>
+<span>R: </span>A running or runnable process. Running meaning it’s receiving CPU cycles and executing. A runnable process is ready to run and waiting for a CPU slot.</li>
+<li>
+<span>S:</span> A sleeping process. The process is waiting for an action to complete, such as an in- or output operation, or for a resource to become available.</li>
+<li>
+<span>D: </span>The process is in an uninterruptible sleep state. It’s using a blocking system call and can’t continue until the system calls have completed. Unlike the “Sleep” state, a process in this state won’t respond to signals until the system call is completed and execution has returned to the process.</li>
+<li>
+<span>T:</span> The process has terminated (stopped) because it received the SIGSTOP signal. It <a href="https://man7.org/linux/man-pages/man7/signal.7.html">will only respond</a> to the SIGKILL or SIGCONT signals, which either kill the process or instruct it to continue, respectively. This is what’s happening when you swap from <a href="https://man7.org/linux/man-pages/man1/fg.1p.html">foreground (fg)</a> to <a href="https://man7.org/linux/man-pages/man1/bg.1p.html">background (bg)</a> tasks.</li>
+<li>
+<span>Z:</span> A Zombie process. When a process completes, it doesn’t just vanish. It frees up any memory it’s using and removes itself from memory, but its entry in the process table and PCB remain. Its state is set to EXIT_ZOMBIE, and its parent process is notified (by the SIGCHLD signal) that the child process has finished.</li>
+</ul>
+<div>
+<span>read more: </span><a href="https://www.howtogeek.com/701971/how-to-kill-zombie-processes-on-linux/">https://www.howtogeek.com/701971/how-to-kill-zombie-processes-on-linux/</a>
+</div>
+</div>
+</blockquote>
+  
+  </div>
+
+
+
+</div><br><br>-- <br><div><div><div><div>Have a good day...George<br>
+</div></div></div></div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/articletutorial-How-to-Kill-Zombie-Processes-on-Linux,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to November 2020</a>
+    </p>
+</section>

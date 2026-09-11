@@ -1,0 +1,74 @@
+---
+layout: default
+title: Failure of Ubuntu 18.04 to boot on older machines | CLUG Mailing List Archive
+description: Failure of Ubuntu 18.04 to boot on older machines — 1 message &middot; started by Rex Bouwense on Aug 21, 2018 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Failure of Ubuntu 18.04 to boot on older machines</h1>
+    <p>1 message &middot; started by Rex Bouwense on Aug 21, 2018</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Failure of Ubuntu 18.04 to boot on older machines</h3>
+    <p style="font-size:0.85em;"><em>From Rex Bouwense &middot; Aug 21, 2018</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+At our most recent installfest we installed 18.04 on a Mac-Mini and the <br>
+screen froze just prior to login.  I attempted to replicate the problem <br>
+at home on an old Dell Opti-Plex and it too failed to boot but it would <br>
+install and boot to any of the other Ubuntu &quot;flavors&quot; even Kubuntu which <br>
+is just as robust as Ubuntu.  Many things were tried, including <br>
+nomodeset.  While attempting to take nomodeset off the grub menu I <br>
+discovered that Ubuntu 18.04 now comes with gdm3 as the default login <br>
+display manager which is a lot heavier that the older LightDM that used <br>
+to be the default login display manager. Older machines may not have the <br>
+ability to load the gdm3.  A solution was found here:
+<p></p>
+<a href="https://unix.stackexchange.com/questions/446119/the-difference-in-ubuntu-18-04-that-requires-nomodeset/447707#447707">https://unix.stackexchange.com/questions/446119/the-difference-in-ubuntu-18-04-that-requires-nomodeset/447707#447707</a> 
+<p></p>
+which downloads the LightDM and makes it the default login display <br>
+manager.  Now the Opti-Plex boots normally.
+<p></p>
+Rex Bouwense<br>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org<br>
+For more information:  <a href="http://www.cochiselinux.com">http://www.cochiselinux.com</a><br>
+To unsubscribe: <a href="https://www.freelists.org/list/cochiselinux">http://www.freelists.org/list/cochiselinux</a><br>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Failure-of-Ubuntu-1804-to-boot-on-older-machines" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to August 2018</a>
+    </p>
+</section>

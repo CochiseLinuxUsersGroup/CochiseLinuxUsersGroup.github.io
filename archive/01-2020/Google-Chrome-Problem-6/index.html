@@ -1,0 +1,96 @@
+---
+layout: default
+title: Google Chrome Problem | CLUG Mailing List Archive
+description: Google Chrome Problem — 1 message &middot; started by Rex Bouwense on Jan 24, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Google Chrome Problem</h1>
+    <p>1 message &middot; started by Rex Bouwense on Jan 24, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Google Chrome Problem</h3>
+    <p style="font-size:0.85em;"><em>From Rex Bouwense &middot; Jan 24, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+    <p> For some reason an
+      individual may want to install Google Chrome on his/her system
+      instead of Chromium. And since using Linux is all about choice,
+      who am I to object in spite of the fact that the application
+      tracks you. In any event, occasionally when you install and then
+      launch Google Chrome it will state in a popup that the key ring
+      was not unlocked at startup and it will ask you for a password to
+      unlock it. Of course your password will not work. I raised this
+      problem with Devi and he quickly offered a possible solution. <a href="https://askubuntu.com/questions/31786/chrome-asks-for-password-to-unlock-keyring-on-startup">https://askubuntu.com/questions/31786/chrome-asks-for-password-to-unlock-keyring-on-startup</a>.
+      After trying the solution on two separate desktop computers that
+      Ubuntu 18.04.3 installed on them, I can confirm that the offered
+      solution on that website and on <a href="https://ubuntuforums.org/showthread.php?t=2377036&amp;p=13708937#post13708937">https://ubuntuforums.org/showthread.php?t=2377036&amp;p=13708937#post13708937</a>
+      work.</p>
+    <p> You switch to
+      basic for the password store<br>
+      basic is chrome&#x27;s builtin password storage, but it stores
+      password&#x27;s in plain text.<br>
+    </p>
+    <p> This is why chrome
+      defaults to using the Ubuntu keyring. They store password
+      encrypted.<br>
+      To set it to default to use basic try this<br>
+    </p>
+    copy the google-chrome.desktop file from /usr/share/applications
+    into your home folder applications folder: In the terminal type<br>
+    <pre>cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications</pre>
+    <p> then open gedit
+      (you can open it directly with the following command:</p>
+    <pre>gedit ~/.local/share/applications/google-chrome.desktop</pre>
+    In gedit Find each of the lines that begin with Exec and add
+    --password-store=basic like so <br>
+    <pre>Exec=/usr/bin/google-chrome-stable --password-store=basic %U </pre>
+    <br>
+    Save and then when you launch chrome you should never be asked for
+    your password to open the keyring.<br>
+    
+  
+
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Google-Chrome-Problem,6" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to January 2020</a>
+    </p>
+</section>

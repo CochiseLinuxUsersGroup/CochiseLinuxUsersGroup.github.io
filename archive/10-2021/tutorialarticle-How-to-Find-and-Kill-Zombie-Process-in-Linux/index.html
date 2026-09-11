@@ -1,0 +1,88 @@
+---
+layout: default
+title: [tutorial/article] How to Find and Kill Zombie Process in Linux | CLUG Mailing List Archive
+description: [tutorial/article] How to Find and Kill Zombie Process in Linux — 1 message &middot; started by Devi Garcia on Oct 15, 2021 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[tutorial/article] How to Find and Kill Zombie Process in Linux</h1>
+    <p>1 message &middot; started by Devi Garcia on Oct 15, 2021</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [tutorial/article] How to Find and Kill Zombie Process in Linux</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Oct 15, 2021</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brief: This is a quick tip on finding zombie processes in Linux and then <br>
+killing them. You also learn a thing or two about processes and zombie <br>
+processes.
+<p></p>
+Before you learn about Zombie process, let me recall what is a process <br>
+in Linux.
+<p></p>
+In a few words, a process is a running instance of a program in <br>
+performance. It can be foreground (interactive process) or background <br>
+(not interactive or automatic process). It can be a parent (creator of <br>
+other processes during run-time) or child (process created by others) <br>
+process.
+<p></p>
+In Linux, except for the first init (or systemd) process with PID 0, <br>
+every other process has a parent process. Processes also have their own <br>
+child processes.
+<p></p>
+Don’t believe me? Use the pstree command in terminal to look at the <br>
+process tree to see the ‘family tree’ of your system’s processes.
+<p></p>
+What is a Zombie process in Linux?<br>
+When a child process dies, the parent process is informed so that it can <br>
+do some clean up like freeing up memory etc. However, child process goes <br>
+into zombie state if the parent process is not aware of its death. For <br>
+the parent, the child still exists but the child process is actually <br>
+dead. This is how zombie processes (also known as defunct processes) are <br>
+created and stay in the system.
+<p></p>
+read more: <a href="https://itsfoss.com/kill-zombie-process-linux/">https://itsfoss.com/kill-zombie-process-linux/</a>
+<p></p>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org<br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //www.freelists.org/list/cochiselinux<br>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/tutorialarticle-How-to-Find-and-Kill-Zombie-Process-in-Linux" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to October 2021</a>
+    </p>
+</section>

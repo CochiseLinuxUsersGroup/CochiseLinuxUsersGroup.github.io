@@ -1,0 +1,169 @@
+---
+layout: default
+title: Re: [cochiselinux] | CLUG Mailing List Archive
+description: Re: [cochiselinux] — 1 message &middot; started by Charles Breaux on Oct 19, 2022 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: [cochiselinux]</h1>
+    <p>1 message &middot; started by Charles Breaux on Oct 19, 2022</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: [cochiselinux]</h3>
+    <p style="font-size:0.85em;"><em>From Charles Breaux &middot; Oct 19, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<div>Bruce, or anyone, where can I download the libreoffice_6.4.7 for Intel/AMD 64-bit, the deb file not a tar gz file which I have never been able unpack. <br>
+</div>
+<div><br></div>
+<div>Or help me with this process below so I can just copy the version that I need from my other computer. As with a lot of instruction in the linux community you are expected to know how to do everything. I tried all day yesterday to find out  how to &quot;Copy the contents of
+	/var/cache/apt/archives.&quot; and then &quot;from your USB
+	drive copy all those Deb files into /var/cache/apt/archives
+	(you&#x27;d have to do it as root) This is what to do and not how to do it.&quot; I&#x27;d really like to learn how to do this. Never could find out how to access /var/cache/apt/archives. <br>
+</div>
+<div>I should mention the computer I want to instal the new version of Libreoffice is offline, without going into more detail about that.<br>
+</div>
+<div>
+
+
+	
+	<span></span>
+	
+	
+
+<p>I know
+a manual way to do this, so here it goes:</p>
+<ul>
+<li>
+<p>Copy the contents of
+	/var/cache/apt/archives to a folder on
+	your USB drive. Alternatively you could create a disc image
+	repository using AptOnCD. 
+	</p>
+	</li>
+<li>
+<p>In the file manager (Nautilus), in
+	your home directory, display hidden folders (to do this temporarily
+	the keyboard shortcut is Ctrl+H).
+	Folders starting with a period are the hidden folders, and contain
+	your user preferences to the applications you use. Find the folders
+	of the applications you want to back up (for instance .thunderbird
+	or .wine) and copy all of those to
+	(preferably) a different folder on your USB drive. 
+	</p>
+	</li>
+<li>
+<p>Now on the computer that you wish
+	to configure the same way as your first computer, from your USB
+	drive copy all those Deb files into /var/cache/apt/archives
+	(you&#x27;d have to do it as root) if you want to install them from
+	Synaptic (it&#x27;s a little nicer to do in Synaptic because if Synaptic
+	finds a newer version of that package, it&#x27;ll download it from the
+	Internet). Alternatively you can go to that folder in the terminal
+	(in the terminal you could do cd
+	/media/usbdrive/debfiles/ and then running sudo
+	dpkg -i *.deb to install all those deb files. You may want to
+	go into Synaptic afterwards to make sure you don&#x27;t have any missing
+	packages to install. 
+	</p>
+	</li>
+<li>
+<p>Lastly, copy those folders starting with a period into your
+	new home directory. If there was already a folder there, you could
+	delete it first (make sure that application is closed). For instance
+	while Thunderbird isn&#x27;t running, delete .thunderbird
+	in your home directory and copy over .thunderbird
+	from your USB drive. 
+	</p>
+</li>
+</ul>
+
+</div>
+</div><br><div>
+<div>On Wed, Oct 19, 2022 at 6:39 AM Charles Breaux &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(8 lines)</span>
+    </span>
+  
+  <div><pre>thanks bruce, This stuff just keeps getting more complicated as I learn -- more you know the more you know you don&#x27;t know.
+On Wed, Oct 19, 2022 at 4:55 AM HateNo Hama &lt; hateno.hama@gmail.com &gt; wrote:
+Hi Charles.  It looks like you are trying to install a package compiled for an ARM 64-bit CPU onto your Intel/AMD 64-bit computer, which will give you the error you saw.  Try with the .deb package for AMD64 instead.</pre></div>
+  <div>
+    
+    <blockquote>
+<div><div>thanks bruce, This stuff just keeps getting more complicated as I learn -- more you know the more you know you don&#x27;t know.<br>
+</div></div>
+<br><div>
+<div>On Wed, Oct 19, 2022 at 4:55 AM HateNo Hama &lt;<a href="mailto:hateno.hama@gmail.com">hateno.hama@gmail.com</a>&gt; wrote:<br>
+</div>
+<blockquote>
+<div>Hi Charles.  It looks like you are trying to install a package compiled for an ARM 64-bit CPU onto your Intel/AMD 64-bit computer, which will give you the error you saw.  Try with the .deb package for AMD64 instead.<div><br></div>
+<div>Bruce</div>
+</div>
+<br><div>
+<div>On Tue, Oct 18, 2022, 5:11 PM Charles Breaux &lt;<a href="mailto:chazbreaux@gmail.com">chazbreaux@gmail.com</a>&gt; wrote:<br>
+</div>
+<blockquote>
+<div>
+<div>devi, I&#x27;m going out of my mind! Been messing with this all day. <br>
+</div>
+<div>I discovered the version of libre office on my other computer has the thesaurus with a simple right click. So I set out to find and download that version and learned how to install a deb file. Trying to use the terminal I get this message<br><br>
+</div>
+<div>I copied the name of the file exactly, wtf dude? <br>
+</div>
+</div>
+</blockquote>
+  
+
+</div>
+</blockquote>
+</div>
+</blockquote>
+  </div>
+
+
+</div>
+
+<p><img alt="image.png" src="https://cdn.freelists.org/attachments/cochiselinux/83/839a9c25d432eab5949bc2359a506fd1b6e92f1f6c834b2640ec5de27feaff5c.png"></p>
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/cochiselinux,48" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to October 2022</a>
+    </p>
+</section>

@@ -1,0 +1,133 @@
+---
+layout: default
+title: Re: Ubuntu Help?? | CLUG Mailing List Archive
+description: Re: Ubuntu Help?? — 1 message &middot; started by Rex Bouwense on Jan 19, 2019 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: Ubuntu Help??</h1>
+    <p>1 message &middot; started by Rex Bouwense on Jan 19, 2019</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: Ubuntu Help??</h3>
+    <p style="font-size:0.85em;"><em>From Rex Bouwense &middot; Jan 19, 2019</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+    It is never a good thing to power off the computer manually but
+    under normal circumstances it shouldn&#x27;t have prevented it from
+    booting unless you did something else.  You need to hold the right
+    shift key down before the splash for the grub to appear.  If your
+    boot sector is corrupted here is a possible fix.<br>
+    <br>
+    Boot the computer from any Live Disk.  (It does not have to be the
+    same OS that you have installed.)  Open a terminal and type:<br>
+    <br>
+    sudo add-apt-repository ppa:yannubuntu/boot-repair<br>
+    sudo apt update<br>
+    sudo apt install -y boot-repair &amp;&amp; boot-repair<br>
+    <br>
+    Click the “Recommended repair” button after it finishes analyzing
+    the situation.  When the repair is finished copy the URL <br>
+    (paste.ubuntu.com/XXXXX) that appeared on a piece of paper and
+    reboot to check if you have recovered access to your OS.<br>
+    If the repair did not succeed, indicate the URL to the people who
+    help you by email or forum.<br>
+    <br>
+    WARNING:  The default settings are the ones used by the “Recommended
+    repair”.  Don’t modify them before creating a bootable URL and
+    asking for advice on Ubuntu Forums “Absolute Beginners” section or
+    “Installation and Upgrades”.<br>
+    <br>
+    Rex<br>
+    <br>
+    <br>
+    <div>On 1/19/19 7:36 PM, Eliter Awesomeness
+      wrote:<br>
+    </div>
+    
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(23 lines)</span>
+    </span>
+  
+  <div>      <br>
+      <br>
+        Hello,</div>
+  <div>
+    <blockquote>
+      
+      <div>
+        <div>Hello,</div>
+        <div> I have been running Ubuntu Desktop LTS 18.04 on my laptop
+          for a few months, and today it won&#x27;t boot properly. I wanted
+          to know if you guys could help me out.</div>
+        <div> It happened when I restarted my computer using the command
+          prompt, but it took too long, so I powered it off manually.
+          After that, the Ubuntu loading screen comes up, but it doesn&#x27;t
+          finish loading. I have tried holding down shift while it
+          starts up to get GRUB to show up, but it just continues on
+          with the stupid Ubuntu loading screen.</div>
+        <div> I have now booted into my Ubuntu Desktop LTS 16.04 live
+          disk, but I&#x27;m trying to figure out how to recover it, because
+          I am tired of this screwing up and me having to reformat the
+          disk, starting me all over again.</div>
+        <div>
+<br>
+        </div>
+        <div>Thanks,</div>
+        <div>Eli D.<br>
+        </div>
+      </div>
+    </blockquote>
+  </div>
+
+
+    <br>
+  
+
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Ubuntu-Help,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to January 2019</a>
+    </p>
+</section>

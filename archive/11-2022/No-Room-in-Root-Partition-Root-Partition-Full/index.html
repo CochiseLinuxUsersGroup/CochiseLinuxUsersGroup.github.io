@@ -1,0 +1,82 @@
+---
+layout: default
+title: No Room in Root Partition (Root Partition Full) | CLUG Mailing List Archive
+description: No Room in Root Partition (Root Partition Full) — 1 message &middot; started by Rex Bouwense on Nov 06, 2022 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>No Room in Root Partition (Root Partition Full)</h1>
+    <p>1 message &middot; started by Rex Bouwense on Nov 06, 2022</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> No Room in Root Partition (Root Partition Full)</h3>
+    <p style="font-size:0.85em;"><em>From Rex Bouwense &middot; Nov 06, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+  
+    <p>While attending the on line AZLOCO Installfest/Linux Work Shop
+      yesterday, a user brought up a problem that we had not dealt with
+      before.  Her root partition was full.  After trying sudo apt
+      autoremove which did not succeed because there was absolutely no
+      room and attempting to delete files with Synaptic Package Manager
+      which met with the same result, a member proposed the following
+      solution which worked:</p>
+    <p><i>sudo apt-get clean</i></p>
+    <p><i>sudo mv /var/lib/apt/links/tmp</i></p>
+    <p><i>sudo mkdir -p /var/lib/apt/links/partial</i></p>
+    <p><i>sudo apt-get clean</i></p>
+    <p><i>sudo apt-get update</i></p>
+    <p><i>sudo apt-get autoremove</i></p>
+    <p>(Of course the <i>apt-get</i> command has been deprecated and
+      replaced by <i>apt</i>.  Either command will give the same
+      results)</p>
+    <p>I had never come across this particular problem but wanted to
+      pass it on to the members for future reference.  If you
+      periodically use the command <i>sudo apt autoremove</i>, your
+      root partition will not get jammed up like hers did.  Just a
+      matter of preventive maintenance.</p>
+    <p>Rex Bouwense<br>
+    </p>
+  
+
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/No-Room-in-Root-Partition-Root-Partition-Full" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to November 2022</a>
+    </p>
+</section>

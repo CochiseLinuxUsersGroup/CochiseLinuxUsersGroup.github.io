@@ -1,0 +1,103 @@
+---
+layout: default
+title: [article/help] Shutdown Taking Too Long? Here’s How to Investigate and Fix Long Shutdown Time in Linux | CLUG Mailing List Archive
+description: [article/help] Shutdown Taking Too Long? Here’s How to Investigate and Fix Long Shutdown Time in Linux — 1 message &middot; started by Devi Garcia on Sep 11, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[article/help] Shutdown Taking Too Long? Here’s How to Investigate and Fix Long Shutdown Time in Linux</h1>
+    <p>1 message &middot; started by Devi Garcia on Sep 11, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [article/help] Shutdown Taking Too Long? Here’s How to Investigate and Fix Long Shutdown Time in Linux</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Sep 11, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<div>This was a issue brought up last night ***</div>
+<div><br></div>
+<div>
+<p><strong><em>Your Linux system is taking too long to shut down? Here 
+are the steps you can take to find out what is causing the delayed 
+shutdown and fix the issue.</em></strong></p>
+
+
+
+<p>I hope you are a tad bit familiar with the <a href="https://linuxhandbook.com/sigterm-vs-sigkill/">sigterm and sigkill</a> concept.</p>
+
+
+
+<p>When you <a href="https://itsfoss.com/schedule-shutdown-ubuntu/">shut down your Linux system</a>,
+ it sends the sigterm and politely asks the running processes to stop. 
+Some processes misbehave and they ignore the sigterm and keep on 
+running.</p>
+
+
+
+<p>This could cause a delay to the shutdown process as your system will 
+wait for the running processes to stop for a predefined time period. 
+After this time period, it sends the kill signal to force stop all the 
+remaining running processes and shuts down the system.</p>
+
+
+
+<p>In fact, in some cases, you would see a message like ‘a stop job is running’ on the black screen.</p>
+
+
+
+<p>If your system is taking too long in shutting down, you can do the following:</p>
+<div><div>
+
+
+
+</div></div>
+
+
+
+<ul>
+<li>Check which process/service is taking too long and if you can remove or reconfigure it to behave properly.</li>
+<li>Change the default waiting period before your system force stops the running processes. [Quick and dirty fix]</li>
+</ul>
+<div>read more:</div>
+<div><a href="https://itsfoss.com/long-shutdown-linux/">https://itsfoss.com/long-shutdown-linux/</a></div>
+
+</div>
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/articlehelp-Shutdown-Taking-Too-Long-Heres-How-to-Investigate-and-Fix-Long-Shutdown-Time-in-Linux" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to September 2020</a>
+    </p>
+</section>

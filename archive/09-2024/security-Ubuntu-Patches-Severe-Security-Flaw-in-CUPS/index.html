@@ -1,0 +1,57 @@
+---
+layout: default
+title: [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS | CLUG Mailing List Archive
+description: [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS — 1 message &middot; started by Devi Garcia on Sep 26, 2024 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS</h1>
+    <p>1 message &middot; started by Devi Garcia on Sep 26, 2024</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [security] Ubuntu Patches ‘Severe’ Security Flaw in CUPS</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Sep 26, 2024</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<div>The CUPS Security Vulnerability<br>Canonical explains in its security blog: “At its core, the vulnerability is exploited by tricking CUPS into generating an attacker-controlled PPD (PostScript Printer Description) file for a printer containing an arbitrary command.”<br><br>“Whenever the next print job is sent to the printer in question, the command will be executed as the lp user (this is the user that the CUPS daemon runs as and, barring other exploitable vulnerabilities, would not have escalated privileges).”<br><br>Many headline-grabbing security vulnerabilities often affect specific hardware or configurations, or require a ne’er-do-well to have physical access to your machine to work.<br><br>You might think, “No worries! No one will trick a printing service on my computer into doing things without I don’t know about.”<br><br>But Simone Margaritelli, who uncovered the flaw and had to battle to get it taken as seriously as he felt it was, explains in a detailed write up on his blog that this can be done silently, remotely, and without authentication.<br><br>On the internet “a remote attacker sends an UDP packet to port 631. No authentication whatsoever,” or on a LAN, “spoofs zeroconf / mDNS / DNS-SD advertisements”.<br><div><br></div>
+<div>read article:</div>
+<div>
+<a href="https://www.omgubuntu.co.uk/2024/09/ubuntu-secuity-fix-cups-vulnerability">https://www.omgubuntu.co.uk/2024/09/ubuntu-secuity-fix-cups-vulnerability</a><br>
+</div>
+</div>
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/security-Ubuntu-Patches-Severe-Security-Flaw-in-CUPS" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to September 2024</a>
+    </p>
+</section>

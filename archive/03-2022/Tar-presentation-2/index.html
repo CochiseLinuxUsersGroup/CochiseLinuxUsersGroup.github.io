@@ -1,0 +1,150 @@
+---
+layout: default
+title: Re: Tar presentation | CLUG Mailing List Archive
+description: Re: Tar presentation — 1 message &middot; started by HateNo Hama on Mar 31, 2022 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: Tar presentation</h1>
+    <p>1 message &middot; started by HateNo Hama on Mar 31, 2022</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: Tar presentation</h3>
+    <p style="font-size:0.85em;"><em>From HateNo Hama &middot; Mar 31, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Thanks, Terry!</div><br><div>
+<div>On Thu, Mar 31, 2022, 3:32 PM Teruel deCampo MD &lt;<a href="mailto:drdecampo@gmail.com">drdecampo@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(57 lines)</span>
+    </span>
+  
+  <div><pre>Bruce,
+Here the script. I include comments below that explain how it works, of
+course they all can be removed.</pre></div>
+  <div>
+    
+    <blockquote>Bruce,<br>
+<br>
+Here the script. I include comments below that explain how it works, of<br>
+course they all can be removed. <br>
+<br>
+Of course speed depends on type or file (size). The default tar bloc is<br>
+512, when you use tar for its original intent use, you can change it<br>
+with (-b) but this is not the case here. <br>
+<br>
+t, <br>
+-----------------------------------------------------<br>
+#!/bin/sh<br>
+# ./copiar  FROMThisDirectory TOthisdirectory <br>
+# use the path for each directory<br>
+# do not place copiar in neither of those directory trees<br>
+<br>
+<br>
+time tar -C &quot;$1&quot; -cf - .| tar -C &quot;$2&quot; -xpf -<br>
+<br>
+# -C  Diretory and is order-sensitive so it affects all options that<br>
+follow.<br>
+<br>
+# &quot;$1&quot;  Argument #1 which in our case is the directory FROM to copy<br>
+<br>
+# c is tar create.  Replace * by . to include hidden files as well. So<br>
+(.) includes all the file included the dotit files. <br>
+<br>
+# dot (.) means add the entire current directory (including hidden<br>
+files and sub-directories).<br>
+<br>
+# (|) pipe command<br>
+<br>
+# &quot;$2&quot; Argument #2 which is the TO directory<br>
+<br>
+# x: extract<br>
+# p: preserve-permissions<br>
+# f Archive  If the Archive variable specified is - (minus sign), the<br>
+tar command writes to standard output in this case<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+<br>
+On Thu, 2022-03-31 at 09:21 -0700, HateNo Hama wrote:<br>
+Hi Terry.  Can you send me the bash script your used in your<br>
+presentation on tar?  I have a coworker who would like to try it out<br>
+for a large file copy.<br>
+<br>
+Thank you!<br>
+<br>
+Bruce<br>
+<br>
+On Mon, Mar 28, 2022, 12:22 PM Teruel deCampo &lt;<a href="mailto:drdecampo@gmail.com">drdecampo@gmail.com</a>&gt;<br>
+wrote:<br>
+&gt; <a href="https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;utm_medium=email&amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f">https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;utm_medium=email&amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f</a><br>
+&gt; <br>
+&gt; My Chromium was <br>
+&gt; Version 99.0.4844.64<br>
+&gt; I just upgraded to <br>
+&gt; Version 99.0.4844.84<br>
+&gt; <br>
+&gt; Who is affected:<br>
+&gt; 1. Chrombooks<br>
+&gt; 2. Chromium /Chrome<br>
+&gt; 3. Windows Edge<br>
+&gt; <br>
+&gt; -=Teruel=-<br>
+&gt; <br>
+<br>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - <a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //<a href="https://www.freelists.org/list/cochiselinux">www.freelists.org/list/cochiselinux</a><br>
+</blockquote>
+  
+  </div>
+
+
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Tar-presentation,2" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to March 2022</a>
+    </p>
+</section>

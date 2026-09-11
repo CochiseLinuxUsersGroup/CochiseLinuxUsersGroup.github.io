@@ -1,0 +1,89 @@
+---
+layout: default
+title: Steinberg U44 / AlsaMixer | CLUG Mailing List Archive
+description: Steinberg U44 / AlsaMixer — 1 message &middot; started by Braswell Communications on Aug 31, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Steinberg U44 / AlsaMixer</h1>
+    <p>1 message &middot; started by Braswell Communications on Aug 31, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Steinberg U44 / AlsaMixer</h3>
+    <p style="font-size:0.85em;"><em>From Braswell Communications &middot; Aug 31, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello:
+<p></p>
+I have an Steinberg u44 audio mixing equipment that worked on my old XP, <br>
+which is long gone. My Ubuntu 18.0.1 recognizes the device (multiport <br>
+Steinberg USB device or something like that), but when the card is <br>
+toggled in alsamixer, it reads &quot;DEVICE HAS NO CONTROLS.&quot; Well, that&#x27;s <br>
+because the proprietary software packaged with it (Cubase mixing <br>
+software and some other stuff, along with Windows drivers, are not <br>
+present on my Linux machine (they all died with the XP), and Steinberg <br>
+won&#x27;t directly support Linux -- what a downer!)
+<p></p>
+I found some info that involves adjusting the kernel <br>
+(<a href="https://www.steinberg.net/forums/viewtopic.php?t=62290),">https://www.steinberg.net/forums/viewtopic.php?t=62290),</a> which would be <br>
+fine and I actually started into that...
+<p></p>
+...But, then I found something that said if the command &quot;modinfo <br>
+soundcore&quot; reveals the presence of that module (screenshot attached), <br>
+then there&#x27;s no need to toy with the kernel. So I stopped, and discarded <br>
+the changes (I think)....
+<p></p>
+...Then I was ensnared (at wiki.ubuntu.com/Audio/UpgradingAlsa/DKMS) <br>
+trying to get the correct alsa package (oem-audio-hda-daily-dkms), but <br>
+it&#x27;s not a deb file (although the wiki instructions say it is -- but it <br>
+ain&#x27;t) and I got all bogged down in the configure / make / build stuff <br>
+that I&#x27;ve forgotten since I haven&#x27;t used that in a long time.  Then my <br>
+head started to hurt and I realized I have spent too much time on this <br>
+issue, so I decided to ask for advice.....
+<p></p>
+Another option is the alsa github repository <br>
+(<a href="https://www.alsa-project.org/wiki/GIT_Server),">https://www.alsa-project.org/wiki/GIT_Server),</a> which is probably the <br>
+best solution, but I don&#x27;t know which one to clone, and I want to make <br>
+sure I do it right.
+<p></p>
+Otto, clugwrench
+<p></p>
+p.s. happy birthday REX... you&#x27;re 49, right?
+<p><img alt="Screenshot from 2020-08-31 21-06-53.png" src="https://cdn.freelists.org/attachments/cochiselinux/5c/5cbfb17ead29b118334ce04c0d2b2d11cc1545abe64f8b01e8c3c1027f8694e6.png"></p>
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Steinberg-U44-AlsaMixer" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to September 2020</a>
+    </p>
+</section>

@@ -1,0 +1,105 @@
+---
+layout: default
+title: [Article] Do Wine Viruses only work while Wine is running? | CLUG Mailing List Archive
+description: [Article] Do Wine Viruses only work while Wine is running? — 1 message &middot; started by David Garcia on Mar 29, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[Article] Do Wine Viruses only work while Wine is running?</h1>
+    <p>1 message &middot; started by David Garcia on Mar 29, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [Article] Do Wine Viruses only work while Wine is running?</h3>
+    <p style="font-size:0.85em;"><em>From David Garcia &middot; Mar 29, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<p> </p>
+<div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(4 lines)</span>
+    </span>
+  
+  <div><pre>Do Wine Viruses only work while Wine is running?
+Yes, if it is a  trojan ,  rootkit ,  worm  program specifically designed to infect Windows machine.
+( Viruses through wine  has already happened.)</pre></div>
+  <div>
+    
+    <blockquote><p>Do Wine Viruses only work while Wine is running?</p></blockquote>
+  
+
+<p>Yes, if it is a <span>trojan</span>, <span>rootkit</span>, <span>worm</span> program specifically designed to infect Windows machine. </p>
+<p>(<a href="https://www.winehq.org/pipermail/wine-devel/2007-January/053719.html">Viruses through wine</a> has already happened.)</p>
+
+    <blockquote><p>could I stop a virus from doing it&#x27;s thing by just quitting Wine?</p></blockquote>
+  
+  </div>
+
+
+
+<p>Yes, and no.</p>
+<p> </p> Yes <p>If It&#x27;s a Windows virus, kill the Windows Environment(wine), and it won&#x27;t have a leg to stand on. The Virus is still installed, but its not doing any harm. If you remove wine - to the best of my knowledge - it just removes its binaries. Reinstalling wine later, will show that the applications are still installed. </p>
+<p>Removing the <span>~/.wine</span> folder completely, however, will give some sense of safety. Mind you that if it did not copy it self somewhere else then the <span>~/.wine</span> folder. In which case, you have a Windows binary somewhere, that <em><span>possibly</span></em> can cause harm to your system. </p> No <p>If the virus is targeting Linux with Wine environment. Although the chance for you specifically to catch this rare virus is pretty slim, I would still urge you to read an article by the Wine community on how to <a href="http://wiki.winehq.org/SecuringWine">Secure wine</a>.</p>
+<p>How rare the virus may be, its still advised to secure Wine as much as possible. Especially if your on a business side of things. </p>
+<p></p>
+<p>My preferred graphical front-end for Wine is <a href="http://www.playonlinux.com/en/">PlayOnLinux</a>, with that you have more control over your Wine environment, and there is a separate environment per application. So, if you happened to get infected by using <span>Safari</span>, use the Configuration options to examine and/or restore, or just delete the entire <span>Safari</span> Volume. </p>
+<p>Excerpt image from here: <a href="http://www.gamersonlinux.com/forum/threads/playonlinux-explained-wine-configuration.267/">PlayOnLinux Explained: Wine Configuration | GamersOnLinux</a> </p>
+<p><strong><span>Note</span></strong>:</p>
+<p>It&#x27;s a small chance, but, even after securing wine, you still might get infected by a virus or even viruses specifically designed to <span>hack</span>/<span>infect</span> Linux through wine. Just for security reasons, I have installed <a href="http://www.malwarebytes.org/">Malwarebytes</a>, and <a href="http://www.superantispyware.com/">SuperAntiSpyware</a>. Also note that the custom <span>explorer.exe</span> - or other wine software - created by the wine team, might be considered as malicious by the aforementioned security software. </p>
+<p>IMHO: PlayOnLinux is a safer alternative, because you have more control over wine, with the Configuration tools. Whilst installing only <span>wine</span>, installs a Windows environment in your Linux system without any way of monitoring it. </p>
+<p>PlayOnLinux doesn&#x27;t need wine pre-installed. It creates a Wine Prefix(a separate working environment) with wine. Then it will install the software in the separate Wine Prefix. Meaning, the software cannot access other environments. Thus making it harder to infect other parts of Windows software installed in a different Wine Prefix. </p>
+<p><strong><span>Further reading</span></strong>:</p>
+<ul>
+<li><a href="https://www.playonlinux.com/en/topic-3124.html">[Security Feature]: Run Playonlinux/Wine as isolated user. - The forum - PlayOnLinux</a></li>
+<li><a href="https://www.winehq.org/pipermail/wine-devel/2007-January/053719.html">Another report of malware running on Wine</a></li>
+<li><a href="http://wiki.winehq.org/SecuringWine">SecuringWine - The Official Wine Wiki</a></li>
+</ul>
+</div>
+<p> </p>
+<p>Source: <a href="https://askubuntu.com/questions/562388/do-wine-viruses-only-work-while-wine-is-running">https://askubuntu.com/questions/562388/do-wine-viruses-only-work-while-wine-is-running</a></p>
+<p> </p>
+</div>
+<p><img alt="53FC28037D934D0B882624993DF04ED9.png" src="https://cdn.freelists.org/attachments/cochiselinux/e7/e740831fe5381b5623d7a16bc44b0106b54169502846880e024e1ef2ab355756.png"></p>
+<p><img alt="E380D322F1CE4C61B0D9ACE701F92260.png" src="https://cdn.freelists.org/attachments/cochiselinux/22/2211d6d6c221bbafe0a94d43270b36ad1329699804d8a9bd96d54b13787e794d.png"></p>
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Article-Do-Wine-Viruses-only-work-while-Wine-is-running" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to March 2020</a>
+    </p>
+</section>

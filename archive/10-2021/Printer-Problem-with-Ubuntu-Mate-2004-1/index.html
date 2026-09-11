@@ -1,0 +1,96 @@
+---
+layout: default
+title: Re: Printer Problem with Ubuntu Mate 20.04 | CLUG Mailing List Archive
+description: Re: Printer Problem with Ubuntu Mate 20.04 — 1 message &middot; started by Devi Garcia on Oct 06, 2021 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Re: Printer Problem with Ubuntu Mate 20.04</h1>
+    <p>1 message &middot; started by Devi Garcia on Oct 06, 2021</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Re: Printer Problem with Ubuntu Mate 20.04</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Oct 06, 2021</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<p><span>before doing anything make sure that you’re repositories are </span><span>up-to-date</span><span>.</span></p>
+<div><pre><ol><div><li>
+<span>sudo apt update &amp; upgrade</span> </li></div></ol></pre></div>
+<p><span>I’ve done that installing through installing </span>HPLIP<span>, you can get it straight from </span>apt <span><a href="https://launchpad.net/hplip" title="launchpad.net">repositories </a><span><span></span></span></span><span>like below:</span></p>
+<div><pre><ol><div><li>
+<span>sudo apt install hplip hplip-data hplip-doc hpijs-ppds hplip-gui hplip-dbg printer-driver-hpcups printer-driver-hpijs printer-driver-pxljr</span> </li></div></ol></pre></div>
+<p><span>or download the intended file from </span><span><a href="https://developers.hp.com/hp-linux-imaging-and-printing" title="developers.hp.com">origin website</a><span><span></span></span></span><span> for you’re specific OS.</span></p>
+<p><span>I had some problems to run it, so installed some dependencies and it fixed.</span></p>
+<div><pre><ol><div><li>
+<span>sudo apt install   python3-pyqt4 gtk2-engines-pixbuf python3-dbus.mainloop.qt</span> </li></div></ol></pre></div>
+<p><span>then it warned me about the plugin is not installed so installed it this way.</span></p>
+<div><pre><ol><div><li>
+<span>sudo hp-plugin -i -g</span> </li></div></ol></pre></div>
+<p><span>then it was working for me.</span></p>
+<p><span><br></span></p>
+<p>—-</p>
+<p><br></p>
+<p>This is someone’s answer from an forum about the printer.. and all the commands they ran before ever even connecting the printer... </p>
+</div><div>
+<br>
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(2 lines)</span>
+    </span>
+  
+  <div><pre>On Oct 6, 2021, at 11:14 AM, Rex Bouwense &lt;Majb@azloco.com&gt; wrote:
+HP officeJet 4650</pre></div>
+  <div>
+    
+    <blockquote>On Oct 6, 2021, at 11:14 AM, Rex Bouwense &lt;Majb@azloco.com&gt; wrote:<br><br>
+</blockquote>
+  
+
+</div>
+    <blockquote><div>HP officeJet 4650</div></blockquote>
+  
+  </div>
+
+
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Printer-Problem-with-Ubuntu-Mate-2004,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to October 2021</a>
+    </p>
+</section>

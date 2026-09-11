@@ -1,0 +1,65 @@
+---
+layout: default
+title: Chromebook efi | CLUG Mailing List Archive
+description: Chromebook efi — 1 message &middot; started by Devi Garcia on Jan 02, 2018 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>Chromebook efi</h1>
+    <p>1 message &middot; started by Devi Garcia on Jan 02, 2018</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> Chromebook efi</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Jan 02, 2018</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>For anyone who was considering a Chromebook as a Linux replacement I figured it why my Arch wouldn&#x27;t load on the custom efi bios <div><br></div>
+<div>
+<div><br></div>
+<div>Type &#x27;exit&#x27; to return to the UEFI settings menu, then select Boot Maintenance Manager. From there, select Boot From File, then navigate to and boot from /EFI/[distro name]/grubx64.efi (where [distro name] will be ubuntu, arch, debian, etc). Once your OS is booted, open a terminal/shell, and type the following (observing case):</div>
+<div><br></div>
+<div>sudo su</div>
+<div>mkdir -p /boot/efi/EFI/BOOT</div>
+<div>cp /boot/efi/EFI/[distro name from above]/grubx64.efi /boot/efi/EFI/BOOT/BOOTX64.efi</div>
+<div><br></div>
+<div>If using GalliumOS it works on efi no problems but other distros probably have this problem the Asus c300 Chromebook I had now on efi with GalliumOS and runs indie games off steam with no issues for my wife</div>
+</div>
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Chromebook-efi" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to January 2018</a>
+    </p>
+</section>

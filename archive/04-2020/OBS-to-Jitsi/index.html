@@ -1,0 +1,77 @@
+---
+layout: default
+title: OBS to Jitsi | CLUG Mailing List Archive
+description: OBS to Jitsi — 1 message &middot; started by Eliter Awesomeness on Apr 14, 2020 from the cochiselinux mailing list archive.
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>OBS to Jitsi</h1>
+    <p>1 message &middot; started by Eliter Awesomeness on Apr 14, 2020</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> OBS to Jitsi</h3>
+    <p style="font-size:0.85em;"><em>From Eliter Awesomeness &middot; Apr 14, 2020</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Hello,<div> (this is a software question) So as you know, I sell knives. I do virtual demos, which I do a video conference to sell the knives, and am using Jitsi (a video conferencing software that I self-host), and am doing it using Chromium web browser. Firefox works too, so I guess it doesn&#x27;t matter.</div>
+<div> OBS (Open Broadcast Software - <a href="https://obsproject.com/">https://obsproject.com/</a>) is a really cool piece of software that allows you to stream and record video/audio. It also allows you to put scenes together, and switch scenes (e.g. video-on-video, switch windows, show &quot;technical difficulties&quot; scene).</div>
+<div> However, Jitsi does not accept streams from OBS, so I have to work around it. I found a modification for OBS, called obs-v4l2sink ( <a href="https://github.com/CatxFish/obs-v4l2sink">https://github.com/CatxFish/obs-v4l2sink</a> ), which basically creates a fake video device and outputs the OBS video to the fake video device.</div>
+<div> Since Jitsi displays garbage quality for the video device, and also cuts it out, I had to use the &quot;share screen&quot; feature in Chromium/Firerfox, and have VLC play the video from the fake video device, and have the &quot;share screen&quot; share the window of the VLC player.</div>
+<div><br></div>
+<div>Here are commands to get OBS and the mod installed:</div>
+<div>sudo apt-get update<br>sudo apt-get install ffmpeg git make cmake build-essential<br>sudo add-apt-repository ppa:obsproject/obs-studio<br>sudo apt-get update<br>sudo apt-get install obs-studio<br>sudo apt install qtbase5-dev<br>git clone --recursive <a href="https://github.com/obsproject/obs-studio.git">https://github.com/obsproject/obs-studio.git</a><br>git clone <a href="https://github.com/CatxFish/obs-v4l2sink.git">https://github.com/CatxFish/obs-v4l2sink.git</a><br>cd obs-v4l2sink<br>mkdir build &amp;&amp; cd build<br>cmake -DLIBOBS_INCLUDE_DIR=&quot;../../obs-studio/libobs&quot; -DCMAKE_INSTALL_PREFIX=/usr ..<br>make -j4<br>sudo make install<br>sudo modprobe v4l2loopback<br>sudo modprobe v4l2loopback devices=1<br>sudo modprobe v4l2loopback exclusive_caps=1</div>
+<div>
+<div><br></div>
+<div>Then, I open up OBS, and create a scene. You can create a scene by right-clicking the box under &quot;Scenes&quot;, and creating a scene. To add your desktop to the scene, click on a scene, and add a source (right-click on the box under &quot;Sources&quot;), click &quot;Screen Capture&quot;, click &quot;OK&quot; select your screen, then click &quot;OK&quot;. You should now see your desktop on preview.</div>
+<div><br></div>
+<div>Then, to output to the fake video device from OBS, on the top of the window, go to &quot;Tools&quot; -&gt; &quot;V4L2 Video Output&quot; select the video device (in my case, &quot;/dev/video0&quot; -- see explanation below on video device numbers), for Video Format, I find that YUY2 is the only one that works. Then, hit &quot;Start&quot;, then exit the &quot;V4l2sinkProperties&quot; window.</div>
+<div><br></div>
+<div>Of course, you will have to install VLC as well. What I did was open the virtual video device via VLC using this: &quot;vlc --intf dummy v4l2:///dev/video0&quot; in command line. This will open VLC, using an interface that won&#x27;t add unnecessary stuff we don&#x27;t need. Of course, on this computer, I didn&#x27;t have any real video devices, so the device number was 0. If you have 1 video device, this would be &quot;video1&quot;, if you have 2 video devices, &quot;video2&quot;, and so on. Linux starts with &quot;video0&quot; and works its way up (programmers like counting up from 0). You can check what video devices you have by using this: &quot;ls -lah /dev/ |grep video&quot;.</div>
+<div><br></div>
+<div>Then, once you have VLC running, you go to your web browser, making VLC stays not minimized or closed, go to video conferencing software (such as Zoom, Hangouts would probably work too), and select the fake video device (it might be called &quot;Dummy&quot; or something like that). It should work.</div>
+<div><br></div>
+<div>So the problem is, how do I get audio in this? How do I get OBS to output audio into the video conference? I could try creating a fake microphone, and have OBS output to that, and have Chromium/Firefox but I don&#x27;t know how I would do that. I have been searching for hours online for solutions! My other concern, is that if I do get it working, the video will be out-of-sync with the audio, which is ABSOLUTELY annoying to people to see/hear that.</div>
+<div><br></div>
+<div>Thanks,</div>
+<div>Eli D.</div>
+<div></div>
+</div>
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/OBS-to-Jitsi" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to April 2020</a>
+    </p>
+</section>
