@@ -8,9 +8,9 @@
 #    - display: "Sep 10" — short label on homepage (Mon Day)
 #    - title: "Ubuntu Hour" etc — keep short (Ubuntu Hour, CLUG Meeting, Linux Workshop, Supper Meeting)
 #    - location: free text, shown only if you add to index.html loop (currently not displayed, safe to edit)
-# 3. Keep chronological order (earliest top) — homepage shows first 8
+# 3. Keep chronological order (earliest top) — homepage shows all events
 # 4. Save + git push — homepage updates + SEO time tag auto-updates. No HTML needed!
-# 5. Remove past events (cut the 5-line block) or keep — homepage limit hides extras
+# 5. Remove past events (cut the 5-line block) — homepage shows every event listed
 # Dates MUST be ISO + Phoenix is always -07:00 (no DST)
 # =============================================================================
 

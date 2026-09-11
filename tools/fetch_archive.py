@@ -388,7 +388,7 @@ def render_message(node, month, depth):
 {sub}"""
 
 
-def render_thread_page(roots, month):
+def render_thread_page(roots, month, prev_link="", next_link=""):
     root = roots[0] if roots else None
     title = (root.get("_post") or {}).get("title") or (root["title"] if root else month)
     posts_joined = "".join(render_message(r, month, 0) for r in roots)
@@ -397,6 +397,14 @@ def render_thread_page(roots, month):
     if roots and roots[0].get("_post"):
         p = roots[0]["_post"]
         meta += f" &middot; started by {html.escape(p['author'] or '—')} on {html.escape(p['date_display'])}"
+    nav = ""
+    if prev_link or next_link:
+        parts = []
+        if prev_link:
+            parts.append(f"<a href=\"{prev_link}\"><i class=\"fa fa-chevron-left\"></i> Previous thread</a>")
+        if next_link:
+            parts.append(f"<a href=\"{next_link}\">Next thread <i class=\"fa fa-chevron-right\"></i></a>")
+        nav = '<p style="text-align:center; font-size:0.9em;">' + " &middot; ".join(parts) + "</p>"
     page = """---
 layout: default
 title: __TITLE__ | CLUG Mailing List Archive
@@ -418,6 +426,7 @@ __THREAD__
         </div>
     </div>
     <hr />
+__NAV__
     <p style="text-align:center; font-size:0.9em;">
         <a href="../"><i class="fa fa-archive"></i> Back to __MONTH__</a>
     </p>
@@ -428,11 +437,12 @@ __THREAD__
         .replace("__DESC__", html.escape(title))
         .replace("__META__", meta)
         .replace("__THREAD__", posts_joined)
+        .replace("__NAV__", nav)
         .replace("__MONTH__", html.escape(month_title(month)))
     )
 
 
-def render_month_page(mm_yyyy, roots):
+def render_month_page(mm_yyyy, roots, prev_link="", next_link=""):
     lines = []
     for r in roots:
         post = r.get("_post")
@@ -444,6 +454,14 @@ def render_month_page(mm_yyyy, roots):
             f" <em>({html.escape((post or {}).get('date_display') or '')})</em>"
             f" <small><span class=\"badge\">{n} msg{'s' if n != 1 else ''}</span></small></li>"
         )
+    parts = []
+    if prev_link:
+        parts.append(f'<a href="{prev_link}"><i class="fa fa-chevron-left"></i> Previous month</a>')
+    if next_link:
+        parts.append(f'<a href="{next_link}">Next month <i class="fa fa-chevron-right"></i></a>')
+    nav = ""
+    if parts:
+        nav = '<p style="text-align:center; font-size:0.9em; margin-top:1.5em;">' + " &middot; ".join(parts) + "</p>"
     return f"""---
 layout: default
 title: {month_title(mm_yyyy)} Mailing List Archive | CLUG
@@ -460,6 +478,7 @@ description: {len(roots)} thread{'s' if len(roots) != 1 else ''} posted to the c
     <ul class="default">
 {chr(10).join(lines)}
     </ul>
+{nav}
 </section>
 """
 
@@ -522,6 +541,7 @@ def main():
     print(f"Found {len(months)} months from {MIN_YEAR}+ in the FreeLists archive.")
     remove_old_months(months)
 
+    month_threads = {}
     years = {}
     mirrored = set()
     for mm_yyyy in months:
@@ -555,32 +575,55 @@ def main():
         for r in roots:
             attach(r)
 
-        threads = group_threads(roots, posts)
-
-        out_dir = os.path.join(OUT, mm_yyyy)
-        shutil.rmtree(out_dir, ignore_errors=True)
-        os.makedirs(out_dir, exist_ok=True)
-
-        used_slugs = set()
-        for r in threads:
-            local = safe_slug(r["slug"])
-            n = 1
-            while local in used_slugs:
-                local = f"{safe_slug(r['slug'])}-{n}"
-                n += 1
-            used_slugs.add(local)
-            d = os.path.join(out_dir, local)
-            os.makedirs(d, exist_ok=True)
-            with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as f:
-                f.write(render_thread_page([r], mm_yyyy))
-
-        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(render_month_page(mm_yyyy, threads))
-
+        month_threads[mm_yyyy] = group_threads(roots, posts)
         years.setdefault(yyyy, set()).add(mm)
-        mirrored.update(flatten_thread(threads))
-        print(f"  {mm_yyyy}: {len(threads)} threads / {len(flatten_thread(threads))} messages")
+        for t in month_threads[mm_yyyy]:
+            mirrored.update(flatten_thread([t]))
+        print(f"  {mm_yyyy}: {len(month_threads[mm_yyyy])} threads / {len(flatten_thread(month_threads[mm_yyyy]))} messages")
         save_state(state)
+
+    for mm_yyyy in month_threads:
+        shutil.rmtree(os.path.join(OUT, mm_yyyy), ignore_errors=True)
+
+    all_threads = []
+    for mm_yyyy, threads in month_threads.items():
+        used = set()
+        for t in threads:
+            local = safe_slug(t["slug"])
+            n = 1
+            while local in used:
+                local = f"{safe_slug(t['slug'])}-{n}"
+                n += 1
+            used.add(local)
+            all_threads.append((mm_yyyy, local, t))
+    all_threads.sort(key=lambda x: (month_key(x[0])[0], month_key(x[0])[1], x[1]))
+
+    for i, (mm_yyyy, local, t) in enumerate(all_threads):
+        prev_t = all_threads[i - 1] if i > 0 else None
+        next_t = all_threads[i + 1] if i + 1 < len(all_threads) else None
+        if prev_t:
+            p_same = prev_t[0] == mm_yyyy
+            prev_url = f"../{prev_t[1]}/" if p_same else f"../../{prev_t[0]}/{prev_t[1]}/"
+        else:
+            prev_url = ""
+        if next_t:
+            n_same = next_t[0] == mm_yyyy
+            next_url = f"../{next_t[1]}/" if n_same else f"../../{next_t[0]}/{next_t[1]}/"
+        else:
+            next_url = ""
+        out_dir = os.path.join(OUT, mm_yyyy, local)
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(render_thread_page([t], mm_yyyy, prev_url, next_url))
+
+    present_months = [m for m in months if m in month_threads]
+    for i, mm_yyyy in enumerate(present_months):
+        prev_m = f"../{present_months[i - 1]}/" if i > 0 else ""
+        next_m = f"../{present_months[i + 1]}/" if i + 1 < len(present_months) else ""
+        out_dir = os.path.join(OUT, mm_yyyy)
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(render_month_page(mm_yyyy, month_threads[mm_yyyy], prev_m, next_m))
 
     with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
         f.write(render_landing(years, len(mirrored)))

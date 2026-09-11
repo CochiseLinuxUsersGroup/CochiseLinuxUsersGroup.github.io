@@ -57,7 +57,7 @@ NO HTML? Just edit text between tags. Don't remove <section>, <h2>, <div> wrappe
               <h2>Upcoming Events</h2>
               </header>
               <ul style="text-align:left; list-style:none; padding-left:0;">
-              {% for event in site.data.events limit:8 %}
+              {% for event in site.data.events %}
               <li><time datetime="{{ event.date }}T{{ event.time }}"><strong>{{ event.display }}</strong></time> {{ event.time_display }} {{ event.title }}</li>
               {% endfor %}
               </ul>
