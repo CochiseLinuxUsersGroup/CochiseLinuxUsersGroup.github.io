@@ -1,13 +1,13 @@
 ---
 layout: default
 title: GUIX lvm setup, post/install | CLUG Mailing List Archive
-description: GUIX lvm setup, post/install — 1 message &middot; started by Other One on Mar 17, 2024 from the cochiselinux mailing list archive.
+description: GUIX lvm setup, post/install — 3 messages &middot; started by Other One on Mar 17, 2024 from the cochiselinux mailing list archive.
 ---
 
 <header class="special container">
     <span class="icon fa-envelope-o"></span>
     <h1>GUIX lvm setup, post/install</h1>
-    <p>1 message &middot; started by Other One on Mar 17, 2024</p>
+    <p>3 messages &middot; started by Other One on Mar 17, 2024</p>
 </header>
 
 <section class="wrapper style1 container">
@@ -38,6 +38,145 @@ description: GUIX lvm setup, post/install — 1 message &middot; started by Othe
     </div>
     <p style="font-size:0.8em; margin-bottom:0.25em;">
         <a href="https://www.freelists.org/post/cochiselinux/GUIX-lvm-setup-postinstall" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> GUIX lvm setup, post/install</h3>
+    <p style="font-size:0.85em;"><em>From Other One &middot; Mar 17, 2024</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+<p><span>I have installed Gnu Guix as the base operating system on one of my machines. It will likely become my web server eventually. </span></p><p><span></span><br></p><p><span>(I have another machine running Void Linux within which I’ve installed the Guix System (because its proprietary hardware prevented a base install of Guix’s Libre kernel). This will probably become my mail server. Or vice versa.)</span></p><p><span></span><br></p><p><span>After some searching, I’ve decided to ultimately go with Guix on all my network nodes, for various reasons to include pure open-source ethics, everything-but-the-kitchen-sink Gnu libraries, adaptability of pure GNU/Linux for fledgling development considerations, and a general long-term work-in-progress computer science study project. I would recommend everyone in the LUG to take a stab at it, so we can all go lassie go.</span></p><p><span></span><br></p><p><span>However:</span></p><p><span></span><br></p><p><span>On the machine mentioned first above (the Guix base install, not the Guix System install), I did not encrypt the partitions with any LUKS/LVM upon initial install config, thinking I’d fix it later as needed be. Well, now, it needs be, because of the size limitations of the Linux root / boot partition on a 60 GB solid state drive (SDA). There is a 3 or 4 GB swap part on sda which is in use.</span></p><p><span></span><br></p><p><span>There is also a several TB SATA drive in the machine, formatted as ext4, that can be mounted (SDB). There is an 8 Gb swap part on sdb which does not appear to be in use. </span></p><p><span></span><br></p><p><span>But now I need that sdb for the whole OS.</span></p><p><span></span><br></p><p><span><b>Here’s the nut</b>: In the past I’ve been easily able to expand the size of root partitions using various appropriate utilities designed for just such a task. I did this with my Pinephone running Mobian with its microSD ROM, and a SSD Fedora server most recently, but those all had LVM encryption from setup/install. But again, I didn’t encrypt anything during the original install in this case, and I can’t find any instructions to do what I need to do with the Guix machine which don’t assume existing LVM.</span></p><p><span></span><br></p><p><span>I’d rather not do a full reinstall, that seems like a baby out with the bath water solution, but I will if I have to. </span></p><p><span></span><br></p><p><span><b>Q</b>: What might be best practice for encrypting existing unencrypted devices and partitions that already exist (assuming there is), so I may proceed with mapping those for my root expansion? There is also a sandbox/VM approach, but that’s not where I was headed with this.</span></p><p><span></span><br></p><p><span>I realize, if I’m the incumbent GUIX expert, then I’m the one who should decipher the Guix documentation on this. But, on the other hand, it really may be a more general question best addressed beneath the OS, so I wanted to ask here before I ask Guix forums.</span></p><p><span>~~~</span></p><p><span>Braswell </span></p><p><span>Sent fast from my moon unit</span></p>
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/GUIX-lvm-setup-postinstall" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: GUIX lvm setup, post/install</h3>
+    <p style="font-size:0.85em;"><em>From Teruel deCampo MD &middot; Mar 17, 2024</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+You have your hands full ;-)<br>
+This site has a good summary of 
+<p></p>
+LUKS ---&gt; LVM
+<p></p>
+LVM ---&gt; LUKS
+<p></p>
+with its plus and minus that may help in your situation.
+<p></p>
+-=terry=-<br>
+On Sun, 2024-03-17 at 17:54 -0700, Other One wrote:<br>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(55 lines)</span>
+    </span>
+  
+  <div><pre>I have installed Gnu Guix as the base operating system on one of my
+machines. It will likely become my web server eventually. 
+</pre></div>
+  <div>
+    <blockquote><pre>I have installed Gnu Guix as the base operating system on one of my
+machines. It will likely become my web server eventually. 
+
+(I have another machine running Void Linux within which I’ve
+installed the Guix System (because its proprietary hardware prevented
+a base install of Guix’s Libre kernel). This will probably become my
+mail server. Or vice versa.)
+
+After some searching, I’ve decided to ultimately go with Guix on all
+my network nodes, for various reasons to include pure open-source
+ethics, everything-but-the-kitchen-sink Gnu libraries, adaptability
+of pure GNU/Linux for fledgling development considerations, and a
+general long-term work-in-progress computer science study project. I
+would recommend everyone in the LUG to take a stab at it, so we can
+all go lassie go.
+
+However:
+
+On the machine mentioned first above (the Guix base install, not the
+Guix System install), I did not encrypt the partitions with any
+LUKS/LVM upon initial install config, thinking I’d fix it later as
+needed be. Well, now, it needs be, because of the size limitations of
+the Linux root / boot partition on a 60 GB solid state drive (SDA).
+There is a 3 or 4 GB swap part on sda which is in use.
+
+There is also a several TB SATA drive in the machine, formatted as
+ext4, that can be mounted (SDB). There is an 8 Gb swap part on sdb
+which does not appear to be in use. 
+
+But now I need that sdb for the whole OS.
+
+Here’s the nut: In the past I’ve been easily able to expand the size
+of root partitions using various appropriate utilities designed for
+just such a task. I did this with my Pinephone running Mobian with
+its microSD ROM, and a SSD Fedora server most recently, but those all
+had LVM encryption from setup/install. But again, I didn’t encrypt
+anything during the original install in this case, and I can’t find
+any instructions to do what I need to do with the Guix machine which
+don’t assume existing LVM.
+
+I’d rather not do a full reinstall, that seems like a baby out with
+the bath water solution, but I will if I have to. 
+
+Q: What might be best practice for encrypting existing unencrypted
+devices and partitions that already exist (assuming there is), so I
+may proceed with mapping those for my root expansion? There is also a
+sandbox/VM approach, but that’s not where I was headed with this.
+
+I realize, if I’m the incumbent GUIX expert, then I’m the one who
+should decipher the Guix documentation on this. But, on the other
+hand, it really may be a more general question best addressed beneath
+the OS, so I wanted to ask here before I ask Guix forums.
+~~~
+Braswell 
+Sent fast from my moon unit</pre></blockquote>
+  </div>
+
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org<br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //www.freelists.org/list/cochiselinux<br>
+
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/GUIX-lvm-setup-postinstall,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
     </p>
 </div>
 

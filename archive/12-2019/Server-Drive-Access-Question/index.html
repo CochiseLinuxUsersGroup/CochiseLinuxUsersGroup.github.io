@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Server Drive Access Question | CLUG Mailing List Archive
-description: Server Drive Access Question — 1 message &middot; started by otter on Dec 20, 2019 from the cochiselinux mailing list archive.
+description: Server Drive Access Question — 3 messages &middot; started by otter on Dec 20, 2019 from the cochiselinux mailing list archive.
 ---
 
 <header class="special container">
     <span class="icon fa-envelope-o"></span>
     <h1>Server Drive Access Question</h1>
-    <p>1 message &middot; started by otter on Dec 20, 2019</p>
+    <p>3 messages &middot; started by otter on Dec 20, 2019</p>
 </header>
 
 <section class="wrapper style1 container">
@@ -17,6 +17,177 @@ description: Server Drive Access Question — 1 message &middot; started by otte
 
 <div class="mail-card" style="margin-left:0em;">
     <h3><span class="icon fa-envelope-o"></span> Server Drive Access Question</h3>
+    <p style="font-size:0.85em;"><em>From otter &middot; Dec 20, 2019</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello LUGites:
+<p></p>
+I have an Ubuntu 18.04.3 LTS server running headless on an x86_64 <br>
+machine on my home/office network.
+<p></p>
+I spent a lot of time on it this summer tinkering with a mail server <br>
+config and a web server config (yes, on the same server, which I realize <br>
+is a &quot;no-no&quot;). Anyway, my mailservice config was imperfect and didn&#x27;t <br>
+work, and the web server didn&#x27;t work although the problem might have <br>
+been the ISP, not me.
+<p></p>
+Anyway, I bring up the aforementioned time investment in the server&#x27;s <br>
+configuration, because one of the fixes for my current problem is to <br>
+re-install. (That is, I&#x27;d prefer not to re-install if I don&#x27;t have to.)
+<p></p>
+Here&#x27;s the conundrum: The server is installed on a 60 gig SSD. There is <br>
+a 400 gig SATA drive also within the same tower, which contains a copy <br>
+of my audio archives (which is backed-up elsewhere, but it&#x27;s the archive <br>
+which is (was) on-production on the LAN). Problem is, I don&#x27;t know how <br>
+to access it after I boot the headless server. When I had a GUI Ubuntu <br>
+installed on the SSD, I could just click my way to the other drive, then <br>
+drag-and-drop as necessary--and it was like that for so long, that the <br>
+password necessary for directly logging-in to the Ubuntu operating <br>
+system (I think it&#x27;s 16.xx) installed on the SATA drive, is long forgotten.
+<p></p>
+Time was, I would have just mounted the second drive as a superuser <br>
+through a text terminal running from the headless SSD-based Ubuntu 18 <br>
+version. Can I still do that, or has contemporary Ubuntu become too <br>
+&quot;user friendly&quot;? Otherwise, it may be a convo about resetting the <br>
+password through the same route, with the same question mark.
+<p></p>
+~Otto
+<p></p>
+clugwrench
+<p></p>
+fusepowder.com
+<p></p>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org<br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //www.freelists.org/list/cochiselinux<br>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Server-Drive-Access-Question" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: Server Drive Access Question</h3>
+    <p style="font-size:0.85em;"><em>From HateNo Hama &middot; Dec 21, 2019</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Hi Otto.  Yes, you can still mount it via the command line.  To make it persistent, add it to your fstab file on your server.<div><br></div>
+<div>Find the /dev/sd it is (check dmesg) and use the mount command - mount -t auto /dev/sda1 /your/target/directory</div>
+<div><br></div>
+<div>I&#x27;m going off memory, so check these commands against Google.</div>
+<div><br></div>
+<div>Bruce </div>
+</div><br><div>
+<div>On Sat, Dec 21, 2019, 2:52 AM otter &lt;<a href="mailto:otter@azloco.com">otter@azloco.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(33 lines)</span>
+    </span>
+  
+  <div><pre>Hello LUGites:
+I have an Ubuntu 18.04.3 LTS server running headless on an x86_64
+machine on my home/office network.</pre></div>
+  <div>
+    
+    <blockquote>Hello LUGites:<br>
+<br>
+I have an Ubuntu 18.04.3 LTS server running headless on an x86_64 <br>
+machine on my home/office network.<br>
+<br>
+I spent a lot of time on it this summer tinkering with a mail server <br>
+config and a web server config (yes, on the same server, which I realize <br>
+is a &quot;no-no&quot;). Anyway, my mailservice config was imperfect and didn&#x27;t <br>
+work, and the web server didn&#x27;t work although the problem might have <br>
+been the ISP, not me.<br>
+<br>
+Anyway, I bring up the aforementioned time investment in the server&#x27;s <br>
+configuration, because one of the fixes for my current problem is to <br>
+re-install. (That is, I&#x27;d prefer not to re-install if I don&#x27;t have to.)<br>
+<br>
+Here&#x27;s the conundrum: The server is installed on a 60 gig SSD. There is <br>
+a 400 gig SATA drive also within the same tower, which contains a copy <br>
+of my audio archives (which is backed-up elsewhere, but it&#x27;s the archive <br>
+which is (was) on-production on the LAN). Problem is, I don&#x27;t know how <br>
+to access it after I boot the headless server. When I had a GUI Ubuntu <br>
+installed on the SSD, I could just click my way to the other drive, then <br>
+drag-and-drop as necessary--and it was like that for so long, that the <br>
+password necessary for directly logging-in to the Ubuntu operating <br>
+system (I think it&#x27;s 16.xx) installed on the SATA drive, is long forgotten.<br>
+<br>
+Time was, I would have just mounted the second drive as a superuser <br>
+through a text terminal running from the headless SSD-based Ubuntu 18 <br>
+version. Can I still do that, or has contemporary Ubuntu become too <br>
+&quot;user friendly&quot;? Otherwise, it may be a convo about resetting the <br>
+password through the same route, with the same question mark.<br>
+<br>
+~Otto<br>
+<br>
+clugwrench<br>
+<br>
+<a href="http://fusepowder.com">fusepowder.com</a><br>
+<br>
+<br>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - <a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //<a href="https://www.freelists.org/list/cochiselinux">www.freelists.org/list/cochiselinux</a><br>
+</blockquote>
+  
+  </div>
+
+
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Server-Drive-Access-Question,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Server Drive Access Question</h3>
     <p style="font-size:0.85em;"><em>From otter &middot; Dec 20, 2019</em></p>
     <div class="mail-body">
 

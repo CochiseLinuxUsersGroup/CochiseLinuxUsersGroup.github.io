@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Re: Tar presentation | CLUG Mailing List Archive
-description: Re: Tar presentation — 1 message &middot; started by HateNo Hama on Mar 31, 2022 from the cochiselinux mailing list archive.
+description: Re: Tar presentation — 4 messages &middot; started by HateNo Hama on Mar 31, 2022 from the cochiselinux mailing list archive.
 ---
 
 <header class="special container">
     <span class="icon fa-envelope-o"></span>
     <h1>Re: Tar presentation</h1>
-    <p>1 message &middot; started by HateNo Hama on Mar 31, 2022</p>
+    <p>4 messages &middot; started by HateNo Hama on Mar 31, 2022</p>
 </header>
 
 <section class="wrapper style1 container">
@@ -86,6 +86,319 @@ Version 99.0.4844.64</pre></div>
     </div>
     <p style="font-size:0.8em; margin-bottom:0.25em;">
         <a href="https://www.freelists.org/post/cochiselinux/Tar-presentation" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: Tar presentation</h3>
+    <p style="font-size:0.85em;"><em>From HateNo Hama &middot; Mar 31, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Hi Terry.  Can you send me the bash script your used in your presentation on tar?  I have a coworker who would like to try it out for a large file copy.<div><br></div>
+<div>Thank you!</div>
+<div><br></div>
+<div>Bruce</div>
+</div><br><div>
+<div>On Mon, Mar 28, 2022, 12:22 PM Teruel deCampo &lt;<a href="mailto:drdecampo@gmail.com">drdecampo@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(10 lines)</span>
+    </span>
+  
+  <div><pre>https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;amp;utm_medium=email&amp;amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f
+My Chromium was
+Version 99.0.4844.64</pre></div>
+  <div>
+    
+    <blockquote>
+<div>
+<div><a href="https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;utm_medium=email&amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f">https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;utm_medium=email&amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f</a></div>
+<div><br></div>
+<div>My Chromium was <br>
+</div>
+<div><span>Version 99.0.4844.64</span></div>
+<div><span>I just upgraded to <br></span></div>
+<div><span><span>Version 99.0.4844.84</span></span></div>
+<div><span><span><br></span></span></div>
+<div><span><span>Who is affected:</span></span></div>
+<div><span><span>1. Chrombooks</span></span></div>
+<div><span><span>2. Chromium /Chrome</span></span></div>
+<div><span><span>3. Windows Edge</span></span></div>
+<div><span><span><br></span></span></div>
+<div><span><span>-=Teruel=-<br></span></span></div>
+<div><span><span><br></span></span></div>
+</div>
+</blockquote>
+  
+  </div>
+
+
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Tar-presentation" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: Tar presentation</h3>
+    <p style="font-size:0.85em;"><em>From Teruel deCampo MD &middot; Mar 31, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bruce,
+<p></p>
+Here the script. I include comments below that explain how it works, of<br>
+course they all can be removed. 
+<p></p>
+Of course speed depends on type or file (size). The default tar bloc is<br>
+512, when you use tar for its original intent use, you can change it<br>
+with (-b) but this is not the case here. 
+<p></p>
+t, <br>
+-----------------------------------------------------<br>
+#!/bin/sh<br>
+# ./copiar  FROMThisDirectory TOthisdirectory <br>
+# use the path for each directory<br>
+# do not place copiar in neither of those directory trees
+<p></p>
+time tar -C &quot;$1&quot; -cf - .| tar -C &quot;$2&quot; -xpf -
+<p></p>
+# -C  Diretory and is order-sensitive so it affects all options that<br>
+follow.
+<p></p>
+# &quot;$1&quot;  Argument #1 which in our case is the directory FROM to copy
+<p></p>
+# c is tar create.  Replace * by . to include hidden files as well. So<br>
+(.) includes all the file included the dotit files. 
+<p></p>
+# dot (.) means add the entire current directory (including hidden<br>
+files and sub-directories).
+<p></p>
+# (|) pipe command
+<p></p>
+# &quot;$2&quot; Argument #2 which is the TO directory
+<p></p>
+# x: extract<br>
+# p: preserve-permissions<br>
+# f Archive  If the Archive variable specified is - (minus sign), the<br>
+tar command writes to standard output in this case
+<p></p>
+-------------------------------------------------------
+<p></p>
+On Thu, 2022-03-31 at 09:21 -0700, HateNo Hama wrote:<br>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(24 lines)</span>
+    </span>
+  
+  <div><pre>Hi Terry.  Can you send me the bash script your used in your
+presentation on tar?  I have a coworker who would like to try it out
+for a large file copy.</pre></div>
+  <div>
+    <blockquote><pre>Hi Terry.  Can you send me the bash script your used in your
+presentation on tar?  I have a coworker who would like to try it out
+for a large file copy.
+
+Thank you!
+
+Bruce
+
+On Mon, Mar 28, 2022, 12:22 PM Teruel deCampo &lt;drdecampo@gmail.com&gt;
+wrote:
+&gt; https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;amp;utm_medium=email&amp;amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f
+&gt; 
+&gt; My Chromium was 
+&gt; Version 99.0.4844.64
+&gt; I just upgraded to 
+&gt; Version 99.0.4844.84
+&gt; 
+&gt; Who is affected:
+&gt; 1. Chrombooks
+&gt; 2. Chromium /Chrome
+&gt; 3. Windows Edge
+&gt; 
+&gt; -=Teruel=-
+&gt; </pre></blockquote>
+  </div>
+
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org<br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //www.freelists.org/list/cochiselinux<br>
+
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Tar-presentation,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: Tar presentation</h3>
+    <p style="font-size:0.85em;"><em>From HateNo Hama &middot; Mar 31, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>Thanks, Terry!</div><br><div>
+<div>On Thu, Mar 31, 2022, 3:32 PM Teruel deCampo MD &lt;<a href="mailto:drdecampo@gmail.com">drdecampo@gmail.com</a>&gt; wrote:<br>
+</div>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(57 lines)</span>
+    </span>
+  
+  <div><pre>Bruce,
+Here the script. I include comments below that explain how it works, of
+course they all can be removed.</pre></div>
+  <div>
+    
+    <blockquote>Bruce,<br>
+<br>
+Here the script. I include comments below that explain how it works, of<br>
+course they all can be removed. <br>
+<br>
+Of course speed depends on type or file (size). The default tar bloc is<br>
+512, when you use tar for its original intent use, you can change it<br>
+with (-b) but this is not the case here. <br>
+<br>
+t, <br>
+-----------------------------------------------------<br>
+#!/bin/sh<br>
+# ./copiar  FROMThisDirectory TOthisdirectory <br>
+# use the path for each directory<br>
+# do not place copiar in neither of those directory trees<br>
+<br>
+<br>
+time tar -C &quot;$1&quot; -cf - .| tar -C &quot;$2&quot; -xpf -<br>
+<br>
+# -C  Diretory and is order-sensitive so it affects all options that<br>
+follow.<br>
+<br>
+# &quot;$1&quot;  Argument #1 which in our case is the directory FROM to copy<br>
+<br>
+# c is tar create.  Replace * by . to include hidden files as well. So<br>
+(.) includes all the file included the dotit files. <br>
+<br>
+# dot (.) means add the entire current directory (including hidden<br>
+files and sub-directories).<br>
+<br>
+# (|) pipe command<br>
+<br>
+# &quot;$2&quot; Argument #2 which is the TO directory<br>
+<br>
+# x: extract<br>
+# p: preserve-permissions<br>
+# f Archive  If the Archive variable specified is - (minus sign), the<br>
+tar command writes to standard output in this case<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+<br>
+On Thu, 2022-03-31 at 09:21 -0700, HateNo Hama wrote:<br>
+Hi Terry.  Can you send me the bash script your used in your<br>
+presentation on tar?  I have a coworker who would like to try it out<br>
+for a large file copy.<br>
+<br>
+Thank you!<br>
+<br>
+Bruce<br>
+<br>
+On Mon, Mar 28, 2022, 12:22 PM Teruel deCampo &lt;<a href="mailto:drdecampo@gmail.com">drdecampo@gmail.com</a>&gt;<br>
+wrote:<br>
+&gt; <a href="https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;utm_medium=email&amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f">https://www.tomsguide.com/news/chrome-99-emergency-patch?utm_source=SmartBrief&amp;utm_medium=email&amp;utm_campaign=E7CCEEA1-DDFE-442F-85F9-6D317BC29EC0&amp;utm_content=F22B0787-1964-41E3-8E13-8D2A2B7A2C04&amp;utm_term=3059a145-3d30-430d-bfd2-7d98b4c8362f</a><br>
+&gt; <br>
+&gt; My Chromium was <br>
+&gt; Version 99.0.4844.64<br>
+&gt; I just upgraded to <br>
+&gt; Version 99.0.4844.84<br>
+&gt; <br>
+&gt; Who is affected:<br>
+&gt; 1. Chrombooks<br>
+&gt; 2. Chromium /Chrome<br>
+&gt; 3. Windows Edge<br>
+&gt; <br>
+&gt; -=Teruel=-<br>
+&gt; <br>
+<br>
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - <a href="mailto:cochiselinux@freelists.org">cochiselinux@freelists.org</a><br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //<a href="https://www.freelists.org/list/cochiselinux">www.freelists.org/list/cochiselinux</a><br>
+</blockquote>
+  
+  </div>
+
+
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/Tar-presentation,2" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
     </p>
 </div>
 

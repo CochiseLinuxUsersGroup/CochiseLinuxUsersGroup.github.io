@@ -38,7 +38,7 @@ social:  # Used for JSON-LD sameAs — list every official profile (one per line
   links:
     - https://github.com/CochiseLinuxUsersGroup
     - https://www.facebook.com/groups/1059259857477393/
-    - https://www.freelists.org/archive/cochiselinux
+    - https://cochiselinuxusergroup.org/archive/
     - https://cochiselinuxusergroup.org
 
 # Build settings — ADVANCED: only edit if you know Jekyll; safe defaults below
@@ -93,6 +93,7 @@ exclude:
   - clug.py
   - install.sh
   - tester.sh
+  - tools
   - tools
   - "*.gemspec"
   - "*.gem"

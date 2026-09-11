@@ -238,6 +238,44 @@ def flatten_thread(nodes):
     return slugs
 
 
+def group_threads(roots, posts):
+    """Merge FreeLists entries that belong to one thread.
+
+    FreeLists only nests replies within a single month, so a thread that spans
+    month boundaries shows up as several unrelated top-level entries (e.g. a
+    root posted in January whose replies in February carry the base slug plus a
+    ',N' suffix).  Group everything sharing the base slug into one node, so the
+    chain reads as one threaded page with the (cached) root message on top.
+    """
+    grouped = {}
+    for node in roots:
+        base = node["slug"].split(",")[0]
+        grouped.setdefault(base, []).append(node)
+    threads = []
+    for base, members in grouped.items():
+        if len(members) == 1 and members[0]["slug"] == base:
+            threads.append(members[0])
+            continue
+        members = sorted(
+            members,
+            key=lambda c: (c.get("_post") or {}).get("date_iso") or "",
+        )
+        if base in posts:
+            head = {
+                "slug": base,
+                "title": posts[base]["title"],
+                "author": posts[base]["author"],
+                "children": members,
+                "_post": posts[base],
+            }
+            threads.append(head)
+        else:
+            head = members[0]
+            head["children"] = members[1:]
+            threads.append(head)
+    return threads
+
+
 def get_post(slug):
     page = fetch(f"{BASE}/post/cochiselinux/{slug}")
     m = re.search(r'<h1 class="h3">([^<]+)</h1>', page)
@@ -430,17 +468,16 @@ def safe_slug_unique(node):
     return safe_slug(node["slug"])
 
 
-def render_landing(years, totals):
+def render_landing(years, total):
     blocks = []
     for yyyy in sorted(years.keys(), reverse=True):
         chips = " ".join(
-            f'<a href="{mm:02d}-{yyyy}/" class="button special small">{datetime(yyyy, mm, 1).strftime("%b %Y")}</a>'
+            f'<a href="{mm:02d}-{yyyy}/" class="button special small" style="margin:0.2em 0.4em 0.2em 0;">{datetime(yyyy, mm, 1).strftime("%b %Y")}</a>'
             for mm in sorted(years[yyyy])
         )
         blocks.append(
             f'<h3>{yyyy}</h3>\n<div class="box" style="margin-bottom:1.5em;">{chips}</div>'
         )
-    total = sum(totals.values())
     return f"""---
 layout: default
 title: Mailing List Archive | Cochise Linux User Group
@@ -486,7 +523,7 @@ def main():
     remove_old_months(months)
 
     years = {}
-    totals = {}
+    mirrored = set()
     for mm_yyyy in months:
         yyyy, mm = month_key(mm_yyyy)
         try:
@@ -518,12 +555,14 @@ def main():
         for r in roots:
             attach(r)
 
+        threads = group_threads(roots, posts)
+
         out_dir = os.path.join(OUT, mm_yyyy)
         shutil.rmtree(out_dir, ignore_errors=True)
         os.makedirs(out_dir, exist_ok=True)
 
         used_slugs = set()
-        for r in roots:
+        for r in threads:
             local = safe_slug(r["slug"])
             n = 1
             while local in used_slugs:
@@ -536,15 +575,15 @@ def main():
                 f.write(render_thread_page([r], mm_yyyy))
 
         with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(render_month_page(mm_yyyy, roots))
+            f.write(render_month_page(mm_yyyy, threads))
 
         years.setdefault(yyyy, set()).add(mm)
-        totals[yyyy] = totals.get(yyyy, 0) + len(flatten_thread(roots))
-        print(f"  {mm_yyyy}: {len(roots)} threads / {len(flatten_thread(roots))} messages")
+        mirrored.update(flatten_thread(threads))
+        print(f"  {mm_yyyy}: {len(threads)} threads / {len(flatten_thread(threads))} messages")
         save_state(state)
 
     with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
-        f.write(render_landing(years, totals))
+        f.write(render_landing(years, len(mirrored)))
 
     state["missed"] = sorted(missed)
     save_state(state)

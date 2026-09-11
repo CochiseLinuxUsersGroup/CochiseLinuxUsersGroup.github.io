@@ -1,13 +1,13 @@
 ---
 layout: default
 title: [security] New SysJoker backdoor targets Windows, macOS, and Linux | CLUG Mailing List Archive
-description: [security] New SysJoker backdoor targets Windows, macOS, and Linux — 1 message &middot; started by Devi Garcia on Jan 12, 2022 from the cochiselinux mailing list archive.
+description: [security] New SysJoker backdoor targets Windows, macOS, and Linux — 3 messages &middot; started by Devi Garcia on Jan 12, 2022 from the cochiselinux mailing list archive.
 ---
 
 <header class="special container">
     <span class="icon fa-envelope-o"></span>
     <h1>[security] New SysJoker backdoor targets Windows, macOS, and Linux</h1>
-    <p>1 message &middot; started by Devi Garcia on Jan 12, 2022</p>
+    <p>3 messages &middot; started by Devi Garcia on Jan 12, 2022</p>
 </header>
 
 <section class="wrapper style1 container">
@@ -57,6 +57,139 @@ publication.</p>
     </div>
     <p style="font-size:0.8em; margin-bottom:0.25em;">
         <a href="https://www.freelists.org/post/cochiselinux/security-New-SysJoker-backdoor-targets-Windows-macOS-and-Linux" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> [security] New SysJoker backdoor targets Windows, macOS, and Linux</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Jan 12, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+<p></p>
+<p>A new multi-platform backdoor malware named &#x27;SysJoker&#x27; has emerged in
+ the wild, targeting Windows, Linux, and macOS with the ability to evade
+ detection on all three operating systems.</p>
+<p>The discovery of the new malware comes from researchers at Intezer 
+who first saw signs of its activity in December 2021 after investigating
+ an attack on a Linux-based web server.</p>
+<p>The first uploads of the malware sample on VirusTotal occurred in H2 
+2021, which also aligns with the C2 domain registration times.</p>
+<p>The security analysts have now published a detailed technical report 
+on SysJoker, which they shared with Bleeping Computer before 
+publication.</p>
+<p><br></p>
+<p>read more: <a href="https://www.bleepingcomputer.com/news/security/new-sysjoker-backdoor-targets-windows-macos-and-linux/">https://www.bleepingcomputer.com/news/security/new-sysjoker-backdoor-targets-windows-macos-and-linux/</a></p>
+
+</div>
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/security-New-SysJoker-backdoor-targets-Windows-macOS-and-Linux" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+<div class="mail-card" style="margin-left:2em;">
+    <h3> Re: [security] New SysJoker backdoor targets Windows, macOS, and Linux</h3>
+    <p style="font-size:0.85em;"><em>From Teruel deCampo MD &middot; Jan 12, 2022</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you Devi, 
+<p></p>
+I was looking at the link and under Linux seems to create a .Library<br>
+directory which I have never seen used by any program ( may be wrong<br>
+here). <br>
+The study of virus is a complex topic please if you find more stuff<br>
+about this topic post it. 
+<p></p>
+Here a simple (and most likely ineffective) way to offer some warning:<br>
+check for the presence of the ~/.Library directory for example:
+<p></p>
+#!/bin/bash
+<p></p>
+d=.Library<br>
+ <br>
+ while [ ! -d &quot;${d}&quot; ]<br>
+ do <br>
+    sleep 5s<br>
+ done<br>
+ echo &quot;Directory $d found.&quot;
+<p></p>
+Of course is not robust :-) place the batch in ~/  then run it.
+<p></p>
+Many years back we were playing with virus mainly in bulletin boards<br>
+but were simple, small and written in ASM. There was a book that<br>
+describe more or less accurate the environment o those times. Nice fun<br>
+reading
+<p></p>
+The Cybergypsies<br>
+ ISBN-10 ‏ : ‎ 0684819295 
+<p></p>
+Cu hope tomorrow.
+<p></p>
+-=teruel=-
+<p></p>
+On Wed, 2022-01-12 at 03:39 +0000, Devi Garcia wrote:<br>
+
+
+  
+    <span>
+      <span></span>
+      <span>Quoted reply</span>
+      <span>(3 lines)</span>
+    </span>
+  
+  <div><pre>
+
+https://www.bleepingcomputer.com/news/security/new-sysjoker-backdoor-targets-windows-macos-and-linux/</pre></div>
+  <div>
+    <blockquote><pre>
+
+https://www.bleepingcomputer.com/news/security/new-sysjoker-backdoor-targets-windows-macos-and-linux/</pre></blockquote>
+  </div>
+
+--------------------------------------------------------------------<br>
+Cochise Linux Users Group Mailing List - cochiselinux@freelists.org<br>
+For more information:  <a href="https://cochiselinuxusergroup.org/">https://cochiselinuxusergroup.org/</a><br>
+Mailing List Archive: <a href="https://www.freelists.org/archive/cochiselinux">https://www.freelists.org/archive/cochiselinux</a><br>
+To unsubscribe: //www.freelists.org/list/cochiselinux<br>
+
+
+
+
+
+            
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/security-New-SysJoker-backdoor-targets-Windows-macOS-and-Linux,1" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
     </p>
 </div>
 
