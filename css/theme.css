@@ -84,6 +84,13 @@ html[data-theme="dark"] #header.alt {
   color: #ffffff !important;
 }
 
+/* New banner logo is dark-navy on transparency — back it with a light pill in dark mode */
+html[data-theme="dark"] #logo img {
+  background: #f3f6fa !important;
+  border-radius: 10px !important;
+  padding: 4px 10px !important;
+}
+
 html[data-theme="dark"] #header nav ul li.active > a,
 html[data-theme="dark"] #header nav ul li:hover > a {
   background: rgba(255, 255, 255, 0.12) !important;
