@@ -199,6 +199,32 @@ html[data-theme="dark"] .button:hover {
   background: rgba(255, 255, 255, 0.12) !important;
 }
 
+/* Accent (.special) buttons: Join, archive month pills, etc. — deep teal in dark mode */
+html[data-theme="dark"] .button.special,
+html[data-theme="dark"] input[type="button"].special,
+html[data-theme="dark"] input[type="submit"].special,
+html[data-theme="dark"] input[type="reset"].special {
+  background: #2f6f68 !important;
+  border-color: #2f6f68 !important;
+  color: #ffffff !important;
+}
+
+html[data-theme="dark"] .button.special:hover,
+html[data-theme="dark"] input[type="button"].special:hover,
+html[data-theme="dark"] input[type="submit"].special:hover,
+html[data-theme="dark"] input[type="reset"].special:hover {
+  background: #3a857c !important;
+  border-color: #3a857c !important;
+  color: #ffffff !important;
+}
+
+/* Current-page pill in /blog/all/ pagination (inline teal in markup) */
+html[data-theme="dark"] #all-pagination span[aria-current="page"] {
+  background: #2f6f68 !important;
+  border-color: #2f6f68 !important;
+  color: #ffffff !important;
+}
+
 /* ---- shared blog control bar ---- */
 .blog-controls {
   display: flex;
