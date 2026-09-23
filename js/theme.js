@@ -88,12 +88,35 @@
   var currentMode = getStoredMode();
   apply(currentMode, false);
 
-  function setMode(mode, animate) {
+  // Small popup confirming which mode was just activated.
+  var toast = null;
+  var toastTimer = null;
+  function showToast(mode) {
+    try {
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.className = 'theme-toast';
+        toast.setAttribute('role', 'status');
+        toast.setAttribute('aria-live', 'polite');
+        document.body.appendChild(toast);
+      }
+      var names = { auto: 'Auto (follows system)', light: 'Light', dark: 'Dark' };
+      toast.textContent = 'Theme: ' + (names[mode] || mode);
+      toast.classList.add('show');
+      if (toastTimer) window.clearTimeout(toastTimer);
+      toastTimer = window.setTimeout(function () {
+        toast.classList.remove('show');
+      }, 1600);
+    } catch (e) { /* ignore */ }
+  }
+
+  function setMode(mode, animate, silent) {
     currentMode = mode;
     try {
       window.localStorage.setItem(STORAGE_KEY, mode);
     } catch (e) { /* private mode: keep in-memory only */ }
     apply(mode, animate !== false);
+    if (!silent) showToast(mode);
   }
 
   function cycle() {

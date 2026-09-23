@@ -281,21 +281,67 @@ html[data-theme="dark"] .theme-toggle:hover {
   margin-right: 0.4em;
 }
 
-#topPanel .theme-toggle,
-#sidePanel .theme-toggle {
-  display: block;
-  width: 100%;
-  text-align: left;
-  height: 3em;
-  line-height: 3em;
-  padding: 0 0.5em;
+/* ---- floating theme button (bottom-right, icon-only) ---- */
+.theme-fab {
+  position: fixed !important;
+  right: 1.2em !important;
+  bottom: 1.2em !important;
+  z-index: 900 !important;
+  width: 3em !important;
+  height: 3em !important;
+  padding: 0 !important;
+  border-radius: 100% !important;
+  border: 1px solid var(--clug-border-strong) !important;
+  background: var(--clug-card-bg) !important;
+  color: var(--clug-fg) !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25) !important;
+  font-size: 1.1em !important;
+  line-height: 1 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  letter-spacing: normal !important;
+  text-transform: none !important;
 }
 
-#footer .theme-toggle {
-  border: 1px solid var(--clug-border-strong);
-  border-radius: 4px;
-  margin-top: 1em;
-  font-size: 0.8em;
+.theme-fab:hover {
+  background: var(--clug-controls-bg) !important;
+  transform: translateY(-1px);
+}
+
+.theme-fab .fa {
+  margin: 0 !important;
+}
+
+/* ---- theme toast popup (which mode just activated) ---- */
+.theme-toast {
+  position: fixed !important;
+  right: 1.2em !important;
+  bottom: 4.8em !important;
+  z-index: 901 !important;
+  background: #1e2329 !important;
+  color: #e6eaef !important;
+  border: 1px solid #3a424b !important;
+  border-radius: 6px !important;
+  padding: 0.45em 0.9em !important;
+  font-size: 0.85em !important;
+  letter-spacing: 0.05em !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35) !important;
+  opacity: 0 !important;
+  transform: translateY(6px) !important;
+  transition: opacity 0.2s ease, transform 0.2s ease !important;
+  pointer-events: none !important;
+}
+
+html[data-theme="light"] .theme-toast {
+  background: #ffffff !important;
+  color: #4a4f55 !important;
+  border-color: #e5e5e5 !important;
+}
+
+.theme-toast.show {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
 }
 
 /* Gentle transition on manual toggle only (JS adds .theme-anim briefly) */
