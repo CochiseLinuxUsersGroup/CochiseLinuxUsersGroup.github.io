@@ -1,16 +1,17 @@
-/* CLUG light/dark theme — overrides for Twenty (style.css)
+/* CLUG light/dark theme — override layer for Twenty (style.css).
  * Usage: <html data-theme="light|dark"> set by js/theme.js (default follows OS).
- * Light theme = existing Twenty styles; variables below only normalize
- * the few hardcoded control backgrounds so dark mode can restyle them. */
+ *
+ * Why !important below: the skel framework re-injects its stylesheets
+ * (style.css, style-wide/normal/narrow/...) AFTER this file at runtime,
+ * so plain ties would lose. !important keeps the dark layer authoritative.
+ * Light theme needs no overrides (it matches Twenty defaults). */
 
 :root {
   color-scheme: light dark;
   --clug-bg: #f3f6fa;
   --clug-fg: #7c8081;
   --clug-header-bg: #ffffff;
-  --clug-header-fg: inherit;
   --clug-footer-bg: #e8eef4;
-  --clug-footer-fg: #7c8081;
   --clug-card-bg: #ffffff;
   --clug-input-bg: #ffffff;
   --clug-controls-bg: #fafafa;
@@ -18,6 +19,7 @@
   --clug-border-strong: #e5e5e5;
   --clug-link: #3fb1a3;
   --clug-muted: #666666;
+  --clug-card2-bg: #808080;
 }
 
 html[data-theme="dark"] {
@@ -25,9 +27,7 @@ html[data-theme="dark"] {
   --clug-bg: #14171b;
   --clug-fg: #c3c9d1;
   --clug-header-bg: #1e2329;
-  --clug-header-fg: #c3c9d1;
   --clug-footer-bg: #1e2329;
-  --clug-footer-fg: #a7aeb7;
   --clug-card-bg: #1e2329;
   --clug-input-bg: #242b32;
   --clug-controls-bg: #1e2329;
@@ -35,106 +35,171 @@ html[data-theme="dark"] {
   --clug-border-strong: #3a424b;
   --clug-link: #7fd8cc;
   --clug-muted: #9aa2ac;
+  --clug-card2-bg: #2b3138;
 }
 
-/* Base surfaces follow variables (light values match Twenty defaults) */
-body,
-#skel-layers-wrapper {
-  background: var(--clug-bg);
+/* ---- page surfaces ---- */
+html[data-theme="dark"] body,
+html[data-theme="dark"] #skel-layers-wrapper,
+html[data-theme="dark"] #main,
+html[data-theme="dark"] .page-content {
+  background: var(--clug-bg) !important;
+  color: var(--clug-fg) !important;
 }
 
-body,
-input,
-select,
-textarea {
-  color: var(--clug-fg);
+html[data-theme="dark"] body,
+html[data-theme="dark"] input,
+html[data-theme="dark"] select,
+html[data-theme="dark"] textarea {
+  color: var(--clug-fg) !important;
 }
 
-a {
-  color: var(--clug-link);
+html[data-theme="dark"] a {
+  color: var(--clug-link) !important;
 }
 
-#header {
-  background: var(--clug-header-bg);
-  color: var(--clug-header-fg);
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: #e8ecf1 !important;
 }
 
-#footer {
-  background: var(--clug-footer-bg);
-  color: var(--clug-footer-fg);
+html[data-theme="dark"] .post-meta,
+html[data-theme="dark"] .post-categories {
+  color: var(--clug-muted) !important;
 }
 
-/* Blog / page cards */
-.wrapper.style3,
-.wrapper.style4 {
-  background: var(--clug-card-bg);
-  color: var(--clug-fg);
+/* ---- header / nav / dropdowns ---- */
+html[data-theme="dark"] #header {
+  background: var(--clug-header-bg) !important;
+  color: var(--clug-fg) !important;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5) !important;
+}
+
+html[data-theme="dark"] #header.alt {
+  background: transparent !important;
+  color: #ffffff !important;
+}
+
+html[data-theme="dark"] #header nav ul li.active > a,
+html[data-theme="dark"] #header nav ul li:hover > a {
+  background: rgba(255, 255, 255, 0.12) !important;
+}
+
+html[data-theme="dark"] .dropotron {
+  background: var(--clug-card-bg) !important;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.6) !important;
+}
+
+/* ---- banner / cta / footer ---- */
+html[data-theme="dark"] #banner .inner {
+  background: rgba(15, 12, 16, 0.72) !important;
+}
+
+html[data-theme="dark"] #cta {
+  background-color: #232a31 !important;
+}
+
+html[data-theme="dark"] #footer {
+  background: var(--clug-footer-bg) !important;
+  color: var(--clug-muted) !important;
+}
+
+/* ---- content cards ---- */
+html[data-theme="dark"] .wrapper.style1 {
+  background: transparent !important;
+  color: var(--clug-fg) !important;
 }
 
 html[data-theme="dark"] .wrapper.style2 {
-  background-color: #2b3138;
-  color: #e6eaef;
+  background-color: var(--clug-card2-bg) !important;
+  color: #e6eaef !important;
 }
 
 html[data-theme="dark"] .wrapper.style2 a {
-  color: #8fe0d4;
+  color: #8fe0d4 !important;
 }
 
-/* Dropdown menus */
-.dropotron {
-  background: var(--clug-card-bg);
+html[data-theme="dark"] .wrapper.style3,
+html[data-theme="dark"] .wrapper.style4 {
+  background: var(--clug-card-bg) !important;
+  color: var(--clug-fg) !important;
 }
 
-html[data-theme="dark"] .dropotron > li:hover > a {
-  background: #2f6f68;
-  color: #ffffff;
+html[data-theme="dark"] .wrapper.style5 {
+  background-color: #7a4d08 !important;
+  color: #f5ede0 !important;
 }
 
-/* Forms */
-input[type="text"],
-input[type="password"],
-input[type="email"],
-input[type="search"],
-textarea,
-select {
-  background: var(--clug-input-bg);
-  border-color: var(--clug-border);
-  color: inherit;
+/* ---- forms ---- */
+html[data-theme="dark"] input[type="text"],
+html[data-theme="dark"] input[type="password"],
+html[data-theme="dark"] input[type="email"],
+html[data-theme="dark"] input[type="search"],
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select {
+  background: var(--clug-input-bg) !important;
+  border-color: var(--clug-border-strong) !important;
+  color: #e6eaef !important;
 }
 
 html[data-theme="dark"] select option {
-  background: #242b32;
-  color: #e6eaef;
+  background: #242b32 !important;
+  color: #e6eaef !important;
 }
 
-/* Tables, code, quotes, rules */
-table.default thead {
-  background: var(--clug-muted);
+html[data-theme="dark"] ::placeholder {
+  color: var(--clug-muted) !important;
+  opacity: 1 !important;
 }
 
+/* ---- tables / code / quotes / rules ---- */
 html[data-theme="dark"] table.default thead {
-  background: #3a424b;
+  background: #3a424b !important;
+  color: #fff !important;
 }
 
 html[data-theme="dark"] table.default tbody tr {
-  border-bottom-color: var(--clug-border);
+  border-bottom-color: var(--clug-border) !important;
 }
 
-code {
-  background: var(--clug-input-bg);
-  border-color: var(--clug-border-strong);
-  color: inherit;
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre {
+  background: var(--clug-input-bg) !important;
+  border-color: var(--clug-border-strong) !important;
+  color: #e6eaef !important;
 }
 
-blockquote {
-  border-left-color: var(--clug-border-strong);
+html[data-theme="dark"] blockquote {
+  border-left-color: var(--clug-border-strong) !important;
 }
 
 html[data-theme="dark"] hr {
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)) !important;
 }
 
-/* Shared blog control bar (replaces inline #fafafa boxes) */
+html[data-theme="dark"] header.special:before,
+html[data-theme="dark"] header.special:after {
+  opacity: 0.25 !important;
+}
+
+/* ---- buttons (keep teal .special; make plain ones readable) ---- */
+html[data-theme="dark"] .button,
+html[data-theme="dark"] input[type="button"],
+html[data-theme="dark"] input[type="submit"],
+html[data-theme="dark"] input[type="reset"] {
+  border-color: var(--clug-border-strong) !important;
+  color: #e6eaef !important;
+}
+
+html[data-theme="dark"] .button:hover {
+  background: rgba(255, 255, 255, 0.12) !important;
+}
+
+/* ---- shared blog control bar ---- */
 .blog-controls {
   display: flex;
   flex-wrap: wrap;
@@ -179,7 +244,12 @@ html[data-theme="dark"] hr {
   margin: 0;
 }
 
-/* Theme toggle in header nav */
+html[data-theme="dark"] .blog-controls {
+  background: var(--clug-controls-bg) !important;
+  border-color: var(--clug-border-strong) !important;
+}
+
+/* ---- theme toggle buttons ---- */
 .theme-toggle {
   background: none;
   border: solid 1px transparent;
@@ -199,7 +269,7 @@ html[data-theme="dark"] hr {
 }
 
 html[data-theme="dark"] .theme-toggle:hover {
-  background: rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.12) !important;
 }
 
 .theme-toggle:focus-visible {
@@ -211,7 +281,6 @@ html[data-theme="dark"] .theme-toggle:hover {
   margin-right: 0.4em;
 }
 
-/* Cloned mobile nav panels */
 #topPanel .theme-toggle,
 #sidePanel .theme-toggle {
   display: block;
@@ -222,7 +291,6 @@ html[data-theme="dark"] .theme-toggle:hover {
   padding: 0 0.5em;
 }
 
-/* Footer fallback toggle (always reachable, incl. mobile panels that skip buttons) */
 #footer .theme-toggle {
   border: 1px solid var(--clug-border-strong);
   border-radius: 4px;

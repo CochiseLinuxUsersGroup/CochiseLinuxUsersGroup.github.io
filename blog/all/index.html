@@ -39,7 +39,7 @@ HOW IT WORKS:
                 <option value="100">100</option>
                 <option value="all">All ({{ site.posts.size }})</option>
             </select>
-            <label for="page-select-all" style="margin-left:1em;">Go to page:</label>
+            <label for="page-select-all" id="page-select-label" style="margin-left:1em;">Go to page:</label>
             <select id="page-select-all" style="min-width:140px;">
                 <!-- filled by JS -->
             </select>
@@ -82,12 +82,15 @@ HOW IT WORKS:
   const showingCount = document.getElementById('showing-count');
   const noResults = document.getElementById('blog-no-results');
   const clearLink = document.getElementById('blog-clear');
+  const pageLabel = document.getElementById('page-select-label');
 
   // Fallback haystack: data-search (title+date+categories+full body);
   // older cached pages may only have data-title — support both.
+  // Cached once up front so each keystroke doesn't re-read 340 attributes.
   function haystack(li) {
     return li.getAttribute('data-search') || li.getAttribute('data-title') || '';
   }
+  const haystacks = posts.map(haystack);
 
   function getPerPage() {
     const v = perPageSelect.value;
@@ -104,8 +107,8 @@ HOW IT WORKS:
     if (tokens.length === 0) {
       filtered = posts.slice();
     } else {
-      filtered = posts.filter(li => {
-        const h = haystack(li);
+      filtered = posts.filter((li, i) => {
+        const h = haystacks[i];
         return tokens.every(t => h.indexOf(t) !== -1);
       });
     }
@@ -117,7 +120,12 @@ HOW IT WORKS:
     paginationNav.innerHTML = '';
     pageSelect.innerHTML = '';
 
-    if (totalPages <= 1) return;
+    // No second page — hide the Go to page jump too.
+    const showJump = totalPages > 1;
+    pageSelect.style.display = showJump ? '' : 'none';
+    if (pageLabel) pageLabel.style.display = showJump ? '' : 'none';
+
+    if (!showJump) return;
 
     // Prev
     if (currentPage > 1) {
@@ -237,12 +245,16 @@ HOW IT WORKS:
   perPageSelect.addEventListener('change', () => { currentPage=1; render(); });
   pageSelect.addEventListener('change', (e) => { currentPage = parseInt(e.target.value,10); render(); window.scrollTo(0,0); });
   let debounce = null;
-  searchInput.addEventListener('input', () => {
+  function scheduleSearch() {
     clearTimeout(debounce);
     debounce = setTimeout(applySearch, 120);
-  });
+  }
+  searchInput.addEventListener('input', scheduleSearch);
+  searchInput.addEventListener('search', applySearch); // native clear (x) button
+  searchInput.addEventListener('change', applySearch); // IME / autofill commits
   searchInput.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') { searchInput.value = ''; applySearch(); }
+    if (e.key === 'Enter') { e.preventDefault(); applySearch(); }
   });
   if (clearLink) {
     clearLink.addEventListener('click', (e) => { e.preventDefault(); searchInput.value = ''; applySearch(); searchInput.focus(); });

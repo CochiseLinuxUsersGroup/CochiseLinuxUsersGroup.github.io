@@ -14,9 +14,10 @@ FILE: blog/index.html — list at /blog/
 HOW IT WORKS:
 - Auto-lists _posts/*.md (meeting notes) — newest first
 - paginator.posts shows 10 per page (see _config.yml paginate: 10)
-- Filter box below filters the 10 posts on THIS page (title + summary text).
-  For full-text search across ALL notes (including full note bodies),
-  it links to /blog/all/?q=... automatically.
+- The Filter box is a real <form> (GET to /blog/all/): with JS it live-filters
+  the 10 posts below AND updates the "Search all" button; without JS (or on
+  Enter) it goes to /blog/all/?per_page=10&q=... for full-text search over
+  ALL notes (titles + dates + full note bodies).
 - To change card: edit h2 link to post.url + post.excerpt
 - Pagination nav auto — LEAVE
 - To add post: create new file in _posts/YYYY-MM-DD-title.md with front-matter (see any _posts example)
@@ -28,7 +29,7 @@ HOW IT WORKS:
         <p>Meeting notes, Ubuntu Hours &amp; workshop summaries from Sierra Vista</p>
     </header>
     <section class="wrapper style1 container">
-        <!-- Controls: per-page + always-visible filter (filters this page; links to full search) -->
+        <!-- Controls: per-page + filter form (global full-text search via /blog/all/) -->
         <div class="blog-controls">
           <label for="per-page-select-blog">Posts per page:</label>
           <select id="per-page-select-blog">
@@ -38,10 +39,14 @@ HOW IT WORKS:
             <option value="100">100</option>
             <option value="all">All ({{ site.posts.size }})</option>
           </select>
-          <label for="blog-filter">Filter:</label>
-          <input type="search" id="blog-filter" placeholder="Filter these 10 by title or summary..." autocomplete="off">
+          <form id="blog-filter-form" action="/blog/all/" method="get" role="search" style="display:flex; flex-wrap:wrap; gap:0.6em; justify-content:center; align-items:center; margin:0;">
+            <input type="hidden" name="per_page" value="10">
+            <label for="blog-filter">Filter:</label>
+            <input type="search" id="blog-filter" name="q" placeholder="Search all {{ site.posts.size }} notes..." autocomplete="off">
+            <button type="submit" class="button small"><i class="fa fa-search"></i> Search</button>
+          </form>
           <a href="/blog/all/" class="button small"><i class="fa fa-list"></i> View All</a>
-          <p class="stat-line"><span id="blog-filter-count"></span> <span class="hint">Tip: this filters the 10 below — <a id="blog-filter-all-link" href="/blog/all/">search all {{ site.posts.size }} notes (full text)</a></span></p>
+          <p class="stat-line"><span id="blog-filter-count"></span> <span class="hint">Live-filters the 10 below — Search looks through every note's full text</span></p>
         </div>
         <p id="blog-filter-empty" style="text-align:center;" hidden><em>No matches on this page. <a id="blog-filter-empty-link" href="/blog/all/">Search all notes instead →</a></em></p>
         <script>
@@ -53,14 +58,16 @@ HOW IT WORKS:
             window.location.href = '/blog/all/?per_page=' + v;
           });
 
-          // Page-local filter (title + visible summary text).
+          // Page-local live filter (title + visible summary text).
+          // The form itself submits to /blog/all/ for global full-text search,
+          // so search works with or without JS.
+          var form = document.getElementById('blog-filter-form');
           var input = document.getElementById('blog-filter');
           var list = document.querySelector('ul.posts');
           if (!input || !list) return;
           var items = Array.from(list.children);
           var count = document.getElementById('blog-filter-count');
           var empty = document.getElementById('blog-filter-empty');
-          var allLink = document.getElementById('blog-filter-all-link');
           var emptyLink = document.getElementById('blog-filter-empty-link');
 
           function norm(s) { return (s || '').toLowerCase(); }
@@ -77,16 +84,8 @@ HOW IT WORKS:
             });
             if (count) count.textContent = q ? ('Matching on this page: ' + shown + ' of ' + items.length) : '';
             if (empty) empty.hidden = !(q && shown === 0);
-            // Deep link to full-text search over ALL notes, preserving the query.
             var qUrl = '/blog/all/?per_page=10&q=' + encodeURIComponent(input.value.trim());
-            if (allLink) allLink.href = input.value.trim() ? qUrl : '/blog/all/';
-            if (emptyLink) emptyLink.href = qUrl;
-            try {
-              var url = new URL(window.location);
-              if (input.value.trim()) url.searchParams.set('q', input.value.trim());
-              else url.searchParams.delete('q');
-              history.replaceState(null, '', url);
-            } catch (e) { /* older browsers */ }
+            if (emptyLink) emptyLink.href = input.value.trim() ? qUrl : '/blog/all/';
           }
 
           // Support ?q= on this page too (e.g. back-links from /blog/all/).
@@ -96,13 +95,14 @@ HOW IT WORKS:
           } catch (e) { /* ignore */ }
 
           var t = null;
-          input.addEventListener('input', function() {
-            clearTimeout(t);
-            t = setTimeout(apply, 120);
-          });
+          function schedule() { clearTimeout(t); t = setTimeout(apply, 120); }
+          input.addEventListener('input', schedule);
+          input.addEventListener('search', apply); // native clear (x) button
+          input.addEventListener('change', apply); // IME / autofill commits
           input.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') { input.value = ''; apply(); }
           });
+          // Enter submits the form to /blog/all/ (global search) — default action, keep it.
           apply();
         })();
         </script>
