@@ -42,3 +42,13 @@ categories: meeting
  * There was a short discussion about a possible AI presentation to repair or assist in changing things on your computer.  No one wanted one.
  * Highest praise and recognition went to Devi who has redesigned parts of the website to make updating easier to the dismay of at least one of the members responsible for the chore.
  * Amy, a guest/member from Louisiana, has graciously volunteered to take care of our Facebook page in an attempt to increase the attendance at our meetings.
+
+**Aftermath:**
+ * Several members retired to Culver’s to enjoy a meal and to continue to discuss Linux and CLUG related topics.
+
+
+![rsz clug mtg 2026 09 22 1 - CLUG Linux-Workshop-Meeting 2026-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2026-09-22_1.jpg)
+![rsz clug mtg 2026 09 22 2 - CLUG Linux-Workshop-Meeting 2026-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2026-09-22_2.jpg)
+![rsz clug mtg 2026 09 22 3 - CLUG Linux-Workshop-Meeting 2026-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2026-09-22_3.jpg)
+![rsz clug mtg 2026 09 22 4 - CLUG Linux-Workshop-Meeting 2026-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2026-09-22_4.jpg)
+![rsz clug mtg 2026 09 22 5 - CLUG Linux-Workshop-Meeting 2026-09-22](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_clug_mtg_2026-09-22_5.jpg)
