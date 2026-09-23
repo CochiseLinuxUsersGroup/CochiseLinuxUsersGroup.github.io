@@ -14,12 +14,6 @@
 # Dates MUST be ISO + Phoenix is always -07:00 (no DST)
 # =============================================================================
 
-- date: 2026-09-22
-  time: "17:00:00-07:00"
-  time_display: "5pm"
-  display: "Sep 22"
-  title: "CLUG Linux Workshop"
-  location: "Warrior Healing Center, Sierra Vista"
 - date: 2026-10-08
   time: "18:00:00-07:00"
   time_display: "6pm"
@@ -80,3 +74,15 @@
   display: "Feb 23"
   title: "CLUG Meeting"
   location: "Warrior Healing Center"
+  - date: 2027-03-11
+  time: "17:00:00-07:00"
+  time_display: "6pm"
+  display: "Mar 11"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr., 2080 E Fry Blvd, Sierra Vista"
+  - date: 2027-03-23
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "Mar 23"
+  title: "CLUG Linux Workshop"
+  location: "Warrior Healing Center, Sierra Vista"
