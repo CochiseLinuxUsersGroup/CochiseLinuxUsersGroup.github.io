@@ -388,6 +388,13 @@ def render_message(node, month, depth):
 {sub}"""
 
 
+def yaml_dq(s):
+    """Quote a string for YAML double-quoted scalar (front matter safe)."""
+    s = (s or "").replace("\\", "\\\\").replace('"', '\\"')
+    s = s.replace("\n", " ").replace("\r", " ")
+    return f'"{s}"'
+
+
 def render_thread_page(roots, month, prev_link="", next_link=""):
     root = roots[0] if roots else None
     title = (root.get("_post") or {}).get("title") or (root["title"] if root else month)
@@ -407,8 +414,8 @@ def render_thread_page(roots, month, prev_link="", next_link=""):
         nav = '<p style="text-align:center; font-size:0.9em;">' + " &middot; ".join(parts) + "</p>"
     page = """---
 layout: default
-title: __TITLE__ | CLUG Mailing List Archive
-description: __DESC__ — __META__ from the cochiselinux mailing list archive.
+title: __TITLE_Q__
+description: __DESC_Q__
 ---
 
 <header class="special container">
@@ -432,9 +439,13 @@ __NAV__
     </p>
 </section>
 """
+    esc_title = html.escape(title, quote=True)
+    full_title = f"{esc_title} | CLUG Mailing List Archive"
+    full_desc = f"{html.escape(title)} — {meta} from the cochiselinux mailing list archive."
     return (
-        page.replace("__TITLE__", html.escape(title, quote=True))
-        .replace("__DESC__", html.escape(title))
+        page.replace("__TITLE_Q__", yaml_dq(full_title))
+        .replace("__DESC_Q__", yaml_dq(full_desc))
+        .replace("__TITLE__", esc_title)
         .replace("__META__", meta)
         .replace("__THREAD__", posts_joined)
         .replace("__NAV__", nav)
@@ -462,10 +473,12 @@ def render_month_page(mm_yyyy, roots, prev_link="", next_link=""):
     nav = ""
     if parts:
         nav = '<p style="text-align:center; font-size:0.9em; margin-top:1.5em;">' + " &middot; ".join(parts) + "</p>"
+    fm_title = yaml_dq(f"{month_title(mm_yyyy)} Mailing List Archive | CLUG")
+    fm_desc = yaml_dq(f"{len(roots)} thread{'s' if len(roots) != 1 else ''} posted to the cochiselinux mailing list in {month_title(mm_yyyy)}.")
     return f"""---
 layout: default
-title: {month_title(mm_yyyy)} Mailing List Archive | CLUG
-description: {len(roots)} thread{'s' if len(roots) != 1 else ''} posted to the cochiselinux mailing list in {month_title(mm_yyyy)}.
+title: {fm_title}
+description: {fm_desc}
 ---
 
 <header class="special container">
@@ -499,8 +512,8 @@ def render_landing(years, total):
         )
     return f"""---
 layout: default
-title: Mailing List Archive | Cochise Linux User Group
-description: Browse the full cochiselinux mailing list archive — meeting reminders, questions and community discussion, mirrored from FreeLists.
+title: {yaml_dq("Mailing List Archive | Cochise Linux User Group")}
+description: {yaml_dq("Browse the full cochiselinux mailing list archive — meeting reminders, questions and community discussion, mirrored from FreeLists.")}
 ---
 
 <header class="special container">
