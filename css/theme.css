@@ -1,0 +1,239 @@
+/* CLUG light/dark theme — overrides for Twenty (style.css)
+ * Usage: <html data-theme="light|dark"> set by js/theme.js (default follows OS).
+ * Light theme = existing Twenty styles; variables below only normalize
+ * the few hardcoded control backgrounds so dark mode can restyle them. */
+
+:root {
+  color-scheme: light dark;
+  --clug-bg: #f3f6fa;
+  --clug-fg: #7c8081;
+  --clug-header-bg: #ffffff;
+  --clug-header-fg: inherit;
+  --clug-footer-bg: #e8eef4;
+  --clug-footer-fg: #7c8081;
+  --clug-card-bg: #ffffff;
+  --clug-input-bg: #ffffff;
+  --clug-controls-bg: #fafafa;
+  --clug-border: rgba(124, 128, 129, 0.2);
+  --clug-border-strong: #e5e5e5;
+  --clug-link: #3fb1a3;
+  --clug-muted: #666666;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --clug-bg: #14171b;
+  --clug-fg: #c3c9d1;
+  --clug-header-bg: #1e2329;
+  --clug-header-fg: #c3c9d1;
+  --clug-footer-bg: #1e2329;
+  --clug-footer-fg: #a7aeb7;
+  --clug-card-bg: #1e2329;
+  --clug-input-bg: #242b32;
+  --clug-controls-bg: #1e2329;
+  --clug-border: rgba(255, 255, 255, 0.14);
+  --clug-border-strong: #3a424b;
+  --clug-link: #7fd8cc;
+  --clug-muted: #9aa2ac;
+}
+
+/* Base surfaces follow variables (light values match Twenty defaults) */
+body,
+#skel-layers-wrapper {
+  background: var(--clug-bg);
+}
+
+body,
+input,
+select,
+textarea {
+  color: var(--clug-fg);
+}
+
+a {
+  color: var(--clug-link);
+}
+
+#header {
+  background: var(--clug-header-bg);
+  color: var(--clug-header-fg);
+}
+
+#footer {
+  background: var(--clug-footer-bg);
+  color: var(--clug-footer-fg);
+}
+
+/* Blog / page cards */
+.wrapper.style3,
+.wrapper.style4 {
+  background: var(--clug-card-bg);
+  color: var(--clug-fg);
+}
+
+html[data-theme="dark"] .wrapper.style2 {
+  background-color: #2b3138;
+  color: #e6eaef;
+}
+
+html[data-theme="dark"] .wrapper.style2 a {
+  color: #8fe0d4;
+}
+
+/* Dropdown menus */
+.dropotron {
+  background: var(--clug-card-bg);
+}
+
+html[data-theme="dark"] .dropotron > li:hover > a {
+  background: #2f6f68;
+  color: #ffffff;
+}
+
+/* Forms */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="search"],
+textarea,
+select {
+  background: var(--clug-input-bg);
+  border-color: var(--clug-border);
+  color: inherit;
+}
+
+html[data-theme="dark"] select option {
+  background: #242b32;
+  color: #e6eaef;
+}
+
+/* Tables, code, quotes, rules */
+table.default thead {
+  background: var(--clug-muted);
+}
+
+html[data-theme="dark"] table.default thead {
+  background: #3a424b;
+}
+
+html[data-theme="dark"] table.default tbody tr {
+  border-bottom-color: var(--clug-border);
+}
+
+code {
+  background: var(--clug-input-bg);
+  border-color: var(--clug-border-strong);
+  color: inherit;
+}
+
+blockquote {
+  border-left-color: var(--clug-border-strong);
+}
+
+html[data-theme="dark"] hr {
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+}
+
+/* Shared blog control bar (replaces inline #fafafa boxes) */
+.blog-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5em;
+  padding: 0.8em 1em;
+  border: 1px solid var(--clug-border-strong);
+  border-radius: 6px;
+  background: var(--clug-controls-bg);
+}
+
+.blog-controls label {
+  font-weight: bold;
+}
+
+.blog-controls select,
+.blog-controls input[type="search"] {
+  padding: 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--clug-border-strong);
+  background: var(--clug-input-bg);
+  color: inherit;
+}
+
+.blog-controls input[type="search"] {
+  flex: 1 1 200px;
+  max-width: 320px;
+}
+
+.blog-controls .hint {
+  font-size: 0.85em;
+  color: var(--clug-muted);
+}
+
+.blog-controls .stat-line {
+  width: 100%;
+  text-align: center;
+  font-size: 0.9em;
+  color: var(--clug-muted);
+  margin: 0;
+}
+
+/* Theme toggle in header nav */
+.theme-toggle {
+  background: none;
+  border: solid 1px transparent;
+  color: inherit;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1em;
+  padding: 0.6em 0.75em;
+  font-size: 1em;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  font-family: inherit;
+}
+
+.theme-toggle:hover {
+  background: rgba(188, 202, 206, 0.15);
+}
+
+html[data-theme="dark"] .theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--clug-link);
+  outline-offset: 2px;
+}
+
+.theme-toggle .fa {
+  margin-right: 0.4em;
+}
+
+/* Cloned mobile nav panels */
+#topPanel .theme-toggle,
+#sidePanel .theme-toggle {
+  display: block;
+  width: 100%;
+  text-align: left;
+  height: 3em;
+  line-height: 3em;
+  padding: 0 0.5em;
+}
+
+/* Footer fallback toggle (always reachable, incl. mobile panels that skip buttons) */
+#footer .theme-toggle {
+  border: 1px solid var(--clug-border-strong);
+  border-radius: 4px;
+  margin-top: 1em;
+  font-size: 0.8em;
+}
+
+/* Gentle transition on manual toggle only (JS adds .theme-anim briefly) */
+html.theme-anim body,
+html.theme-anim #header,
+html.theme-anim #footer,
+html.theme-anim .wrapper {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}

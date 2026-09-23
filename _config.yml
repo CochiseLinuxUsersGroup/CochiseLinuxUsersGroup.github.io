@@ -46,7 +46,7 @@ markdown: kramdown  # leave as kramdown (GitHub Pages default)
 highlighter: rouge  # code highlighting
 permalink: /blog/:year/:month/:day/:title/  # URL for blog posts — /blog/2026/01/15/title/
 timezone: America/Phoenix  # for post dates
-paginate: 5  # EDIT: number of posts per blog page (5) — change to 10 to show more per page
+paginate: 10  # EDIT: number of posts per blog page (10) — change to 5/20 to show fewer/more per page
 paginate_path: "/blog/page:num/"  # LEAVE — where page 2,3… live
 
 plugins:  # LEAVE — these add SEO/sitemap/RSS (need Gemfile too)

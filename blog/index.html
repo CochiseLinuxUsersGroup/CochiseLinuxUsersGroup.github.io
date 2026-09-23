@@ -13,7 +13,10 @@ FILE: blog/index.html — list at /blog/
 
 HOW IT WORKS:
 - Auto-lists _posts/*.md (meeting notes) — newest first
-- paginator.posts shows 5 per page (see _config.yml paginate: 5)
+- paginator.posts shows 10 per page (see _config.yml paginate: 10)
+- Filter box below filters the 10 posts on THIS page (title + summary text).
+  For full-text search across ALL notes (including full note bodies),
+  it links to /blog/all/?q=... automatically.
 - To change card: edit h2 link to post.url + post.excerpt
 - Pagination nav auto — LEAVE
 - To add post: create new file in _posts/YYYY-MM-DD-title.md with front-matter (see any _posts example)
@@ -25,26 +28,83 @@ HOW IT WORKS:
         <p>Meeting notes, Ubuntu Hours &amp; workshop summaries from Sierra Vista</p>
     </header>
     <section class="wrapper style1 container">
-        <!-- Per-page selector — for 5/10/20/100/All, All goes to /blog/all/ -->
-        <div style="display:flex; flex-wrap:wrap; gap:1em; justify-content:center; align-items:center; margin-bottom:1.5em; padding:0.8em; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
-          <label for="per-page-select-blog" style="font-weight:bold;">Posts per page:</label>
-          <select id="per-page-select-blog" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5;">
-            <option value="5" selected>5 — paginated</option>
-            <option value="10">10</option>
+        <!-- Controls: per-page + always-visible filter (filters this page; links to full search) -->
+        <div class="blog-controls">
+          <label for="per-page-select-blog">Posts per page:</label>
+          <select id="per-page-select-blog">
+            <option value="10" selected>10 — paginated</option>
             <option value="20">20</option>
             <option value="50">50</option>
             <option value="100">100</option>
             <option value="all">All ({{ site.posts.size }})</option>
           </select>
+          <label for="blog-filter">Filter:</label>
+          <input type="search" id="blog-filter" placeholder="Filter these 10 by title or summary..." autocomplete="off">
           <a href="/blog/all/" class="button small"><i class="fa fa-list"></i> View All</a>
-          <span style="font-size:0.85em; color:#666;">Tip: All view has search + Go to page</span>
+          <p class="stat-line"><span id="blog-filter-count"></span> <span class="hint">Tip: this filters the 10 below — <a id="blog-filter-all-link" href="/blog/all/">search all {{ site.posts.size }} notes (full text)</a></span></p>
         </div>
+        <p id="blog-filter-empty" style="text-align:center;" hidden><em>No matches on this page. <a id="blog-filter-empty-link" href="/blog/all/">Search all notes instead →</a></em></p>
         <script>
-        document.getElementById('per-page-select-blog').addEventListener('change', function() {
-          var v = this.value;
-          if (v === '5') return; // stay on paginated 5
-          window.location.href = '/blog/all/?per_page=' + v;
-        });
+        (function() {
+          var perPage = document.getElementById('per-page-select-blog');
+          perPage.addEventListener('change', function() {
+            var v = this.value;
+            if (v === '10') return; // stay on default paginated 10
+            window.location.href = '/blog/all/?per_page=' + v;
+          });
+
+          // Page-local filter (title + visible summary text).
+          var input = document.getElementById('blog-filter');
+          var list = document.querySelector('ul.posts');
+          if (!input || !list) return;
+          var items = Array.from(list.children);
+          var count = document.getElementById('blog-filter-count');
+          var empty = document.getElementById('blog-filter-empty');
+          var allLink = document.getElementById('blog-filter-all-link');
+          var emptyLink = document.getElementById('blog-filter-empty-link');
+
+          function norm(s) { return (s || '').toLowerCase(); }
+
+          function apply() {
+            var q = norm(input.value).trim();
+            var tokens = q.split(/\s+/).filter(Boolean);
+            var shown = 0;
+            items.forEach(function(li) {
+              var hay = norm(li.textContent);
+              var hit = tokens.length === 0 || tokens.every(function(t) { return hay.indexOf(t) !== -1; });
+              li.style.display = hit ? '' : 'none';
+              if (hit) shown++;
+            });
+            if (count) count.textContent = q ? ('Matching on this page: ' + shown + ' of ' + items.length) : '';
+            if (empty) empty.hidden = !(q && shown === 0);
+            // Deep link to full-text search over ALL notes, preserving the query.
+            var qUrl = '/blog/all/?per_page=10&q=' + encodeURIComponent(input.value.trim());
+            if (allLink) allLink.href = input.value.trim() ? qUrl : '/blog/all/';
+            if (emptyLink) emptyLink.href = qUrl;
+            try {
+              var url = new URL(window.location);
+              if (input.value.trim()) url.searchParams.set('q', input.value.trim());
+              else url.searchParams.delete('q');
+              history.replaceState(null, '', url);
+            } catch (e) { /* older browsers */ }
+          }
+
+          // Support ?q= on this page too (e.g. back-links from /blog/all/).
+          try {
+            var params = new URLSearchParams(window.location.search);
+            if (params.get('q')) input.value = params.get('q');
+          } catch (e) { /* ignore */ }
+
+          var t = null;
+          input.addEventListener('input', function() {
+            clearTimeout(t);
+            t = setTimeout(apply, 120);
+          });
+          input.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') { input.value = ''; apply(); }
+          });
+          apply();
+        })();
         </script>
 
         {% if paginator %}

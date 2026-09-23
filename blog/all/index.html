@@ -13,39 +13,45 @@ FILE: blog/all/index.html — /blog/all/ — shows ALL posts without pagination
 
 HOW IT WORKS:
 - Loops site.posts (all 300+), JS controls per-page display via #per-page-select
-- To change default per-page, edit <option selected> below
+- Default per-page is 10 (change <option selected> below)
+- Search box filters by TITLE + DATE + CATEGORIES + FULL NOTE BODY via
+  each <li>'s data-search attribute (built from post.content, stripped).
+  Multi-word queries match when EVERY word appears somewhere (AND).
 - Pagination is client-side: Go to page + per-page both work via JS, no rebuild needed
+- Shareable state: ?per_page=10&page=2&q=grub
 ============================================================================
 {% endcomment %}
 <article id="main">
     <header class="special style2 container">
         <h1>All Meeting Notes</h1>
         <p>Every CLUG meeting, Ubuntu Hour & workshop — newest first. Use filters below.</p>
-        <p style="font-size:0.9em;"><a href="/blog/">← Paginated view (5 per page)</a> • <a href="/feed.xml">RSS</a></p>
+        <p style="font-size:0.9em;"><a href="/blog/">← Paginated view (10 per page)</a> • <a href="/feed.xml">RSS</a></p>
     </header>
     <section class="wrapper style1 container">
-        <!-- Controls: per-page + go to page + search -->
-        <div style="display:flex; flex-wrap:wrap; gap:1em; justify-content:center; align-items:center; margin-bottom:1.5em; padding:1em; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
-            <label for="per-page-select" style="font-weight:bold;">Posts per page:</label>
-            <select id="per-page-select" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5;">
+        <!-- Controls: per-page + go to page + full-text search (always visible) -->
+        <div class="blog-controls">
+            <label for="per-page-select">Posts per page:</label>
+            <select id="per-page-select">
                 <option value="5">5</option>
-                <option value="10">10</option>
+                <option value="10" selected>10</option>
                 <option value="20">20</option>
                 <option value="50">50</option>
                 <option value="100">100</option>
-                <option value="all" selected>All (333)</option>
+                <option value="all">All ({{ site.posts.size }})</option>
             </select>
-            <label for="page-select-all" style="font-weight:bold; margin-left:1em;">Go to page:</label>
-            <select id="page-select-all" style="padding:0.4em; border-radius:4px; border:1px solid #e5e5e5; min-width:140px;">
+            <label for="page-select-all" style="margin-left:1em;">Go to page:</label>
+            <select id="page-select-all" style="min-width:140px;">
                 <!-- filled by JS -->
             </select>
-            <input type="search" id="blog-search" placeholder="Filter by title..." style="padding:0.4em; border:1px solid #e5e5e5; border-radius:4px; flex:1 1 200px; max-width:300px;">
+            <label for="blog-search" class="hint" style="margin-left:1em;">Filter:</label>
+            <input type="search" id="blog-search" placeholder="Filter by title, date, or note contents..." autocomplete="off">
+            <p class="stat-line"><span id="blog-stats"></span></p>
         </div>
-        <p id="blog-stats" style="text-align:center; font-size:0.9em; color:#666;"></p>
+        <p id="blog-no-results" style="text-align:center;" hidden><em>No matching notes. Try fewer words, or <a href="#" id="blog-clear">clear the filter →</a></em></p>
 
         <ul class="posts" id="all-posts-list">
           {% for post in site.posts %}
-            <li class="post-item wrapper style2" data-title="{{ post.title | downcase | escape }}" data-index="{{ forloop.index0 }}">
+            <li class="post-item wrapper style2" data-index="{{ forloop.index0 }}" data-search="{{ post.title | downcase | strip_newlines | truncate: 300 | escape }} {{ post.date | date: '%b %-d, %Y %Y-%m-%d' | downcase }} {{ post.categories | join: ' ' | downcase | escape }} {{ post.content | strip_html | strip_newlines | downcase | truncate: 10000 | escape }}">
               <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                 <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.categories %} • {{ post.categories | join: ", " }}{% endif %}</p>
                 {{ post.excerpt }}
@@ -74,11 +80,19 @@ HOW IT WORKS:
   const paginationNav = document.getElementById('all-pagination');
   const stats = document.getElementById('blog-stats');
   const showingCount = document.getElementById('showing-count');
+  const noResults = document.getElementById('blog-no-results');
+  const clearLink = document.getElementById('blog-clear');
+
+  // Fallback haystack: data-search (title+date+categories+full body);
+  // older cached pages may only have data-title — support both.
+  function haystack(li) {
+    return li.getAttribute('data-search') || li.getAttribute('data-title') || '';
+  }
 
   function getPerPage() {
     const v = perPageSelect.value;
     if (v === 'all') return posts.length;
-    return parseInt(v, 10) || 5;
+    return parseInt(v, 10) || 10;
   }
 
   let currentPage = 1;
@@ -86,10 +100,14 @@ HOW IT WORKS:
 
   function applySearch() {
     const q = (searchInput.value || '').toLowerCase().trim();
-    if (!q) {
+    const tokens = q.split(/\s+/).filter(Boolean);
+    if (tokens.length === 0) {
       filtered = posts.slice();
     } else {
-      filtered = posts.filter(li => li.getAttribute('data-title').indexOf(q) !== -1);
+      filtered = posts.filter(li => {
+        const h = haystack(li);
+        return tokens.every(t => h.indexOf(t) !== -1);
+      });
     }
     currentPage = 1;
     render();
@@ -175,7 +193,6 @@ HOW IT WORKS:
 
     // Hide all, show slice
     posts.forEach(li => li.style.display = 'none');
-    filtered.forEach(li => li.style.display = 'none');
 
     const start = (currentPage-1)*perPage;
     const end = Math.min(start+perPage, total);
@@ -185,33 +202,51 @@ HOW IT WORKS:
 
     renderPagination(perPage, totalPages);
 
-    const showing = Math.min(end-start, total);
+    const showing = total === 0 ? 0 : (end-start);
     // stats
-    if (perPageSelect.value === 'all') {
-      stats.textContent = total + ' posts (filtered ' + total + ' shown) — use Posts per page to paginate';
+    if (searchInput.value.trim()) {
+      stats.textContent = 'Found ' + total + ' matching note' + (total === 1 ? '' : 's') + ' — title, date & full text searched';
+    } else if (perPageSelect.value === 'all') {
+      stats.textContent = total + ' posts shown — use Posts per page to paginate';
     } else {
-      stats.textContent = 'Page ' + currentPage + ' of ' + totalPages + ' — showing ' + (start+1) + '–' + end + ' of ' + total + (searchInput.value ? ' (filtered)' : '');
+      stats.textContent = 'Page ' + currentPage + ' of ' + totalPages + ' — showing ' + (total === 0 ? 0 : (start+1)) + '–' + end + ' of ' + total;
     }
-    showingCount.textContent = showing + ' of ' + total;
+    if (showingCount) showingCount.textContent = showing + ' of ' + total;
+    if (noResults) noResults.hidden = total !== 0;
 
     // Update URL without reload for shareable state
-    const url = new URL(window.location);
-    url.searchParams.set('per_page', perPageSelect.value);
-    url.searchParams.set('page', currentPage);
-    if (searchInput.value) url.searchParams.set('q', searchInput.value); else url.searchParams.delete('q');
-    history.replaceState(null,'',url);
+    try {
+      const url = new URL(window.location);
+      url.searchParams.set('per_page', perPageSelect.value);
+      url.searchParams.set('page', currentPage);
+      if (searchInput.value.trim()) url.searchParams.set('q', searchInput.value.trim()); else url.searchParams.delete('q');
+      history.replaceState(null,'',url);
+    } catch (e) { /* older browsers */ }
   }
 
-  // Init from URL
-  const params = new URLSearchParams(window.location.search);
-  if (params.get('per_page')) perPageSelect.value = params.get('per_page');
-  if (params.get('page')) currentPage = parseInt(params.get('page'),10) || 1;
-  if (params.get('q')) searchInput.value = params.get('q');
+  // Init from URL (?per_page= from blog/index.html selector, ?q= shared searches)
+  try {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('per_page') && document.querySelector('#per-page-select option[value="' + params.get('per_page') + '"]')) {
+      perPageSelect.value = params.get('per_page');
+    }
+    if (params.get('page')) currentPage = parseInt(params.get('page'),10) || 1;
+    if (params.get('q')) searchInput.value = params.get('q');
+  } catch (e) { /* ignore */ }
 
   perPageSelect.addEventListener('change', () => { currentPage=1; render(); });
   pageSelect.addEventListener('change', (e) => { currentPage = parseInt(e.target.value,10); render(); window.scrollTo(0,0); });
-  searchInput.addEventListener('input', () => { applySearch(); });
-  // Also support ?per_page from blog/index.html selector
-  render();
+  let debounce = null;
+  searchInput.addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(applySearch, 120);
+  });
+  searchInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { searchInput.value = ''; applySearch(); }
+  });
+  if (clearLink) {
+    clearLink.addEventListener('click', (e) => { e.preventDefault(); searchInput.value = ''; applySearch(); searchInput.focus(); });
+  }
+  applySearch();
 })();
 </script>

@@ -38,8 +38,13 @@ HOW TO EDIT:
     <link rel="stylesheet" href="/css/pace.min.css">
     <link rel="stylesheet" href="/css/skel.css">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/theme.css">
     <link rel="stylesheet" href="/css/style-wide.css">
     <link rel="stylesheet" href="/css/style-noscript.css">
+    <!-- CLUG theme: set light/dark before paint (preference or OS), avoids flash -->
+    <script>
+    (function(){try{var s=localStorage.getItem('clug-theme')||'auto';var d=window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';var e=s==='auto'?d:s;document.documentElement.setAttribute('data-theme',e);document.documentElement.setAttribute('data-theme-mode',s);}catch(e){}})();
+    </script>
     <!-- Font Awesome - 4.7 (was 4.5.0) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
