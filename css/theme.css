@@ -38,6 +38,18 @@ html[data-theme="dark"] {
   --clug-card2-bg: #2b3138;
 }
 
+/* ---- header: slimmer vertical padding + vertically centered nav (tall logo) ---- */
+html[data-theme="light"] #header,
+html[data-theme="dark"] #header {
+  padding: 0.4em 1.5em !important;
+}
+
+html[data-theme="light"] #header nav,
+html[data-theme="dark"] #header nav {
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+}
+
 /* ---- page surfaces ---- */
 html[data-theme="dark"] body,
 html[data-theme="dark"] #skel-layers-wrapper,
