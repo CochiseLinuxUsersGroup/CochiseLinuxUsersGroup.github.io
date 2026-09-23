@@ -38,8 +38,7 @@ categories: meeting
  * TBA, “LaTex & Texstudio” by George Self
 
 **Discussion/Activities:**
- * There were no problems or questions raised during the meeting.
+ * There were no problems or questions raised during the meeting
  * There was a short discussion about a possible AI presentation to repair or assist in changing things on your computer.  No one wanted one.
  * Highest praise and recognition went to Devi who has redesigned parts of the website to make updating easier to the dismay of at least one of the members responsible for the chore.
  * Amy, a guest/member from Louisiana, has graciously volunteered to take care of our Facebook page in an attempt to increase the attendance at our meetings.
-
