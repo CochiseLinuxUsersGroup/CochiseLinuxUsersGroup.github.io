@@ -199,29 +199,48 @@ html[data-theme="dark"] .button:hover {
   background: rgba(255, 255, 255, 0.12) !important;
 }
 
-/* Accent (.special) buttons: Join, archive month pills, etc. — deep teal in dark mode */
+/* Accent (.special) buttons: Join, archive month pills, etc.
+ * Original light teal (#83d3c9) with white text is 1.7:1 contrast — unreadable.
+ * Unified #2b7f76 (4.8:1) in both modes so white text reads everywhere. */
+html[data-theme="light"] .button.special,
+html[data-theme="light"] input[type="button"].special,
+html[data-theme="light"] input[type="submit"].special,
+html[data-theme="light"] input[type="reset"].special,
 html[data-theme="dark"] .button.special,
 html[data-theme="dark"] input[type="button"].special,
 html[data-theme="dark"] input[type="submit"].special,
 html[data-theme="dark"] input[type="reset"].special {
-  background: #2f6f68 !important;
-  border-color: #2f6f68 !important;
+  background: #2b7f76 !important;
+  border-color: #2b7f76 !important;
   color: #ffffff !important;
 }
 
+html[data-theme="light"] .button.special:hover,
+html[data-theme="light"] input[type="button"].special:hover,
+html[data-theme="light"] input[type="submit"].special:hover,
+html[data-theme="light"] input[type="reset"].special:hover,
 html[data-theme="dark"] .button.special:hover,
 html[data-theme="dark"] input[type="button"].special:hover,
 html[data-theme="dark"] input[type="submit"].special:hover,
 html[data-theme="dark"] input[type="reset"].special:hover {
-  background: #3a857c !important;
-  border-color: #3a857c !important;
+  background: #256b63 !important;
+  border-color: #256b63 !important;
   color: #ffffff !important;
 }
 
+/* White-background special buttons on gray cards — dark-teal text (6.3:1 on white) */
+html[data-theme="light"] .wrapper.style2 .button.special,
+html[data-theme="dark"] .wrapper.style2 .button.special {
+  background: white !important;
+  border-color: white !important;
+  color: #1f6b62 !important;
+}
+
 /* Current-page pill in /blog/all/ pagination (inline teal in markup) */
+html[data-theme="light"] #all-pagination span[aria-current="page"],
 html[data-theme="dark"] #all-pagination span[aria-current="page"] {
-  background: #2f6f68 !important;
-  border-color: #2f6f68 !important;
+  background: #2b7f76 !important;
+  border-color: #2b7f76 !important;
   color: #ffffff !important;
 }
 
