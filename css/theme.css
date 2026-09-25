@@ -338,6 +338,40 @@ html[data-theme="dark"] .theme-toggle:hover {
   margin-right: 0.4em;
 }
 
+/* ---- responsive header logo: shrink before it can cover the nav ----
+ * Logo is 450px wide at full size; nav needs ~900px. Scale the logo down
+ * at narrower viewports so Home stays clickable. (Below ~980px the 7-item
+ * nav wraps to two lines — pre-existing Twenty behavior, unchanged.) */
+@media screen and (max-width: 1280px) {
+  #header #logo img {
+    height: 100px !important;
+    width: auto !important;
+  }
+  #header nav {
+    font-size: 0.75em !important;
+  }
+  #header nav ul li {
+    margin-left: 0.6em !important;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  #header #logo img {
+    height: 84px !important;
+    width: auto !important;
+  }
+  #header nav ul li {
+    margin-left: 0.4em !important;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  #header #logo img {
+    height: 60px !important;
+    width: auto !important;
+  }
+}
+
 /* ---- floating theme button (bottom-right, icon-only) ---- */
 .theme-fab {
   position: fixed !important;
