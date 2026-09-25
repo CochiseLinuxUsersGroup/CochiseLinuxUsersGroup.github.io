@@ -342,6 +342,16 @@ html[data-theme="dark"] .theme-toggle:hover {
  * Logo is 450px wide at full size; nav needs ~900px. Scale the logo down
  * at narrower viewports so Home stays clickable. (Below ~980px the 7-item
  * nav wraps to two lines — pre-existing Twenty behavior, unchanged.) */
+@media screen and (max-width: 1600px) {
+  #header #logo img {
+    height: 110px !important;
+    width: auto !important;
+  }
+  #header nav ul li {
+    margin-left: 0.6em !important;
+  }
+}
+
 @media screen and (max-width: 1280px) {
   #header #logo img {
     height: 100px !important;
