@@ -13,6 +13,8 @@ FILE: calendar/index.html — /calendar/
 
 - Intro paragraph — EDIT text
 - Visible header below uses short "CLUG Calendar" (SEO title stays in <head>)
+- KEEP style="padding-top: 7em;" on the header: restores Twenty default so the
+  icon + H1 clear the fixed nav (global rule squishes #main headers to 2.5em)
 - iframe: Google Calendar embed — src="https://calendar.google.com/calendar/embed?src=fp9...@group.calendar.google.com"
   * To change calendar: replace src URL (get from Google Calendar Settings → Embed)
   * Keep width="800" height="600" frameborder="0" loading="lazy" title="..."
@@ -20,7 +22,7 @@ FILE: calendar/index.html — /calendar/
 ============================================================================
 {% endcomment %}
 <article id="main">
-  <header class="special container">
+  <header class="special container" style="padding-top: 7em;">
     <span class="icon fa-calendar"></span>
     <h1>CLUG Calendar</h1>
     <p>Meetings, Ubuntu Hours &amp; workshops in Sierra Vista</p>
