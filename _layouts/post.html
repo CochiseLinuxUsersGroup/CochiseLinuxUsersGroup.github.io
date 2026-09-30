@@ -9,12 +9,14 @@ FILE: _layouts/post.html — wraps every file in _posts/
 
 HOW IT WORKS:
 - Shows title, date, breadcrumbs, then page content (your markdown)
+- Breadcrumbs show unless the page sets `breadcrumb: false` in front-matter
 - content with replace filter auto-adds lazy loading — LEAVE
 - Prev/Next links auto at bottom — LEAVE
 - To change post style, edit this; to change one post, edit _posts/2026-...md
 ============================================================================
 {% endcomment %}
 <article id="main">
+    {% if page.breadcrumb != false %}
     <nav aria-label="Breadcrumb" class="container" style="padding: 1em 0 0 0;">
       <ol style="list-style:none; display:flex; gap:0.5em; margin:0; padding:0; font-size:0.9em;">
         <li><a href="/">Home</a> /</li>
@@ -22,6 +24,7 @@ HOW IT WORKS:
         <li aria-current="page">{{ page.title }}</li>
       </ol>
     </nav>
+    {% endif %}
     <header class="special container">
         <h1 class="post-title"><strong>{{ page.title }}</strong></h1>
         <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}"><strong>{{ page.date | date: "%b %-d, %Y" }}</strong></time>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
