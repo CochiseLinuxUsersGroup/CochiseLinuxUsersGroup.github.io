@@ -166,7 +166,29 @@ The events shown on the homepage come from a simple list — you never edit the 
 - **Jekyll** — the program that turns these files into the website. You never deal with it directly.
 - **Include** — a placeholder line that pulls in another file's contents (the other file's name appears in the line). Always edit the named file, not the placeholder.
 - **Front matter** — the settings block at the top of a file, between two lines that each say `---`. It holds things like the page title. You usually don't need to touch it.
-- **Markdown** — a simple way to format text: a blank line starts a new paragraph, `**words**` makes **bold**, `#` at the start of a line makes a big heading.
+- **Markdown** — a simple way to format text: a blank line starts a new paragraph, `**words**` makes **bold**, `#` at the start of a line makes a big heading. See [Markdown cheat sheet](#markdown-cheat-sheet) below.
+
+---
+
+## Markdown cheat sheet
+
+Many files on this site (blog posts, the detail pages) use Markdown. Here's everything you're likely to need:
+
+| You want… | Type this |
+|---|---|
+| Big heading | `# Meeting Notes` |
+| Smaller heading | `### Location` |
+| Bold text | `**important**` |
+| Italic text | `*note*` |
+| Clickable link | `[CLUG site](https://cochiselinuxusergroup.org)` |
+| Bullet list | `- First item` (one item per line) |
+| Numbered list | `1. First step` (one per line) |
+
+**Line breaks — the important one:** in the detail pages (charger, monitor cables, USB cables), each item ends with **two spaces** before you press Enter. Those invisible spaces are what puts each item on its own line. If items start running together into one long line, check that the two spaces are still there.
+
+**Leave alone:** anything that looks like `<div ...>`, `<span ...>`, or `<a ...>` is HTML, not Markdown — don't edit inside those tags unless you know what you're doing.
+
+For everything else, GitHub's own guide covers it well: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
 
