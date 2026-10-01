@@ -78,6 +78,35 @@ Example: the 2GB laptop RAM sticks went from ×25 to ×24.
 5. In the same file, find the navigation area near the top (marked `ANCHOR NAV`) and add a jump link for your new section.
 6. Commit.
 
+### Update the install count on the homepage
+
+The homepage shows stats like "425 installs completed." To update the number:
+
+1. Open **index.html** (in the main folder list — not the one inside the inventory folder) and click the pencil icon.
+2. Press **Ctrl+F** and type `installs completed`.
+3. You'll find a line like `<li><strong>425</strong> installs completed</li>` — change **only the number** between `<strong>` and `</strong>`.
+4. The "computers donated" number appears **twice** — once in the paragraph above the stats and once in the stats list itself. Update both so they match.
+5. Commit your change.
+
+### Keep the "Upcoming Events" list up to date
+
+The events shown on the homepage come from a simple list — you never edit the homepage itself for this.
+
+1. Open the **_data** folder, then **events.yml**, and click the pencil icon.
+2. Each event is a short block like this:
+   ```
+   - date: 2026-10-08
+     time: "18:00:00-07:00"
+     time_display: "6pm"
+     display: "Oct 08"
+     title: "Ubuntu Hour"
+     location: "Carl's Jr."
+   ```
+3. **Remove events that already happened:** delete the whole block (all 6 lines) for any date in the past.
+4. **Add the next upcoming event:** copy a whole block, paste it at the bottom, and change the `date` (year-month-day), `display` (like "Dec 10"), `time_display` ("6pm"), and `title`. Keep the blocks in date order, earliest at the top.
+5. Leave the `time` line alone unless the meeting time itself changes. Keep the same two-space indent as the other lines.
+6. Commit. The homepage updates itself — no HTML needed.
+
 ### Post meeting notes or a blog post
 
 1. Open the **_posts** folder and click **Add file → Create new file**.
@@ -121,6 +150,8 @@ Example: the 2GB laptop RAM sticks went from ×25 to ×24.
 | Inventory: full monitor cable list | `_includes/inventory/monitor-detail.html` |
 | Inventory: full USB cable list | `_includes/inventory/usbcables-detail.html` |
 | Inventory page title, jump links, "last updated" date | `inventory/index.html` |
+| Homepage: install count & donated-computers stats | `index.html` (About Us section) |
+| Homepage: Upcoming Events list (keep dates in the future) | `_data/events.yml` |
 | Top navigation menu | `_includes/header.html` |
 | Bottom of every page (footer) | `_includes/footer.html` |
 | Blog and meeting posts | `_posts/` — one file per post |
