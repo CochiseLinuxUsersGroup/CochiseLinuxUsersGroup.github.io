@@ -20,7 +20,3 @@ Content updates (inventory counts, event dates, meeting notes, and the like) don
 
 - Mailing list: cochiselinux@freelists.org
 - GitHub: https://github.com/CochiseLinuxUsersGroup
-
-## License
-
-See [LICENSE.txt](LICENSE.txt).
