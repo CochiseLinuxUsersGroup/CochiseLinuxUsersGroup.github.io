@@ -104,8 +104,9 @@ The events shown on the homepage come from a simple list — you never edit the 
    ```
 3. **Remove events that already happened:** delete the whole block (all 6 lines) for any date in the past.
 4. **Add the next upcoming event:** copy a whole block, paste it at the bottom, and change the `date` (year-month-day), `display` (like "Dec 10"), `time_display` ("6pm"), and `title`. Keep the blocks in date order, earliest at the top.
-5. Leave the `time` line alone unless the meeting time itself changes. Keep the same two-space indent as the other lines.
-6. Commit. The homepage updates itself — no HTML needed.
+5. **Spacing matters — getting this wrong once broke the website.** Each new event's first line must start with `- date:` at the very beginning of the line, with no spaces in front of the dash. The five lines under it each start with exactly two spaces. Line up your dashes with the other events' dashes.
+6. **Make the two times agree:** `time` is the technical 24-hour time and `time_display` is what visitors see — `17:00` means 5pm, `18:00` means 6pm. If they disagree, the page shows the wrong time.
+7. Commit. The homepage updates itself — no HTML needed.
 
 ### Post meeting notes or a blog post
 
