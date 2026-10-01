@@ -69,12 +69,7 @@ Example: the 2GB laptop RAM sticks went from ×25 to ×24.
    ```html
    <h2 id="audio">Audio Gear</h2>
    ```
-4. Open **inventory/index.html**, click the pencil, and add this line with the other similar lines:
-   {% raw %}
-   ```
-   {% include inventory/audio.html %}
-   ```
-   {% endraw %}
+4. Open **inventory/index.html**, click the pencil, and find the five lines that pull in the sections (each one names a section file). Copy one of those lines, paste it below the others, and change the filename to your new file (e.g. `audio.html`).
 5. In the same file, find the navigation area near the top (marked `ANCHOR NAV`) and add a jump link for your new section.
 6. Commit.
 
@@ -159,7 +154,7 @@ The events shown on the homepage come from a simple list — you never edit the 
 | Site title, description, social links | `_config.yml` |
 | Homepage | `index.html` |
 
-> **About the inventory folder:** the files `inventory/index.html`, `inventory/charger.md`, `inventory/monitor.md`, and `inventory/usbcables.md` are mostly skeletons — the real content lives in `_includes/inventory/`. If you open a file and it looks almost empty except for a strange line like {% raw %}`{% include inventory/storage.html %}`{% endraw %}, that line is a placeholder meaning "put the contents of that file here." Go edit the named file instead.
+> **About the inventory folder:** the files `inventory/index.html`, `inventory/charger.md`, `inventory/monitor.md`, and `inventory/usbcables.md` are mostly skeletons — the real content lives in `_includes/inventory/`. If you open a file and it looks almost empty except for one odd-looking line, that's a *placeholder*: it pulls in the contents of another file (you'll see that file's name in the line). Go edit the named file instead.
 
 ---
 
@@ -169,7 +164,7 @@ The events shown on the homepage come from a simple list — you never edit the 
 - **Commit** — saving your change. GitHub records every commit with your name, and any commit can be undone.
 - **Push** — sending your saved change to GitHub. When you click "Commit changes" on the website, this happens automatically — you don't do anything extra.
 - **Jekyll** — the program that turns these files into the website. You never deal with it directly.
-- **Include** — a placeholder line like {% raw %}`{% include inventory/storage.html %}`{% endraw %} meaning "insert that file's contents here." Always edit the named file, not the placeholder.
+- **Include** — a placeholder line that pulls in another file's contents (the other file's name appears in the line). Always edit the named file, not the placeholder.
 - **Front matter** — the settings block at the top of a file, between two lines that each say `---`. It holds things like the page title. You usually don't need to touch it.
 - **Markdown** — a simple way to format text: a blank line starts a new paragraph, `**words**` makes **bold**, `#` at the start of a line makes a big heading.
 
