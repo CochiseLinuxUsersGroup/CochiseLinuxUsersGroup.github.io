@@ -61,6 +61,16 @@ Example: the 2GB laptop RAM sticks went from ×25 to ×24.
 3. Change the number in `(X each)`. To add an item, copy a line and change it. To remove one, delete the line.
 4. Commit your change.
 
+### Update the inventory "last updated" date
+
+After changing any inventory item, update the date shown at the bottom of the page:
+
+1. Open **_includes/inventory/last-updated.html** and click the pencil icon.
+2. Change only the date after **Last Updated**. Keep the same format, for example `20 October 2026`.
+3. Commit your change.
+
+This file lives with the other inventory files, so you do not need to open the main inventory page just to change the date.
+
 ### Add a new category to the inventory page
 
 1. In the **_includes/inventory** folder, click **Add file → Create new file** (top-right).
@@ -142,10 +152,11 @@ The events shown on the homepage come from a simple list — you never edit the 
 | Inventory: keyboards, mice | `_includes/inventory/peripherals.html` |
 | Inventory: monitor/power/USB/ethernet cables | `_includes/inventory/cables.html` |
 | Inventory: routers, switches | `_includes/inventory/networking.html` |
+| Inventory: "last updated" date | `_includes/inventory/last-updated.html` |
 | Inventory: full charger list | `_includes/inventory/charger-detail.html` |
 | Inventory: full monitor cable list | `_includes/inventory/monitor-detail.html` |
 | Inventory: full USB cable list | `_includes/inventory/usbcables-detail.html` |
-| Inventory page title, jump links, "last updated" date | `inventory/index.html` |
+| Inventory page title, jump links | `inventory/index.html` |
 | Homepage: install count & donated-computers stats | `index.html` (About Us section) |
 | Homepage: Upcoming Events list (keep dates in the future) | `_data/events.yml` |
 | Top navigation menu | `_includes/header.html` |

@@ -16,6 +16,7 @@ ONE FILE PER SECTION -- this is the easy way to update:
   _includes/inventory/peripherals.html  - Peripherals (keyboards, mice)
   _includes/inventory/cables.html       - Cables (monitor, power, USB, ethernet)
   _includes/inventory/networking.html   - Networking (routers, switches)
+  _includes/inventory/last-updated.html - Last Updated date at bottom of page
 
 inventory/index.html is just the skeleton: the title, the jump-link nav at
 the top, and one {% include %} line per section. Edit the section files
@@ -41,7 +42,7 @@ HOW TO ADD A NEW CATEGORY:
 
 STYLE: Pills = responsive badges (no tables = mobile-friendly). Don't change style="..." unless you know CSS.
 CHILD PAGES: Detailed lists live in _includes/inventory/charger-detail.html, monitor-detail.html, usbcables-detail.html -- each has its own EDIT GUIDE at top. (inventory/*.md are just routing stubs.)
-LAST UPDATED: Change date at bottom of inventory/index.html when you edit anything.
+LAST UPDATED: Change the date in _includes/inventory/last-updated.html whenever you edit anything.
 QUESTIONS? Ask on mailinglist or GitHub -- all comments like this are invisible on the live site.
 ============================================================================
 {% endcomment %}
@@ -76,6 +77,5 @@ QUESTIONS? Ask on mailinglist or GitHub -- all comments like this are invisible 
 {% include inventory/networking.html %}
 
 </section>
-<!-- LAST UPDATED — EDIT date when you change anything above -->
-<p style="text-align:right;"><small>Last Updated 20 October 2026 <!-- EDIT date: DD Month YYYY --></small></p>
+{% include inventory/last-updated.html %}
 </article>
