@@ -83,15 +83,14 @@ This file lives with the other inventory files, so you do not need to open the m
 5. In the same file, find the navigation area near the top (marked `ANCHOR NAV`) and add a jump link for your new section.
 6. Commit.
 
-### Update the install count on the homepage
+### Update the donation and install counts on the homepage
 
-The homepage shows stats like "425 installs completed." To update the number:
+The About Us section has one small table with all four numbers — computers donated and installs completed, each shown for **This year** and **All time**. All the counts live in that table and nowhere else. To update them:
 
 1. Open **index.html** (in the main folder list — not the one inside the inventory folder) and click the pencil icon.
-2. Press **Ctrl+F** and type `installs completed`.
-3. You'll find a line like `<li><strong>425</strong> installs completed</li>` — change **only the number** between `<strong>` and `</strong>`.
-4. The "computers donated" number appears **twice** — once in the paragraph above the stats and once in the stats list itself. Update both so they match.
-5. Commit your change.
+2. Press **Ctrl+F** and type `Computers donated`.
+3. You'll find the stats table. Change **only the numbers** in the cells — the donated row and the installs row each have a This year number and an All time number.
+4. Commit your change.
 
 ### Keep the "Upcoming Events" list up to date
 
