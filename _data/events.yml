@@ -14,12 +14,6 @@
 # Dates MUST be ISO + Phoenix is always -07:00 (no DST)
 # =============================================================================
 
-- date: 2026-10-27
-  time: "17:00:00-07:00"
-  time_display: "5pm"
-  display: "Oct 27"
-  title: "CLUG Supper Meeting"
-  location: "La Casita, 465 E Fry Blvd"
 - date: 2026-11-12
   time: "18:00:00-07:00"
   time_display: "6pm"
