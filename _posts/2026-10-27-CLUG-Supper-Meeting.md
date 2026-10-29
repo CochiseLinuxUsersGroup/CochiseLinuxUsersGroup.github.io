@@ -29,6 +29,10 @@ categories: meeting
 
 **Announcements:**
  * To date we have donated 263 computers to individuals or groups.  This year we have donated 42.
+
+ * This one went to Velo Vets
+
+![Computer Donated to Velo Vets - CLUG Supper Meeting 2026-10-27 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_velo_vets.jpg)
  * This one went to Jonah H.
 
 
