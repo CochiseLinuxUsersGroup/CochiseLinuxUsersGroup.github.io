@@ -1,0 +1,58 @@
+---
+layout: default
+title: "[News] Linux kernel TCP flaw, 9.8 severity - Ubuntu and RHEL fixes still pending | CLUG Mailing List Archive"
+description: "[News] Linux kernel TCP flaw, 9.8 severity - Ubuntu and RHEL fixes still pending — 1 message &middot; started by Devi Garcia on Oct 30, 2026 from the cochiselinux mailing list archive."
+---
+
+<header class="special container">
+    <span class="icon fa-envelope-o"></span>
+    <h1>[News] Linux kernel TCP flaw, 9.8 severity - Ubuntu and RHEL fixes still pending</h1>
+    <p>1 message &middot; started by Devi Garcia on Oct 30, 2026</p>
+</header>
+
+<section class="wrapper style1 container">
+    <div class="row">
+        <div class="12u">
+            {% raw %}
+
+<div class="mail-card" style="margin-left:0em;">
+    <h3><span class="icon fa-envelope-o"></span> [News] Linux kernel TCP flaw, 9.8 severity - Ubuntu and RHEL fixes still pending</h3>
+    <p style="font-size:0.85em;"><em>From Devi Garcia &middot; Oct 30, 2026</em></p>
+    <div class="mail-body">
+
+
+
+
+
+
+
+
+
+
+
+  A serious Linux kernel flaw worth knowing about, especially if you run<br>Ubuntu or RHEL:<br><br>- CVE-2026-98432 is a race condition (use-after-free) in the kernel&#x27;s<br>IPv4 TCP connection setup. A remote attacker with no credentials can<br>trigger it; the kernel&#x27;s own CVE team rates it 9.8 out of 10.<br>- Anthropic says its Claude AI model wrote an exploit for it that gets<br>root on servers with a multipath TCP (MPTCP) listener - about 48<br>minutes to leak a kernel address, 5 more to root. The exploit code was<br>not published, and as of Oct 29 there are no reports of attacks in the<br>wild.<br>- The bug dates back to Linux 4.4. It was fixed upstream on Oct 5 and<br>backported to all maintained stable kernels (5.10.272, 5.15.223,<br>6.1.190, 6.6.159, 6.12.113, 6.18.56, 7.2.10, 7.3). IPv6 is not<br>affected.<br>- Fix status (as of Oct 30): Debian, Oracle Linux, and some SUSE and<br>Amazon Linux releases have fixed kernels out. Ubuntu (22.04, 24.04,<br>26.04, 26.10) and RHEL 8/9/10 do NOT yet, with no release date given.<br>Vendors rate it lower than 9.8 (5.9 to 8.1), disagreeing on how hard<br>the race is to win.<br>- What to do: install the fixed kernel where your distro has one.<br>Ubuntu and RHEL users should watch for the update and apply it<br>promptly when it lands. Disabling MPTCP (e.g. GODEBUG=multipathtcp=0<br>for Go programs) is only a fragile partial mitigation - the real fix<br>is the patched kernel.<br><br>Full article: https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html<br><br>
+--------------------------------------------------------------------
+Cochise Linux Users Group Mailing List - cochiselinux@wxyz
+For more information:  https://cochiselinuxusergroup.org/
+Discord: https://discord.gg/ym2hCH5FSk
+Mailing List Archive: https://www.freelists.org/archive/cochiselinux
+To unsubscribe: //www.freelists.org/list/cochiselinux
+
+
+
+
+    </div>
+    <p style="font-size:0.8em; margin-bottom:0.25em;">
+        <a href="https://www.freelists.org/post/cochiselinux/News-Linux-kernel-TCP-flaw-9-8-severity-Ubuntu-and-RHEL-fixes-still-pending" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> View original on FreeLists</a>
+    </p>
+</div>
+
+            {% endraw %}
+        </div>
+    </div>
+    <hr />
+<p style="text-align:center; font-size:0.9em;"><a href="../News-Linux-Mint-27-Adrien-announced/"><i class="fa fa-chevron-left"></i> Previous thread</a> &middot; <a href="../News-Ubuntu-roundup-26-10-Secure-Boot-AI-launcher-Tenacious-TRex/">Next thread <i class="fa fa-chevron-right"></i></a></p>
+    <p style="text-align:center; font-size:0.9em;">
+        <a href="../"><i class="fa fa-archive"></i> Back to October 2026</a>
+    </p>
+</section>
