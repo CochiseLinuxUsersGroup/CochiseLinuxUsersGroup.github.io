@@ -14,12 +14,7 @@
 # Dates MUST be ISO + Phoenix is always -07:00 (no DST)
 # =============================================================================
 
-- date: 2026-11-12
-  time: "18:00:00-07:00"
-  time_display: "6pm"
-  display: "Nov 12"
-  title: "Ubuntu Hour"
-  location: "Carl's Jr."
+
 - date: 2026-11-24
   time: "17:00:00-07:00"
   time_display: "5pm"
