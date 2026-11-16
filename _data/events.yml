@@ -80,4 +80,16 @@
   time_display: "5pm"
   display: "Apr 27"
   title: "CLUG Supper Meeting"
-  location: "Denny's"  
+  location: "Denny's"
+  - date: 2027-05-13
+  time: "18:00:00-07:00"
+  time_display: "6pm"
+  display: "May 13"
+  title: "Ubuntu Hour"
+  location: "Carl's Jr., 2080 E Fry Blvd, Sierra Vista"
+- date: 2027-05-25
+  time: "17:00:00-07:00"
+  time_display: "5pm"
+  display: "May 25"
+  title: "CLUG Meeting"
+  location: "Warrior Healing Center"
