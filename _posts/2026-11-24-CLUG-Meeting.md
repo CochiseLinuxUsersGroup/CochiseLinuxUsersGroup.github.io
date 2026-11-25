@@ -34,9 +34,6 @@ categories: meeting
 
  * This one went to Dale S.
 
-![Computer Donated to Jalan White - CLUG Meeting 2026-11-24 - CLUG community donation](https://raw.githubusercontent.com/CochiseLinuxUsersGroup/CochiseLinuxUsersGroup.github.io/master/images2/rsz_computer_donated_to_jalan_white.jpg)
-
- * This one went to Jalan W.
  * To date we have conducted 434 installs on laptop and desktop computers.  This year we have conducted 93.
  * We have 41 people on our mailing list, 60 people on our Facebook page.
  * We have 6 desktop computers ready for donation.
